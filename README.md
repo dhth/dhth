@@ -22,4 +22,4 @@ These days I'm hacking on:
 - [ecsv](https://github.com/dhth/ecsv) helps you quickly check the versions of your systems running in ECS tasks across various environments
 - [schemas](https://github.com/dhth/schemas) lets you inspect postgres schemas in the terminal
 - [act3](https://github.com/dhth/act3) lets you glance at the last 3 runs of your Github Actions
-
+- [prs](https://github.com/dhth/prs) lets you stay updated on PRs without leaving the terminal
