@@ -11,15 +11,16 @@ Hi there 👋
 
 These days I'm hacking on:
 
+- [prs](https://github.com/dhth/prs) lets you stay updated on PRs without leaving the terminal
+- [punchout](https://github.com/dhth/punchout) takes the suck out of logging time on JIRA
+- [layitout](https://github.com/dhth/layitout) gives you a high level overview of various constructs in your code files
+- [act3](https://github.com/dhth/act3) lets you glance at the last 3 runs of your Github Actions
+- [schemas](https://github.com/dhth/schemas) lets you inspect postgres schemas in the terminal
+- [ecsv](https://github.com/dhth/ecsv) helps you quickly check the versions of your systems running in ECS tasks across various environments
+- [kplay](https://github.com/dhth/kplay) lets you inspect messages in a Kafka topic in a simple and
+    deliberate manner
+- [cueitup](https://github.com/dhth/cueitup) lets you inspect messages in an AWS SQS queue in a simple
+    and deliberate manner
 - [outtasync](https://github.com/dhth/outtasync) lets you quickly identify the
   CloudFormation stacks that have gone out of sync with the state represented by
   their counterpart stack files.
-- [cueitup](https://github.com/dhth/cueitup) lets you inspect messages in an AWS SQS queue in a simple
-    and deliberate manner
-- [kplay](https://github.com/dhth/kplay) lets you inspect messages in a Kafka topic in a simple and
-    deliberate manner
-- [punchout](https://github.com/dhth/punchout) takes the suck out of logging time on JIRA
-- [ecsv](https://github.com/dhth/ecsv) helps you quickly check the versions of your systems running in ECS tasks across various environments
-- [schemas](https://github.com/dhth/schemas) lets you inspect postgres schemas in the terminal
-- [act3](https://github.com/dhth/act3) lets you glance at the last 3 runs of your Github Actions
-- [prs](https://github.com/dhth/prs) lets you stay updated on PRs without leaving the terminal
