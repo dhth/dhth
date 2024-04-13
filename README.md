@@ -15,7 +15,7 @@ These days I'm hacking on:
 | :---------------------------------------- | :------------------------------------------- |
 | [prs](https://github.com/dhth/prs)| lets you stay updated on PRs without leaving the terminal |
 | [punchout](https://github.com/dhth/punchout) | takes the suck out of logging time on JIRA |
-| [layitout](https://github.com/dhth/layitout) | gives you a high level overview of various constructs in your code files |
+| [dstll](https://github.com/dhth/dstll) | gives you a high level overview of various constructs in your code files |
 | [act3](https://github.com/dhth/act3) | lets you glance at the last 3 runs of your Github Actions |
 | [schemas](https://github.com/dhth/schemas) | lets you inspect postgres schemas in the terminal |
 | [ecsv](https://github.com/dhth/ecsv) | helps you quickly check the versions of your systems running in ECS tasks across various environments |
