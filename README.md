@@ -14,6 +14,7 @@ These days I'm hacking on:
 | Repo  | Description |
 | :---------------------------------------- | :------------------------------------------- |
 | [prs](https://github.com/dhth/prs)| lets you stay updated on PRs without leaving the terminal |
+| [commits](https://github.com/dhth/commits) | lets you glance at git commits through a simple TUI |
 | [punchout](https://github.com/dhth/punchout) | takes the suck out of logging time on JIRA |
 | [dstll](https://github.com/dhth/dstll) | gives you a high level overview of various constructs in your code files |
 | [act3](https://github.com/dhth/act3) | lets you glance at the last 3 runs of your Github Actions |
