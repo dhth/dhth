@@ -17,6 +17,7 @@ These days I'm hacking on:
 | [commits](https://github.com/dhth/commits) | lets you glance at git commits through a simple TUI |
 | [punchout](https://github.com/dhth/punchout) | takes the suck out of logging time on JIRA |
 | [dstll](https://github.com/dhth/dstll) | gives you a high level overview of various constructs in your code files |
+| [mult](https://github.com/dhth/mult) | lets you run a command multiple times and glance at the outputs |
 | [act3](https://github.com/dhth/act3) | lets you glance at the last 3 runs of your Github Actions |
 | [schemas](https://github.com/dhth/schemas) | lets you inspect postgres schemas in the terminal |
 | [ecsv](https://github.com/dhth/ecsv) | helps you quickly check the versions of your systems running in ECS tasks across various environments |
