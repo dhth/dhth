@@ -21,7 +21,7 @@ These days I'm hacking on:
 | [hours](https://github.com/dhth/hours)         | is a no-frills time tracking toolkit for the command line                                       |
 | [kplay](https://github.com/dhth/kplay)         | lets you inspect messages in a Kafka topic in a simple and deliberate manner                    |
 | [mult](https://github.com/dhth/mult)           | lets you run a command multiple times and glance at the outputs                                 |
-| [omm](https://github.com/dhth/mult)            | is a keyboard-driven task manager for the command line                                          |
+| [omm](https://github.com/dhth/omm)             | is a keyboard-driven task manager for the command line                                          |
 | [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have gone out of sync with their counterpart files |
 | [prs](https://github.com/dhth/prs)             | lets you stay updated on PRs without leaving the terminal                                       |
 | [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                      |
