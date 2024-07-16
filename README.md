@@ -26,3 +26,8 @@ These days I'm hacking on:
 | [prs](https://github.com/dhth/prs)             | lets you stay updated on PRs without leaving the terminal                                       |
 | [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                      |
 | [schemas](https://github.com/dhth/schemas)     | lets you inspect postgres schemas in the terminal                                               |
+
+:zap: Recent Activity
+---
+
+<!--START_SECTION:activity-->
