@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/charm-community/charm-in-the-wild/pull/13) in [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild)
-2. 🗣 Commented on [#3](https://github.com/dhth/omm/issues/3#issuecomment-2238786671) in [dhth/omm](https://github.com/dhth/omm)
-3. 🚀 Published release [v0.3.0](https://github.com/dhth/omm/releases/tag/v0.3.0) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#8](https://github.com/dhth/omm/pull/8) in [dhth/omm](https://github.com/dhth/omm)
-5. 🚀 Published release [v0.2.3](https://github.com/dhth/gobrewtest/releases/tag/v0.2.3) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
+1. 🚀 Published release [v0.3.1](https://github.com/dhth/omm/releases/tag/v0.3.1) in [dhth/omm](https://github.com/dhth/omm)
+2. 🔒 Closed issue [#3](https://github.com/dhth/omm/issues/3) in [dhth/omm](https://github.com/dhth/omm)
+3. 🎉 Merged PR [#3](https://github.com/dhth/hours/pull/3) in [dhth/hours](https://github.com/dhth/hours)
+4. 🗣 Commented on [#8](https://github.com/dhth/omm/pull/8#issuecomment-2239185967) in [dhth/omm](https://github.com/dhth/omm)
+5. 💪 Opened PR [#13](https://github.com/charm-community/charm-in-the-wild/pull/13) in [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild)
 <!--END_SECTION:activity-->
