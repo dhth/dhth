@@ -1,7 +1,7 @@
 name: Update recent activity
 on:
   schedule:
-    - cron: "0 4,18 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -17,6 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 8
+          MAX_LINES: 5
           COMMIT_NAME: github-actions[bot]
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
