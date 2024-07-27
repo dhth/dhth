@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/dhth/omm/issues/14) in [dhth/omm](https://github.com/dhth/omm)
-2. 🗣 Commented on [#14](https://github.com/dhth/omm/issues/14#issuecomment-2253135797) in [dhth/omm](https://github.com/dhth/omm)
-3. 🚀 Published release [v0.4.2](https://github.com/dhth/omm/releases/tag/v0.4.2) in [dhth/omm](https://github.com/dhth/omm)
-4. 🗣 Commented on [#15](https://github.com/dhth/omm/issues/15#issuecomment-2253130447) in [dhth/omm](https://github.com/dhth/omm)
-5. 💪 Opened PR [#6](https://github.com/dhth/prs/pull/6) in [dhth/prs](https://github.com/dhth/prs)
+1. 🗣 Commented on [#15](https://github.com/dhth/omm/issues/15#issuecomment-2253458758) in [dhth/omm](https://github.com/dhth/omm)
+2. 🔒 Closed issue [#14](https://github.com/dhth/omm/issues/14) in [dhth/omm](https://github.com/dhth/omm)
+3. 🗣 Commented on [#14](https://github.com/dhth/omm/issues/14#issuecomment-2253135797) in [dhth/omm](https://github.com/dhth/omm)
+4. 🚀 Published release [v0.4.2](https://github.com/dhth/omm/releases/tag/v0.4.2) in [dhth/omm](https://github.com/dhth/omm)
+5. 🗣 Commented on [#15](https://github.com/dhth/omm/issues/15#issuecomment-2253130447) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
