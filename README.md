@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/dhth/omm/issues/15) in [dhth/omm](https://github.com/dhth/omm)
-2. 🚀 Published release [v0.4.3](https://github.com/dhth/omm/releases/tag/v0.4.3) in [dhth/omm](https://github.com/dhth/omm)
-3. ❌ Closed PR [#1](https://github.com/dhth/gocco/pull/1) in [dhth/gocco](https://github.com/dhth/gocco)
-4. ❌ Closed PR [#1](https://github.com/nikhilm/gocco/pull/1) in [nikhilm/gocco](https://github.com/nikhilm/gocco)
-5. 🎉 Merged PR [#6](https://github.com/dhth/prs/pull/6) in [dhth/prs](https://github.com/dhth/prs)
+1. 💪 Opened PR [#7](https://github.com/dhth/prs/pull/7) in [dhth/prs](https://github.com/dhth/prs)
+2. 🔒 Closed issue [#15](https://github.com/dhth/omm/issues/15) in [dhth/omm](https://github.com/dhth/omm)
+3. 🚀 Published release [v0.4.3](https://github.com/dhth/omm/releases/tag/v0.4.3) in [dhth/omm](https://github.com/dhth/omm)
+4. ❌ Closed PR [#1](https://github.com/dhth/gocco/pull/1) in [dhth/gocco](https://github.com/dhth/gocco)
+5. ❌ Closed PR [#1](https://github.com/nikhilm/gocco/pull/1) in [nikhilm/gocco](https://github.com/nikhilm/gocco)
 <!--END_SECTION:activity-->
