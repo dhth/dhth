@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.5](https://github.com/dhth/gobrewtest/releases/tag/v0.2.5) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-2. 🗣 Commented on [#19](https://github.com/dhth/omm/issues/19#issuecomment-2260207952) in [dhth/omm](https://github.com/dhth/omm)
-3. 🗣 Commented on [#20](https://github.com/dhth/omm/issues/20#issuecomment-2260130705) in [dhth/omm](https://github.com/dhth/omm)
-4. 💪 Opened PR [#21](https://github.com/dhth/omm/pull/21) in [dhth/omm](https://github.com/dhth/omm)
-5. 💪 Opened PR [#8](https://github.com/dhth/prs/pull/8) in [dhth/prs](https://github.com/dhth/prs)
+1. 🔒 Closed issue [#19](https://github.com/dhth/omm/issues/19) in [dhth/omm](https://github.com/dhth/omm)
+2. 🔒 Closed issue [#20](https://github.com/dhth/omm/issues/20) in [dhth/omm](https://github.com/dhth/omm)
+3. 🔒 Closed issue [#20](https://github.com/dhth/omm/issues/20) in [dhth/omm](https://github.com/dhth/omm)
+4. 🎉 Merged PR [#21](https://github.com/dhth/omm/pull/21) in [dhth/omm](https://github.com/dhth/omm)
+5. 🗣 Commented on [#20](https://github.com/dhth/omm/issues/20#issuecomment-2260765980) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
