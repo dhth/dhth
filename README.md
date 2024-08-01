@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/dhth/omm/issues/19) in [dhth/omm](https://github.com/dhth/omm)
-2. 🔒 Closed issue [#20](https://github.com/dhth/omm/issues/20) in [dhth/omm](https://github.com/dhth/omm)
+1. ❗ Opened issue [#9](https://github.com/dhth/prs/issues/9) in [dhth/prs](https://github.com/dhth/prs)
+2. 🔒 Closed issue [#19](https://github.com/dhth/omm/issues/19) in [dhth/omm](https://github.com/dhth/omm)
 3. 🔒 Closed issue [#20](https://github.com/dhth/omm/issues/20) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#21](https://github.com/dhth/omm/pull/21) in [dhth/omm](https://github.com/dhth/omm)
-5. 🗣 Commented on [#20](https://github.com/dhth/omm/issues/20#issuecomment-2260765980) in [dhth/omm](https://github.com/dhth/omm)
+4. 🔒 Closed issue [#20](https://github.com/dhth/omm/issues/20) in [dhth/omm](https://github.com/dhth/omm)
+5. 🎉 Merged PR [#21](https://github.com/dhth/omm/pull/21) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
