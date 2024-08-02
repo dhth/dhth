@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/dhth/prs/issues/9) in [dhth/prs](https://github.com/dhth/prs)
-2. 🎉 Merged PR [#8](https://github.com/dhth/prs/pull/8) in [dhth/prs](https://github.com/dhth/prs)
-3. 🗣 Commented on [#19](https://github.com/dhth/omm/issues/19#issuecomment-2263300532) in [dhth/omm](https://github.com/dhth/omm)
-4. ❗ Opened issue [#9](https://github.com/dhth/prs/issues/9) in [dhth/prs](https://github.com/dhth/prs)
-5. 🔒 Closed issue [#19](https://github.com/dhth/omm/issues/19) in [dhth/omm](https://github.com/dhth/omm)
+1. 💪 Opened PR [#10](https://github.com/dhth/prs/pull/10) in [dhth/prs](https://github.com/dhth/prs)
+2. 🔒 Closed issue [#9](https://github.com/dhth/prs/issues/9) in [dhth/prs](https://github.com/dhth/prs)
+3. 🎉 Merged PR [#8](https://github.com/dhth/prs/pull/8) in [dhth/prs](https://github.com/dhth/prs)
+4. 🗣 Commented on [#19](https://github.com/dhth/omm/issues/19#issuecomment-2263300532) in [dhth/omm](https://github.com/dhth/omm)
+5. ❗ Opened issue [#9](https://github.com/dhth/prs/issues/9) in [dhth/prs](https://github.com/dhth/prs)
 <!--END_SECTION:activity-->
