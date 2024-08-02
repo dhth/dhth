@@ -15,7 +15,7 @@ These days I'm hacking on:
 |:-----------------------------------------------|:------------------------------------------------------------------------------------------------|
 | [omm](https://github.com/dhth/omm)             | is a keyboard-driven task manager for the command line                                          |
 | [hours](https://github.com/dhth/hours)         | is a no-frills time tracking toolkit for the command line                                       |
-| [prs](https://github.com/dhth/prs)             | lets you stay updated on PRs without leaving the terminal                                       |
+| [prs](https://github.com/dhth/prs)             | lets you stay updated on pull requests from your terminal                                       |
 | [act3](https://github.com/dhth/act3)           | lets you glance at the last 3 runs of your Github Actions                                       |
 | [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have gone out of sync with their counterpart files |
 | [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                      |
