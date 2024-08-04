@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/dhth/omm/pull/18#issuecomment-2266318417) in [dhth/omm](https://github.com/dhth/omm)
-2. ❌ Closed PR [#18](https://github.com/dhth/omm/pull/18) in [dhth/omm](https://github.com/dhth/omm)
-3. 🗣 Commented on [#2](https://github.com/dhth/omm/issues/2#issuecomment-2266318006) in [dhth/omm](https://github.com/dhth/omm)
-4. 🚀 Published release [v0.5.0](https://github.com/dhth/omm/releases/tag/v0.5.0) in [dhth/omm](https://github.com/dhth/omm)
-5. 🎉 Merged PR [#22](https://github.com/dhth/omm/pull/22) in [dhth/omm](https://github.com/dhth/omm)
+1. 💪 Opened PR [#24](https://github.com/dhth/omm/pull/24) in [dhth/omm](https://github.com/dhth/omm)
+2. 🔒 Closed issue [#2](https://github.com/dhth/omm/issues/2) in [dhth/omm](https://github.com/dhth/omm)
+3. 💪 Opened PR [#23](https://github.com/dhth/omm/pull/23) in [dhth/omm](https://github.com/dhth/omm)
+4. 🗣 Commented on [#18](https://github.com/dhth/omm/pull/18#issuecomment-2266318417) in [dhth/omm](https://github.com/dhth/omm)
+5. ❌ Closed PR [#18](https://github.com/dhth/omm/pull/18) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
