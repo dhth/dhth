@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
-2. 🎉 Merged PR [#5](https://github.com/dhth/act3/pull/5) in [dhth/act3](https://github.com/dhth/act3)
-3. 🎉 Merged PR [#14](https://github.com/dhth/hours/pull/14) in [dhth/hours](https://github.com/dhth/hours)
-4. 💪 Opened PR [#14](https://github.com/dhth/hours/pull/14) in [dhth/hours](https://github.com/dhth/hours)
-5. 🎉 Merged PR [#2](https://github.com/dhth/tomo/pull/2) in [dhth/tomo](https://github.com/dhth/tomo)
+1. 🗣 Commented on [#4](https://github.com/dhth/act3/issues/4#issuecomment-2294854694) in [dhth/act3](https://github.com/dhth/act3)
+2. 🎉 Merged PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
+3. 🚀 Published release [v1.0.0](https://github.com/dhth/act3/releases/tag/v1.0.0) in [dhth/act3](https://github.com/dhth/act3)
+4. 💪 Opened PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
+5. 🎉 Merged PR [#5](https://github.com/dhth/act3/pull/5) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
