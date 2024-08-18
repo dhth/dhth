@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/dhth/act3/issues/4#issuecomment-2294854694) in [dhth/act3](https://github.com/dhth/act3)
-2. 🎉 Merged PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
-3. 🚀 Published release [v1.0.0](https://github.com/dhth/act3/releases/tag/v1.0.0) in [dhth/act3](https://github.com/dhth/act3)
-4. 💪 Opened PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
-5. 🎉 Merged PR [#5](https://github.com/dhth/act3/pull/5) in [dhth/act3](https://github.com/dhth/act3)
+1. 🎉 Merged PR [#7](https://github.com/dhth/act3/pull/7) in [dhth/act3](https://github.com/dhth/act3)
+2. 💪 Opened PR [#7](https://github.com/dhth/act3/pull/7) in [dhth/act3](https://github.com/dhth/act3)
+3. 🗣 Commented on [#4](https://github.com/dhth/act3/issues/4#issuecomment-2294854694) in [dhth/act3](https://github.com/dhth/act3)
+4. 🎉 Merged PR [#6](https://github.com/dhth/act3/pull/6) in [dhth/act3](https://github.com/dhth/act3)
+5. 🚀 Published release [v1.0.0](https://github.com/dhth/act3/releases/tag/v1.0.0) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
