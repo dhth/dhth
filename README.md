@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1](https://github.com/dhth/act3/releases/tag/v1.1.1) in [dhth/act3](https://github.com/dhth/act3)
-2. 🚀 Published release [v1.1.0](https://github.com/dhth/act3/releases/tag/v1.1.0) in [dhth/act3](https://github.com/dhth/act3)
-3. 🎉 Merged PR [#7](https://github.com/dhth/act3/pull/7) in [dhth/act3](https://github.com/dhth/act3)
-4. 💪 Opened PR [#7](https://github.com/dhth/act3/pull/7) in [dhth/act3](https://github.com/dhth/act3)
-5. 🗣 Commented on [#4](https://github.com/dhth/act3/issues/4#issuecomment-2294854694) in [dhth/act3](https://github.com/dhth/act3)
+1. 🗣 Commented on [#1](https://github.com/dhth/outtasync/issues/1#issuecomment-2295691953) in [dhth/outtasync](https://github.com/dhth/outtasync)
+2. 🔒 Closed issue [#1](https://github.com/dhth/outtasync/issues/1) in [dhth/outtasync](https://github.com/dhth/outtasync)
+3. 🚀 Published release [v1.1.1](https://github.com/dhth/act3/releases/tag/v1.1.1) in [dhth/act3](https://github.com/dhth/act3)
+4. 🚀 Published release [v1.1.0](https://github.com/dhth/act3/releases/tag/v1.1.0) in [dhth/act3](https://github.com/dhth/act3)
+5. 🎉 Merged PR [#7](https://github.com/dhth/act3/pull/7) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
