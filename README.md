@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/dhth/ecsv/pull/17) in [dhth/ecsv](https://github.com/dhth/ecsv)
-2. 🚀 Published release [v1.2.0](https://github.com/dhth/outtasync/releases/tag/v1.2.0) in [dhth/outtasync](https://github.com/dhth/outtasync)
-3. 🗣 Commented on [#1](https://github.com/dhth/outtasync/issues/1#issuecomment-2295691953) in [dhth/outtasync](https://github.com/dhth/outtasync)
-4. 🔒 Closed issue [#1](https://github.com/dhth/outtasync/issues/1) in [dhth/outtasync](https://github.com/dhth/outtasync)
-5. 🚀 Published release [v1.1.1](https://github.com/dhth/act3/releases/tag/v1.1.1) in [dhth/act3](https://github.com/dhth/act3)
+1. 🚀 Published release [v1.3.0](https://github.com/dhth/ecsv/releases/tag/v1.3.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
+2. 🎉 Merged PR [#17](https://github.com/dhth/ecsv/pull/17) in [dhth/ecsv](https://github.com/dhth/ecsv)
+3. 🚀 Published release [v1.1.2](https://github.com/dhth/act3/releases/tag/v1.1.2) in [dhth/act3](https://github.com/dhth/act3)
+4. 💪 Opened PR [#17](https://github.com/dhth/ecsv/pull/17) in [dhth/ecsv](https://github.com/dhth/ecsv)
+5. 🚀 Published release [v1.2.0](https://github.com/dhth/outtasync/releases/tag/v1.2.0) in [dhth/outtasync](https://github.com/dhth/outtasync)
 <!--END_SECTION:activity-->
