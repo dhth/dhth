@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dhth/tomo/pull/3) in [dhth/tomo](https://github.com/dhth/tomo)
-2. 🚀 Published release [v1.1.3](https://github.com/dhth/act3/releases/tag/v1.1.3) in [dhth/act3](https://github.com/dhth/act3)
-3. 🚀 Published release [v1.3.0](https://github.com/dhth/ecsv/releases/tag/v1.3.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
-4. 🎉 Merged PR [#17](https://github.com/dhth/ecsv/pull/17) in [dhth/ecsv](https://github.com/dhth/ecsv)
-5. 🚀 Published release [v1.1.2](https://github.com/dhth/act3/releases/tag/v1.1.2) in [dhth/act3](https://github.com/dhth/act3)
+1. 🚀 Published release [v0.1.3](https://github.com/dhth/mult/releases/tag/v0.1.3) in [dhth/mult](https://github.com/dhth/mult)
+2. 🎉 Merged PR [#3](https://github.com/dhth/tomo/pull/3) in [dhth/tomo](https://github.com/dhth/tomo)
+3. 🚀 Published release [v1.1.3](https://github.com/dhth/act3/releases/tag/v1.1.3) in [dhth/act3](https://github.com/dhth/act3)
+4. 🚀 Published release [v1.3.0](https://github.com/dhth/ecsv/releases/tag/v1.3.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
+5. 🎉 Merged PR [#17](https://github.com/dhth/ecsv/pull/17) in [dhth/ecsv](https://github.com/dhth/ecsv)
 <!--END_SECTION:activity-->
