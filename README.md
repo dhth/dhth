@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/dhth/omm/pull/35) in [dhth/omm](https://github.com/dhth/omm)
-2. 🚀 Published release [v0.1.3](https://github.com/dhth/mult/releases/tag/v0.1.3) in [dhth/mult](https://github.com/dhth/mult)
-3. 🎉 Merged PR [#3](https://github.com/dhth/tomo/pull/3) in [dhth/tomo](https://github.com/dhth/tomo)
-4. 🚀 Published release [v1.1.3](https://github.com/dhth/act3/releases/tag/v1.1.3) in [dhth/act3](https://github.com/dhth/act3)
-5. 🚀 Published release [v1.3.0](https://github.com/dhth/ecsv/releases/tag/v1.3.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
+1. 🎉 Merged PR [#35](https://github.com/dhth/omm/pull/35) in [dhth/omm](https://github.com/dhth/omm)
+2. 💪 Opened PR [#35](https://github.com/dhth/omm/pull/35) in [dhth/omm](https://github.com/dhth/omm)
+3. 🚀 Published release [v0.1.3](https://github.com/dhth/mult/releases/tag/v0.1.3) in [dhth/mult](https://github.com/dhth/mult)
+4. 🎉 Merged PR [#3](https://github.com/dhth/tomo/pull/3) in [dhth/tomo](https://github.com/dhth/tomo)
+5. 🚀 Published release [v1.1.3](https://github.com/dhth/act3/releases/tag/v1.1.3) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
