@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/dhth/tomo/pull/4) in [dhth/tomo](https://github.com/dhth/tomo)
-2. 🎉 Merged PR [#2](https://github.com/dhth/tbll/pull/2) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 💪 Opened PR [#2](https://github.com/dhth/tbll/pull/2) in [dhth/tbll](https://github.com/dhth/tbll)
-4. 🎉 Merged PR [#1](https://github.com/dhth/tbll/pull/1) in [dhth/tbll](https://github.com/dhth/tbll)
-5. 💪 Opened PR [#1](https://github.com/dhth/tbll/pull/1) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 🎉 Merged PR [#7](https://github.com/dhth/dstll/pull/7) in [dhth/dstll](https://github.com/dhth/dstll)
+2. 💪 Opened PR [#7](https://github.com/dhth/dstll/pull/7) in [dhth/dstll](https://github.com/dhth/dstll)
+3. 💪 Opened PR [#4](https://github.com/dhth/tomo/pull/4) in [dhth/tomo](https://github.com/dhth/tomo)
+4. 🎉 Merged PR [#2](https://github.com/dhth/tbll/pull/2) in [dhth/tbll](https://github.com/dhth/tbll)
+5. 💪 Opened PR [#2](https://github.com/dhth/tbll/pull/2) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
