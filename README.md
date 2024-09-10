@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/dhth/hours/pull/21#issuecomment-2335150955) in [dhth/hours](https://github.com/dhth/hours)
-2. 💪 Opened PR [#21](https://github.com/dhth/hours/pull/21) in [dhth/hours](https://github.com/dhth/hours)
-3. 🎉 Merged PR [#7](https://github.com/dhth/dstll/pull/7) in [dhth/dstll](https://github.com/dhth/dstll)
-4. 💪 Opened PR [#7](https://github.com/dhth/dstll/pull/7) in [dhth/dstll](https://github.com/dhth/dstll)
-5. 💪 Opened PR [#4](https://github.com/dhth/tomo/pull/4) in [dhth/tomo](https://github.com/dhth/tomo)
+1. 💪 Opened PR [#24](https://github.com/dhth/hours/pull/24) in [dhth/hours](https://github.com/dhth/hours)
+2. 🎉 Merged PR [#21](https://github.com/dhth/hours/pull/21) in [dhth/hours](https://github.com/dhth/hours)
+3. 🗣 Commented on [#21](https://github.com/dhth/hours/pull/21#issuecomment-2338937730) in [dhth/hours](https://github.com/dhth/hours)
+4. 🗣 Commented on [#21](https://github.com/dhth/hours/pull/21#issuecomment-2335150955) in [dhth/hours](https://github.com/dhth/hours)
+5. 💪 Opened PR [#21](https://github.com/dhth/hours/pull/21) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
