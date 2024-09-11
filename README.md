@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/dhth/hours/pull/24) in [dhth/hours](https://github.com/dhth/hours)
-2. 🎉 Merged PR [#21](https://github.com/dhth/hours/pull/21) in [dhth/hours](https://github.com/dhth/hours)
-3. 🗣 Commented on [#21](https://github.com/dhth/hours/pull/21#issuecomment-2338937730) in [dhth/hours](https://github.com/dhth/hours)
-4. 🗣 Commented on [#21](https://github.com/dhth/hours/pull/21#issuecomment-2335150955) in [dhth/hours](https://github.com/dhth/hours)
-5. 💪 Opened PR [#21](https://github.com/dhth/hours/pull/21) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#5](https://github.com/dhth/tomo/pull/5) in [dhth/tomo](https://github.com/dhth/tomo)
+2. 🎉 Merged PR [#3](https://github.com/dhth/tbll/pull/3) in [dhth/tbll](https://github.com/dhth/tbll)
+3. 🗣 Commented on [#3](https://github.com/dhth/tbll/pull/3#issuecomment-2342061203) in [dhth/tbll](https://github.com/dhth/tbll)
+4. 🎉 Merged PR [#6](https://github.com/dhth/tomo/pull/6) in [dhth/tomo](https://github.com/dhth/tomo)
+5. 💪 Opened PR [#24](https://github.com/dhth/hours/pull/24) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
