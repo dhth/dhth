@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/dhth/prs/pull/22#issuecomment-2345909181) in [dhth/prs](https://github.com/dhth/prs)
-2. 🎉 Merged PR [#22](https://github.com/dhth/prs/pull/22) in [dhth/prs](https://github.com/dhth/prs)
-3. 💪 Opened PR [#22](https://github.com/dhth/prs/pull/22) in [dhth/prs](https://github.com/dhth/prs)
-4. 🎉 Merged PR [#26](https://github.com/dhth/hours/pull/26) in [dhth/hours](https://github.com/dhth/hours)
-5. 💪 Opened PR [#26](https://github.com/dhth/hours/pull/26) in [dhth/hours](https://github.com/dhth/hours)
+1. 💪 Opened PR [#207](https://github.com/google/yamlfmt/pull/207) in [google/yamlfmt](https://github.com/google/yamlfmt)
+2. 🗣 Commented on [#206](https://github.com/google/yamlfmt/pull/206#issuecomment-2346592631) in [google/yamlfmt](https://github.com/google/yamlfmt)
+3. ❌ Closed PR [#206](https://github.com/google/yamlfmt/pull/206) in [google/yamlfmt](https://github.com/google/yamlfmt)
+4. 💪 Opened PR [#206](https://github.com/google/yamlfmt/pull/206) in [google/yamlfmt](https://github.com/google/yamlfmt)
+5. 🚀 Published release [v0.13.5](https://github.com/dhth/yamlfmt/releases/tag/v0.13.5) in [dhth/yamlfmt](https://github.com/dhth/yamlfmt)
 <!--END_SECTION:activity-->
