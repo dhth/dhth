@@ -30,9 +30,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/dhth/dstll/releases/tag/v0.1.0) in [dhth/dstll](https://github.com/dhth/dstll)
-2. 🎉 Merged PR [#10](https://github.com/dhth/dstll/pull/10) in [dhth/dstll](https://github.com/dhth/dstll)
-3. 💪 Opened PR [#10](https://github.com/dhth/dstll/pull/10) in [dhth/dstll](https://github.com/dhth/dstll)
-4. 💪 Opened PR [#9](https://github.com/dhth/dstll/pull/9) in [dhth/dstll](https://github.com/dhth/dstll)
-5. 💪 Opened PR [#207](https://github.com/google/yamlfmt/pull/207) in [google/yamlfmt](https://github.com/google/yamlfmt)
+1. ❌ Closed PR [#9](https://github.com/dhth/dstll/pull/9) in [dhth/dstll](https://github.com/dhth/dstll)
+2. 💪 Opened PR [#24](https://github.com/dhth/cueitup/pull/24) in [dhth/cueitup](https://github.com/dhth/cueitup)
+3. 🚀 Published release [v0.1.0](https://github.com/dhth/dstll/releases/tag/v0.1.0) in [dhth/dstll](https://github.com/dhth/dstll)
+4. 🎉 Merged PR [#10](https://github.com/dhth/dstll/pull/10) in [dhth/dstll](https://github.com/dhth/dstll)
+5. 💪 Opened PR [#10](https://github.com/dhth/dstll/pull/10) in [dhth/dstll](https://github.com/dhth/dstll)
 <!--END_SECTION:activity-->
