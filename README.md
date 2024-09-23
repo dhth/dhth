@@ -31,9 +31,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/dhth/dstlled-diff-action/releases/tag/v0.2.0) in [dhth/dstlled-diff-action](https://github.com/dhth/dstlled-diff-action)
-2. 🚀 Published release [v0.2.1](https://github.com/dhth/dstll/releases/tag/v0.2.1) in [dhth/dstll](https://github.com/dhth/dstll)
-3. 🚀 Published release [v0.2.0](https://github.com/dhth/dstll/releases/tag/v0.2.0) in [dhth/dstll](https://github.com/dhth/dstll)
-4. 🎉 Merged PR [#12](https://github.com/dhth/dstll/pull/12) in [dhth/dstll](https://github.com/dhth/dstll)
-5. 🎉 Merged PR [#24](https://github.com/dhth/cueitup/pull/24) in [dhth/cueitup](https://github.com/dhth/cueitup)
+1. 🎉 Merged PR [#13](https://github.com/dhth/dstll/pull/13) in [dhth/dstll](https://github.com/dhth/dstll)
+2. 🚀 Published release [v0.2.0](https://github.com/dhth/dstlled-diff-action/releases/tag/v0.2.0) in [dhth/dstlled-diff-action](https://github.com/dhth/dstlled-diff-action)
+3. 🚀 Published release [v0.2.1](https://github.com/dhth/dstll/releases/tag/v0.2.1) in [dhth/dstll](https://github.com/dhth/dstll)
+4. 🚀 Published release [v0.2.0](https://github.com/dhth/dstll/releases/tag/v0.2.0) in [dhth/dstll](https://github.com/dhth/dstll)
+5. 🎉 Merged PR [#12](https://github.com/dhth/dstll/pull/12) in [dhth/dstll](https://github.com/dhth/dstll)
 <!--END_SECTION:activity-->
