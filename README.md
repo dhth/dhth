@@ -31,8 +31,8 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dhth/squidge/pull/1) in [dhth/squidge](https://github.com/dhth/squidge)
-2. 🎉 Merged PR [#8](https://github.com/dhth/tomo/pull/8) in [dhth/tomo](https://github.com/dhth/tomo)
+1. 🎉 Merged PR [#5](https://github.com/dhth/tbll/pull/5) in [dhth/tbll](https://github.com/dhth/tbll)
+2. 🎉 Merged PR [#1](https://github.com/dhth/squidge/pull/1) in [dhth/squidge](https://github.com/dhth/squidge)
 3. 🎉 Merged PR [#13](https://github.com/dhth/dstll/pull/13) in [dhth/dstll](https://github.com/dhth/dstll)
 4. 🚀 Published release [v0.2.0](https://github.com/dhth/dstlled-diff-action/releases/tag/v0.2.0) in [dhth/dstlled-diff-action](https://github.com/dhth/dstlled-diff-action)
 5. 🚀 Published release [v0.2.1](https://github.com/dhth/dstll/releases/tag/v0.2.1) in [dhth/dstll](https://github.com/dhth/dstll)
