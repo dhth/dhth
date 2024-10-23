@@ -31,9 +31,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dhth/squidge/pull/3) in [dhth/squidge](https://github.com/dhth/squidge)
-2. 🎉 Merged PR [#6](https://github.com/dhth/tbll/pull/6) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 🎉 Merged PR [#10](https://github.com/dhth/tomo/pull/10) in [dhth/tomo](https://github.com/dhth/tomo)
-4. 🎉 Merged PR [#9](https://github.com/dhth/tomo/pull/9) in [dhth/tomo](https://github.com/dhth/tomo)
-5. 🎉 Merged PR [#2](https://github.com/dhth/squidge/pull/2) in [dhth/squidge](https://github.com/dhth/squidge)
+1. 🎉 Merged PR [#11](https://github.com/dhth/tomo/pull/11) in [dhth/tomo](https://github.com/dhth/tomo)
+2. 🎉 Merged PR [#3](https://github.com/dhth/squidge/pull/3) in [dhth/squidge](https://github.com/dhth/squidge)
+3. 🎉 Merged PR [#6](https://github.com/dhth/tbll/pull/6) in [dhth/tbll](https://github.com/dhth/tbll)
+4. 🎉 Merged PR [#10](https://github.com/dhth/tomo/pull/10) in [dhth/tomo](https://github.com/dhth/tomo)
+5. 🎉 Merged PR [#9](https://github.com/dhth/tomo/pull/9) in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
