@@ -31,9 +31,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/dhth/punchout/pull/21) in [dhth/punchout](https://github.com/dhth/punchout)
-2. ❌ Closed PR [#19](https://github.com/dhth/kplay/pull/19) in [dhth/kplay](https://github.com/dhth/kplay)
-3. ❌ Closed PR [#17](https://github.com/dhth/kplay/pull/17) in [dhth/kplay](https://github.com/dhth/kplay)
-4. ❌ Closed PR [#15](https://github.com/dhth/kplay/pull/15) in [dhth/kplay](https://github.com/dhth/kplay)
-5. ❌ Closed PR [#10](https://github.com/dhth/kplay/pull/10) in [dhth/kplay](https://github.com/dhth/kplay)
+1. 🎉 Merged PR [#10](https://github.com/dhth/tbll/pull/10) in [dhth/tbll](https://github.com/dhth/tbll)
+2. 🗣 Commented on [#10](https://github.com/dhth/tbll/pull/10#issuecomment-2550094550) in [dhth/tbll](https://github.com/dhth/tbll)
+3. 🎉 Merged PR [#8](https://github.com/dhth/tbll/pull/8) in [dhth/tbll](https://github.com/dhth/tbll)
+4. 💪 Opened PR [#21](https://github.com/dhth/punchout/pull/21) in [dhth/punchout](https://github.com/dhth/punchout)
+5. ❌ Closed PR [#19](https://github.com/dhth/kplay/pull/19) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
