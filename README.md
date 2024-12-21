@@ -4,12 +4,12 @@ Hi there 👋
 ### I'm a Software Engineer, and a life-long Computer Science student.
 
 
-- ⚙️  What I'm doing at work: Back-end engineering and DevOps
-- 🌱 I write about stuff I learn and build at:
-    [dhruvs.space](https://dhruvs.space) and [wiki.dhruvs.space](https://wiki.dhruvs.space)
-- 💙 Developer tools
+What I'm up to these days:
 
-These days I'm hacking on:
+- `F[_]` Learning to solve problems using pure functional programming (in scala)
+- ⚙️ Building developer tools (using go and rust)
+          
+A few tools I've written:
 
 | Tool                                                        | What it does                                                                                    |
 |:------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
@@ -27,6 +27,7 @@ These days I'm hacking on:
 | [commits](https://github.com/dhth/commits)                  | lets you glance at git commits through a simple TUI                                             |
 | [dstll](https://github.com/dhth/dstll)                      | gives you a high level overview of various constructs in your code files                        |
 | [dstlled-diff](https://github.com/dhth/dstlled-diff-action) | is a Github action that makes reviewing large-scale structural code changes easier              |
+| [shfl](https://github.com/dhth/shfl)                        | lets you rearrange lines in a file with simple keymaps                                          |
 
 ### :zap: Recent Activity
 
