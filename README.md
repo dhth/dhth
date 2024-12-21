@@ -31,9 +31,9 @@ These days I'm hacking on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/dhth/shfl/releases/tag/v0.1.0) in [dhth/shfl](https://github.com/dhth/shfl)
-2. 🎉 Merged PR [#10](https://github.com/dhth/tbll/pull/10) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 🗣 Commented on [#10](https://github.com/dhth/tbll/pull/10#issuecomment-2550094550) in [dhth/tbll](https://github.com/dhth/tbll)
-4. 🎉 Merged PR [#8](https://github.com/dhth/tbll/pull/8) in [dhth/tbll](https://github.com/dhth/tbll)
-5. 💪 Opened PR [#21](https://github.com/dhth/punchout/pull/21) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#14](https://github.com/dhth/mult/pull/14) in [dhth/mult](https://github.com/dhth/mult)
+2. 🗣 Commented on [#14](https://github.com/dhth/mult/pull/14#issuecomment-2558074740) in [dhth/mult](https://github.com/dhth/mult)
+3. 🚀 Published release [v0.1.0](https://github.com/dhth/shfl/releases/tag/v0.1.0) in [dhth/shfl](https://github.com/dhth/shfl)
+4. 🎉 Merged PR [#10](https://github.com/dhth/tbll/pull/10) in [dhth/tbll](https://github.com/dhth/tbll)
+5. 🗣 Commented on [#10](https://github.com/dhth/tbll/pull/10#issuecomment-2550094550) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
