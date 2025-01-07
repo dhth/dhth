@@ -8,7 +8,7 @@ What I'm up to these days:
 
 - `F[_]` Learning to solve problems using pure functional programming (in scala)
 - ⚙️ Building developer tools (using go and rust)
-          
+
 A few tools I've written:
 
 | Tool                                                        | What it does                                                                                    |
@@ -28,6 +28,10 @@ A few tools I've written:
 | [dstll](https://github.com/dhth/dstll)                      | gives you a high level overview of various constructs in your code files                        |
 | [dstlled-diff](https://github.com/dhth/dstlled-diff-action) | is a Github action that makes reviewing large-scale structural code changes easier              |
 | [shfl](https://github.com/dhth/shfl)                        | lets you rearrange lines in a file with simple keymaps                                          |
+| [squish](https://github.com/dhth/squish)                    | lets you resize images via the command line                                                     |
+| [sqdj](https://github.com/dhth/sqdj)                        | shortens delimited data                                                                         |
+| [tbll](https://github.com/dhth/tbll)                        | outputs data in tabular format                                                                  |
+| [tomo](https://github.com/dhth/tomo)                        | is a no-frills pomodoro progress indicator for tmux                                             |
 
 ### :zap: Recent Activity
 
