@@ -36,9 +36,9 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2565172466) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 🎉 Merged PR [#6](https://github.com/dhth/squidge/pull/6) in [dhth/squidge](https://github.com/dhth/squidge)
-3. 🎉 Merged PR [#1](https://github.com/dhth/shfl/pull/1) in [dhth/shfl](https://github.com/dhth/shfl)
-4. 🎉 Merged PR [#14](https://github.com/dhth/mult/pull/14) in [dhth/mult](https://github.com/dhth/mult)
-5. 🗣 Commented on [#14](https://github.com/dhth/mult/pull/14#issuecomment-2558074740) in [dhth/mult](https://github.com/dhth/mult)
+1. 🚀 Published release [v1.1.4](https://github.com/dhth/act3/releases/tag/v1.1.4) in [dhth/act3](https://github.com/dhth/act3)
+2. 🚀 Published release [v1.3.1](https://github.com/dhth/ecsv/releases/tag/v1.3.1) in [dhth/ecsv](https://github.com/dhth/ecsv)
+3. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2565172466) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 🎉 Merged PR [#6](https://github.com/dhth/squidge/pull/6) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#1](https://github.com/dhth/shfl/pull/1) in [dhth/shfl](https://github.com/dhth/shfl)
 <!--END_SECTION:activity-->
