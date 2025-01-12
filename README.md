@@ -36,9 +36,9 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/dhth/hours/pull/28) in [dhth/hours](https://github.com/dhth/hours)
-2. ❌ Closed PR [#27](https://github.com/dhth/hours/pull/27) in [dhth/hours](https://github.com/dhth/hours)
-3. ❌ Closed PR [#23](https://github.com/dhth/hours/pull/23) in [dhth/hours](https://github.com/dhth/hours)
-4. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2585358949) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 🚀 Published release [v0.2.2](https://github.com/dhth/cueitup/releases/tag/v0.2.2) in [dhth/cueitup](https://github.com/dhth/cueitup)
+1. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2585850007) in [dhth/punchout](https://github.com/dhth/punchout)
+2. 🎉 Merged PR [#24](https://github.com/dhth/punchout/pull/24) in [dhth/punchout](https://github.com/dhth/punchout)
+3. ❌ Closed PR [#28](https://github.com/dhth/hours/pull/28) in [dhth/hours](https://github.com/dhth/hours)
+4. ❌ Closed PR [#27](https://github.com/dhth/hours/pull/27) in [dhth/hours](https://github.com/dhth/hours)
+5. ❌ Closed PR [#23](https://github.com/dhth/hours/pull/23) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
