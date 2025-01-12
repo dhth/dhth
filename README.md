@@ -36,9 +36,9 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.2](https://github.com/dhth/cueitup/releases/tag/v0.2.2) in [dhth/cueitup](https://github.com/dhth/cueitup)
-2. 🚀 Published release [v1.1.4](https://github.com/dhth/act3/releases/tag/v1.1.4) in [dhth/act3](https://github.com/dhth/act3)
-3. 🚀 Published release [v1.3.1](https://github.com/dhth/ecsv/releases/tag/v1.3.1) in [dhth/ecsv](https://github.com/dhth/ecsv)
-4. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2565172466) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 🎉 Merged PR [#6](https://github.com/dhth/squidge/pull/6) in [dhth/squidge](https://github.com/dhth/squidge)
+1. ❌ Closed PR [#28](https://github.com/dhth/hours/pull/28) in [dhth/hours](https://github.com/dhth/hours)
+2. ❌ Closed PR [#27](https://github.com/dhth/hours/pull/27) in [dhth/hours](https://github.com/dhth/hours)
+3. ❌ Closed PR [#23](https://github.com/dhth/hours/pull/23) in [dhth/hours](https://github.com/dhth/hours)
+4. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2585358949) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 🚀 Published release [v0.2.2](https://github.com/dhth/cueitup/releases/tag/v0.2.2) in [dhth/cueitup](https://github.com/dhth/cueitup)
 <!--END_SECTION:activity-->
