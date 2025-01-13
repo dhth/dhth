@@ -36,9 +36,9 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2585850007) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 🎉 Merged PR [#24](https://github.com/dhth/punchout/pull/24) in [dhth/punchout](https://github.com/dhth/punchout)
-3. ❌ Closed PR [#28](https://github.com/dhth/hours/pull/28) in [dhth/hours](https://github.com/dhth/hours)
-4. ❌ Closed PR [#27](https://github.com/dhth/hours/pull/27) in [dhth/hours](https://github.com/dhth/hours)
-5. ❌ Closed PR [#23](https://github.com/dhth/hours/pull/23) in [dhth/hours](https://github.com/dhth/hours)
+1. 💪 Opened PR [#25](https://github.com/dhth/punchout/pull/25) in [dhth/punchout](https://github.com/dhth/punchout)
+2. ❌ Closed PR [#20](https://github.com/dhth/punchout/pull/20) in [dhth/punchout](https://github.com/dhth/punchout)
+3. ❌ Closed PR [#13](https://github.com/dhth/punchout/pull/13) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 🎉 Merged PR [#21](https://github.com/dhth/punchout/pull/21) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 🗣 Commented on [#24](https://github.com/dhth/punchout/pull/24#issuecomment-2585850007) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
