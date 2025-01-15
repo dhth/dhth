@@ -36,9 +36,9 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/dhth/punchout/pull/27) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 🎉 Merged PR [#26](https://github.com/dhth/punchout/pull/26) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 💪 Opened PR [#26](https://github.com/dhth/punchout/pull/26) in [dhth/punchout](https://github.com/dhth/punchout)
-4. 🎉 Merged PR [#25](https://github.com/dhth/punchout/pull/25) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 💪 Opened PR [#25](https://github.com/dhth/punchout/pull/25) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#27](https://github.com/dhth/punchout/pull/27) in [dhth/punchout](https://github.com/dhth/punchout)
+2. 💪 Opened PR [#28](https://github.com/dhth/punchout/pull/28) in [dhth/punchout](https://github.com/dhth/punchout)
+3. 💪 Opened PR [#27](https://github.com/dhth/punchout/pull/27) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 🎉 Merged PR [#26](https://github.com/dhth/punchout/pull/26) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 💪 Opened PR [#26](https://github.com/dhth/punchout/pull/26) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
