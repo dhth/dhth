@@ -36,14 +36,14 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dhth/squish/pull/2) in [dhth/squish](https://github.com/dhth/squish)
-2. 💪 Opened PR [#2](https://github.com/dhth/squish/pull/2) in [dhth/squish](https://github.com/dhth/squish)
-3. 💪 Opened PR [#44](https://github.com/dhth/hours/pull/44) in [dhth/hours](https://github.com/dhth/hours)
-4. ❌ Closed PR [#11](https://github.com/dhth/act3/pull/11) in [dhth/act3](https://github.com/dhth/act3)
-5. ❌ Closed PR [#10](https://github.com/dhth/act3/pull/10) in [dhth/act3](https://github.com/dhth/act3)
-6. 🎉 Merged PR [#12](https://github.com/dhth/act3/pull/12) in [dhth/act3](https://github.com/dhth/act3)
-7. 💪 Opened PR [#12](https://github.com/dhth/act3/pull/12) in [dhth/act3](https://github.com/dhth/act3)
-8. 🗣 Commented on [#8](https://github.com/dhth/hours/issues/8#issuecomment-2600847302) in [dhth/hours](https://github.com/dhth/hours)
-9. 🗣 Commented on [#31](https://github.com/dhth/hours/issues/31#issuecomment-2600847034) in [dhth/hours](https://github.com/dhth/hours)
-10. 🗣 Commented on [#29](https://github.com/dhth/hours/issues/29#issuecomment-2600846782) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
+2. 💪 Opened PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
+3. ❌ Closed PR [#4](https://github.com/dhth/squidge/pull/4) in [dhth/squidge](https://github.com/dhth/squidge)
+4. ❌ Closed PR [#7](https://github.com/dhth/squidge/pull/7) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#9](https://github.com/dhth/squidge/pull/9) in [dhth/squidge](https://github.com/dhth/squidge)
+6. 💪 Opened PR [#9](https://github.com/dhth/squidge/pull/9) in [dhth/squidge](https://github.com/dhth/squidge)
+7. 🎉 Merged PR [#2](https://github.com/dhth/squish/pull/2) in [dhth/squish](https://github.com/dhth/squish)
+8. 💪 Opened PR [#2](https://github.com/dhth/squish/pull/2) in [dhth/squish](https://github.com/dhth/squish)
+9. 💪 Opened PR [#44](https://github.com/dhth/hours/pull/44) in [dhth/hours](https://github.com/dhth/hours)
+10. ❌ Closed PR [#11](https://github.com/dhth/act3/pull/11) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
