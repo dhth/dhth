@@ -36,14 +36,14 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 💪 Opened PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🎉 Merged PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 💪 Opened PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 🎉 Merged PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 💪 Opened PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
-8. 💪 Opened PR [#43](https://github.com/dhth/omm/pull/43) in [dhth/omm](https://github.com/dhth/omm)
-9. 🎉 Merged PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
-10. 💪 Opened PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 💪 Opened PR [#30](https://github.com/dhth/kplay/pull/30) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🎉 Merged PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 💪 Opened PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 🎉 Merged PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 💪 Opened PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 💪 Opened PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
+8. 🎉 Merged PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 💪 Opened PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
+10. 💪 Opened PR [#43](https://github.com/dhth/omm/pull/43) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
