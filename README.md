@@ -36,14 +36,14 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 💪 Opened PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 💪 Opened PR [#43](https://github.com/dhth/omm/pull/43) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
-5. 💪 Opened PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
-6. ❌ Closed PR [#4](https://github.com/dhth/squidge/pull/4) in [dhth/squidge](https://github.com/dhth/squidge)
-7. ❌ Closed PR [#7](https://github.com/dhth/squidge/pull/7) in [dhth/squidge](https://github.com/dhth/squidge)
-8. 🎉 Merged PR [#9](https://github.com/dhth/squidge/pull/9) in [dhth/squidge](https://github.com/dhth/squidge)
-9. 💪 Opened PR [#9](https://github.com/dhth/squidge/pull/9) in [dhth/squidge](https://github.com/dhth/squidge)
-10. 🎉 Merged PR [#2](https://github.com/dhth/squish/pull/2) in [dhth/squish](https://github.com/dhth/squish)
+1. 🎉 Merged PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 💪 Opened PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 🎉 Merged PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 💪 Opened PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 💪 Opened PR [#43](https://github.com/dhth/omm/pull/43) in [dhth/omm](https://github.com/dhth/omm)
+6. 🎉 Merged PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
+7. 💪 Opened PR [#12](https://github.com/dhth/tbll/pull/12) in [dhth/tbll](https://github.com/dhth/tbll)
+8. ❌ Closed PR [#4](https://github.com/dhth/squidge/pull/4) in [dhth/squidge](https://github.com/dhth/squidge)
+9. ❌ Closed PR [#7](https://github.com/dhth/squidge/pull/7) in [dhth/squidge](https://github.com/dhth/squidge)
+10. 🎉 Merged PR [#9](https://github.com/dhth/squidge/pull/9) in [dhth/squidge](https://github.com/dhth/squidge)
 <!--END_SECTION:activity-->
