@@ -36,14 +36,14 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/dhth/kplay/pull/31) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#30](https://github.com/dhth/kplay/pull/30) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 💪 Opened PR [#30](https://github.com/dhth/kplay/pull/30) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🎉 Merged PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 💪 Opened PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 🎉 Merged PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 💪 Opened PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
-8. 🎉 Merged PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 💪 Opened PR [#27](https://github.com/dhth/kplay/pull/27) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🎉 Merged PR [#32](https://github.com/dhth/punchout/pull/32) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🚀 Published release [v1.0.0](https://github.com/dhth/kplay/releases/tag/v1.0.0) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🎉 Merged PR [#32](https://github.com/dhth/kplay/pull/32) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 💪 Opened PR [#32](https://github.com/dhth/kplay/pull/32) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 🎉 Merged PR [#31](https://github.com/dhth/kplay/pull/31) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 💪 Opened PR [#31](https://github.com/dhth/kplay/pull/31) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#30](https://github.com/dhth/kplay/pull/30) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 💪 Opened PR [#30](https://github.com/dhth/kplay/pull/30) in [dhth/kplay](https://github.com/dhth/kplay)
+8. 🎉 Merged PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
+9. 💪 Opened PR [#29](https://github.com/dhth/kplay/pull/29) in [dhth/kplay](https://github.com/dhth/kplay)
+10. 🎉 Merged PR [#28](https://github.com/dhth/kplay/pull/28) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
