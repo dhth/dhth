@@ -26,6 +26,7 @@ A few tools I've written:
 | [schemas](https://github.com/dhth/schemas)                  | lets you inspect postgres schemas in the terminal                                               |
 | [commits](https://github.com/dhth/commits)                  | lets you glance at git commits through a simple TUI                                             |
 | [dstll](https://github.com/dhth/dstll)                      | gives you a high level overview of various constructs in your code files                        |
+| [tash](https://github.com/dhth/tash)                        | lets you stash content that you can access later                                                |
 | [dstlled-diff](https://github.com/dhth/dstlled-diff-action) | is a Github action that makes reviewing large-scale structural code changes easier              |
 | [shfl](https://github.com/dhth/shfl)                        | lets you rearrange lines in a file with simple keymaps                                          |
 | [squish](https://github.com/dhth/squish)                    | lets you resize images via the command line                                                     |
