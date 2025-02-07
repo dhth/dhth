@@ -36,14 +36,14 @@ A few tools I've written:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#71](https://github.com/dhth/ecsv/pull/71) in [dhth/ecsv](https://github.com/dhth/ecsv)
-2. ❌ Closed PR [#70](https://github.com/dhth/ecsv/pull/70) in [dhth/ecsv](https://github.com/dhth/ecsv)
-3. ❌ Closed PR [#69](https://github.com/dhth/ecsv/pull/69) in [dhth/ecsv](https://github.com/dhth/ecsv)
-4. ❌ Closed PR [#68](https://github.com/dhth/ecsv/pull/68) in [dhth/ecsv](https://github.com/dhth/ecsv)
-5. ❌ Closed PR [#42](https://github.com/dhth/ecsv/pull/42) in [dhth/ecsv](https://github.com/dhth/ecsv)
-6. 🚀 Published release [v0.4.1](https://github.com/dhth/hours/releases/tag/v0.4.1) in [dhth/hours](https://github.com/dhth/hours)
-7. 🎉 Merged PR [#45](https://github.com/dhth/hours/pull/45) in [dhth/hours](https://github.com/dhth/hours)
-8. 🗣 Commented on [#45](https://github.com/dhth/hours/pull/45#issuecomment-2631944021) in [dhth/hours](https://github.com/dhth/hours)
-9. 🎉 Merged PR [#43](https://github.com/dhth/omm/pull/43) in [dhth/omm](https://github.com/dhth/omm)
-10. 🗣 Commented on [#40](https://github.com/dhth/hours/issues/40#issuecomment-2623673708) in [dhth/hours](https://github.com/dhth/hours)
+1. 🚀 Published release [v0.3.1](https://github.com/dhth/schemas/releases/tag/v0.3.1) in [dhth/schemas](https://github.com/dhth/schemas)
+2. 🎉 Merged PR [#12](https://github.com/dhth/schemas/pull/12) in [dhth/schemas](https://github.com/dhth/schemas)
+3. ❌ Closed PR [#11](https://github.com/dhth/schemas/pull/11) in [dhth/schemas](https://github.com/dhth/schemas)
+4. ❌ Closed PR [#10](https://github.com/dhth/schemas/pull/10) in [dhth/schemas](https://github.com/dhth/schemas)
+5. ❌ Closed PR [#9](https://github.com/dhth/schemas/pull/9) in [dhth/schemas](https://github.com/dhth/schemas)
+6. 💪 Opened PR [#12](https://github.com/dhth/schemas/pull/12) in [dhth/schemas](https://github.com/dhth/schemas)
+7. ❌ Closed PR [#71](https://github.com/dhth/ecsv/pull/71) in [dhth/ecsv](https://github.com/dhth/ecsv)
+8. ❌ Closed PR [#70](https://github.com/dhth/ecsv/pull/70) in [dhth/ecsv](https://github.com/dhth/ecsv)
+9. ❌ Closed PR [#69](https://github.com/dhth/ecsv/pull/69) in [dhth/ecsv](https://github.com/dhth/ecsv)
+10. ❌ Closed PR [#68](https://github.com/dhth/ecsv/pull/68) in [dhth/ecsv](https://github.com/dhth/ecsv)
 <!--END_SECTION:activity-->
