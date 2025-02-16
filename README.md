@@ -8,9 +8,11 @@ What I'm up to these days:
 - `F[_]` Learning to solve problems using pure functional programming (in scala)
 - Building developer tools (using go and rust)
 
-A few tools I've written:
+### A few tools I've written
 
-| Tool                                                        | Wr.In                                                                                                                                                    | What it does                                                                                    |
+*(WI: "written in")*
+
+| Tool                                                        | WI                                                                                                                                                       | What it does                                                                                    |
 |:------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
 | [omm](https://github.com/dhth/omm)                          | <p align="center"><a href="https://github.com/dhth?tab=repositories&language=go"><img height=25px src="https://skillicons.dev/icons?i=go"/></a></p>      | is a keyboard-driven task manager for the command line                                          |
 | [hours](https://github.com/dhth/hours)                      | <p align="center"><a href="https://github.com/dhth?tab=repositories&language=go"><img height=25px src="https://skillicons.dev/icons?i=go"/></a></p>      | is a no-frills time tracking toolkit for the command line                                       |
