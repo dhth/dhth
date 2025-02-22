@@ -39,14 +39,14 @@ What I'm up to these days:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/dhth/bmm/issues/4) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🎉 Merged PR [#5](https://github.com/dhth/bmm/pull/5) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🗣 Commented on [#4](https://github.com/dhth/bmm/issues/4#issuecomment-2675314555) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 💪 Opened PR [#5](https://github.com/dhth/bmm/pull/5) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🗣 Commented on [#51](https://github.com/dhth/hours/pull/51#issuecomment-2674713744) in [dhth/hours](https://github.com/dhth/hours)
-6. 💪 Opened PR [#1](https://github.com/acidghost/hours/pull/1) in [acidghost/hours](https://github.com/acidghost/hours)
-7. 🎉 Merged PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 💪 Opened PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🎉 Merged PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 💪 Opened PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🚀 Published release [v0.5.0](https://github.com/dhth/hours/releases/tag/v0.5.0) in [dhth/hours](https://github.com/dhth/hours)
+2. 🗣 Commented on [#51](https://github.com/dhth/hours/pull/51#issuecomment-2676130165) in [dhth/hours](https://github.com/dhth/hours)
+3. 🔒 Closed issue [#48](https://github.com/dhth/hours/issues/48) in [dhth/hours](https://github.com/dhth/hours)
+4. 🎉 Merged PR [#51](https://github.com/dhth/hours/pull/51) in [dhth/hours](https://github.com/dhth/hours)
+5. 🎉 Merged PR [#54](https://github.com/dhth/hours/pull/54) in [dhth/hours](https://github.com/dhth/hours)
+6. 🔒 Closed issue [#4](https://github.com/dhth/bmm/issues/4) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🎉 Merged PR [#5](https://github.com/dhth/bmm/pull/5) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🗣 Commented on [#4](https://github.com/dhth/bmm/issues/4#issuecomment-2675314555) in [dhth/bmm](https://github.com/dhth/bmm)
+9. 💪 Opened PR [#5](https://github.com/dhth/bmm/pull/5) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🗣 Commented on [#51](https://github.com/dhth/hours/pull/51#issuecomment-2674713744) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
