@@ -39,14 +39,14 @@ What I'm up to these days:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 💪 Opened PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🎉 Merged PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 💪 Opened PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🚀 Published release [v1.4.0](https://github.com/dhth/ecsv/releases/tag/v1.4.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
-6. 🎉 Merged PR [#1](https://github.com/dhth/tash/pull/1) in [dhth/tash](https://github.com/dhth/tash)
-7. 💪 Opened PR [#1](https://github.com/dhth/tash/pull/1) in [dhth/tash](https://github.com/dhth/tash)
-8. 🚀 Published release [v0.3.1](https://github.com/dhth/schemas/releases/tag/v0.3.1) in [dhth/schemas](https://github.com/dhth/schemas)
-9. 🎉 Merged PR [#12](https://github.com/dhth/schemas/pull/12) in [dhth/schemas](https://github.com/dhth/schemas)
-10. ❌ Closed PR [#11](https://github.com/dhth/schemas/pull/11) in [dhth/schemas](https://github.com/dhth/schemas)
+1. 💪 Opened PR [#5](https://github.com/dhth/bmm/pull/5) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 🗣 Commented on [#51](https://github.com/dhth/hours/pull/51#issuecomment-2674713744) in [dhth/hours](https://github.com/dhth/hours)
+3. 💪 Opened PR [#1](https://github.com/acidghost/hours/pull/1) in [acidghost/hours](https://github.com/acidghost/hours)
+4. 🎉 Merged PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 💪 Opened PR [#3](https://github.com/dhth/bmm/pull/3) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🎉 Merged PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 💪 Opened PR [#2](https://github.com/dhth/bmm/pull/2) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🚀 Published release [v1.4.0](https://github.com/dhth/ecsv/releases/tag/v1.4.0) in [dhth/ecsv](https://github.com/dhth/ecsv)
+9. 🎉 Merged PR [#1](https://github.com/dhth/tash/pull/1) in [dhth/tash](https://github.com/dhth/tash)
+10. 💪 Opened PR [#1](https://github.com/dhth/tash/pull/1) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
