@@ -39,14 +39,14 @@ What I'm up to these days:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/dhth/squish/pull/6) in [dhth/squish](https://github.com/dhth/squish)
-2. 🎉 Merged PR [#4](https://github.com/dhth/squish/pull/4) in [dhth/squish](https://github.com/dhth/squish)
-3. 🎉 Merged PR [#8](https://github.com/dhth/squish/pull/8) in [dhth/squish](https://github.com/dhth/squish)
-4. 🎉 Merged PR [#9](https://github.com/dhth/squish/pull/9) in [dhth/squish](https://github.com/dhth/squish)
-5. 🚀 Published release [v0.5.0](https://github.com/dhth/hours/releases/tag/v0.5.0) in [dhth/hours](https://github.com/dhth/hours)
-6. 🗣 Commented on [#51](https://github.com/dhth/hours/pull/51#issuecomment-2676130165) in [dhth/hours](https://github.com/dhth/hours)
-7. 🔒 Closed issue [#48](https://github.com/dhth/hours/issues/48) in [dhth/hours](https://github.com/dhth/hours)
-8. 🎉 Merged PR [#51](https://github.com/dhth/hours/pull/51) in [dhth/hours](https://github.com/dhth/hours)
-9. 🎉 Merged PR [#54](https://github.com/dhth/hours/pull/54) in [dhth/hours](https://github.com/dhth/hours)
-10. 🔒 Closed issue [#4](https://github.com/dhth/bmm/issues/4) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685105077) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 🔒 Closed issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
+3. ❗ Opened issue [#8](https://github.com/dhth/bmm/issues/8) in [dhth/bmm](https://github.com/dhth/bmm)
+4. ❗ Opened issue [#7](https://github.com/dhth/bmm/issues/7) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 🗣 Commented on [#56](https://github.com/dhth/hours/pull/56#issuecomment-2684918335) in [dhth/hours](https://github.com/dhth/hours)
+6. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2684913379) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🎉 Merged PR [#6](https://github.com/dhth/squish/pull/6) in [dhth/squish](https://github.com/dhth/squish)
+8. 🎉 Merged PR [#4](https://github.com/dhth/squish/pull/4) in [dhth/squish](https://github.com/dhth/squish)
+9. 🎉 Merged PR [#8](https://github.com/dhth/squish/pull/8) in [dhth/squish](https://github.com/dhth/squish)
+10. 🎉 Merged PR [#9](https://github.com/dhth/squish/pull/9) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
