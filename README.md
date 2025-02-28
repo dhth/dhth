@@ -39,14 +39,14 @@ What I'm up to these days:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2686905923) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🎉 Merged PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 💪 Opened PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🔓 Reopened issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
-6. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685664259) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685105077) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 🔒 Closed issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
-9. ❗ Opened issue [#8](https://github.com/dhth/bmm/issues/8) in [dhth/bmm](https://github.com/dhth/bmm)
-10. ❗ Opened issue [#7](https://github.com/dhth/bmm/issues/7) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🎉 Merged PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 💪 Opened PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
+3. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2686905923) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 🎉 Merged PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 💪 Opened PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🔓 Reopened issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685664259) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685105077) in [dhth/bmm](https://github.com/dhth/bmm)
+9. 🔒 Closed issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
+10. ❗ Opened issue [#8](https://github.com/dhth/bmm/issues/8) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
