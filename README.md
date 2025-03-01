@@ -39,14 +39,14 @@ What I'm up to these days:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/dhth/ecsv/pull/72) in [dhth/ecsv](https://github.com/dhth/ecsv)
-2. 🎉 Merged PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 💪 Opened PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2686905923) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🎉 Merged PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
-6. 💪 Opened PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🔓 Reopened issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685664259) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2685105077) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 🔒 Closed issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🚀 Published release [v1.4.1](https://github.com/dhth/ecsv/releases/tag/v1.4.1) in [dhth/ecsv](https://github.com/dhth/ecsv)
+2. 🎉 Merged PR [#73](https://github.com/dhth/ecsv/pull/73) in [dhth/ecsv](https://github.com/dhth/ecsv)
+3. 💪 Opened PR [#73](https://github.com/dhth/ecsv/pull/73) in [dhth/ecsv](https://github.com/dhth/ecsv)
+4. 🎉 Merged PR [#72](https://github.com/dhth/ecsv/pull/72) in [dhth/ecsv](https://github.com/dhth/ecsv)
+5. 💪 Opened PR [#72](https://github.com/dhth/ecsv/pull/72) in [dhth/ecsv](https://github.com/dhth/ecsv)
+6. 🎉 Merged PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 💪 Opened PR [#10](https://github.com/dhth/bmm/pull/10) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🗣 Commented on [#6](https://github.com/dhth/bmm/issues/6#issuecomment-2686905923) in [dhth/bmm](https://github.com/dhth/bmm)
+9. 🎉 Merged PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 💪 Opened PR [#9](https://github.com/dhth/bmm/pull/9) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
