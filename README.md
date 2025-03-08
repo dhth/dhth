@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/dhth/bmm/issues/7) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🎉 Merged PR [#15](https://github.com/dhth/bmm/pull/15) in [dhth/bmm](https://github.com/dhth/bmm)
-3. ❌ Closed PR [#9](https://github.com/dhth/tbll/pull/9) in [dhth/tbll](https://github.com/dhth/tbll)
-4. 🎉 Merged PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
-5. 💪 Opened PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
-6. 🎉 Merged PR [#20](https://github.com/dhth/tbll/pull/20) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 💪 Opened PR [#20](https://github.com/dhth/tbll/pull/20) in [dhth/tbll](https://github.com/dhth/tbll)
-8. 💪 Opened PR [#15](https://github.com/dhth/bmm/pull/15) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🔒 Closed issue [#6](https://github.com/dhth/bmm/issues/6) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 🎉 Merged PR [#19](https://github.com/dhth/tbll/pull/19) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 🎉 Merged PR [#16](https://github.com/dhth/bmm/pull/16) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 💪 Opened PR [#16](https://github.com/dhth/bmm/pull/16) in [dhth/bmm](https://github.com/dhth/bmm)
+3. 🔒 Closed issue [#7](https://github.com/dhth/bmm/issues/7) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 🎉 Merged PR [#15](https://github.com/dhth/bmm/pull/15) in [dhth/bmm](https://github.com/dhth/bmm)
+5. ❌ Closed PR [#9](https://github.com/dhth/tbll/pull/9) in [dhth/tbll](https://github.com/dhth/tbll)
+6. 🎉 Merged PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
+7. 💪 Opened PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
+8. 🎉 Merged PR [#20](https://github.com/dhth/tbll/pull/20) in [dhth/tbll](https://github.com/dhth/tbll)
+9. 💪 Opened PR [#20](https://github.com/dhth/tbll/pull/20) in [dhth/tbll](https://github.com/dhth/tbll)
+10. 💪 Opened PR [#15](https://github.com/dhth/bmm/pull/15) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
