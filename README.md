@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2708821244) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-2. 💪 Opened PR [#140](https://github.com/t28hub/auto-palette/pull/140) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-3. ❗ Opened issue [#139](https://github.com/t28hub/auto-palette/issues/139) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-4. 🎉 Merged PR [#16](https://github.com/dhth/bmm/pull/16) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 💪 Opened PR [#16](https://github.com/dhth/bmm/pull/16) in [dhth/bmm](https://github.com/dhth/bmm)
-6. 🔒 Closed issue [#7](https://github.com/dhth/bmm/issues/7) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🎉 Merged PR [#15](https://github.com/dhth/bmm/pull/15) in [dhth/bmm](https://github.com/dhth/bmm)
-8. ❌ Closed PR [#9](https://github.com/dhth/tbll/pull/9) in [dhth/tbll](https://github.com/dhth/tbll)
-9. 🎉 Merged PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
-10. 💪 Opened PR [#21](https://github.com/dhth/tbll/pull/21) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 🗣 Commented on [#15](https://github.com/dhth/bmm/pull/15#issuecomment-2710419979) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 🎉 Merged PR [#19](https://github.com/dhth/bmm/pull/19) in [dhth/bmm](https://github.com/dhth/bmm)
+3. 💪 Opened PR [#19](https://github.com/dhth/bmm/pull/19) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 🎉 Merged PR [#17](https://github.com/dhth/bmm/pull/17) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 🗣 Commented on [#15](https://github.com/dhth/bmm/pull/15#issuecomment-2710346971) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 💪 Opened PR [#17](https://github.com/dhth/bmm/pull/17) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2708821244) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
+8. 💪 Opened PR [#140](https://github.com/t28hub/auto-palette/pull/140) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
+9. ❗ Opened issue [#139](https://github.com/t28hub/auto-palette/issues/139) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
+10. 🎉 Merged PR [#16](https://github.com/dhth/bmm/pull/16) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
