@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dhth/ecscope/pull/2) in [dhth/ecscope](https://github.com/dhth/ecscope)
-2. 🎉 Merged PR [#22](https://github.com/dhth/tbll/pull/22) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 💪 Opened PR [#22](https://github.com/dhth/tbll/pull/22) in [dhth/tbll](https://github.com/dhth/tbll)
-4. 🎉 Merged PR [#74](https://github.com/dhth/ecsv/pull/74) in [dhth/ecsv](https://github.com/dhth/ecsv)
-5. 💪 Opened PR [#74](https://github.com/dhth/ecsv/pull/74) in [dhth/ecsv](https://github.com/dhth/ecsv)
-6. 💪 Opened PR [#2](https://github.com/dhth/ecscope/pull/2) in [dhth/ecscope](https://github.com/dhth/ecscope)
-7. 💪 Opened PR [#20](https://github.com/dhth/bmm/pull/20) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 💪 Opened PR [#1](https://github.com/jonhoo/dings/pull/1) in [jonhoo/dings](https://github.com/jonhoo/dings)
-9. 🗣 Commented on [#15](https://github.com/dhth/bmm/pull/15#issuecomment-2710419979) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 🎉 Merged PR [#19](https://github.com/dhth/bmm/pull/19) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🎉 Merged PR [#23](https://github.com/dhth/tbll/pull/23) in [dhth/tbll](https://github.com/dhth/tbll)
+2. 💪 Opened PR [#23](https://github.com/dhth/tbll/pull/23) in [dhth/tbll](https://github.com/dhth/tbll)
+3. 🎉 Merged PR [#2](https://github.com/dhth/ecscope/pull/2) in [dhth/ecscope](https://github.com/dhth/ecscope)
+4. 🎉 Merged PR [#22](https://github.com/dhth/tbll/pull/22) in [dhth/tbll](https://github.com/dhth/tbll)
+5. 💪 Opened PR [#22](https://github.com/dhth/tbll/pull/22) in [dhth/tbll](https://github.com/dhth/tbll)
+6. 🎉 Merged PR [#74](https://github.com/dhth/ecsv/pull/74) in [dhth/ecsv](https://github.com/dhth/ecsv)
+7. 💪 Opened PR [#74](https://github.com/dhth/ecsv/pull/74) in [dhth/ecsv](https://github.com/dhth/ecsv)
+8. 💪 Opened PR [#2](https://github.com/dhth/ecscope/pull/2) in [dhth/ecscope](https://github.com/dhth/ecscope)
+9. 💪 Opened PR [#20](https://github.com/dhth/bmm/pull/20) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 💪 Opened PR [#1](https://github.com/jonhoo/dings/pull/1) in [jonhoo/dings](https://github.com/jonhoo/dings)
 <!--END_SECTION:activity-->
