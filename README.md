@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
-2. 🎉 Merged PR [#35](https://github.com/dhth/cueitup/pull/35) in [dhth/cueitup](https://github.com/dhth/cueitup)
-3. 💪 Opened PR [#35](https://github.com/dhth/cueitup/pull/35) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. 🗣 Commented on [#56](https://github.com/dhth/hours/pull/56#issuecomment-2727721975) in [dhth/hours](https://github.com/dhth/hours)
-5. 💪 Opened PR [#2](https://github.com/acidghost/hours/pull/2) in [acidghost/hours](https://github.com/acidghost/hours)
-6. 🎉 Merged PR [#1](https://github.com/dhth/cargo-dist-test/pull/1) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
-7. 💪 Opened PR [#1](https://github.com/dhth/cargo-dist-test/pull/1) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
-8. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2726954887) in [jonhoo/dings](https://github.com/jonhoo/dings)
-9. 🗣 Commented on [#46](https://github.com/dhth/kplay/pull/46#issuecomment-2724426293) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🎉 Merged PR [#23](https://github.com/dhth/tbll/pull/23) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 🗣 Commented on [#3760](https://github.com/Orange-OpenSource/hurl/issues/3760#issuecomment-2731309212) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+2. 💪 Opened PR [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+3. 🎉 Merged PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
+4. 💪 Opened PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
+5. 🎉 Merged PR [#35](https://github.com/dhth/cueitup/pull/35) in [dhth/cueitup](https://github.com/dhth/cueitup)
+6. 💪 Opened PR [#35](https://github.com/dhth/cueitup/pull/35) in [dhth/cueitup](https://github.com/dhth/cueitup)
+7. 🗣 Commented on [#56](https://github.com/dhth/hours/pull/56#issuecomment-2727721975) in [dhth/hours](https://github.com/dhth/hours)
+8. 💪 Opened PR [#2](https://github.com/acidghost/hours/pull/2) in [acidghost/hours](https://github.com/acidghost/hours)
+9. 🎉 Merged PR [#1](https://github.com/dhth/cargo-dist-test/pull/1) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
+10. 💪 Opened PR [#1](https://github.com/dhth/cargo-dist-test/pull/1) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 <!--END_SECTION:activity-->
