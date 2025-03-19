@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2733300044) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-2. 🗣 Commented on [#1578](https://github.com/atuinsh/atuin/issues/1578#issuecomment-2732546660) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-3. 💪 Opened PR [#2634](https://github.com/atuinsh/atuin/pull/2634) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-4. ❌ Closed PR [#1](https://github.com/dhth/dstll-action-test-caller/pull/1) in [dhth/dstll-action-test-caller](https://github.com/dhth/dstll-action-test-caller)
-5. ❌ Closed PR [#1](https://github.com/dhth/yamlfmt/pull/1) in [dhth/yamlfmt](https://github.com/dhth/yamlfmt)
-6. 🗣 Commented on [#3760](https://github.com/Orange-OpenSource/hurl/issues/3760#issuecomment-2731309212) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-7. 💪 Opened PR [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-8. 🎉 Merged PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 💪 Opened PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 🎉 Merged PR [#35](https://github.com/dhth/cueitup/pull/35) in [dhth/cueitup](https://github.com/dhth/cueitup)
+1. 🗣 Commented on [#2141](https://github.com/atuinsh/atuin/issues/2141#issuecomment-2734204410) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+2. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2733300044) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
+3. 🗣 Commented on [#1578](https://github.com/atuinsh/atuin/issues/1578#issuecomment-2732546660) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+4. 💪 Opened PR [#2634](https://github.com/atuinsh/atuin/pull/2634) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+5. ❌ Closed PR [#1](https://github.com/dhth/dstll-action-test-caller/pull/1) in [dhth/dstll-action-test-caller](https://github.com/dhth/dstll-action-test-caller)
+6. ❌ Closed PR [#1](https://github.com/dhth/yamlfmt/pull/1) in [dhth/yamlfmt](https://github.com/dhth/yamlfmt)
+7. 🗣 Commented on [#3760](https://github.com/Orange-OpenSource/hurl/issues/3760#issuecomment-2731309212) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+8. 💪 Opened PR [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+9. 🎉 Merged PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. 💪 Opened PR [#3](https://github.com/dhth/ecscope/pull/3) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
