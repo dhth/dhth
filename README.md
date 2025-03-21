@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867#issuecomment-2734980211) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-2. 🎉 Merged PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
-3. 💪 Opened PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#20](https://github.com/dhth/bmm/pull/20) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 💪 Opened PR [#36](https://github.com/dhth/cueitup/pull/36) in [dhth/cueitup](https://github.com/dhth/cueitup)
-6. 🗣 Commented on [#2141](https://github.com/atuinsh/atuin/issues/2141#issuecomment-2734204410) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-7. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2733300044) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-8. 🗣 Commented on [#1578](https://github.com/atuinsh/atuin/issues/1578#issuecomment-2732546660) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-9. 💪 Opened PR [#2634](https://github.com/atuinsh/atuin/pull/2634) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-10. ❌ Closed PR [#1](https://github.com/dhth/dstll-action-test-caller/pull/1) in [dhth/dstll-action-test-caller](https://github.com/dhth/dstll-action-test-caller)
+1. 🎉 Merged PR [#15](https://github.com/dhth/squidge/pull/15) in [dhth/squidge](https://github.com/dhth/squidge)
+2. 🗣 Commented on [#15](https://github.com/dhth/squidge/pull/15#issuecomment-2741182537) in [dhth/squidge](https://github.com/dhth/squidge)
+3. 🗣 Commented on [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867#issuecomment-2734980211) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+4. 🎉 Merged PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
+5. 💪 Opened PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
+6. 🎉 Merged PR [#20](https://github.com/dhth/bmm/pull/20) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 💪 Opened PR [#36](https://github.com/dhth/cueitup/pull/36) in [dhth/cueitup](https://github.com/dhth/cueitup)
+8. 🗣 Commented on [#2141](https://github.com/atuinsh/atuin/issues/2141#issuecomment-2734204410) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+9. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2733300044) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
+10. 🗣 Commented on [#1578](https://github.com/atuinsh/atuin/issues/1578#issuecomment-2732546660) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 <!--END_SECTION:activity-->
