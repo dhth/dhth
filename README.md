@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/dhth/squidge/pull/15) in [dhth/squidge](https://github.com/dhth/squidge)
-2. 🗣 Commented on [#15](https://github.com/dhth/squidge/pull/15#issuecomment-2741182537) in [dhth/squidge](https://github.com/dhth/squidge)
-3. 🗣 Commented on [#3867](https://github.com/Orange-OpenSource/hurl/pull/3867#issuecomment-2734980211) in [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
-4. 🎉 Merged PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
-5. 💪 Opened PR [#50](https://github.com/dhth/omm/pull/50) in [dhth/omm](https://github.com/dhth/omm)
-6. 🎉 Merged PR [#20](https://github.com/dhth/bmm/pull/20) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 💪 Opened PR [#36](https://github.com/dhth/cueitup/pull/36) in [dhth/cueitup](https://github.com/dhth/cueitup)
-8. 🗣 Commented on [#2141](https://github.com/atuinsh/atuin/issues/2141#issuecomment-2734204410) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-9. 🗣 Commented on [#140](https://github.com/t28hub/auto-palette/pull/140#issuecomment-2733300044) in [t28hub/auto-palette](https://github.com/t28hub/auto-palette)
-10. 🗣 Commented on [#1578](https://github.com/atuinsh/atuin/issues/1578#issuecomment-2732546660) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+1. 🗣 Commented on [#47](https://github.com/dhth/hours/issues/47#issuecomment-2741836986) in [dhth/hours](https://github.com/dhth/hours)
+2. 🔒 Closed issue [#47](https://github.com/dhth/hours/issues/47) in [dhth/hours](https://github.com/dhth/hours)
+3. 💪 Opened PR [#21](https://github.com/dhth/bmm/pull/21) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 🔒 Closed issue [#3](https://github.com/dhth/hello-github-actions/issues/3) in [dhth/hello-github-actions](https://github.com/dhth/hello-github-actions)
+5. 🗣 Commented on [#59](https://github.com/dhth/hours/issues/59#issuecomment-2741755259) in [dhth/hours](https://github.com/dhth/hours)
+6. 🗣 Commented on [#47](https://github.com/dhth/hours/issues/47#issuecomment-2741751583) in [dhth/hours](https://github.com/dhth/hours)
+7. 🗣 Commented on [#46](https://github.com/dhth/hours/issues/46#issuecomment-2741741060) in [dhth/hours](https://github.com/dhth/hours)
+8. 🗣 Commented on [#30](https://github.com/dhth/hours/issues/30#issuecomment-2741739378) in [dhth/hours](https://github.com/dhth/hours)
+9. 🗣 Commented on [#42](https://github.com/dhth/omm/issues/42#issuecomment-2741711801) in [dhth/omm](https://github.com/dhth/omm)
+10. 🗣 Commented on [#45](https://github.com/dhth/omm/issues/45#issuecomment-2741694914) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
