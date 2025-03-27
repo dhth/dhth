@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 💪 Opened PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2747636688) in [jonhoo/dings](https://github.com/jonhoo/dings)
-4. 🎉 Merged PR [#56](https://github.com/dhth/hours/pull/56) in [dhth/hours](https://github.com/dhth/hours)
-5. 🔒 Closed issue [#55](https://github.com/dhth/hours/issues/55) in [dhth/hours](https://github.com/dhth/hours)
-6. 🎉 Merged PR [#17](https://github.com/dhth/schemas/pull/17) in [dhth/schemas](https://github.com/dhth/schemas)
-7. ❌ Closed PR [#16](https://github.com/dhth/schemas/pull/16) in [dhth/schemas](https://github.com/dhth/schemas)
-8. ❌ Closed PR [#15](https://github.com/dhth/schemas/pull/15) in [dhth/schemas](https://github.com/dhth/schemas)
-9. ❌ Closed PR [#14](https://github.com/dhth/schemas/pull/14) in [dhth/schemas](https://github.com/dhth/schemas)
-10. 💪 Opened PR [#17](https://github.com/dhth/schemas/pull/17) in [dhth/schemas](https://github.com/dhth/schemas)
+1. 🗣 Commented on [#19](https://github.com/dhth/act3/pull/19#issuecomment-2755462575) in [dhth/act3](https://github.com/dhth/act3)
+2. 🎉 Merged PR [#19](https://github.com/dhth/act3/pull/19) in [dhth/act3](https://github.com/dhth/act3)
+3. 🎉 Merged PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
+4. 💪 Opened PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
+5. 🎉 Merged PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
+6. 💪 Opened PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
+7. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2747636688) in [jonhoo/dings](https://github.com/jonhoo/dings)
+8. 🎉 Merged PR [#56](https://github.com/dhth/hours/pull/56) in [dhth/hours](https://github.com/dhth/hours)
+9. 🔒 Closed issue [#55](https://github.com/dhth/hours/issues/55) in [dhth/hours](https://github.com/dhth/hours)
+10. 🎉 Merged PR [#17](https://github.com/dhth/schemas/pull/17) in [dhth/schemas](https://github.com/dhth/schemas)
 <!--END_SECTION:activity-->
