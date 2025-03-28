@@ -5,7 +5,8 @@ Hi there 👋
 
 What I'm up to these days:
 
-- `F[_]` Learning to solve problems using pure functional programming (in scala)
+- Picking up gleam and elm for building web applications based on [The Elm
+  Architecture](https://guide.elm-lang.org/architecture/)
 - Building developer tools (using go and rust)
 
 ### A few tools I've written
