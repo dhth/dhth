@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
-2. 💪 Opened PR [#153](https://github.com/gleam-lang/language-tour/pull/153) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
-3. 🎉 Merged PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
-4. 💪 Opened PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
-5. 🗣 Commented on [#19](https://github.com/dhth/act3/pull/19#issuecomment-2755462575) in [dhth/act3](https://github.com/dhth/act3)
-6. 🎉 Merged PR [#19](https://github.com/dhth/act3/pull/19) in [dhth/act3](https://github.com/dhth/act3)
-7. 🎉 Merged PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
-8. 💪 Opened PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
-9. 🎉 Merged PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
-10. 💪 Opened PR [#44](https://github.com/dhth/punchout/pull/44) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
+2. 🗣 Commented on [#153](https://github.com/gleam-lang/language-tour/pull/153#issuecomment-2762766738) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
+3. 💪 Opened PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
+4. 💪 Opened PR [#153](https://github.com/gleam-lang/language-tour/pull/153) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
+5. 🎉 Merged PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
+6. 💪 Opened PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
+7. 🗣 Commented on [#19](https://github.com/dhth/act3/pull/19#issuecomment-2755462575) in [dhth/act3](https://github.com/dhth/act3)
+8. 🎉 Merged PR [#19](https://github.com/dhth/act3/pull/19) in [dhth/act3](https://github.com/dhth/act3)
+9. 🎉 Merged PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
+10. 💪 Opened PR [#20](https://github.com/dhth/act3/pull/20) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
