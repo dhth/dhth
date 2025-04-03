@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
-2. 💪 Opened PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 🗣 Commented on [#29](https://github.com/dhth/prs/issues/29#issuecomment-2764655877) in [dhth/prs](https://github.com/dhth/prs)
-4. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2763299878) in [jonhoo/dings](https://github.com/jonhoo/dings)
-5. 🎉 Merged PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
-6. 🗣 Commented on [#153](https://github.com/gleam-lang/language-tour/pull/153#issuecomment-2762766738) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
-7. 💪 Opened PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
-8. 💪 Opened PR [#153](https://github.com/gleam-lang/language-tour/pull/153) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
-9. 🎉 Merged PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
-10. 💪 Opened PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
+1. 💪 Opened PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
+2. 🎉 Merged PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
+3. 💪 Opened PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
+4. 🗣 Commented on [#29](https://github.com/dhth/prs/issues/29#issuecomment-2764655877) in [dhth/prs](https://github.com/dhth/prs)
+5. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2763299878) in [jonhoo/dings](https://github.com/jonhoo/dings)
+6. 🎉 Merged PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
+7. 🗣 Commented on [#153](https://github.com/gleam-lang/language-tour/pull/153#issuecomment-2762766738) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
+8. 💪 Opened PR [#74](https://github.com/dhth/outtasync/pull/74) in [dhth/outtasync](https://github.com/dhth/outtasync)
+9. 💪 Opened PR [#153](https://github.com/gleam-lang/language-tour/pull/153) in [gleam-lang/language-tour](https://github.com/gleam-lang/language-tour)
+10. 🎉 Merged PR [#21](https://github.com/dhth/act3/pull/21) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
