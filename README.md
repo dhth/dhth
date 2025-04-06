@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
-2. 🎉 Merged PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 🎉 Merged PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
-4. 💪 Opened PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
-5. 🗣 Commented on [#28](https://github.com/dhth/tomo/pull/28#issuecomment-2776828429) in [dhth/tomo](https://github.com/dhth/tomo)
-6. 💪 Opened PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
-7. 🎉 Merged PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
-8. 💪 Opened PR [#5](https://github.com/dhth/ecscope/pull/5) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 🗣 Commented on [#29](https://github.com/dhth/prs/issues/29#issuecomment-2764655877) in [dhth/prs](https://github.com/dhth/prs)
-10. 🗣 Commented on [#1](https://github.com/jonhoo/dings/pull/1#issuecomment-2763299878) in [jonhoo/dings](https://github.com/jonhoo/dings)
+1. 🎉 Merged PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
+2. 🗣 Commented on [#63](https://github.com/dhth/hours/pull/63#issuecomment-2780749454) in [dhth/hours](https://github.com/dhth/hours)
+3. ❌ Closed PR [#62](https://github.com/dhth/hours/pull/62) in [dhth/hours](https://github.com/dhth/hours)
+4. 💪 Opened PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
+5. 💪 Opened PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
+6. 🎉 Merged PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
+7. 🎉 Merged PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
+8. 💪 Opened PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
+9. 🗣 Commented on [#28](https://github.com/dhth/tomo/pull/28#issuecomment-2776828429) in [dhth/tomo](https://github.com/dhth/tomo)
+10. 💪 Opened PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
