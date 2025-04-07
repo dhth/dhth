@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
-2. 🗣 Commented on [#63](https://github.com/dhth/hours/pull/63#issuecomment-2780749454) in [dhth/hours](https://github.com/dhth/hours)
-3. ❌ Closed PR [#62](https://github.com/dhth/hours/pull/62) in [dhth/hours](https://github.com/dhth/hours)
-4. 💪 Opened PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
-5. 💪 Opened PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
-6. 🎉 Merged PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
-7. 🎉 Merged PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
-8. 💪 Opened PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
-9. 🗣 Commented on [#28](https://github.com/dhth/tomo/pull/28#issuecomment-2776828429) in [dhth/tomo](https://github.com/dhth/tomo)
-10. 💪 Opened PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
+2. 💪 Opened PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
+3. 🎉 Merged PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
+4. 🗣 Commented on [#63](https://github.com/dhth/hours/pull/63#issuecomment-2780749454) in [dhth/hours](https://github.com/dhth/hours)
+5. ❌ Closed PR [#62](https://github.com/dhth/hours/pull/62) in [dhth/hours](https://github.com/dhth/hours)
+6. 💪 Opened PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
+7. 💪 Opened PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
+8. 🎉 Merged PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
+9. 🎉 Merged PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
+10. 💪 Opened PR [#29](https://github.com/dhth/tomo/pull/29) in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
