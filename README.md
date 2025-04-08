@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/dhth/cueitup/pull/36) in [dhth/cueitup](https://github.com/dhth/cueitup)
-2. 💪 Opened PR [#53](https://github.com/dhth/kplay/pull/53) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 🎉 Merged PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
-4. 💪 Opened PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
-5. 🎉 Merged PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
-6. 🗣 Commented on [#63](https://github.com/dhth/hours/pull/63#issuecomment-2780749454) in [dhth/hours](https://github.com/dhth/hours)
-7. ❌ Closed PR [#62](https://github.com/dhth/hours/pull/62) in [dhth/hours](https://github.com/dhth/hours)
-8. 💪 Opened PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
-9. 💪 Opened PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
-10. 🎉 Merged PR [#12](https://github.com/dhth/ecscope/pull/12) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#13](https://github.com/dhth/ecscope/pull/13) in [dhth/ecscope](https://github.com/dhth/ecscope)
+2. 💪 Opened PR [#13](https://github.com/dhth/ecscope/pull/13) in [dhth/ecscope](https://github.com/dhth/ecscope)
+3. ❌ Closed PR [#4](https://github.com/dhth/ecscope/pull/4) in [dhth/ecscope](https://github.com/dhth/ecscope)
+4. 🎉 Merged PR [#36](https://github.com/dhth/cueitup/pull/36) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. 💪 Opened PR [#53](https://github.com/dhth/kplay/pull/53) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
+7. 💪 Opened PR [#17](https://github.com/dhth/squish/pull/17) in [dhth/squish](https://github.com/dhth/squish)
+8. 🎉 Merged PR [#63](https://github.com/dhth/hours/pull/63) in [dhth/hours](https://github.com/dhth/hours)
+9. 🗣 Commented on [#63](https://github.com/dhth/hours/pull/63#issuecomment-2780749454) in [dhth/hours](https://github.com/dhth/hours)
+10. ❌ Closed PR [#62](https://github.com/dhth/hours/pull/62) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
