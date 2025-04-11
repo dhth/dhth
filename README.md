@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/dhth/cueitup/pull/39) in [dhth/cueitup](https://github.com/dhth/cueitup)
-2. 💪 Opened PR [#39](https://github.com/dhth/cueitup/pull/39) in [dhth/cueitup](https://github.com/dhth/cueitup)
-3. ❌ Closed PR [#34](https://github.com/dhth/cueitup/pull/34) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. ❌ Closed PR [#33](https://github.com/dhth/cueitup/pull/33) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. ❌ Closed PR [#32](https://github.com/dhth/cueitup/pull/32) in [dhth/cueitup](https://github.com/dhth/cueitup)
-6. 🎉 Merged PR [#37](https://github.com/dhth/cueitup/pull/37) in [dhth/cueitup](https://github.com/dhth/cueitup)
-7. 💪 Opened PR [#37](https://github.com/dhth/cueitup/pull/37) in [dhth/cueitup](https://github.com/dhth/cueitup)
-8. 🎉 Merged PR [#13](https://github.com/dhth/ecscope/pull/13) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 💪 Opened PR [#13](https://github.com/dhth/ecscope/pull/13) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. ❌ Closed PR [#4](https://github.com/dhth/ecscope/pull/4) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#40](https://github.com/dhth/cueitup/pull/40) in [dhth/cueitup](https://github.com/dhth/cueitup)
+2. 💪 Opened PR [#40](https://github.com/dhth/cueitup/pull/40) in [dhth/cueitup](https://github.com/dhth/cueitup)
+3. 🎉 Merged PR [#39](https://github.com/dhth/cueitup/pull/39) in [dhth/cueitup](https://github.com/dhth/cueitup)
+4. 💪 Opened PR [#39](https://github.com/dhth/cueitup/pull/39) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. ❌ Closed PR [#34](https://github.com/dhth/cueitup/pull/34) in [dhth/cueitup](https://github.com/dhth/cueitup)
+6. ❌ Closed PR [#33](https://github.com/dhth/cueitup/pull/33) in [dhth/cueitup](https://github.com/dhth/cueitup)
+7. ❌ Closed PR [#32](https://github.com/dhth/cueitup/pull/32) in [dhth/cueitup](https://github.com/dhth/cueitup)
+8. 🎉 Merged PR [#37](https://github.com/dhth/cueitup/pull/37) in [dhth/cueitup](https://github.com/dhth/cueitup)
+9. 💪 Opened PR [#37](https://github.com/dhth/cueitup/pull/37) in [dhth/cueitup](https://github.com/dhth/cueitup)
+10. 🎉 Merged PR [#13](https://github.com/dhth/ecscope/pull/13) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
