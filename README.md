@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/dhth/cueitup/pull/49) in [dhth/cueitup](https://github.com/dhth/cueitup)
-2. ❌ Closed PR [#46](https://github.com/dhth/cueitup/pull/46) in [dhth/cueitup](https://github.com/dhth/cueitup)
-3. ❌ Closed PR [#45](https://github.com/dhth/cueitup/pull/45) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. ❌ Closed PR [#44](https://github.com/dhth/cueitup/pull/44) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. 💪 Opened PR [#49](https://github.com/dhth/cueitup/pull/49) in [dhth/cueitup](https://github.com/dhth/cueitup)
-6. 🎉 Merged PR [#48](https://github.com/dhth/cueitup/pull/48) in [dhth/cueitup](https://github.com/dhth/cueitup)
-7. 💪 Opened PR [#48](https://github.com/dhth/cueitup/pull/48) in [dhth/cueitup](https://github.com/dhth/cueitup)
-8. 🎉 Merged PR [#47](https://github.com/dhth/cueitup/pull/47) in [dhth/cueitup](https://github.com/dhth/cueitup)
-9. 💪 Opened PR [#47](https://github.com/dhth/cueitup/pull/47) in [dhth/cueitup](https://github.com/dhth/cueitup)
-10. 🎉 Merged PR [#13](https://github.com/dhth/shfl/pull/13) in [dhth/shfl](https://github.com/dhth/shfl)
+1. 🚀 Published release [v1.0.0](https://github.com/dhth/cueitup/releases/tag/v1.0.0) in [dhth/cueitup](https://github.com/dhth/cueitup)
+2. 🎉 Merged PR [#43](https://github.com/dhth/cueitup/pull/43) in [dhth/cueitup](https://github.com/dhth/cueitup)
+3. 🎉 Merged PR [#49](https://github.com/dhth/cueitup/pull/49) in [dhth/cueitup](https://github.com/dhth/cueitup)
+4. ❌ Closed PR [#46](https://github.com/dhth/cueitup/pull/46) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. ❌ Closed PR [#45](https://github.com/dhth/cueitup/pull/45) in [dhth/cueitup](https://github.com/dhth/cueitup)
+6. ❌ Closed PR [#44](https://github.com/dhth/cueitup/pull/44) in [dhth/cueitup](https://github.com/dhth/cueitup)
+7. 💪 Opened PR [#49](https://github.com/dhth/cueitup/pull/49) in [dhth/cueitup](https://github.com/dhth/cueitup)
+8. 🎉 Merged PR [#48](https://github.com/dhth/cueitup/pull/48) in [dhth/cueitup](https://github.com/dhth/cueitup)
+9. 💪 Opened PR [#48](https://github.com/dhth/cueitup/pull/48) in [dhth/cueitup](https://github.com/dhth/cueitup)
+10. 🎉 Merged PR [#47](https://github.com/dhth/cueitup/pull/47) in [dhth/cueitup](https://github.com/dhth/cueitup)
 <!--END_SECTION:activity-->
