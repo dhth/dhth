@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dhth/ghch/pull/1) in [dhth/ghch](https://github.com/dhth/ghch)
-2. 💪 Opened PR [#1](https://github.com/dhth/ghch/pull/1) in [dhth/ghch](https://github.com/dhth/ghch)
-3. 🎉 Merged PR [#82](https://github.com/dhth/ecsv/pull/82) in [dhth/ecsv](https://github.com/dhth/ecsv)
-4. 💪 Opened PR [#82](https://github.com/dhth/ecsv/pull/82) in [dhth/ecsv](https://github.com/dhth/ecsv)
-5. 🎉 Merged PR [#14](https://github.com/dhth/shfl/pull/14) in [dhth/shfl](https://github.com/dhth/shfl)
-6. 🎉 Merged PR [#30](https://github.com/dhth/tbll/pull/30) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 💪 Opened PR [#30](https://github.com/dhth/tbll/pull/30) in [dhth/tbll](https://github.com/dhth/tbll)
-8. 🚀 Published release [v2.0.0](https://github.com/dhth/kplay/releases/tag/v2.0.0) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 🎉 Merged PR [#57](https://github.com/dhth/kplay/pull/57) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 💪 Opened PR [#57](https://github.com/dhth/kplay/pull/57) in [dhth/kplay](https://github.com/dhth/kplay)
+1. 🎉 Merged PR [#8](https://github.com/dhth/ghch/pull/8) in [dhth/ghch](https://github.com/dhth/ghch)
+2. 💪 Opened PR [#8](https://github.com/dhth/ghch/pull/8) in [dhth/ghch](https://github.com/dhth/ghch)
+3. 🎉 Merged PR [#7](https://github.com/dhth/ghch/pull/7) in [dhth/ghch](https://github.com/dhth/ghch)
+4. 💪 Opened PR [#7](https://github.com/dhth/ghch/pull/7) in [dhth/ghch](https://github.com/dhth/ghch)
+5. 🎉 Merged PR [#6](https://github.com/dhth/ghch/pull/6) in [dhth/ghch](https://github.com/dhth/ghch)
+6. 💪 Opened PR [#6](https://github.com/dhth/ghch/pull/6) in [dhth/ghch](https://github.com/dhth/ghch)
+7. 🎉 Merged PR [#2](https://github.com/dhth/ghch/pull/2) in [dhth/ghch](https://github.com/dhth/ghch)
+8. 🎉 Merged PR [#5](https://github.com/dhth/ghch/pull/5) in [dhth/ghch](https://github.com/dhth/ghch)
+9. 💪 Opened PR [#5](https://github.com/dhth/ghch/pull/5) in [dhth/ghch](https://github.com/dhth/ghch)
+10. 🎉 Merged PR [#4](https://github.com/dhth/ghch/pull/4) in [dhth/ghch](https://github.com/dhth/ghch)
 <!--END_SECTION:activity-->
