@@ -46,14 +46,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/dhth/ghch/pull/10) in [dhth/ghch](https://github.com/dhth/ghch)
-2. 🎉 Merged PR [#9](https://github.com/dhth/ghch/pull/9) in [dhth/ghch](https://github.com/dhth/ghch)
-3. 🗣 Commented on [#50](https://github.com/dhth/cueitup/pull/50#issuecomment-2848121188) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. 🎉 Merged PR [#50](https://github.com/dhth/cueitup/pull/50) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. 🗣 Commented on [#56](https://github.com/dhth/omm/issues/56#issuecomment-2847785204) in [dhth/omm](https://github.com/dhth/omm)
-6. 🚀 Published release [v0.6.0](https://github.com/dhth/omm/releases/tag/v0.6.0) in [dhth/omm](https://github.com/dhth/omm)
-7. 🎉 Merged PR [#64](https://github.com/dhth/omm/pull/64) in [dhth/omm](https://github.com/dhth/omm)
-8. 💪 Opened PR [#64](https://github.com/dhth/omm/pull/64) in [dhth/omm](https://github.com/dhth/omm)
-9. 🎉 Merged PR [#63](https://github.com/dhth/omm/pull/63) in [dhth/omm](https://github.com/dhth/omm)
-10. 🗣 Commented on [#52](https://github.com/dhth/omm/pull/52#issuecomment-2847746434) in [dhth/omm](https://github.com/dhth/omm)
+1. 🎉 Merged PR [#13](https://github.com/dhth/ghch/pull/13) in [dhth/ghch](https://github.com/dhth/ghch)
+2. 💪 Opened PR [#13](https://github.com/dhth/ghch/pull/13) in [dhth/ghch](https://github.com/dhth/ghch)
+3. 🎉 Merged PR [#12](https://github.com/dhth/ghch/pull/12) in [dhth/ghch](https://github.com/dhth/ghch)
+4. 💪 Opened PR [#12](https://github.com/dhth/ghch/pull/12) in [dhth/ghch](https://github.com/dhth/ghch)
+5. 🎉 Merged PR [#11](https://github.com/dhth/ghch/pull/11) in [dhth/ghch](https://github.com/dhth/ghch)
+6. 💪 Opened PR [#11](https://github.com/dhth/ghch/pull/11) in [dhth/ghch](https://github.com/dhth/ghch)
+7. 🎉 Merged PR [#10](https://github.com/dhth/ghch/pull/10) in [dhth/ghch](https://github.com/dhth/ghch)
+8. 💪 Opened PR [#10](https://github.com/dhth/ghch/pull/10) in [dhth/ghch](https://github.com/dhth/ghch)
+9. 🎉 Merged PR [#9](https://github.com/dhth/ghch/pull/9) in [dhth/ghch](https://github.com/dhth/ghch)
+10. 🗣 Commented on [#50](https://github.com/dhth/cueitup/pull/50#issuecomment-2848121188) in [dhth/cueitup](https://github.com/dhth/cueitup)
 <!--END_SECTION:activity-->
