@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/dhth/bmm/pull/23#issuecomment-2849296939) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🗣 Commented on [#26](https://github.com/dhth/bmm/pull/26#issuecomment-2849296912) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🗣 Commented on [#24](https://github.com/dhth/bmm/pull/24#issuecomment-2849296867) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 🎉 Merged PR [#31](https://github.com/dhth/bmm/pull/31) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🗣 Commented on [#31](https://github.com/dhth/bmm/pull/31#issuecomment-2849294371) in [dhth/bmm](https://github.com/dhth/bmm)
-6. 🎉 Merged PR [#34](https://github.com/dhth/bmm/pull/34) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 💪 Opened PR [#34](https://github.com/dhth/bmm/pull/34) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 🎉 Merged PR [#14](https://github.com/dhth/ghch/pull/14) in [dhth/ghch](https://github.com/dhth/ghch)
-9. 💪 Opened PR [#14](https://github.com/dhth/ghch/pull/14) in [dhth/ghch](https://github.com/dhth/ghch)
-10. 🎉 Merged PR [#13](https://github.com/dhth/ghch/pull/13) in [dhth/ghch](https://github.com/dhth/ghch)
+1. 🎉 Merged PR [#2](https://github.com/dhth/chronotes/pull/2) in [dhth/chronotes](https://github.com/dhth/chronotes)
+2. 💪 Opened PR [#2](https://github.com/dhth/chronotes/pull/2) in [dhth/chronotes](https://github.com/dhth/chronotes)
+3. 🎉 Merged PR [#1](https://github.com/dhth/chronotes/pull/1) in [dhth/chronotes](https://github.com/dhth/chronotes)
+4. 💪 Opened PR [#1](https://github.com/dhth/chronotes/pull/1) in [dhth/chronotes](https://github.com/dhth/chronotes)
+5. 🗣 Commented on [#23](https://github.com/dhth/bmm/pull/23#issuecomment-2849296939) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🗣 Commented on [#26](https://github.com/dhth/bmm/pull/26#issuecomment-2849296912) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🗣 Commented on [#24](https://github.com/dhth/bmm/pull/24#issuecomment-2849296867) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🎉 Merged PR [#31](https://github.com/dhth/bmm/pull/31) in [dhth/bmm](https://github.com/dhth/bmm)
+9. 🗣 Commented on [#31](https://github.com/dhth/bmm/pull/31#issuecomment-2849294371) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🎉 Merged PR [#34](https://github.com/dhth/bmm/pull/34) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
