@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/dhth/ghch/pull/15) in [dhth/ghch](https://github.com/dhth/ghch)
-2. 🚀 Published release [v2.0.0](https://github.com/dhth/outtasync/releases/tag/v2.0.0) in [dhth/outtasync](https://github.com/dhth/outtasync)
-3. 🗣 Commented on [#61](https://github.com/dhth/outtasync/pull/61#issuecomment-2858971562) in [dhth/outtasync](https://github.com/dhth/outtasync)
-4. 🗣 Commented on [#71](https://github.com/dhth/outtasync/pull/71#issuecomment-2858971087) in [dhth/outtasync](https://github.com/dhth/outtasync)
-5. 🗣 Commented on [#72](https://github.com/dhth/outtasync/pull/72#issuecomment-2858970569) in [dhth/outtasync](https://github.com/dhth/outtasync)
-6. 🗣 Commented on [#73](https://github.com/dhth/outtasync/pull/73#issuecomment-2858970237) in [dhth/outtasync](https://github.com/dhth/outtasync)
-7. 🎉 Merged PR [#76](https://github.com/dhth/outtasync/pull/76) in [dhth/outtasync](https://github.com/dhth/outtasync)
-8. 💪 Opened PR [#76](https://github.com/dhth/outtasync/pull/76) in [dhth/outtasync](https://github.com/dhth/outtasync)
-9. 🎉 Merged PR [#75](https://github.com/dhth/outtasync/pull/75) in [dhth/outtasync](https://github.com/dhth/outtasync)
-10. 🎉 Merged PR [#3](https://github.com/dhth/chronotes/pull/3) in [dhth/chronotes](https://github.com/dhth/chronotes)
+1. 💪 Opened PR [#4](https://github.com/dhth/chronotes/pull/4) in [dhth/chronotes](https://github.com/dhth/chronotes)
+2. 🎉 Merged PR [#15](https://github.com/dhth/ghch/pull/15) in [dhth/ghch](https://github.com/dhth/ghch)
+3. 💪 Opened PR [#15](https://github.com/dhth/ghch/pull/15) in [dhth/ghch](https://github.com/dhth/ghch)
+4. 🚀 Published release [v2.0.0](https://github.com/dhth/outtasync/releases/tag/v2.0.0) in [dhth/outtasync](https://github.com/dhth/outtasync)
+5. 🗣 Commented on [#61](https://github.com/dhth/outtasync/pull/61#issuecomment-2858971562) in [dhth/outtasync](https://github.com/dhth/outtasync)
+6. 🗣 Commented on [#71](https://github.com/dhth/outtasync/pull/71#issuecomment-2858971087) in [dhth/outtasync](https://github.com/dhth/outtasync)
+7. 🗣 Commented on [#72](https://github.com/dhth/outtasync/pull/72#issuecomment-2858970569) in [dhth/outtasync](https://github.com/dhth/outtasync)
+8. 🗣 Commented on [#73](https://github.com/dhth/outtasync/pull/73#issuecomment-2858970237) in [dhth/outtasync](https://github.com/dhth/outtasync)
+9. 🎉 Merged PR [#76](https://github.com/dhth/outtasync/pull/76) in [dhth/outtasync](https://github.com/dhth/outtasync)
+10. 💪 Opened PR [#76](https://github.com/dhth/outtasync/pull/76) in [dhth/outtasync](https://github.com/dhth/outtasync)
 <!--END_SECTION:activity-->
