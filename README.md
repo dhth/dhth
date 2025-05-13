@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dhth/ddiff/pull/1) in [dhth/ddiff](https://github.com/dhth/ddiff)
-2. 💪 Opened PR [#1](https://github.com/dhth/ddiff/pull/1) in [dhth/ddiff](https://github.com/dhth/ddiff)
-3. 🎉 Merged PR [#4](https://github.com/dhth/chronotes/pull/4) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 💪 Opened PR [#4](https://github.com/dhth/chronotes/pull/4) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 🎉 Merged PR [#15](https://github.com/dhth/ghch/pull/15) in [dhth/ghch](https://github.com/dhth/ghch)
-6. 💪 Opened PR [#15](https://github.com/dhth/ghch/pull/15) in [dhth/ghch](https://github.com/dhth/ghch)
-7. 🚀 Published release [v2.0.0](https://github.com/dhth/outtasync/releases/tag/v2.0.0) in [dhth/outtasync](https://github.com/dhth/outtasync)
-8. 🗣 Commented on [#61](https://github.com/dhth/outtasync/pull/61#issuecomment-2858971562) in [dhth/outtasync](https://github.com/dhth/outtasync)
-9. 🗣 Commented on [#71](https://github.com/dhth/outtasync/pull/71#issuecomment-2858971087) in [dhth/outtasync](https://github.com/dhth/outtasync)
-10. 🗣 Commented on [#72](https://github.com/dhth/outtasync/pull/72#issuecomment-2858970569) in [dhth/outtasync](https://github.com/dhth/outtasync)
+1. 🎉 Merged PR [#17](https://github.com/dhth/shfl/pull/17) in [dhth/shfl](https://github.com/dhth/shfl)
+2. 🎉 Merged PR [#23](https://github.com/dhth/schemas/pull/23) in [dhth/schemas](https://github.com/dhth/schemas)
+3. 🎉 Merged PR [#61](https://github.com/dhth/kplay/pull/61) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 💪 Opened PR [#23](https://github.com/dhth/schemas/pull/23) in [dhth/schemas](https://github.com/dhth/schemas)
+5. 💪 Opened PR [#61](https://github.com/dhth/kplay/pull/61) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#77](https://github.com/dhth/outtasync/pull/77) in [dhth/outtasync](https://github.com/dhth/outtasync)
+7. 🎉 Merged PR [#1](https://github.com/dhth/ddiff/pull/1) in [dhth/ddiff](https://github.com/dhth/ddiff)
+8. 💪 Opened PR [#1](https://github.com/dhth/ddiff/pull/1) in [dhth/ddiff](https://github.com/dhth/ddiff)
+9. 🎉 Merged PR [#4](https://github.com/dhth/chronotes/pull/4) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. 💪 Opened PR [#4](https://github.com/dhth/chronotes/pull/4) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
