@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/dhth/act3/pull/23#issuecomment-2881718118) in [dhth/act3](https://github.com/dhth/act3)
-2. 🎉 Merged PR [#27](https://github.com/dhth/act3/pull/27) in [dhth/act3](https://github.com/dhth/act3)
-3. 🗣 Commented on [#25](https://github.com/dhth/act3/pull/25#issuecomment-2881596063) in [dhth/act3](https://github.com/dhth/act3)
-4. 💪 Opened PR [#27](https://github.com/dhth/act3/pull/27) in [dhth/act3](https://github.com/dhth/act3)
-5. 🎉 Merged PR [#26](https://github.com/dhth/act3/pull/26) in [dhth/act3](https://github.com/dhth/act3)
-6. 💪 Opened PR [#26](https://github.com/dhth/act3/pull/26) in [dhth/act3](https://github.com/dhth/act3)
-7. 🎉 Merged PR [#17](https://github.com/dhth/shfl/pull/17) in [dhth/shfl](https://github.com/dhth/shfl)
-8. 🎉 Merged PR [#23](https://github.com/dhth/schemas/pull/23) in [dhth/schemas](https://github.com/dhth/schemas)
-9. 🎉 Merged PR [#61](https://github.com/dhth/kplay/pull/61) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 💪 Opened PR [#23](https://github.com/dhth/schemas/pull/23) in [dhth/schemas](https://github.com/dhth/schemas)
+1. 🎉 Merged PR [#2](https://github.com/dhth/lustre-theme-switch/pull/2) in [dhth/lustre-theme-switch](https://github.com/dhth/lustre-theme-switch)
+2. 💪 Opened PR [#2](https://github.com/dhth/lustre-theme-switch/pull/2) in [dhth/lustre-theme-switch](https://github.com/dhth/lustre-theme-switch)
+3. 🎉 Merged PR [#33](https://github.com/dhth/tbll/pull/33) in [dhth/tbll](https://github.com/dhth/tbll)
+4. 🎉 Merged PR [#1](https://github.com/dhth/lustre-theme-switch/pull/1) in [dhth/lustre-theme-switch](https://github.com/dhth/lustre-theme-switch)
+5. 💪 Opened PR [#1](https://github.com/dhth/lustre-theme-switch/pull/1) in [dhth/lustre-theme-switch](https://github.com/dhth/lustre-theme-switch)
+6. 💪 Opened PR [#33](https://github.com/dhth/tbll/pull/33) in [dhth/tbll](https://github.com/dhth/tbll)
+7. 🎉 Merged PR [#16](https://github.com/dhth/shfl/pull/16) in [dhth/shfl](https://github.com/dhth/shfl)
+8. 🗣 Commented on [#23](https://github.com/dhth/act3/pull/23#issuecomment-2881718118) in [dhth/act3](https://github.com/dhth/act3)
+9. 🎉 Merged PR [#27](https://github.com/dhth/act3/pull/27) in [dhth/act3](https://github.com/dhth/act3)
+10. 🗣 Commented on [#25](https://github.com/dhth/act3/pull/25#issuecomment-2881596063) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
