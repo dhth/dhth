@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/dhth/chronotes/pull/9) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. 🎉 Merged PR [#8](https://github.com/dhth/chronotes/pull/8) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. 💪 Opened PR [#8](https://github.com/dhth/chronotes/pull/8) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 🎉 Merged PR [#7](https://github.com/dhth/chronotes/pull/7) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 💪 Opened PR [#7](https://github.com/dhth/chronotes/pull/7) in [dhth/chronotes](https://github.com/dhth/chronotes)
-6. 🎉 Merged PR [#6](https://github.com/dhth/chronotes/pull/6) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. 💪 Opened PR [#6](https://github.com/dhth/chronotes/pull/6) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. 🎉 Merged PR [#5](https://github.com/dhth/chronotes/pull/5) in [dhth/chronotes](https://github.com/dhth/chronotes)
-9. 💪 Opened PR [#5](https://github.com/dhth/chronotes/pull/5) in [dhth/chronotes](https://github.com/dhth/chronotes)
-10. 🎉 Merged PR [#2](https://github.com/dhth/lustre-theme-switch/pull/2) in [dhth/lustre-theme-switch](https://github.com/dhth/lustre-theme-switch)
+1. 🎉 Merged PR [#10](https://github.com/dhth/chronotes/pull/10) in [dhth/chronotes](https://github.com/dhth/chronotes)
+2. 💪 Opened PR [#10](https://github.com/dhth/chronotes/pull/10) in [dhth/chronotes](https://github.com/dhth/chronotes)
+3. 🎉 Merged PR [#16](https://github.com/dhth/ghx/pull/16) in [dhth/ghx](https://github.com/dhth/ghx)
+4. 💪 Opened PR [#16](https://github.com/dhth/ghx/pull/16) in [dhth/ghx](https://github.com/dhth/ghx)
+5. 🎉 Merged PR [#9](https://github.com/dhth/chronotes/pull/9) in [dhth/chronotes](https://github.com/dhth/chronotes)
+6. 💪 Opened PR [#9](https://github.com/dhth/chronotes/pull/9) in [dhth/chronotes](https://github.com/dhth/chronotes)
+7. 🎉 Merged PR [#8](https://github.com/dhth/chronotes/pull/8) in [dhth/chronotes](https://github.com/dhth/chronotes)
+8. 💪 Opened PR [#8](https://github.com/dhth/chronotes/pull/8) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. 🎉 Merged PR [#7](https://github.com/dhth/chronotes/pull/7) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. 💪 Opened PR [#7](https://github.com/dhth/chronotes/pull/7) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
