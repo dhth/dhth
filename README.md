@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/dhth/tomo/pull/33) in [dhth/tomo](https://github.com/dhth/tomo)
-2. 🎉 Merged PR [#31](https://github.com/dhth/tomo/pull/31) in [dhth/tomo](https://github.com/dhth/tomo)
-3. 🎉 Merged PR [#30](https://github.com/dhth/tomo/pull/30) in [dhth/tomo](https://github.com/dhth/tomo)
-4. 💪 Opened PR [#88](https://github.com/dhth/ecsv/pull/88) in [dhth/ecsv](https://github.com/dhth/ecsv)
-5. 🎉 Merged PR [#87](https://github.com/dhth/ecsv/pull/87) in [dhth/ecsv](https://github.com/dhth/ecsv)
-6. 💪 Opened PR [#87](https://github.com/dhth/ecsv/pull/87) in [dhth/ecsv](https://github.com/dhth/ecsv)
-7. 🎉 Merged PR [#86](https://github.com/dhth/ecsv/pull/86) in [dhth/ecsv](https://github.com/dhth/ecsv)
-8. 💪 Opened PR [#86](https://github.com/dhth/ecsv/pull/86) in [dhth/ecsv](https://github.com/dhth/ecsv)
-9. 🎉 Merged PR [#17](https://github.com/dhth/chronotes/pull/17) in [dhth/chronotes](https://github.com/dhth/chronotes)
-10. 💪 Opened PR [#17](https://github.com/dhth/chronotes/pull/17) in [dhth/chronotes](https://github.com/dhth/chronotes)
+1. 🎉 Merged PR [#64](https://github.com/dhth/hours/pull/64) in [dhth/hours](https://github.com/dhth/hours)
+2. 🎉 Merged PR [#65](https://github.com/dhth/hours/pull/65) in [dhth/hours](https://github.com/dhth/hours)
+3. 🎉 Merged PR [#33](https://github.com/dhth/tomo/pull/33) in [dhth/tomo](https://github.com/dhth/tomo)
+4. 🎉 Merged PR [#31](https://github.com/dhth/tomo/pull/31) in [dhth/tomo](https://github.com/dhth/tomo)
+5. 🎉 Merged PR [#30](https://github.com/dhth/tomo/pull/30) in [dhth/tomo](https://github.com/dhth/tomo)
+6. 💪 Opened PR [#88](https://github.com/dhth/ecsv/pull/88) in [dhth/ecsv](https://github.com/dhth/ecsv)
+7. 🎉 Merged PR [#87](https://github.com/dhth/ecsv/pull/87) in [dhth/ecsv](https://github.com/dhth/ecsv)
+8. 💪 Opened PR [#87](https://github.com/dhth/ecsv/pull/87) in [dhth/ecsv](https://github.com/dhth/ecsv)
+9. 🎉 Merged PR [#86](https://github.com/dhth/ecsv/pull/86) in [dhth/ecsv](https://github.com/dhth/ecsv)
+10. 💪 Opened PR [#86](https://github.com/dhth/ecsv/pull/86) in [dhth/ecsv](https://github.com/dhth/ecsv)
 <!--END_SECTION:activity-->
