@@ -47,14 +47,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/dhth/prs/pull/26#issuecomment-2906058306) in [dhth/prs](https://github.com/dhth/prs)
-2. 🗣 Commented on [#27](https://github.com/dhth/prs/pull/27#issuecomment-2906058192) in [dhth/prs](https://github.com/dhth/prs)
-3. 🗣 Commented on [#30](https://github.com/dhth/prs/pull/30#issuecomment-2906058088) in [dhth/prs](https://github.com/dhth/prs)
-4. 🗣 Commented on [#32](https://github.com/dhth/prs/pull/32#issuecomment-2906057983) in [dhth/prs](https://github.com/dhth/prs)
-5. 🎉 Merged PR [#35](https://github.com/dhth/prs/pull/35) in [dhth/prs](https://github.com/dhth/prs)
-6. 💪 Opened PR [#35](https://github.com/dhth/prs/pull/35) in [dhth/prs](https://github.com/dhth/prs)
-7. 🎉 Merged PR [#14](https://github.com/dhth/commits/pull/14) in [dhth/commits](https://github.com/dhth/commits)
-8. 💪 Opened PR [#14](https://github.com/dhth/commits/pull/14) in [dhth/commits](https://github.com/dhth/commits)
-9. 🎉 Merged PR [#24](https://github.com/dhth/dstll/pull/24) in [dhth/dstll](https://github.com/dhth/dstll)
-10. 🎉 Merged PR [#47](https://github.com/dhth/punchout/pull/47) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🗣 Commented on [#18](https://github.com/dhth/schemas/pull/18#issuecomment-2906766280) in [dhth/schemas](https://github.com/dhth/schemas)
+4. 🗣 Commented on [#11](https://github.com/dhth/mult/pull/11#issuecomment-2906765707) in [dhth/mult](https://github.com/dhth/mult)
+5. ❌ Closed PR [#1](https://github.com/dhth/freeCodeCamp-projects/pull/1) in [dhth/freeCodeCamp-projects](https://github.com/dhth/freeCodeCamp-projects)
+6. ❌ Closed PR [#8](https://github.com/dhth/star-wars-explorer-test-case/pull/8) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
+7. ❌ Closed PR [#7](https://github.com/dhth/star-wars-explorer-test-case/pull/7) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
+8. ❌ Closed PR [#8](https://github.com/dhth/usersnack-test-case/pull/8) in [dhth/usersnack-test-case](https://github.com/dhth/usersnack-test-case)
+9. ❌ Closed PR [#3](https://github.com/dhth/usersnack-test-case/pull/3) in [dhth/usersnack-test-case](https://github.com/dhth/usersnack-test-case)
+10. ❌ Closed PR [#3](https://github.com/dhth/flask-react-ecs-demo/pull/3) in [dhth/flask-react-ecs-demo](https://github.com/dhth/flask-react-ecs-demo)
 <!--END_SECTION:activity-->
