@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/dhth/squidge/pull/24) in [dhth/squidge](https://github.com/dhth/squidge)
-2. 🎉 Merged PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 💪 Opened PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 🗣 Commented on [#18](https://github.com/dhth/schemas/pull/18#issuecomment-2906766280) in [dhth/schemas](https://github.com/dhth/schemas)
-5. 🗣 Commented on [#11](https://github.com/dhth/mult/pull/11#issuecomment-2906765707) in [dhth/mult](https://github.com/dhth/mult)
-6. ❌ Closed PR [#1](https://github.com/dhth/freeCodeCamp-projects/pull/1) in [dhth/freeCodeCamp-projects](https://github.com/dhth/freeCodeCamp-projects)
-7. ❌ Closed PR [#8](https://github.com/dhth/star-wars-explorer-test-case/pull/8) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
-8. ❌ Closed PR [#7](https://github.com/dhth/star-wars-explorer-test-case/pull/7) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
-9. ❌ Closed PR [#8](https://github.com/dhth/usersnack-test-case/pull/8) in [dhth/usersnack-test-case](https://github.com/dhth/usersnack-test-case)
-10. ❌ Closed PR [#3](https://github.com/dhth/usersnack-test-case/pull/3) in [dhth/usersnack-test-case](https://github.com/dhth/usersnack-test-case)
+1. 🎉 Merged PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#24](https://github.com/dhth/squidge/pull/24) in [dhth/squidge](https://github.com/dhth/squidge)
+4. 🎉 Merged PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 💪 Opened PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 🗣 Commented on [#18](https://github.com/dhth/schemas/pull/18#issuecomment-2906766280) in [dhth/schemas](https://github.com/dhth/schemas)
+7. 🗣 Commented on [#11](https://github.com/dhth/mult/pull/11#issuecomment-2906765707) in [dhth/mult](https://github.com/dhth/mult)
+8. ❌ Closed PR [#1](https://github.com/dhth/freeCodeCamp-projects/pull/1) in [dhth/freeCodeCamp-projects](https://github.com/dhth/freeCodeCamp-projects)
+9. ❌ Closed PR [#8](https://github.com/dhth/star-wars-explorer-test-case/pull/8) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
+10. ❌ Closed PR [#7](https://github.com/dhth/star-wars-explorer-test-case/pull/7) in [dhth/star-wars-explorer-test-case](https://github.com/dhth/star-wars-explorer-test-case)
 <!--END_SECTION:activity-->
