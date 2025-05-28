@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dhth/mrj/pull/5) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 💪 Opened PR [#5](https://github.com/dhth/mrj/pull/5) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 🎉 Merged PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 💪 Opened PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 🎉 Merged PR [#24](https://github.com/dhth/squidge/pull/24) in [dhth/squidge](https://github.com/dhth/squidge)
-6. 🎉 Merged PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 💪 Opened PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🗣 Commented on [#18](https://github.com/dhth/schemas/pull/18#issuecomment-2906766280) in [dhth/schemas](https://github.com/dhth/schemas)
-9. 🗣 Commented on [#11](https://github.com/dhth/mult/pull/11#issuecomment-2906765707) in [dhth/mult](https://github.com/dhth/mult)
+1. 🎉 Merged PR [#17](https://github.com/dhth/mult/pull/17) in [dhth/mult](https://github.com/dhth/mult)
+2. 💪 Opened PR [#17](https://github.com/dhth/mult/pull/17) in [dhth/mult](https://github.com/dhth/mult)
+3. 🎉 Merged PR [#5](https://github.com/dhth/mrj/pull/5) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 💪 Opened PR [#5](https://github.com/dhth/mrj/pull/5) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 🎉 Merged PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 💪 Opened PR [#4](https://github.com/dhth/mrj/pull/4) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 🎉 Merged PR [#24](https://github.com/dhth/squidge/pull/24) in [dhth/squidge](https://github.com/dhth/squidge)
+8. 🎉 Merged PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 💪 Opened PR [#3](https://github.com/dhth/mrj/pull/3) in [dhth/mrj](https://github.com/dhth/mrj)
 10. ❌ Closed PR [#1](https://github.com/dhth/freeCodeCamp-projects/pull/1) in [dhth/freeCodeCamp-projects](https://github.com/dhth/freeCodeCamp-projects)
 <!--END_SECTION:activity-->
