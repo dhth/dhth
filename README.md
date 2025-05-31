@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/dhth/mrj/pull/16) in [dhth/mrj](https://github.com/dhth/mrj)
-2. ❌ Closed PR [#15](https://github.com/dhth/mrj/pull/15) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 💪 Opened PR [#16](https://github.com/dhth/mrj/pull/16) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 💪 Opened PR [#15](https://github.com/dhth/mrj/pull/15) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 🎉 Merged PR [#14](https://github.com/dhth/mrj/pull/14) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 💪 Opened PR [#14](https://github.com/dhth/mrj/pull/14) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 🎉 Merged PR [#12](https://github.com/dhth/mrj/pull/12) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🎉 Merged PR [#13](https://github.com/dhth/mrj/pull/13) in [dhth/mrj](https://github.com/dhth/mrj)
-9. 💪 Opened PR [#13](https://github.com/dhth/mrj/pull/13) in [dhth/mrj](https://github.com/dhth/mrj)
-10. 💪 Opened PR [#12](https://github.com/dhth/mrj/pull/12) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🎉 Merged PR [#17](https://github.com/dhth/mrj/pull/17) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#17](https://github.com/dhth/mrj/pull/17) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#16](https://github.com/dhth/mrj/pull/16) in [dhth/mrj](https://github.com/dhth/mrj)
+4. ❌ Closed PR [#15](https://github.com/dhth/mrj/pull/15) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 💪 Opened PR [#16](https://github.com/dhth/mrj/pull/16) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 💪 Opened PR [#15](https://github.com/dhth/mrj/pull/15) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 🎉 Merged PR [#14](https://github.com/dhth/mrj/pull/14) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 💪 Opened PR [#14](https://github.com/dhth/mrj/pull/14) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 🎉 Merged PR [#12](https://github.com/dhth/mrj/pull/12) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 🎉 Merged PR [#13](https://github.com/dhth/mrj/pull/13) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
