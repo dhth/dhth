@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/dhth/mrj/pull/22) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 🎉 Merged PR [#32](https://github.com/dhth/act3/pull/32) in [dhth/act3](https://github.com/dhth/act3)
-3. 💪 Opened PR [#32](https://github.com/dhth/act3/pull/32) in [dhth/act3](https://github.com/dhth/act3)
-4. 🎉 Merged PR [#21](https://github.com/dhth/mrj/pull/21) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 💪 Opened PR [#21](https://github.com/dhth/mrj/pull/21) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 🗣 Commented on [#31](https://github.com/dhth/act3/pull/31#issuecomment-2934384982) in [dhth/act3](https://github.com/dhth/act3)
-7. 🗣 Commented on [#18](https://github.com/dhth/mrj/pull/18#issuecomment-2931676953) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🗣 Commented on [#19](https://github.com/dhth/mrj/pull/19#issuecomment-2931673187) in [dhth/mrj](https://github.com/dhth/mrj)
-9. 🎉 Merged PR [#20](https://github.com/dhth/mrj/pull/20) in [dhth/mrj](https://github.com/dhth/mrj)
-10. 🎉 Merged PR [#17](https://github.com/dhth/mrj/pull/17) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🎉 Merged PR [#23](https://github.com/dhth/mrj/pull/23) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#23](https://github.com/dhth/mrj/pull/23) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#22](https://github.com/dhth/mrj/pull/22) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 💪 Opened PR [#22](https://github.com/dhth/mrj/pull/22) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 🎉 Merged PR [#32](https://github.com/dhth/act3/pull/32) in [dhth/act3](https://github.com/dhth/act3)
+6. 💪 Opened PR [#32](https://github.com/dhth/act3/pull/32) in [dhth/act3](https://github.com/dhth/act3)
+7. 🎉 Merged PR [#21](https://github.com/dhth/mrj/pull/21) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 💪 Opened PR [#21](https://github.com/dhth/mrj/pull/21) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 🗣 Commented on [#31](https://github.com/dhth/act3/pull/31#issuecomment-2934384982) in [dhth/act3](https://github.com/dhth/act3)
+10. 🗣 Commented on [#18](https://github.com/dhth/mrj/pull/18#issuecomment-2931676953) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
