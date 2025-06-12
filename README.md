@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. ❌ Reopened PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. ❌ Closed PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 💪 Opened PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 🎉 Merged PR [#20](https://github.com/dhth/chronotes/pull/20) in [dhth/chronotes](https://github.com/dhth/chronotes)
-6. 💪 Opened PR [#20](https://github.com/dhth/chronotes/pull/20) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. 🗣 Commented on [#68](https://github.com/dhth/omm/issues/68#issuecomment-2956483834) in [dhth/omm](https://github.com/dhth/omm)
-8. 🎉 Merged PR [#25](https://github.com/dhth/schemas/pull/25) in [dhth/schemas](https://github.com/dhth/schemas)
-9. 💪 Opened PR [#25](https://github.com/dhth/schemas/pull/25) in [dhth/schemas](https://github.com/dhth/schemas)
-10. 🎉 Merged PR [#70](https://github.com/dhth/omm/pull/70) in [dhth/omm](https://github.com/dhth/omm)
+1. 🎉 Merged PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
+2. 💪 Opened PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
+3. 🎉 Merged PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
+4. 💪 Opened PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
+5. 🎉 Merged PR [#33](https://github.com/dhth/act3/pull/33) in [dhth/act3](https://github.com/dhth/act3)
+6. 💪 Opened PR [#33](https://github.com/dhth/act3/pull/33) in [dhth/act3](https://github.com/dhth/act3)
+7. 🎉 Merged PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
+8. ❌ Reopened PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. ❌ Closed PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. 💪 Opened PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
