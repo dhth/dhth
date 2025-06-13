@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
-2. 💪 Opened PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
-3. 🎉 Merged PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
-4. 💪 Opened PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
-5. 🎉 Merged PR [#33](https://github.com/dhth/act3/pull/33) in [dhth/act3](https://github.com/dhth/act3)
-6. 💪 Opened PR [#33](https://github.com/dhth/act3/pull/33) in [dhth/act3](https://github.com/dhth/act3)
-7. 🎉 Merged PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. ❌ Reopened PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
-9. ❌ Closed PR [#18](https://github.com/dhth/chronotes/pull/18) in [dhth/chronotes](https://github.com/dhth/chronotes)
-10. 💪 Opened PR [#21](https://github.com/dhth/chronotes/pull/21) in [dhth/chronotes](https://github.com/dhth/chronotes)
+1. 🎉 Merged PR [#28](https://github.com/dhth/mrj/pull/28) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#28](https://github.com/dhth/mrj/pull/28) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#25](https://github.com/dhth/mrj/pull/25) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 💪 Opened PR [#25](https://github.com/dhth/mrj/pull/25) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 🎉 Merged PR [#24](https://github.com/dhth/mrj/pull/24) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 💪 Opened PR [#24](https://github.com/dhth/mrj/pull/24) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 🎉 Merged PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
+8. 💪 Opened PR [#35](https://github.com/dhth/act3/pull/35) in [dhth/act3](https://github.com/dhth/act3)
+9. 🎉 Merged PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
+10. 💪 Opened PR [#34](https://github.com/dhth/act3/pull/34) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
