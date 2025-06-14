@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
-2. 💪 Opened PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
-3. 🎉 Merged PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
-4. 💪 Opened PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
-5. 🎉 Merged PR [#36](https://github.com/dhth/act3/pull/36) in [dhth/act3](https://github.com/dhth/act3)
-6. 💪 Opened PR [#36](https://github.com/dhth/act3/pull/36) in [dhth/act3](https://github.com/dhth/act3)
-7. 🎉 Merged PR [#28](https://github.com/dhth/mrj/pull/28) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 💪 Opened PR [#28](https://github.com/dhth/mrj/pull/28) in [dhth/mrj](https://github.com/dhth/mrj)
-9. 🎉 Merged PR [#25](https://github.com/dhth/mrj/pull/25) in [dhth/mrj](https://github.com/dhth/mrj)
-10. 💪 Opened PR [#25](https://github.com/dhth/mrj/pull/25) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🎉 Merged PR [#41](https://github.com/dhth/bmm/pull/41) in [dhth/bmm](https://github.com/dhth/bmm)
+2. 💪 Opened PR [#41](https://github.com/dhth/bmm/pull/41) in [dhth/bmm](https://github.com/dhth/bmm)
+3. 🎉 Merged PR [#54](https://github.com/dhth/cueitup/pull/54) in [dhth/cueitup](https://github.com/dhth/cueitup)
+4. 💪 Opened PR [#54](https://github.com/dhth/cueitup/pull/54) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. 🎉 Merged PR [#67](https://github.com/dhth/kplay/pull/67) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 💪 Opened PR [#67](https://github.com/dhth/kplay/pull/67) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 🎉 Merged PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
+8. 💪 Opened PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
+9. 🎉 Merged PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. 💪 Opened PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
