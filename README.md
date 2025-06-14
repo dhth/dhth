@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/dhth/bmm/pull/41) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 💪 Opened PR [#41](https://github.com/dhth/bmm/pull/41) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🎉 Merged PR [#54](https://github.com/dhth/cueitup/pull/54) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. 💪 Opened PR [#54](https://github.com/dhth/cueitup/pull/54) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. 🎉 Merged PR [#67](https://github.com/dhth/kplay/pull/67) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 💪 Opened PR [#67](https://github.com/dhth/kplay/pull/67) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 🎉 Merged PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
-8. 💪 Opened PR [#11](https://github.com/dhth/tash/pull/11) in [dhth/tash](https://github.com/dhth/tash)
-9. 🎉 Merged PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 💪 Opened PR [#26](https://github.com/dhth/ecscope/pull/26) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#38](https://github.com/dhth/act3/pull/38) in [dhth/act3](https://github.com/dhth/act3)
+2. 💪 Opened PR [#38](https://github.com/dhth/act3/pull/38) in [dhth/act3](https://github.com/dhth/act3)
+3. 🎉 Merged PR [#55](https://github.com/dhth/cueitup/pull/55) in [dhth/cueitup](https://github.com/dhth/cueitup)
+4. 💪 Opened PR [#55](https://github.com/dhth/cueitup/pull/55) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. 🎉 Merged PR [#37](https://github.com/dhth/act3/pull/37) in [dhth/act3](https://github.com/dhth/act3)
+6. 🎉 Merged PR [#68](https://github.com/dhth/kplay/pull/68) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 💪 Opened PR [#37](https://github.com/dhth/act3/pull/37) in [dhth/act3](https://github.com/dhth/act3)
+8. 💪 Opened PR [#68](https://github.com/dhth/kplay/pull/68) in [dhth/kplay](https://github.com/dhth/kplay)
+9. 🎉 Merged PR [#91](https://github.com/dhth/ecsv/pull/91) in [dhth/ecsv](https://github.com/dhth/ecsv)
+10. 🚀 Published release [v0.3.0](https://github.com/dhth/gobrewtest/releases/tag/v0.3.0) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 <!--END_SECTION:activity-->
