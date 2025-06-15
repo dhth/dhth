@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/dhth/act3/pull/38) in [dhth/act3](https://github.com/dhth/act3)
-2. 💪 Opened PR [#38](https://github.com/dhth/act3/pull/38) in [dhth/act3](https://github.com/dhth/act3)
-3. 🎉 Merged PR [#55](https://github.com/dhth/cueitup/pull/55) in [dhth/cueitup](https://github.com/dhth/cueitup)
-4. 💪 Opened PR [#55](https://github.com/dhth/cueitup/pull/55) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. 🎉 Merged PR [#37](https://github.com/dhth/act3/pull/37) in [dhth/act3](https://github.com/dhth/act3)
-6. 🎉 Merged PR [#68](https://github.com/dhth/kplay/pull/68) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 💪 Opened PR [#37](https://github.com/dhth/act3/pull/37) in [dhth/act3](https://github.com/dhth/act3)
-8. 💪 Opened PR [#68](https://github.com/dhth/kplay/pull/68) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 🎉 Merged PR [#91](https://github.com/dhth/ecsv/pull/91) in [dhth/ecsv](https://github.com/dhth/ecsv)
-10. 🚀 Published release [v0.3.0](https://github.com/dhth/gobrewtest/releases/tag/v0.3.0) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
+1. 🚀 Published release [v2.0.0-rc.1](https://github.com/dhth/act3/releases/tag/v2.0.0-rc.1) in [dhth/act3](https://github.com/dhth/act3)
+2. 🎉 Merged PR [#41](https://github.com/dhth/act3/pull/41) in [dhth/act3](https://github.com/dhth/act3)
+3. 💪 Opened PR [#41](https://github.com/dhth/act3/pull/41) in [dhth/act3](https://github.com/dhth/act3)
+4. 🎉 Merged PR [#40](https://github.com/dhth/act3/pull/40) in [dhth/act3](https://github.com/dhth/act3)
+5. 💪 Opened PR [#40](https://github.com/dhth/act3/pull/40) in [dhth/act3](https://github.com/dhth/act3)
+6. 🎉 Merged PR [#39](https://github.com/dhth/act3/pull/39) in [dhth/act3](https://github.com/dhth/act3)
+7. 💪 Opened PR [#39](https://github.com/dhth/act3/pull/39) in [dhth/act3](https://github.com/dhth/act3)
+8. 🎉 Merged PR [#72](https://github.com/dhth/hours/pull/72) in [dhth/hours](https://github.com/dhth/hours)
+9. 💪 Opened PR [#72](https://github.com/dhth/hours/pull/72) in [dhth/hours](https://github.com/dhth/hours)
+10. 🎉 Merged PR [#38](https://github.com/dhth/act3/pull/38) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
