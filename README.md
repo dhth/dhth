@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/dhth/act3/releases/tag/v2.0.0) in [dhth/act3](https://github.com/dhth/act3)
-2. 🎉 Merged PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-3. 💪 Opened PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-4. 🎉 Merged PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
-5. 💪 Opened PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
-6. 🎉 Merged PR [#1](https://github.com/dhth/swatches/pull/1) in [dhth/swatches](https://github.com/dhth/swatches)
-7. 💪 Opened PR [#1](https://github.com/dhth/swatches/pull/1) in [dhth/swatches](https://github.com/dhth/swatches)
-8. 🎉 Merged PR [#22](https://github.com/dhth/chronotes/pull/22) in [dhth/chronotes](https://github.com/dhth/chronotes)
-9. 🎉 Merged PR [#22](https://github.com/dhth/ghx/pull/22) in [dhth/ghx](https://github.com/dhth/ghx)
-10. 💪 Opened PR [#22](https://github.com/dhth/ghx/pull/22) in [dhth/ghx](https://github.com/dhth/ghx)
+1. 🎉 Merged PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+2. 💪 Opened PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+3. 🚀 Published release [v2.0.0](https://github.com/dhth/act3/releases/tag/v2.0.0) in [dhth/act3](https://github.com/dhth/act3)
+4. 🎉 Merged PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+5. 💪 Opened PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+6. 🎉 Merged PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
+7. 💪 Opened PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
+8. 🎉 Merged PR [#1](https://github.com/dhth/swatches/pull/1) in [dhth/swatches](https://github.com/dhth/swatches)
+9. 💪 Opened PR [#1](https://github.com/dhth/swatches/pull/1) in [dhth/swatches](https://github.com/dhth/swatches)
+10. 🎉 Merged PR [#22](https://github.com/dhth/chronotes/pull/22) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
