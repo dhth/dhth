@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 🗣 Commented on [#74](https://github.com/dhth/omm/issues/74#issuecomment-2984926832) in [dhth/omm](https://github.com/dhth/omm)
-3. 💪 Opened PR [#75](https://github.com/dhth/omm/pull/75) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-5. 💪 Opened PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-6. 🚀 Published release [v2.0.0](https://github.com/dhth/act3/releases/tag/v2.0.0) in [dhth/act3](https://github.com/dhth/act3)
-7. 🎉 Merged PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-8. 💪 Opened PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-9. 🎉 Merged PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
-10. 💪 Opened PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
+1. 🎉 Merged PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🗣 Commented on [#74](https://github.com/dhth/omm/issues/74#issuecomment-2984926832) in [dhth/omm](https://github.com/dhth/omm)
+4. 💪 Opened PR [#75](https://github.com/dhth/omm/pull/75) in [dhth/omm](https://github.com/dhth/omm)
+5. 🎉 Merged PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+6. 💪 Opened PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+7. 🚀 Published release [v2.0.0](https://github.com/dhth/act3/releases/tag/v2.0.0) in [dhth/act3](https://github.com/dhth/act3)
+8. 🎉 Merged PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+9. 💪 Opened PR [#3](https://github.com/dhth/mrj-runner/pull/3) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+10. 🎉 Merged PR [#56](https://github.com/dhth/cueitup/pull/56) in [dhth/cueitup](https://github.com/dhth/cueitup)
 <!--END_SECTION:activity-->
