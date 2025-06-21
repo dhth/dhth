@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/dhth/omm/pull/75) in [dhth/omm](https://github.com/dhth/omm)
-2. 🎉 Merged PR [#31](https://github.com/dhth/mrj/pull/31) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 💪 Opened PR [#31](https://github.com/dhth/mrj/pull/31) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 🎉 Merged PR [#30](https://github.com/dhth/mrj/pull/30) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 💪 Opened PR [#30](https://github.com/dhth/mrj/pull/30) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 🎉 Merged PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 💪 Opened PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🗣 Commented on [#74](https://github.com/dhth/omm/issues/74#issuecomment-2984926832) in [dhth/omm](https://github.com/dhth/omm)
-9. 💪 Opened PR [#75](https://github.com/dhth/omm/pull/75) in [dhth/omm](https://github.com/dhth/omm)
-10. 🎉 Merged PR [#4](https://github.com/dhth/mrj-runner/pull/4) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+1. 🎉 Merged PR [#32](https://github.com/dhth/mrj/pull/32) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#32](https://github.com/dhth/mrj/pull/32) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#75](https://github.com/dhth/omm/pull/75) in [dhth/omm](https://github.com/dhth/omm)
+4. 🎉 Merged PR [#31](https://github.com/dhth/mrj/pull/31) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 💪 Opened PR [#31](https://github.com/dhth/mrj/pull/31) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 🎉 Merged PR [#30](https://github.com/dhth/mrj/pull/30) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 💪 Opened PR [#30](https://github.com/dhth/mrj/pull/30) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 🎉 Merged PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 💪 Opened PR [#29](https://github.com/dhth/mrj/pull/29) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 🗣 Commented on [#74](https://github.com/dhth/omm/issues/74#issuecomment-2984926832) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
