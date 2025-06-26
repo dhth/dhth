@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/dhth/mrj/pull/33) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 💪 Opened PR [#33](https://github.com/dhth/mrj/pull/33) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 💪 Opened PR [#42](https://github.com/dhth/bmm/pull/42) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 🎉 Merged PR [#13](https://github.com/dhth/urll/pull/13) in [dhth/urll](https://github.com/dhth/urll)
-5. 💪 Opened PR [#13](https://github.com/dhth/urll/pull/13) in [dhth/urll](https://github.com/dhth/urll)
-6. 🎉 Merged PR [#37](https://github.com/dhth/tomo/pull/37) in [dhth/tomo](https://github.com/dhth/tomo)
-7. 💪 Opened PR [#37](https://github.com/dhth/tomo/pull/37) in [dhth/tomo](https://github.com/dhth/tomo)
-8. 🎉 Merged PR [#18](https://github.com/dhth/commits/pull/18) in [dhth/commits](https://github.com/dhth/commits)
-9. 💪 Opened PR [#18](https://github.com/dhth/commits/pull/18) in [dhth/commits](https://github.com/dhth/commits)
-10. 🎉 Merged PR [#27](https://github.com/dhth/dstll/pull/27) in [dhth/dstll](https://github.com/dhth/dstll)
+1. 🎉 Merged PR [#74](https://github.com/dhth/hours/pull/74) in [dhth/hours](https://github.com/dhth/hours)
+2. 💪 Opened PR [#74](https://github.com/dhth/hours/pull/74) in [dhth/hours](https://github.com/dhth/hours)
+3. 🎉 Merged PR [#33](https://github.com/dhth/mrj/pull/33) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 💪 Opened PR [#33](https://github.com/dhth/mrj/pull/33) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 💪 Opened PR [#42](https://github.com/dhth/bmm/pull/42) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🎉 Merged PR [#13](https://github.com/dhth/urll/pull/13) in [dhth/urll](https://github.com/dhth/urll)
+7. 💪 Opened PR [#13](https://github.com/dhth/urll/pull/13) in [dhth/urll](https://github.com/dhth/urll)
+8. 🎉 Merged PR [#37](https://github.com/dhth/tomo/pull/37) in [dhth/tomo](https://github.com/dhth/tomo)
+9. 💪 Opened PR [#37](https://github.com/dhth/tomo/pull/37) in [dhth/tomo](https://github.com/dhth/tomo)
+10. 🎉 Merged PR [#18](https://github.com/dhth/commits/pull/18) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
