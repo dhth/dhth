@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/dhth/tomo/pull/39) in [dhth/tomo](https://github.com/dhth/tomo)
-2. 💪 Opened PR [#39](https://github.com/dhth/tomo/pull/39) in [dhth/tomo](https://github.com/dhth/tomo)
-3. 🗣 Commented on [#45](https://github.com/dhth/bmm/pull/45#issuecomment-3016353880) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 🎉 Merged PR [#14](https://github.com/dhth/tash/pull/14) in [dhth/tash](https://github.com/dhth/tash)
-5. 💪 Opened PR [#14](https://github.com/dhth/tash/pull/14) in [dhth/tash](https://github.com/dhth/tash)
-6. 🎉 Merged PR [#38](https://github.com/dhth/tbll/pull/38) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 💪 Opened PR [#38](https://github.com/dhth/tbll/pull/38) in [dhth/tbll](https://github.com/dhth/tbll)
-8. 🎉 Merged PR [#13](https://github.com/dhth/tash/pull/13) in [dhth/tash](https://github.com/dhth/tash)
-9. 💪 Opened PR [#13](https://github.com/dhth/tash/pull/13) in [dhth/tash](https://github.com/dhth/tash)
-10. 🎉 Merged PR [#47](https://github.com/dhth/bmm/pull/47) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🎉 Merged PR [#26](https://github.com/dhth/squish/pull/26) in [dhth/squish](https://github.com/dhth/squish)
+2. 💪 Opened PR [#26](https://github.com/dhth/squish/pull/26) in [dhth/squish](https://github.com/dhth/squish)
+3. 🎉 Merged PR [#29](https://github.com/dhth/squidge/pull/29) in [dhth/squidge](https://github.com/dhth/squidge)
+4. 💪 Opened PR [#29](https://github.com/dhth/squidge/pull/29) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#28](https://github.com/dhth/squidge/pull/28) in [dhth/squidge](https://github.com/dhth/squidge)
+6. 💪 Opened PR [#28](https://github.com/dhth/squidge/pull/28) in [dhth/squidge](https://github.com/dhth/squidge)
+7. 🎉 Merged PR [#39](https://github.com/dhth/tomo/pull/39) in [dhth/tomo](https://github.com/dhth/tomo)
+8. 💪 Opened PR [#39](https://github.com/dhth/tomo/pull/39) in [dhth/tomo](https://github.com/dhth/tomo)
+9. 🗣 Commented on [#45](https://github.com/dhth/bmm/pull/45#issuecomment-3016353880) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🎉 Merged PR [#14](https://github.com/dhth/tash/pull/14) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
