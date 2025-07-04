@@ -48,14 +48,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/dhth/bmm/pull/48) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🎉 Merged PR [#18](https://github.com/dhth/tash/pull/18) in [dhth/tash](https://github.com/dhth/tash)
-3. 💪 Opened PR [#18](https://github.com/dhth/tash/pull/18) in [dhth/tash](https://github.com/dhth/tash)
-4. 🎉 Merged PR [#17](https://github.com/dhth/tash/pull/17) in [dhth/tash](https://github.com/dhth/tash)
-5. 💪 Opened PR [#17](https://github.com/dhth/tash/pull/17) in [dhth/tash](https://github.com/dhth/tash)
-6. 💪 Opened PR [#48](https://github.com/dhth/bmm/pull/48) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🎉 Merged PR [#32](https://github.com/dhth/ecscope/pull/32) in [dhth/ecscope](https://github.com/dhth/ecscope)
-8. 💪 Opened PR [#32](https://github.com/dhth/ecscope/pull/32) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 🎉 Merged PR [#31](https://github.com/dhth/ecscope/pull/31) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 💪 Opened PR [#31](https://github.com/dhth/ecscope/pull/31) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#33](https://github.com/dhth/ecscope/pull/33) in [dhth/ecscope](https://github.com/dhth/ecscope)
+2. 🎉 Merged PR [#38](https://github.com/dhth/mrj/pull/38) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#30](https://github.com/dhth/squish/pull/30) in [dhth/squish](https://github.com/dhth/squish)
+4. 🎉 Merged PR [#31](https://github.com/dhth/squidge/pull/31) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#43](https://github.com/dhth/tomo/pull/43) in [dhth/tomo](https://github.com/dhth/tomo)
+6. 💪 Opened PR [#33](https://github.com/dhth/ecscope/pull/33) in [dhth/ecscope](https://github.com/dhth/ecscope)
+7. 💪 Opened PR [#31](https://github.com/dhth/squidge/pull/31) in [dhth/squidge](https://github.com/dhth/squidge)
+8. 💪 Opened PR [#30](https://github.com/dhth/squish/pull/30) in [dhth/squish](https://github.com/dhth/squish)
+9. 💪 Opened PR [#38](https://github.com/dhth/mrj/pull/38) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 💪 Opened PR [#43](https://github.com/dhth/tomo/pull/43) in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
