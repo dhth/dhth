@@ -12,23 +12,23 @@ What I'm up to these days:
 
 *(WI: "written in")*
 
-| Tool                                           | What it does                                                                                  | WI                                                              |
-|:-----------------------------------------------|:----------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
-| [omm](https://github.com/dhth/omm)             | is a keyboard-driven task manager for the command line                                        | <img src="./assets/golang.svg"/>                                |
-| [hours](https://github.com/dhth/hours)         | is a no-frills time tracking toolkit for the command line                                     | <img src="./assets/golang.svg"/>                                |
-| [prs](https://github.com/dhth/prs)             | lets you stay updated on pull requests from your terminal                                     | <img src="./assets/golang.svg"/>                                |
-| [bmm](https://github.com/dhth/bmm)             | lets you get to your bookmarks in a flash                                                     | <img src="./assets/rust.svg"/>                                  |
-| [ecscope](https://github.com/dhth/ecscope)     | lets you monitor AWS ECS resources from the terminal                                          | <img src="./assets/rust.svg"/><img src="./assets/gleam.svg"/>   |
-| [kplay](https://github.com/dhth/kplay)         | lets you inspect messages in a Kafka topic in a simple and deliberate manner                  | <img src="./assets/golang.svg"/><img src="./assets/gleam.svg"/> |
-| [cueitup](https://github.com/dhth/cueitup)     | lets you inspect messages in an AWS SQS queue in a simple and deliberate manner               | <img src="./assets/golang.svg"/><img src="./assets/gleam.svg"/> |
-| [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have drifted or gone out of sync                 | <img src="./assets/golang.svg"/>                                |
-| [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                    | <img src="./assets/golang.svg"/>                                |
-| [act3](https://github.com/dhth/act3)           | lets you glance at the last 3 runs of your Github Actions                                     | <img src="./assets/golang.svg"/>                                |
-| [mult](https://github.com/dhth/mult)           | lets you run a command multiple times and glance at the outputs                               | <img src="./assets/golang.svg"/>                                |
-| [ecsv](https://github.com/dhth/ecsv)           | helps you check the versions of your systems running in ECS tasks across various environments | <img src="./assets/golang.svg"/>                                |
-| [schemas](https://github.com/dhth/schemas)     | lets you inspect postgres schemas in the terminal                                             | <img src="./assets/golang.svg"/>                                |
-| [commits](https://github.com/dhth/commits)     | lets you glance at git commits through a simple TUI                                           | <img src="./assets/golang.svg"/>                                |
-| [dstll](https://github.com/dhth/dstll)         | gives you a high level overview of various constructs in your code files                      | <img src="./assets/golang.svg"/>                                |
+| Tool                                           | What it does                                                                                  | WI                                                            |
+|:-----------------------------------------------|:----------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+| [omm](https://github.com/dhth/omm)             | is a keyboard-driven task manager for the command line                                        | <img src="./assets/go.svg"/>                                  |
+| [hours](https://github.com/dhth/hours)         | is a no-frills time tracking toolkit for the command line                                     | <img src="./assets/go.svg"/>                                  |
+| [prs](https://github.com/dhth/prs)             | lets you stay updated on pull requests from your terminal                                     | <img src="./assets/go.svg"/>                                  |
+| [bmm](https://github.com/dhth/bmm)             | lets you get to your bookmarks in a flash                                                     | <img src="./assets/rust.svg"/>                                |
+| [ecscope](https://github.com/dhth/ecscope)     | lets you monitor AWS ECS resources from the terminal                                          | <img src="./assets/rust.svg"/><img src="./assets/gleam.svg"/> |
+| [kplay](https://github.com/dhth/kplay)         | lets you inspect messages in a Kafka topic in a simple and deliberate manner                  | <img src="./assets/go.svg"/><img src="./assets/gleam.svg"/>   |
+| [cueitup](https://github.com/dhth/cueitup)     | lets you inspect messages in an AWS SQS queue in a simple and deliberate manner               | <img src="./assets/go.svg"/><img src="./assets/gleam.svg"/>   |
+| [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have drifted or gone out of sync                 | <img src="./assets/go.svg"/>                                  |
+| [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                    | <img src="./assets/go.svg"/>                                  |
+| [act3](https://github.com/dhth/act3)           | lets you glance at the last 3 runs of your Github Actions                                     | <img src="./assets/go.svg"/>                                  |
+| [mult](https://github.com/dhth/mult)           | lets you run a command multiple times and glance at the outputs                               | <img src="./assets/go.svg"/>                                  |
+| [ecsv](https://github.com/dhth/ecsv)           | helps you check the versions of your systems running in ECS tasks across various environments | <img src="./assets/go.svg"/>                                  |
+| [schemas](https://github.com/dhth/schemas)     | lets you inspect postgres schemas in the terminal                                             | <img src="./assets/go.svg"/>                                  |
+| [commits](https://github.com/dhth/commits)     | lets you glance at git commits through a simple TUI                                           | <img src="./assets/go.svg"/>                                  |
+| [dstll](https://github.com/dhth/dstll)         | gives you a high level overview of various constructs in your code files                      | <img src="./assets/go.svg"/>                                  |
 
 I also maintain smaller utilities, each designed for a narrow use case.
 
