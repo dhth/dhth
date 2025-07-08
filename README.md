@@ -48,15 +48,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 🎉 Merged PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 💪 Opened PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
-4. 🎉 Merged PR [#1](https://github.com/dhth/dfft/pull/1) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 💪 Opened PR [#1](https://github.com/dhth/dfft/pull/1) in [dhth/dfft](https://github.com/dhth/dfft)
-6. 🎉 Merged PR [#39](https://github.com/dhth/tbll/pull/39) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 💪 Opened PR [#39](https://github.com/dhth/tbll/pull/39) in [dhth/tbll](https://github.com/dhth/tbll)
-8. 🎉 Merged PR [#1](https://github.com/dhth/dhth/pull/1) in [dhth/dhth](https://github.com/dhth/dhth)
-9. 💪 Opened PR [#1](https://github.com/dhth/dhth/pull/1) in [dhth/dhth](https://github.com/dhth/dhth)
-10. 🎉 Merged PR [#33](https://github.com/dhth/ecscope/pull/33) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 💪 Opened PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 💪 Opened PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
+5. 🎉 Merged PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
+6. 💪 Opened PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
+7. 🎉 Merged PR [#1](https://github.com/dhth/dfft/pull/1) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 💪 Opened PR [#1](https://github.com/dhth/dfft/pull/1) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#39](https://github.com/dhth/tbll/pull/39) in [dhth/tbll](https://github.com/dhth/tbll)
+10. 💪 Opened PR [#39](https://github.com/dhth/tbll/pull/39) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
 
