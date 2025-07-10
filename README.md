@@ -48,15 +48,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/dhth/dfft/pull/6) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 🎉 Merged PR [#5](https://github.com/dhth/dfft/pull/5) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 💪 Opened PR [#5](https://github.com/dhth/dfft/pull/5) in [dhth/dfft](https://github.com/dhth/dfft)
-4. 🎉 Merged PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 💪 Opened PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
-6. 🎉 Merged PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
-7. 💪 Opened PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 🎉 Merged PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 💪 Opened PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 🎉 Merged PR [#1](https://github.com/dhth/dfft/pull/1) in [dhth/dfft](https://github.com/dhth/dfft)
+1. 🎉 Merged PR [#6](https://github.com/dhth/dfft/pull/6) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 💪 Opened PR [#6](https://github.com/dhth/dfft/pull/6) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#5](https://github.com/dhth/dfft/pull/5) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 💪 Opened PR [#5](https://github.com/dhth/dfft/pull/5) in [dhth/dfft](https://github.com/dhth/dfft)
+5. 🎉 Merged PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
+6. 💪 Opened PR [#4](https://github.com/dhth/dfft/pull/4) in [dhth/dfft](https://github.com/dhth/dfft)
+7. 🎉 Merged PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 💪 Opened PR [#2](https://github.com/dhth/dfft/pull/2) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. 💪 Opened PR [#34](https://github.com/dhth/ecscope/pull/34) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
 
