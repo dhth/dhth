@@ -48,15 +48,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/dhth/dfft/pull/13) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 💪 Opened PR [#13](https://github.com/dhth/dfft/pull/13) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 🎉 Merged PR [#12](https://github.com/dhth/dfft/pull/12) in [dhth/dfft](https://github.com/dhth/dfft)
-4. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066998178) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066971659) in [dhth/dfft](https://github.com/dhth/dfft)
-6. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066968106) in [dhth/dfft](https://github.com/dhth/dfft)
-7. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066900369) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066874873) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066855978) in [dhth/dfft](https://github.com/dhth/dfft)
-10. 🗣 Commented on [#12](https://github.com/dhth/dfft/pull/12#issuecomment-3066852275) in [dhth/dfft](https://github.com/dhth/dfft)
+1. 🗣 Commented on [#16](https://github.com/dhth/dfft/pull/16#issuecomment-3067386922) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 💪 Opened PR [#16](https://github.com/dhth/dfft/pull/16) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#15](https://github.com/dhth/dfft/pull/15) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 🗣 Commented on [#15](https://github.com/dhth/dfft/pull/15#issuecomment-3067318484) in [dhth/dfft](https://github.com/dhth/dfft)
+5. 💪 Opened PR [#15](https://github.com/dhth/dfft/pull/15) in [dhth/dfft](https://github.com/dhth/dfft)
+6. 🎉 Merged PR [#14](https://github.com/dhth/dfft/pull/14) in [dhth/dfft](https://github.com/dhth/dfft)
+7. 🗣 Commented on [#14](https://github.com/dhth/dfft/pull/14#issuecomment-3067304393) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 🗣 Commented on [#14](https://github.com/dhth/dfft/pull/14#issuecomment-3067293951) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 💪 Opened PR [#14](https://github.com/dhth/dfft/pull/14) in [dhth/dfft](https://github.com/dhth/dfft)
+10. 🎉 Merged PR [#13](https://github.com/dhth/dfft/pull/13) in [dhth/dfft](https://github.com/dhth/dfft)
 <!--END_SECTION:activity-->
 
