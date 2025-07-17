@@ -49,15 +49,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/dhth/dfft/pull/25) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 💪 Opened PR [#25](https://github.com/dhth/dfft/pull/25) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 🎉 Merged PR [#24](https://github.com/dhth/dfft/pull/24) in [dhth/dfft](https://github.com/dhth/dfft)
-4. 💪 Opened PR [#24](https://github.com/dhth/dfft/pull/24) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 🎉 Merged PR [#23](https://github.com/dhth/dfft/pull/23) in [dhth/dfft](https://github.com/dhth/dfft)
-6. 💪 Opened PR [#23](https://github.com/dhth/dfft/pull/23) in [dhth/dfft](https://github.com/dhth/dfft)
-7. 🎉 Merged PR [#22](https://github.com/dhth/dfft/pull/22) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 💪 Opened PR [#22](https://github.com/dhth/dfft/pull/22) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 🎉 Merged PR [#21](https://github.com/dhth/dfft/pull/21) in [dhth/dfft](https://github.com/dhth/dfft)
-10. 💪 Opened PR [#21](https://github.com/dhth/dfft/pull/21) in [dhth/dfft](https://github.com/dhth/dfft)
+1. 🎉 Merged PR [#26](https://github.com/dhth/dfft/pull/26) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 💪 Opened PR [#26](https://github.com/dhth/dfft/pull/26) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#25](https://github.com/dhth/dfft/pull/25) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 💪 Opened PR [#25](https://github.com/dhth/dfft/pull/25) in [dhth/dfft](https://github.com/dhth/dfft)
+5. 🎉 Merged PR [#24](https://github.com/dhth/dfft/pull/24) in [dhth/dfft](https://github.com/dhth/dfft)
+6. 💪 Opened PR [#24](https://github.com/dhth/dfft/pull/24) in [dhth/dfft](https://github.com/dhth/dfft)
+7. 🎉 Merged PR [#23](https://github.com/dhth/dfft/pull/23) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 💪 Opened PR [#23](https://github.com/dhth/dfft/pull/23) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#22](https://github.com/dhth/dfft/pull/22) in [dhth/dfft](https://github.com/dhth/dfft)
+10. 💪 Opened PR [#22](https://github.com/dhth/dfft/pull/22) in [dhth/dfft](https://github.com/dhth/dfft)
 <!--END_SECTION:activity-->
 
