@@ -21,7 +21,7 @@ What I'm up to these days:
 | [ecscope](https://github.com/dhth/ecscope)     | lets you monitor AWS ECS resources from the terminal                                          | <img src="./assets/rust.svg"/> <img src="./assets/gleam.svg"/> |
 | [kplay](https://github.com/dhth/kplay)         | lets you inspect messages in a Kafka topic in a simple and deliberate manner                  | <img src="./assets/go.svg"/> <img src="./assets/gleam.svg"/>   |
 | [cueitup](https://github.com/dhth/cueitup)     | lets you inspect messages in an AWS SQS queue in a simple and deliberate manner               | <img src="./assets/go.svg"/> <img src="./assets/gleam.svg"/>   |
-| [dfft](https://github.com/dhth/dfft)           | watches for changes to files in a directory and displays them in a TUI                        | <img src="./assets/rust.svg"/>                                 |
+| [dfft](https://github.com/dhth/dfft)           | monitor changes as AI agents modify your codebase                                             | <img src="./assets/rust.svg"/>                                 |
 | [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have drifted or gone out of sync                 | <img src="./assets/go.svg"/>                                   |
 | [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                    | <img src="./assets/go.svg"/>                                   |
 | [act3](https://github.com/dhth/act3)           | lets you glance at the last 3 runs of your Github Actions                                     | <img src="./assets/go.svg"/>                                   |
