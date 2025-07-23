@@ -49,15 +49,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/dhth/ecsv/pull/103#issuecomment-3101389872) in [dhth/ecsv](https://github.com/dhth/ecsv)
-2. 🗣 Commented on [#91](https://github.com/dhth/outtasync/pull/91#issuecomment-3101389473) in [dhth/outtasync](https://github.com/dhth/outtasync)
-3. 🗣 Commented on [#90](https://github.com/dhth/outtasync/pull/90#issuecomment-3101388947) in [dhth/outtasync](https://github.com/dhth/outtasync)
-4. 🗣 Commented on [#2](https://github.com/dhth/agent1/pull/2#issuecomment-3099848473) in [dhth/agent1](https://github.com/dhth/agent1)
-5. 💪 Opened PR [#2](https://github.com/dhth/agent1/pull/2) in [dhth/agent1](https://github.com/dhth/agent1)
-6. 🎉 Merged PR [#1](https://github.com/dhth/agent1/pull/1) in [dhth/agent1](https://github.com/dhth/agent1)
-7. 💪 Opened PR [#1](https://github.com/dhth/agent1/pull/1) in [dhth/agent1](https://github.com/dhth/agent1)
-8. 🗣 Commented on [#46](https://github.com/dhth/punchout/pull/46#issuecomment-3088848731) in [dhth/punchout](https://github.com/dhth/punchout)
-9. 🎉 Merged PR [#53](https://github.com/dhth/punchout/pull/53) in [dhth/punchout](https://github.com/dhth/punchout)
-10. 💪 Opened PR [#53](https://github.com/dhth/punchout/pull/53) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#2](https://github.com/dhth/agent1/pull/2) in [dhth/agent1](https://github.com/dhth/agent1)
+2. 🗣 Commented on [#103](https://github.com/dhth/ecsv/pull/103#issuecomment-3101389872) in [dhth/ecsv](https://github.com/dhth/ecsv)
+3. 🗣 Commented on [#91](https://github.com/dhth/outtasync/pull/91#issuecomment-3101389473) in [dhth/outtasync](https://github.com/dhth/outtasync)
+4. 🗣 Commented on [#90](https://github.com/dhth/outtasync/pull/90#issuecomment-3101388947) in [dhth/outtasync](https://github.com/dhth/outtasync)
+5. 🗣 Commented on [#2](https://github.com/dhth/agent1/pull/2#issuecomment-3099848473) in [dhth/agent1](https://github.com/dhth/agent1)
+6. 💪 Opened PR [#2](https://github.com/dhth/agent1/pull/2) in [dhth/agent1](https://github.com/dhth/agent1)
+7. 🎉 Merged PR [#1](https://github.com/dhth/agent1/pull/1) in [dhth/agent1](https://github.com/dhth/agent1)
+8. 💪 Opened PR [#1](https://github.com/dhth/agent1/pull/1) in [dhth/agent1](https://github.com/dhth/agent1)
+9. 🗣 Commented on [#46](https://github.com/dhth/punchout/pull/46#issuecomment-3088848731) in [dhth/punchout](https://github.com/dhth/punchout)
+10. 🎉 Merged PR [#53](https://github.com/dhth/punchout/pull/53) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
