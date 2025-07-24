@@ -37,6 +37,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 |:------------------------------------------------------------|:-----------------------------------------------------------------------------------|:---------------------------------------------------------------|
 | [ghx](https://github.com/dhth/ghx)                          | provides an alternative to GitHub's UI for viewing commit logs between git tags    | <img src="./assets/gleam.svg"/> <img src="./assets/rust.svg"/> |
 | [mrj](https://github.com/dhth/mrj)                          | merges your open dependency upgrade PRs                                            | <img src="./assets/rust.svg"/>                                 |
+| [ting](https://github.com/dhth/ting)                        | provides audio feedback on the command line                                        | <img src="./assets/rust.svg"/>                                 |
 | [tash](https://github.com/dhth/tash)                        | lets you stash content that you can access later                                   | <img src="./assets/rust.svg"/>                                 |
 | [urll](https://github.com/dhth/urll)                        | lets you browse URLs in a webpage in a recursive manner                            | <img src="./assets/rust.svg"/>                                 |
 | [dstlled-diff](https://github.com/dhth/dstlled-diff-action) | is a Github action that makes reviewing large-scale structural code changes easier | <img src="./assets/bash.svg"/>                                 |
