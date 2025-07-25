@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dhth/ting/pull/2) in [dhth/ting](https://github.com/dhth/ting)
-2. 🗣 Commented on [#2](https://github.com/dhth/ting/pull/2#issuecomment-3114247276) in [dhth/ting](https://github.com/dhth/ting)
-3. 💪 Opened PR [#2](https://github.com/dhth/ting/pull/2) in [dhth/ting](https://github.com/dhth/ting)
-4. 🎉 Merged PR [#1](https://github.com/dhth/ting/pull/1) in [dhth/ting](https://github.com/dhth/ting)
-5. 🗣 Commented on [#1](https://github.com/dhth/ting/pull/1#issuecomment-3111435768) in [dhth/ting](https://github.com/dhth/ting)
-6. 💪 Opened PR [#1](https://github.com/dhth/ting/pull/1) in [dhth/ting](https://github.com/dhth/ting)
-7. 🎉 Merged PR [#2](https://github.com/dhth/agent1/pull/2) in [dhth/agent1](https://github.com/dhth/agent1)
-8. 🗣 Commented on [#103](https://github.com/dhth/ecsv/pull/103#issuecomment-3101389872) in [dhth/ecsv](https://github.com/dhth/ecsv)
-9. 🗣 Commented on [#91](https://github.com/dhth/outtasync/pull/91#issuecomment-3101389473) in [dhth/outtasync](https://github.com/dhth/outtasync)
-10. 🗣 Commented on [#90](https://github.com/dhth/outtasync/pull/90#issuecomment-3101388947) in [dhth/outtasync](https://github.com/dhth/outtasync)
+1. 💪 Opened PR [#5](https://github.com/dhth/ting/pull/5) in [dhth/ting](https://github.com/dhth/ting)
+2. 🎉 Merged PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
+3. 💪 Opened PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
+4. 🎉 Merged PR [#3](https://github.com/dhth/ting/pull/3) in [dhth/ting](https://github.com/dhth/ting)
+5. 💪 Opened PR [#3](https://github.com/dhth/ting/pull/3) in [dhth/ting](https://github.com/dhth/ting)
+6. 🎉 Merged PR [#2](https://github.com/dhth/ting/pull/2) in [dhth/ting](https://github.com/dhth/ting)
+7. 🗣 Commented on [#2](https://github.com/dhth/ting/pull/2#issuecomment-3114247276) in [dhth/ting](https://github.com/dhth/ting)
+8. 💪 Opened PR [#2](https://github.com/dhth/ting/pull/2) in [dhth/ting](https://github.com/dhth/ting)
+9. 🎉 Merged PR [#1](https://github.com/dhth/ting/pull/1) in [dhth/ting](https://github.com/dhth/ting)
+10. 🗣 Commented on [#1](https://github.com/dhth/ting/pull/1#issuecomment-3111435768) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
