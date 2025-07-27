@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 💪 Opened PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 🎉 Merged PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
-4. 💪 Opened PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
-5. 🎉 Merged PR [#5](https://github.com/dhth/ting/pull/5) in [dhth/ting](https://github.com/dhth/ting)
-6. 💪 Opened PR [#5](https://github.com/dhth/ting/pull/5) in [dhth/ting](https://github.com/dhth/ting)
-7. 🎉 Merged PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
-8. 💪 Opened PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
-9. 🎉 Merged PR [#3](https://github.com/dhth/ting/pull/3) in [dhth/ting](https://github.com/dhth/ting)
-10. 💪 Opened PR [#3](https://github.com/dhth/ting/pull/3) in [dhth/ting](https://github.com/dhth/ting)
+1. 🎉 Merged PR [#35](https://github.com/dhth/dfft/pull/35) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 💪 Opened PR [#35](https://github.com/dhth/dfft/pull/35) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 💪 Opened PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
+5. 🎉 Merged PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
+6. 💪 Opened PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
+7. 🎉 Merged PR [#5](https://github.com/dhth/ting/pull/5) in [dhth/ting](https://github.com/dhth/ting)
+8. 💪 Opened PR [#5](https://github.com/dhth/ting/pull/5) in [dhth/ting](https://github.com/dhth/ting)
+9. 🎉 Merged PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
+10. 💪 Opened PR [#4](https://github.com/dhth/ting/pull/4) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
