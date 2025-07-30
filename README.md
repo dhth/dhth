@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/dhth/chronotes/pull/23) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. 🎉 Merged PR [#24](https://github.com/dhth/chronotes/pull/24) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. 💪 Opened PR [#24](https://github.com/dhth/chronotes/pull/24) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 💪 Opened PR [#23](https://github.com/dhth/chronotes/pull/23) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 🎉 Merged PR [#35](https://github.com/dhth/dfft/pull/35) in [dhth/dfft](https://github.com/dhth/dfft)
-6. 💪 Opened PR [#35](https://github.com/dhth/dfft/pull/35) in [dhth/dfft](https://github.com/dhth/dfft)
-7. 🎉 Merged PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 💪 Opened PR [#34](https://github.com/dhth/dfft/pull/34) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 🎉 Merged PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
-10. 💪 Opened PR [#6](https://github.com/dhth/ting/pull/6) in [dhth/ting](https://github.com/dhth/ting)
+1. 🗣 Commented on [#3](https://github.com/dhth/graphc/pull/3#issuecomment-3133625960) in [dhth/graphc](https://github.com/dhth/graphc)
+2. 💪 Opened PR [#3](https://github.com/dhth/graphc/pull/3) in [dhth/graphc](https://github.com/dhth/graphc)
+3. 🎉 Merged PR [#2](https://github.com/dhth/graphc/pull/2) in [dhth/graphc](https://github.com/dhth/graphc)
+4. 🗣 Commented on [#2](https://github.com/dhth/graphc/pull/2#issuecomment-3133312723) in [dhth/graphc](https://github.com/dhth/graphc)
+5. 💪 Opened PR [#2](https://github.com/dhth/graphc/pull/2) in [dhth/graphc](https://github.com/dhth/graphc)
+6. 🎉 Merged PR [#1](https://github.com/dhth/graphc/pull/1) in [dhth/graphc](https://github.com/dhth/graphc)
+7. 💪 Opened PR [#1](https://github.com/dhth/graphc/pull/1) in [dhth/graphc](https://github.com/dhth/graphc)
+8. 🎉 Merged PR [#23](https://github.com/dhth/chronotes/pull/23) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. 🎉 Merged PR [#24](https://github.com/dhth/chronotes/pull/24) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. 💪 Opened PR [#24](https://github.com/dhth/chronotes/pull/24) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
 
