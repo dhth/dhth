@@ -24,6 +24,7 @@ What I'm up to these days:
 | [dfft](https://github.com/dhth/dfft)           | lets you monitor changes as AI agents modify your codebase                                    | <img src="./assets/rust.svg"/>                                 |
 | [outtasync](https://github.com/dhth/outtasync) | lets you identify CloudFormation stacks that have drifted or gone out of sync                 | <img src="./assets/go.svg"/>                                   |
 | [punchout](https://github.com/dhth/punchout)   | takes the suck out of logging time on JIRA                                                    | <img src="./assets/go.svg"/>                                   |
+| [graphc](https://github.com/dhth/graphc)       | lets you query graph databases via an interactive console                                     | <img src="./assets/python.svg"/>                               |
 | [act3](https://github.com/dhth/act3)           | lets you glance at the last 3 runs of your Github Actions                                     | <img src="./assets/go.svg"/>                                   |
 | [mult](https://github.com/dhth/mult)           | lets you run a command multiple times and glance at the outputs                               | <img src="./assets/go.svg"/>                                   |
 | [ecsv](https://github.com/dhth/ecsv)           | helps you check the versions of your systems running in ECS tasks across various environments | <img src="./assets/go.svg"/>                                   |
