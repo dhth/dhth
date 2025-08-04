@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
-2. 💪 Opened PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 🚀 Published release [v0.1.3](https://github.com/dhth/graphc/releases/tag/v0.1.3) in [dhth/graphc](https://github.com/dhth/graphc)
-4. 🎉 Merged PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
-5. 💪 Opened PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
-6. 💪 Opened PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. 🚀 Published release [v0.1.2](https://github.com/dhth/graphc/releases/tag/v0.1.2) in [dhth/graphc](https://github.com/dhth/graphc)
-8. 🎉 Merged PR [#13](https://github.com/dhth/graphc/pull/13) in [dhth/graphc](https://github.com/dhth/graphc)
-9. 💪 Opened PR [#13](https://github.com/dhth/graphc/pull/13) in [dhth/graphc](https://github.com/dhth/graphc)
-10. 🎉 Merged PR [#12](https://github.com/dhth/graphc/pull/12) in [dhth/graphc](https://github.com/dhth/graphc)
+1. 🎉 Merged PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 🗣 Commented on [#42](https://github.com/dhth/mrj/pull/42#issuecomment-3149539948) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 💪 Opened PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 🎉 Merged PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
+5. 💪 Opened PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
+6. 🚀 Published release [v0.1.3](https://github.com/dhth/graphc/releases/tag/v0.1.3) in [dhth/graphc](https://github.com/dhth/graphc)
+7. 🎉 Merged PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
+8. 💪 Opened PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
+9. 💪 Opened PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. 🚀 Published release [v0.1.2](https://github.com/dhth/graphc/releases/tag/v0.1.2) in [dhth/graphc](https://github.com/dhth/graphc)
 <!--END_SECTION:activity-->
 
