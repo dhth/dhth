@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. 🎉 Merged PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 🗣 Commented on [#42](https://github.com/dhth/mrj/pull/42#issuecomment-3149539948) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 💪 Opened PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 🎉 Merged PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
-6. 💪 Opened PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 🚀 Published release [v0.1.3](https://github.com/dhth/graphc/releases/tag/v0.1.3) in [dhth/graphc](https://github.com/dhth/graphc)
-8. 🎉 Merged PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
-9. 💪 Opened PR [#14](https://github.com/dhth/graphc/pull/14) in [dhth/graphc](https://github.com/dhth/graphc)
-10. 💪 Opened PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
+1. 🗣 Commented on [#51](https://github.com/dhth/ecscope/pull/51#issuecomment-3156806759) in [dhth/ecscope](https://github.com/dhth/ecscope)
+2. 🎉 Merged PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
+3. 💪 Opened PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
+4. 🚀 Published release [v0.2.0](https://github.com/dhth/mult/releases/tag/v0.2.0) in [dhth/mult](https://github.com/dhth/mult)
+5. 🎉 Merged PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
+6. 🎉 Merged PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 🗣 Commented on [#42](https://github.com/dhth/mrj/pull/42#issuecomment-3149539948) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 💪 Opened PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 🎉 Merged PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
+10. 💪 Opened PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
 
