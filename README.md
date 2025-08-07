@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14584](https://github.com/astral-sh/uv/issues/14584#issuecomment-3157766666) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#51](https://github.com/dhth/ecscope/pull/51#issuecomment-3156806759) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 🎉 Merged PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
-4. 💪 Opened PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
-5. 🚀 Published release [v0.2.0](https://github.com/dhth/mult/releases/tag/v0.2.0) in [dhth/mult](https://github.com/dhth/mult)
-6. 🎉 Merged PR [#25](https://github.com/dhth/chronotes/pull/25) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. 🎉 Merged PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🗣 Commented on [#42](https://github.com/dhth/mrj/pull/42#issuecomment-3149539948) in [dhth/mrj](https://github.com/dhth/mrj)
-9. 💪 Opened PR [#42](https://github.com/dhth/mrj/pull/42) in [dhth/mrj](https://github.com/dhth/mrj)
-10. 🎉 Merged PR [#43](https://github.com/dhth/tbll/pull/43) in [dhth/tbll](https://github.com/dhth/tbll)
+1. 🎉 Merged PR [#97](https://github.com/dhth/outtasync/pull/97) in [dhth/outtasync](https://github.com/dhth/outtasync)
+2. 🎉 Merged PR [#20](https://github.com/dhth/graphc/pull/20) in [dhth/graphc](https://github.com/dhth/graphc)
+3. 💪 Opened PR [#20](https://github.com/dhth/graphc/pull/20) in [dhth/graphc](https://github.com/dhth/graphc)
+4. 🎉 Merged PR [#19](https://github.com/dhth/graphc/pull/19) in [dhth/graphc](https://github.com/dhth/graphc)
+5. 💪 Opened PR [#19](https://github.com/dhth/graphc/pull/19) in [dhth/graphc](https://github.com/dhth/graphc)
+6. 🗣 Commented on [#14584](https://github.com/astral-sh/uv/issues/14584#issuecomment-3157766666) in [astral-sh/uv](https://github.com/astral-sh/uv)
+7. 🗣 Commented on [#51](https://github.com/dhth/ecscope/pull/51#issuecomment-3156806759) in [dhth/ecscope](https://github.com/dhth/ecscope)
+8. 🎉 Merged PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
+9. 💪 Opened PR [#18](https://github.com/dhth/graphc/pull/18) in [dhth/graphc](https://github.com/dhth/graphc)
+10. 🚀 Published release [v0.2.0](https://github.com/dhth/mult/releases/tag/v0.2.0) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
