@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/dhth/graphc/pull/21) in [dhth/graphc](https://github.com/dhth/graphc)
-2. 🎉 Merged PR [#29](https://github.com/dhth/schemas/pull/29) in [dhth/schemas](https://github.com/dhth/schemas)
-3. 🎉 Merged PR [#111](https://github.com/dhth/ecsv/pull/111) in [dhth/ecsv](https://github.com/dhth/ecsv)
-4. 🎉 Merged PR [#97](https://github.com/dhth/outtasync/pull/97) in [dhth/outtasync](https://github.com/dhth/outtasync)
-5. 🎉 Merged PR [#20](https://github.com/dhth/graphc/pull/20) in [dhth/graphc](https://github.com/dhth/graphc)
-6. 💪 Opened PR [#20](https://github.com/dhth/graphc/pull/20) in [dhth/graphc](https://github.com/dhth/graphc)
-7. 🎉 Merged PR [#19](https://github.com/dhth/graphc/pull/19) in [dhth/graphc](https://github.com/dhth/graphc)
-8. 💪 Opened PR [#19](https://github.com/dhth/graphc/pull/19) in [dhth/graphc](https://github.com/dhth/graphc)
-9. 🗣 Commented on [#14584](https://github.com/astral-sh/uv/issues/14584#issuecomment-3157766666) in [astral-sh/uv](https://github.com/astral-sh/uv)
-10. 🗣 Commented on [#51](https://github.com/dhth/ecscope/pull/51#issuecomment-3156806759) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#52](https://github.com/dhth/ecscope/pull/52) in [dhth/ecscope](https://github.com/dhth/ecscope)
+2. 🗣 Commented on [#52](https://github.com/dhth/ecscope/pull/52#issuecomment-3168295207) in [dhth/ecscope](https://github.com/dhth/ecscope)
+3. 🎉 Merged PR [#20](https://github.com/dhth/urll/pull/20) in [dhth/urll](https://github.com/dhth/urll)
+4. 🎉 Merged PR [#26](https://github.com/dhth/shfl/pull/26) in [dhth/shfl](https://github.com/dhth/shfl)
+5. 🎉 Merged PR [#48](https://github.com/dhth/tomo/pull/48) in [dhth/tomo](https://github.com/dhth/tomo)
+6. 🎉 Merged PR [#26](https://github.com/dhth/tash/pull/26) in [dhth/tash](https://github.com/dhth/tash)
+7. 🗣 Commented on [#52](https://github.com/dhth/ecscope/pull/52#issuecomment-3168237356) in [dhth/ecscope](https://github.com/dhth/ecscope)
+8. 🎉 Merged PR [#43](https://github.com/dhth/dfft/pull/43) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🗣 Commented on [#20](https://github.com/dhth/urll/pull/20#issuecomment-3168228017) in [dhth/urll](https://github.com/dhth/urll)
+10. 🎉 Merged PR [#20](https://github.com/dhth/commits/pull/20) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
