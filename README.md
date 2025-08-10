@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/dhth/punchout/pull/56) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 🎉 Merged PR [#55](https://github.com/dhth/punchout/pull/55) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 🗣 Commented on [#55](https://github.com/dhth/punchout/pull/55#issuecomment-3168468609) in [dhth/punchout](https://github.com/dhth/punchout)
-4. 🎉 Merged PR [#52](https://github.com/dhth/ecscope/pull/52) in [dhth/ecscope](https://github.com/dhth/ecscope)
-5. 🗣 Commented on [#52](https://github.com/dhth/ecscope/pull/52#issuecomment-3168295207) in [dhth/ecscope](https://github.com/dhth/ecscope)
-6. 🎉 Merged PR [#20](https://github.com/dhth/urll/pull/20) in [dhth/urll](https://github.com/dhth/urll)
-7. 🎉 Merged PR [#26](https://github.com/dhth/shfl/pull/26) in [dhth/shfl](https://github.com/dhth/shfl)
-8. 🎉 Merged PR [#48](https://github.com/dhth/tomo/pull/48) in [dhth/tomo](https://github.com/dhth/tomo)
-9. 🎉 Merged PR [#26](https://github.com/dhth/tash/pull/26) in [dhth/tash](https://github.com/dhth/tash)
-10. 🗣 Commented on [#52](https://github.com/dhth/ecscope/pull/52#issuecomment-3168237356) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
+2. 💪 Opened PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
+3. 💪 Opened PR [#26](https://github.com/dhth/chronotes/pull/26) in [dhth/chronotes](https://github.com/dhth/chronotes)
+4. 🎉 Merged PR [#56](https://github.com/dhth/punchout/pull/56) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 🎉 Merged PR [#55](https://github.com/dhth/punchout/pull/55) in [dhth/punchout](https://github.com/dhth/punchout)
+6. 🗣 Commented on [#55](https://github.com/dhth/punchout/pull/55#issuecomment-3168468609) in [dhth/punchout](https://github.com/dhth/punchout)
+7. 🎉 Merged PR [#52](https://github.com/dhth/ecscope/pull/52) in [dhth/ecscope](https://github.com/dhth/ecscope)
+8. 🗣 Commented on [#52](https://github.com/dhth/ecscope/pull/52#issuecomment-3168295207) in [dhth/ecscope](https://github.com/dhth/ecscope)
+9. 🎉 Merged PR [#20](https://github.com/dhth/urll/pull/20) in [dhth/urll](https://github.com/dhth/urll)
+10. 🎉 Merged PR [#26](https://github.com/dhth/shfl/pull/26) in [dhth/shfl](https://github.com/dhth/shfl)
 <!--END_SECTION:activity-->
 
