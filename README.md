@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/dhth/mult/pull/24) in [dhth/mult](https://github.com/dhth/mult)
-2. 🗣 Commented on [#21](https://github.com/dhth/mult/issues/21#issuecomment-3173408404) in [dhth/mult](https://github.com/dhth/mult)
-3. 🔓 Reopened issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
-4. 🔒 Closed issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
-5. 🎉 Merged PR [#23](https://github.com/dhth/mult/pull/23) in [dhth/mult](https://github.com/dhth/mult)
-6. 💪 Opened PR [#23](https://github.com/dhth/mult/pull/23) in [dhth/mult](https://github.com/dhth/mult)
-7. 🎉 Merged PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
-8. 💪 Opened PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
-9. 💪 Opened PR [#26](https://github.com/dhth/chronotes/pull/26) in [dhth/chronotes](https://github.com/dhth/chronotes)
-10. 🎉 Merged PR [#56](https://github.com/dhth/punchout/pull/56) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 💪 Opened PR [#25](https://github.com/dhth/mult/pull/25) in [dhth/mult](https://github.com/dhth/mult)
+2. 🎉 Merged PR [#24](https://github.com/dhth/mult/pull/24) in [dhth/mult](https://github.com/dhth/mult)
+3. 💪 Opened PR [#24](https://github.com/dhth/mult/pull/24) in [dhth/mult](https://github.com/dhth/mult)
+4. 🗣 Commented on [#21](https://github.com/dhth/mult/issues/21#issuecomment-3173408404) in [dhth/mult](https://github.com/dhth/mult)
+5. 🔓 Reopened issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
+6. 🔒 Closed issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
+7. 🎉 Merged PR [#23](https://github.com/dhth/mult/pull/23) in [dhth/mult](https://github.com/dhth/mult)
+8. 💪 Opened PR [#23](https://github.com/dhth/mult/pull/23) in [dhth/mult](https://github.com/dhth/mult)
+9. 🎉 Merged PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
+10. 💪 Opened PR [#22](https://github.com/dhth/mult/pull/22) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
