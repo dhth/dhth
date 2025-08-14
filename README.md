@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/dhth/mult/issues/21#issuecomment-3181082463) in [dhth/mult](https://github.com/dhth/mult)
-2. 🔒 Closed issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
-3. 🚀 Published release [v0.3.0](https://github.com/dhth/mult/releases/tag/v0.3.0) in [dhth/mult](https://github.com/dhth/mult)
-4. 🎉 Merged PR [#27](https://github.com/dhth/mult/pull/27) in [dhth/mult](https://github.com/dhth/mult)
-5. 💪 Opened PR [#27](https://github.com/dhth/mult/pull/27) in [dhth/mult](https://github.com/dhth/mult)
-6. 🎉 Merged PR [#26](https://github.com/dhth/mult/pull/26) in [dhth/mult](https://github.com/dhth/mult)
-7. 🗣 Commented on [#26](https://github.com/dhth/mult/pull/26#issuecomment-3177074799) in [dhth/mult](https://github.com/dhth/mult)
-8. 💪 Opened PR [#26](https://github.com/dhth/mult/pull/26) in [dhth/mult](https://github.com/dhth/mult)
-9. 🎉 Merged PR [#25](https://github.com/dhth/mult/pull/25) in [dhth/mult](https://github.com/dhth/mult)
-10. 🗣 Commented on [#25](https://github.com/dhth/mult/pull/25#issuecomment-3176973827) in [dhth/mult](https://github.com/dhth/mult)
+1. 🗣 Commented on [#79](https://github.com/dhth/hours/issues/79#issuecomment-3184539159) in [dhth/hours](https://github.com/dhth/hours)
+2. 🗣 Commented on [#21](https://github.com/dhth/mult/issues/21#issuecomment-3181082463) in [dhth/mult](https://github.com/dhth/mult)
+3. 🔒 Closed issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
+4. 🚀 Published release [v0.3.0](https://github.com/dhth/mult/releases/tag/v0.3.0) in [dhth/mult](https://github.com/dhth/mult)
+5. 🎉 Merged PR [#27](https://github.com/dhth/mult/pull/27) in [dhth/mult](https://github.com/dhth/mult)
+6. 💪 Opened PR [#27](https://github.com/dhth/mult/pull/27) in [dhth/mult](https://github.com/dhth/mult)
+7. 🎉 Merged PR [#26](https://github.com/dhth/mult/pull/26) in [dhth/mult](https://github.com/dhth/mult)
+8. 🗣 Commented on [#26](https://github.com/dhth/mult/pull/26#issuecomment-3177074799) in [dhth/mult](https://github.com/dhth/mult)
+9. 💪 Opened PR [#26](https://github.com/dhth/mult/pull/26) in [dhth/mult](https://github.com/dhth/mult)
+10. 🎉 Merged PR [#25](https://github.com/dhth/mult/pull/25) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
