@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/dhth/ghx/pull/33) in [dhth/ghx](https://github.com/dhth/ghx)
-2. 🎉 Merged PR [#32](https://github.com/dhth/ghx/pull/32) in [dhth/ghx](https://github.com/dhth/ghx)
-3. 💪 Opened PR [#32](https://github.com/dhth/ghx/pull/32) in [dhth/ghx](https://github.com/dhth/ghx)
-4. 🎉 Merged PR [#82](https://github.com/dhth/hours/pull/82) in [dhth/hours](https://github.com/dhth/hours)
-5. 🗣 Commented on [#82](https://github.com/dhth/hours/pull/82#issuecomment-3187956194) in [dhth/hours](https://github.com/dhth/hours)
-6. 🗣 Commented on [#79](https://github.com/dhth/hours/issues/79#issuecomment-3184539159) in [dhth/hours](https://github.com/dhth/hours)
-7. 🗣 Commented on [#21](https://github.com/dhth/mult/issues/21#issuecomment-3181082463) in [dhth/mult](https://github.com/dhth/mult)
-8. 🔒 Closed issue [#21](https://github.com/dhth/mult/issues/21) in [dhth/mult](https://github.com/dhth/mult)
-9. 🚀 Published release [v0.3.0](https://github.com/dhth/mult/releases/tag/v0.3.0) in [dhth/mult](https://github.com/dhth/mult)
-10. 🎉 Merged PR [#27](https://github.com/dhth/mult/pull/27) in [dhth/mult](https://github.com/dhth/mult)
+1. 🔒 Closed issue [#77](https://github.com/dhth/kplay/issues/77) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🎉 Merged PR [#78](https://github.com/dhth/kplay/pull/78) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 🎉 Merged PR [#58](https://github.com/dhth/punchout/pull/58) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 🗣 Commented on [#77](https://github.com/dhth/kplay/issues/77#issuecomment-3188547793) in [dhth/kplay](https://github.com/dhth/kplay)
+5. ❗ Opened issue [#77](https://github.com/dhth/kplay/issues/77) in [dhth/kplay](https://github.com/dhth/kplay)
+6. ❌ Closed PR [#81](https://github.com/dhth/omm/pull/81) in [dhth/omm](https://github.com/dhth/omm)
+7. ❌ Closed PR [#16](https://github.com/dhth/ting/pull/16) in [dhth/ting](https://github.com/dhth/ting)
+8. ❌ Closed PR [#56](https://github.com/dhth/ecscope/pull/56) in [dhth/ecscope](https://github.com/dhth/ecscope)
+9. 🎉 Merged PR [#57](https://github.com/dhth/ecscope/pull/57) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. 🗣 Commented on [#16](https://github.com/dhth/ting/pull/16#issuecomment-3188411329) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
