@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/dhth/bmm/pull/66) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 💪 Opened PR [#66](https://github.com/dhth/bmm/pull/66) in [dhth/bmm](https://github.com/dhth/bmm)
-3. 🔒 Closed issue [#46](https://github.com/dhth/hours/issues/46) in [dhth/hours](https://github.com/dhth/hours)
-4. 🗣 Commented on [#46](https://github.com/dhth/hours/issues/46#issuecomment-3204539469) in [dhth/hours](https://github.com/dhth/hours)
-5. 🗣 Commented on [#77](https://github.com/dhth/hours/issues/77#issuecomment-3197647295) in [dhth/hours](https://github.com/dhth/hours)
-6. 🔒 Closed issue [#77](https://github.com/dhth/hours/issues/77) in [dhth/hours](https://github.com/dhth/hours)
-7. 🔒 Closed issue [#83](https://github.com/dhth/hours/issues/83) in [dhth/hours](https://github.com/dhth/hours)
-8. 🗣 Commented on [#83](https://github.com/dhth/hours/issues/83#issuecomment-3197634387) in [dhth/hours](https://github.com/dhth/hours)
-9. 🚀 Published release [v0.6.0](https://github.com/dhth/hours/releases/tag/v0.6.0) in [dhth/hours](https://github.com/dhth/hours)
-10. 🎉 Merged PR [#98](https://github.com/dhth/hours/pull/98) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#29](https://github.com/dhth/mult/pull/29) in [dhth/mult](https://github.com/dhth/mult)
+2. 🗣 Commented on [#29](https://github.com/dhth/mult/pull/29#issuecomment-3214789243) in [dhth/mult](https://github.com/dhth/mult)
+3. 💪 Opened PR [#29](https://github.com/dhth/mult/pull/29) in [dhth/mult](https://github.com/dhth/mult)
+4. 🎉 Merged PR [#66](https://github.com/dhth/bmm/pull/66) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 💪 Opened PR [#66](https://github.com/dhth/bmm/pull/66) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🔒 Closed issue [#46](https://github.com/dhth/hours/issues/46) in [dhth/hours](https://github.com/dhth/hours)
+7. 🗣 Commented on [#46](https://github.com/dhth/hours/issues/46#issuecomment-3204539469) in [dhth/hours](https://github.com/dhth/hours)
+8. 🗣 Commented on [#77](https://github.com/dhth/hours/issues/77#issuecomment-3197647295) in [dhth/hours](https://github.com/dhth/hours)
+9. 🔒 Closed issue [#77](https://github.com/dhth/hours/issues/77) in [dhth/hours](https://github.com/dhth/hours)
+10. 🔒 Closed issue [#83](https://github.com/dhth/hours/issues/83) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
