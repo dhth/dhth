@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/dhth/prs/pull/45) in [dhth/prs](https://github.com/dhth/prs)
-2. 💪 Opened PR [#53](https://github.com/dhth/dfft/pull/53) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 🎉 Merged PR [#85](https://github.com/dhth/omm/pull/85) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#103](https://github.com/dhth/hours/pull/103) in [dhth/hours](https://github.com/dhth/hours)
-5. 🎉 Merged PR [#3](https://github.com/dhth/composite-actions/pull/3) in [dhth/composite-actions](https://github.com/dhth/composite-actions)
-6. 💪 Opened PR [#3](https://github.com/dhth/composite-actions/pull/3) in [dhth/composite-actions](https://github.com/dhth/composite-actions)
-7. 🎉 Merged PR [#2](https://github.com/dhth/composite-actions/pull/2) in [dhth/composite-actions](https://github.com/dhth/composite-actions)
-8. 💪 Opened PR [#2](https://github.com/dhth/composite-actions/pull/2) in [dhth/composite-actions](https://github.com/dhth/composite-actions)
-9. 💪 Opened PR [#103](https://github.com/dhth/hours/pull/103) in [dhth/hours](https://github.com/dhth/hours)
-10. 🎉 Merged PR [#102](https://github.com/dhth/hours/pull/102) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#105](https://github.com/dhth/outtasync/pull/105) in [dhth/outtasync](https://github.com/dhth/outtasync)
+2. 🎉 Merged PR [#63](https://github.com/dhth/ecscope/pull/63) in [dhth/ecscope](https://github.com/dhth/ecscope)
+3. 🎉 Merged PR [#62](https://github.com/dhth/punchout/pull/62) in [dhth/punchout](https://github.com/dhth/punchout)
+4. 🎉 Merged PR [#32](https://github.com/dhth/dstll/pull/32) in [dhth/dstll](https://github.com/dhth/dstll)
+5. 💪 Opened PR [#62](https://github.com/dhth/punchout/pull/62) in [dhth/punchout](https://github.com/dhth/punchout)
+6. 💪 Opened PR [#105](https://github.com/dhth/outtasync/pull/105) in [dhth/outtasync](https://github.com/dhth/outtasync)
+7. 💪 Opened PR [#32](https://github.com/dhth/dstll/pull/32) in [dhth/dstll](https://github.com/dhth/dstll)
+8. 🎉 Merged PR [#53](https://github.com/dhth/dfft/pull/53) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#72](https://github.com/dhth/cueitup/pull/72) in [dhth/cueitup](https://github.com/dhth/cueitup)
+10. 💪 Opened PR [#63](https://github.com/dhth/ecscope/pull/63) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
 
