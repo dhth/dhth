@@ -51,15 +51,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/dhth/punchout/pull/68) in [dhth/punchout](https://github.com/dhth/punchout)
-2. 🗣 Commented on [#68](https://github.com/dhth/punchout/pull/68#issuecomment-3225982030) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 🗣 Commented on [#68](https://github.com/dhth/punchout/pull/68#issuecomment-3225954446) in [dhth/punchout](https://github.com/dhth/punchout)
-4. 💪 Opened PR [#68](https://github.com/dhth/punchout/pull/68) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 🎉 Merged PR [#67](https://github.com/dhth/punchout/pull/67) in [dhth/punchout](https://github.com/dhth/punchout)
-6. 💪 Opened PR [#67](https://github.com/dhth/punchout/pull/67) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 🎉 Merged PR [#64](https://github.com/dhth/punchout/pull/64) in [dhth/punchout](https://github.com/dhth/punchout)
-8. 🗣 Commented on [#64](https://github.com/dhth/punchout/pull/64#issuecomment-3222017700) in [dhth/punchout](https://github.com/dhth/punchout)
-9. 💪 Opened PR [#64](https://github.com/dhth/punchout/pull/64) in [dhth/punchout](https://github.com/dhth/punchout)
-10. 🎉 Merged PR [#63](https://github.com/dhth/punchout/pull/63) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#29](https://github.com/dhth/shfl/pull/29) in [dhth/shfl](https://github.com/dhth/shfl)
+2. 🗣 Commented on [#48](https://github.com/dhth/dfft/pull/48#issuecomment-3227055559) in [dhth/dfft](https://github.com/dhth/dfft)
+3. ❌ Closed PR [#46](https://github.com/dhth/dfft/pull/46) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 🗣 Commented on [#123](https://github.com/dhth/ecsv/pull/123#issuecomment-3227053724) in [dhth/ecsv](https://github.com/dhth/ecsv)
+5. 🎉 Merged PR [#36](https://github.com/dhth/tash/pull/36) in [dhth/tash](https://github.com/dhth/tash)
+6. 🎉 Merged PR [#27](https://github.com/dhth/chronotes/pull/27) in [dhth/chronotes](https://github.com/dhth/chronotes)
+7. ❌ Closed PR [#42](https://github.com/dhth/squidge/pull/42) in [dhth/squidge](https://github.com/dhth/squidge)
+8. ❌ Reopened PR [#58](https://github.com/dhth/ecscope/pull/58) in [dhth/ecscope](https://github.com/dhth/ecscope)
+9. ❌ Closed PR [#58](https://github.com/dhth/ecscope/pull/58) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. ❌ Closed PR [#56](https://github.com/dhth/tomo/pull/56) in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
 
