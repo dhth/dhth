@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3252170713) in [dhth/hours](https://github.com/dhth/hours)
-2. 🎉 Merged PR [#44](https://github.com/dhth/mrj/pull/44) in [dhth/mrj](https://github.com/dhth/mrj)
-3. ❌ Closed PR [#49](https://github.com/dhth/mrj/pull/49) in [dhth/mrj](https://github.com/dhth/mrj)
-4. 🗣 Commented on [#62](https://github.com/dhth/bmm/pull/62#issuecomment-3240438692) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🎉 Merged PR [#3](https://github.com/dhth/atls/pull/3) in [dhth/atls](https://github.com/dhth/atls)
-6. 💪 Opened PR [#3](https://github.com/dhth/atls/pull/3) in [dhth/atls](https://github.com/dhth/atls)
-7. 💪 Opened PR [#29](https://github.com/dhth/chronotes/pull/29) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. 🗣 Commented on [#38](https://github.com/dhth/tash/issues/38#issuecomment-3239433879) in [dhth/tash](https://github.com/dhth/tash)
-9. 🎉 Merged PR [#39](https://github.com/dhth/tash/pull/39) in [dhth/tash](https://github.com/dhth/tash)
-10. 💪 Opened PR [#39](https://github.com/dhth/tash/pull/39) in [dhth/tash](https://github.com/dhth/tash)
+1. 💪 Opened PR [#83](https://github.com/dhth/kplay/pull/83) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3252170713) in [dhth/hours](https://github.com/dhth/hours)
+3. 🎉 Merged PR [#44](https://github.com/dhth/mrj/pull/44) in [dhth/mrj](https://github.com/dhth/mrj)
+4. ❌ Closed PR [#49](https://github.com/dhth/mrj/pull/49) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 🗣 Commented on [#62](https://github.com/dhth/bmm/pull/62#issuecomment-3240438692) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🎉 Merged PR [#3](https://github.com/dhth/atls/pull/3) in [dhth/atls](https://github.com/dhth/atls)
+7. 💪 Opened PR [#3](https://github.com/dhth/atls/pull/3) in [dhth/atls](https://github.com/dhth/atls)
+8. 💪 Opened PR [#29](https://github.com/dhth/chronotes/pull/29) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. 🗣 Commented on [#38](https://github.com/dhth/tash/issues/38#issuecomment-3239433879) in [dhth/tash](https://github.com/dhth/tash)
+10. 🎉 Merged PR [#39](https://github.com/dhth/tash/pull/39) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
 
