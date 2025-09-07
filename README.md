@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/dhth/chronotes/pull/29#issuecomment-3263614560) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. 💪 Opened PR [#31](https://github.com/dhth/chronotes/pull/31) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. ❌ Closed PR [#29](https://github.com/dhth/chronotes/pull/29) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 💪 Opened PR [#30](https://github.com/dhth/chronotes/pull/30) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 🎉 Merged PR [#70](https://github.com/dhth/punchout/pull/70) in [dhth/punchout](https://github.com/dhth/punchout)
-6. 🗣 Commented on [#70](https://github.com/dhth/punchout/pull/70#issuecomment-3259822687) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 💪 Opened PR [#70](https://github.com/dhth/punchout/pull/70) in [dhth/punchout](https://github.com/dhth/punchout)
-8. 🎉 Merged PR [#83](https://github.com/dhth/kplay/pull/83) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 💪 Opened PR [#83](https://github.com/dhth/kplay/pull/83) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3252170713) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#31](https://github.com/dhth/chronotes/pull/31) in [dhth/chronotes](https://github.com/dhth/chronotes)
+2. 🎉 Merged PR [#32](https://github.com/dhth/chronotes/pull/32) in [dhth/chronotes](https://github.com/dhth/chronotes)
+3. 💪 Opened PR [#32](https://github.com/dhth/chronotes/pull/32) in [dhth/chronotes](https://github.com/dhth/chronotes)
+4. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3263886195) in [dhth/hours](https://github.com/dhth/hours)
+5. 🗣 Commented on [#29](https://github.com/dhth/chronotes/pull/29#issuecomment-3263614560) in [dhth/chronotes](https://github.com/dhth/chronotes)
+6. 💪 Opened PR [#31](https://github.com/dhth/chronotes/pull/31) in [dhth/chronotes](https://github.com/dhth/chronotes)
+7. ❌ Closed PR [#29](https://github.com/dhth/chronotes/pull/29) in [dhth/chronotes](https://github.com/dhth/chronotes)
+8. 💪 Opened PR [#30](https://github.com/dhth/chronotes/pull/30) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. 🎉 Merged PR [#70](https://github.com/dhth/punchout/pull/70) in [dhth/punchout](https://github.com/dhth/punchout)
+10. 🗣 Commented on [#70](https://github.com/dhth/punchout/pull/70#issuecomment-3259822687) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
