@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/dhth/chronotes/pull/31) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. 🎉 Merged PR [#32](https://github.com/dhth/chronotes/pull/32) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. 💪 Opened PR [#32](https://github.com/dhth/chronotes/pull/32) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3263886195) in [dhth/hours](https://github.com/dhth/hours)
-5. 🗣 Commented on [#29](https://github.com/dhth/chronotes/pull/29#issuecomment-3263614560) in [dhth/chronotes](https://github.com/dhth/chronotes)
-6. 💪 Opened PR [#31](https://github.com/dhth/chronotes/pull/31) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. ❌ Closed PR [#29](https://github.com/dhth/chronotes/pull/29) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. 💪 Opened PR [#30](https://github.com/dhth/chronotes/pull/30) in [dhth/chronotes](https://github.com/dhth/chronotes)
-9. 🎉 Merged PR [#70](https://github.com/dhth/punchout/pull/70) in [dhth/punchout](https://github.com/dhth/punchout)
-10. 🗣 Commented on [#70](https://github.com/dhth/punchout/pull/70#issuecomment-3259822687) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#28](https://github.com/dhth/urll/pull/28) in [dhth/urll](https://github.com/dhth/urll)
+2. 🎉 Merged PR [#63](https://github.com/dhth/tomo/pull/63) in [dhth/tomo](https://github.com/dhth/tomo)
+3. 🎉 Merged PR [#28](https://github.com/dhth/ting/pull/28) in [dhth/ting](https://github.com/dhth/ting)
+4. 🎉 Merged PR [#33](https://github.com/dhth/chronotes/pull/33) in [dhth/chronotes](https://github.com/dhth/chronotes)
+5. 🎉 Merged PR [#76](https://github.com/dhth/bmm/pull/76) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🎉 Merged PR [#77](https://github.com/dhth/ecscope/pull/77) in [dhth/ecscope](https://github.com/dhth/ecscope)
+7. 🎉 Merged PR [#61](https://github.com/dhth/dfft/pull/61) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 🎉 Merged PR [#9](https://github.com/dhth/mrj-runner/pull/9) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
+9. 🎉 Merged PR [#44](https://github.com/dhth/graphc/pull/44) in [dhth/graphc](https://github.com/dhth/graphc)
+10. 🎉 Merged PR [#46](https://github.com/dhth/squish/pull/46) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
