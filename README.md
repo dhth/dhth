@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/dhth/kplay/pull/90) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#29](https://github.com/dhth/ting/pull/29) in [dhth/ting](https://github.com/dhth/ting)
-3. 💪 Opened PR [#29](https://github.com/dhth/ting/pull/29) in [dhth/ting](https://github.com/dhth/ting)
-4. 🎉 Merged PR [#28](https://github.com/dhth/urll/pull/28) in [dhth/urll](https://github.com/dhth/urll)
-5. 🎉 Merged PR [#63](https://github.com/dhth/tomo/pull/63) in [dhth/tomo](https://github.com/dhth/tomo)
-6. 🎉 Merged PR [#28](https://github.com/dhth/ting/pull/28) in [dhth/ting](https://github.com/dhth/ting)
-7. 🎉 Merged PR [#33](https://github.com/dhth/chronotes/pull/33) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. 🎉 Merged PR [#76](https://github.com/dhth/bmm/pull/76) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🎉 Merged PR [#77](https://github.com/dhth/ecscope/pull/77) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 🎉 Merged PR [#61](https://github.com/dhth/dfft/pull/61) in [dhth/dfft](https://github.com/dhth/dfft)
+1. 🗣 Commented on [#90](https://github.com/dhth/kplay/pull/90#issuecomment-3280369024) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 💪 Opened PR [#90](https://github.com/dhth/kplay/pull/90) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 🎉 Merged PR [#29](https://github.com/dhth/ting/pull/29) in [dhth/ting](https://github.com/dhth/ting)
+4. 💪 Opened PR [#29](https://github.com/dhth/ting/pull/29) in [dhth/ting](https://github.com/dhth/ting)
+5. 🎉 Merged PR [#28](https://github.com/dhth/urll/pull/28) in [dhth/urll](https://github.com/dhth/urll)
+6. 🎉 Merged PR [#63](https://github.com/dhth/tomo/pull/63) in [dhth/tomo](https://github.com/dhth/tomo)
+7. 🎉 Merged PR [#28](https://github.com/dhth/ting/pull/28) in [dhth/ting](https://github.com/dhth/ting)
+8. 🎉 Merged PR [#33](https://github.com/dhth/chronotes/pull/33) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. 🎉 Merged PR [#76](https://github.com/dhth/bmm/pull/76) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🎉 Merged PR [#77](https://github.com/dhth/ecscope/pull/77) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
 
