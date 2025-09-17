@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/dhth/kplay/pull/95) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 💪 Opened PR [#95](https://github.com/dhth/kplay/pull/95) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 🎉 Merged PR [#94](https://github.com/dhth/kplay/pull/94) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🗣 Commented on [#94](https://github.com/dhth/kplay/pull/94#issuecomment-3291790599) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 🗣 Commented on [#94](https://github.com/dhth/kplay/pull/94#issuecomment-3290956460) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 💪 Opened PR [#94](https://github.com/dhth/kplay/pull/94) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 🎉 Merged PR [#93](https://github.com/dhth/kplay/pull/93) in [dhth/kplay](https://github.com/dhth/kplay)
-8. 💪 Opened PR [#93](https://github.com/dhth/kplay/pull/93) in [dhth/kplay](https://github.com/dhth/kplay)
-9. ❌ Closed PR [#69](https://github.com/dhth/ecscope/pull/69) in [dhth/ecscope](https://github.com/dhth/ecscope)
-10. 🎉 Merged PR [#71](https://github.com/dhth/ecscope/pull/71) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#99](https://github.com/dhth/kplay/pull/99) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🗣 Commented on [#99](https://github.com/dhth/kplay/pull/99#issuecomment-3302352058) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 💪 Opened PR [#99](https://github.com/dhth/kplay/pull/99) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 🎉 Merged PR [#95](https://github.com/dhth/kplay/pull/95) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 💪 Opened PR [#95](https://github.com/dhth/kplay/pull/95) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#94](https://github.com/dhth/kplay/pull/94) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 🗣 Commented on [#94](https://github.com/dhth/kplay/pull/94#issuecomment-3291790599) in [dhth/kplay](https://github.com/dhth/kplay)
+8. 🗣 Commented on [#94](https://github.com/dhth/kplay/pull/94#issuecomment-3290956460) in [dhth/kplay](https://github.com/dhth/kplay)
+9. 💪 Opened PR [#94](https://github.com/dhth/kplay/pull/94) in [dhth/kplay](https://github.com/dhth/kplay)
+10. 🎉 Merged PR [#93](https://github.com/dhth/kplay/pull/93) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
