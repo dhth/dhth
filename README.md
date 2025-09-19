@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/dhth/tash/pull/48) in [dhth/tash](https://github.com/dhth/tash)
-2. 🎉 Merged PR [#53](https://github.com/dhth/tbll/pull/53) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 🎉 Merged PR [#40](https://github.com/dhth/squidge/pull/40) in [dhth/squidge](https://github.com/dhth/squidge)
-4. 🎉 Merged PR [#5](https://github.com/dhth/atls/pull/5) in [dhth/atls](https://github.com/dhth/atls)
-5. 🎉 Merged PR [#41](https://github.com/dhth/tash/pull/41) in [dhth/tash](https://github.com/dhth/tash)
-6. ❌ Closed PR [#62](https://github.com/dhth/dfft/pull/62) in [dhth/dfft](https://github.com/dhth/dfft)
-7. ❌ Closed PR [#69](https://github.com/dhth/tomo/pull/69) in [dhth/tomo](https://github.com/dhth/tomo)
-8. ❌ Closed PR [#42](https://github.com/dhth/tash/pull/42) in [dhth/tash](https://github.com/dhth/tash)
-9. ❌ Closed PR [#58](https://github.com/dhth/tbll/pull/58) in [dhth/tbll](https://github.com/dhth/tbll)
-10. ❌ Closed PR [#46](https://github.com/dhth/squidge/pull/46) in [dhth/squidge](https://github.com/dhth/squidge)
+1. 🗣 Commented on [#100](https://github.com/dhth/kplay/pull/100#issuecomment-3309834904) in [dhth/kplay](https://github.com/dhth/kplay)
+2. ❌ Closed PR [#48](https://github.com/dhth/tash/pull/48) in [dhth/tash](https://github.com/dhth/tash)
+3. 🎉 Merged PR [#53](https://github.com/dhth/tbll/pull/53) in [dhth/tbll](https://github.com/dhth/tbll)
+4. 🎉 Merged PR [#40](https://github.com/dhth/squidge/pull/40) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#5](https://github.com/dhth/atls/pull/5) in [dhth/atls](https://github.com/dhth/atls)
+6. 🎉 Merged PR [#41](https://github.com/dhth/tash/pull/41) in [dhth/tash](https://github.com/dhth/tash)
+7. ❌ Closed PR [#62](https://github.com/dhth/dfft/pull/62) in [dhth/dfft](https://github.com/dhth/dfft)
+8. ❌ Closed PR [#69](https://github.com/dhth/tomo/pull/69) in [dhth/tomo](https://github.com/dhth/tomo)
+9. ❌ Closed PR [#42](https://github.com/dhth/tash/pull/42) in [dhth/tash](https://github.com/dhth/tash)
+10. ❌ Closed PR [#58](https://github.com/dhth/tbll/pull/58) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
 
