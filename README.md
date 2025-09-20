@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/dhth/kplay/pull/100#issuecomment-3309834904) in [dhth/kplay](https://github.com/dhth/kplay)
-2. ❌ Closed PR [#48](https://github.com/dhth/tash/pull/48) in [dhth/tash](https://github.com/dhth/tash)
-3. 🎉 Merged PR [#53](https://github.com/dhth/tbll/pull/53) in [dhth/tbll](https://github.com/dhth/tbll)
-4. 🎉 Merged PR [#40](https://github.com/dhth/squidge/pull/40) in [dhth/squidge](https://github.com/dhth/squidge)
-5. 🎉 Merged PR [#5](https://github.com/dhth/atls/pull/5) in [dhth/atls](https://github.com/dhth/atls)
-6. 🎉 Merged PR [#41](https://github.com/dhth/tash/pull/41) in [dhth/tash](https://github.com/dhth/tash)
-7. ❌ Closed PR [#62](https://github.com/dhth/dfft/pull/62) in [dhth/dfft](https://github.com/dhth/dfft)
-8. ❌ Closed PR [#69](https://github.com/dhth/tomo/pull/69) in [dhth/tomo](https://github.com/dhth/tomo)
-9. ❌ Closed PR [#42](https://github.com/dhth/tash/pull/42) in [dhth/tash](https://github.com/dhth/tash)
-10. ❌ Closed PR [#58](https://github.com/dhth/tbll/pull/58) in [dhth/tbll](https://github.com/dhth/tbll)
+1. ❌ Closed PR [#54](https://github.com/dhth/squidge/pull/54) in [dhth/squidge](https://github.com/dhth/squidge)
+2. 🎉 Merged PR [#71](https://github.com/dhth/tomo/pull/71) in [dhth/tomo](https://github.com/dhth/tomo)
+3. 🎉 Merged PR [#51](https://github.com/dhth/tash/pull/51) in [dhth/tash](https://github.com/dhth/tash)
+4. 🎉 Merged PR [#55](https://github.com/dhth/squidge/pull/55) in [dhth/squidge](https://github.com/dhth/squidge)
+5. 🎉 Merged PR [#84](https://github.com/dhth/ecscope/pull/84) in [dhth/ecscope](https://github.com/dhth/ecscope)
+6. 🎉 Merged PR [#65](https://github.com/dhth/dfft/pull/65) in [dhth/dfft](https://github.com/dhth/dfft)
+7. 🎉 Merged PR [#62](https://github.com/dhth/tbll/pull/62) in [dhth/tbll](https://github.com/dhth/tbll)
+8. 🎉 Merged PR [#31](https://github.com/dhth/ting/pull/31) in [dhth/ting](https://github.com/dhth/ting)
+9. 🎉 Merged PR [#50](https://github.com/dhth/mrj/pull/50) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 🎉 Merged PR [#31](https://github.com/dhth/urll/pull/31) in [dhth/urll](https://github.com/dhth/urll)
 <!--END_SECTION:activity-->
 
