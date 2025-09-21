@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/dhth/kplay/pull/107) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 💪 Opened PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🎉 Merged PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 💪 Opened PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 🎉 Merged PR [#104](https://github.com/dhth/kplay/pull/104) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 🗣 Commented on [#104](https://github.com/dhth/kplay/pull/104#issuecomment-3315372234) in [dhth/kplay](https://github.com/dhth/kplay)
-8. 🗣 Commented on [#104](https://github.com/dhth/kplay/pull/104#issuecomment-3315361261) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 💪 Opened PR [#104](https://github.com/dhth/kplay/pull/104) in [dhth/kplay](https://github.com/dhth/kplay)
-10. ❌ Closed PR [#54](https://github.com/dhth/squidge/pull/54) in [dhth/squidge](https://github.com/dhth/squidge)
+1. 🚀 Published release [v3.0.0](https://github.com/dhth/kplay/releases/tag/v3.0.0) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🎉 Merged PR [#107](https://github.com/dhth/kplay/pull/107) in [dhth/kplay](https://github.com/dhth/kplay)
+3. 🎉 Merged PR [#108](https://github.com/dhth/kplay/pull/108) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 💪 Opened PR [#108](https://github.com/dhth/kplay/pull/108) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 💪 Opened PR [#107](https://github.com/dhth/kplay/pull/107) in [dhth/kplay](https://github.com/dhth/kplay)
+6. 🎉 Merged PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
+7. 💪 Opened PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
+8. 🎉 Merged PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
+9. 💪 Opened PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
+10. 🎉 Merged PR [#104](https://github.com/dhth/kplay/pull/104) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
