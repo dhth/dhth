@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/dhth/kplay/releases/tag/v3.0.0) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#107](https://github.com/dhth/kplay/pull/107) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 🎉 Merged PR [#108](https://github.com/dhth/kplay/pull/108) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 💪 Opened PR [#108](https://github.com/dhth/kplay/pull/108) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 💪 Opened PR [#107](https://github.com/dhth/kplay/pull/107) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 🎉 Merged PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
-7. 💪 Opened PR [#106](https://github.com/dhth/kplay/pull/106) in [dhth/kplay](https://github.com/dhth/kplay)
-8. 🎉 Merged PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
-9. 💪 Opened PR [#105](https://github.com/dhth/kplay/pull/105) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🎉 Merged PR [#104](https://github.com/dhth/kplay/pull/104) in [dhth/kplay](https://github.com/dhth/kplay)
+1. 🎉 Merged PR [#35](https://github.com/dhth/shfl/pull/35) in [dhth/shfl](https://github.com/dhth/shfl)
+2. 🎉 Merged PR [#54](https://github.com/dhth/mrj/pull/54) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#5](https://github.com/dhth/agent1/pull/5) in [dhth/agent1](https://github.com/dhth/agent1)
+4. 🎉 Merged PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
+5. 💪 Opened PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
+6. 🗣 Commented on [#36](https://github.com/dhth/ting/pull/36#issuecomment-3324491501) in [dhth/ting](https://github.com/dhth/ting)
+7. 🗣 Commented on [#34](https://github.com/dhth/ting/pull/34#issuecomment-3324490563) in [dhth/ting](https://github.com/dhth/ting)
+8. 🗣 Commented on [#68](https://github.com/dhth/dfft/pull/68#issuecomment-3324489770) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🗣 Commented on [#63](https://github.com/dhth/tbll/pull/63#issuecomment-3324488997) in [dhth/tbll](https://github.com/dhth/tbll)
+10. 🗣 Commented on [#35](https://github.com/dhth/shfl/pull/35#issuecomment-3324488081) in [dhth/shfl](https://github.com/dhth/shfl)
 <!--END_SECTION:activity-->
 
