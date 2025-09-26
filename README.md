@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/dhth/tbll/pull/63) in [dhth/tbll](https://github.com/dhth/tbll)
-2. 🎉 Merged PR [#109](https://github.com/dhth/kplay/pull/109) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 🎉 Merged PR [#35](https://github.com/dhth/shfl/pull/35) in [dhth/shfl](https://github.com/dhth/shfl)
-4. 🎉 Merged PR [#54](https://github.com/dhth/mrj/pull/54) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 🎉 Merged PR [#5](https://github.com/dhth/agent1/pull/5) in [dhth/agent1](https://github.com/dhth/agent1)
-6. 🎉 Merged PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
-7. 💪 Opened PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
-8. 🗣 Commented on [#36](https://github.com/dhth/ting/pull/36#issuecomment-3324491501) in [dhth/ting](https://github.com/dhth/ting)
-9. 🗣 Commented on [#34](https://github.com/dhth/ting/pull/34#issuecomment-3324490563) in [dhth/ting](https://github.com/dhth/ting)
-10. 🗣 Commented on [#68](https://github.com/dhth/dfft/pull/68#issuecomment-3324489770) in [dhth/dfft](https://github.com/dhth/dfft)
+1. 💪 Opened PR [#110](https://github.com/dhth/kplay/pull/110) in [dhth/kplay](https://github.com/dhth/kplay)
+2. 🎉 Merged PR [#63](https://github.com/dhth/tbll/pull/63) in [dhth/tbll](https://github.com/dhth/tbll)
+3. 🎉 Merged PR [#109](https://github.com/dhth/kplay/pull/109) in [dhth/kplay](https://github.com/dhth/kplay)
+4. 🎉 Merged PR [#35](https://github.com/dhth/shfl/pull/35) in [dhth/shfl](https://github.com/dhth/shfl)
+5. 🎉 Merged PR [#54](https://github.com/dhth/mrj/pull/54) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 🎉 Merged PR [#5](https://github.com/dhth/agent1/pull/5) in [dhth/agent1](https://github.com/dhth/agent1)
+7. 🎉 Merged PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
+8. 💪 Opened PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
+9. 🗣 Commented on [#36](https://github.com/dhth/ting/pull/36#issuecomment-3324491501) in [dhth/ting](https://github.com/dhth/ting)
+10. 🗣 Commented on [#34](https://github.com/dhth/ting/pull/34#issuecomment-3324490563) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
