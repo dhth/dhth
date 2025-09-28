@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#110](https://github.com/dhth/kplay/pull/110) in [dhth/kplay](https://github.com/dhth/kplay)
-2. 🎉 Merged PR [#63](https://github.com/dhth/tbll/pull/63) in [dhth/tbll](https://github.com/dhth/tbll)
-3. 🎉 Merged PR [#109](https://github.com/dhth/kplay/pull/109) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🎉 Merged PR [#35](https://github.com/dhth/shfl/pull/35) in [dhth/shfl](https://github.com/dhth/shfl)
-5. 🎉 Merged PR [#54](https://github.com/dhth/mrj/pull/54) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 🎉 Merged PR [#5](https://github.com/dhth/agent1/pull/5) in [dhth/agent1](https://github.com/dhth/agent1)
-7. 🎉 Merged PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
-8. 💪 Opened PR [#11](https://github.com/dhth/agent1/pull/11) in [dhth/agent1](https://github.com/dhth/agent1)
-9. 🗣 Commented on [#36](https://github.com/dhth/ting/pull/36#issuecomment-3324491501) in [dhth/ting](https://github.com/dhth/ting)
-10. 🗣 Commented on [#34](https://github.com/dhth/ting/pull/34#issuecomment-3324490563) in [dhth/ting](https://github.com/dhth/ting)
+1. 🎉 Merged PR [#94](https://github.com/dhth/omm/pull/94) in [dhth/omm](https://github.com/dhth/omm)
+2. 🎉 Merged PR [#121](https://github.com/dhth/outtasync/pull/121) in [dhth/outtasync](https://github.com/dhth/outtasync)
+3. 🎉 Merged PR [#41](https://github.com/dhth/dstll/pull/41) in [dhth/dstll](https://github.com/dhth/dstll)
+4. 🎉 Merged PR [#86](https://github.com/dhth/cueitup/pull/86) in [dhth/cueitup](https://github.com/dhth/cueitup)
+5. 🎉 Merged PR [#35](https://github.com/dhth/schemas/pull/35) in [dhth/schemas](https://github.com/dhth/schemas)
+6. 🎉 Merged PR [#34](https://github.com/dhth/mult/pull/34) in [dhth/mult](https://github.com/dhth/mult)
+7. 🎉 Merged PR [#53](https://github.com/dhth/prs/pull/53) in [dhth/prs](https://github.com/dhth/prs)
+8. 🎉 Merged PR [#76](https://github.com/dhth/punchout/pull/76) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 🎉 Merged PR [#114](https://github.com/dhth/hours/pull/114) in [dhth/hours](https://github.com/dhth/hours)
+10. 🎉 Merged PR [#26](https://github.com/dhth/commits/pull/26) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
