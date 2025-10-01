@@ -5,7 +5,7 @@ Hi there 👋
 
 What I'm up to these days:
 
-- Building developer tools (using go and rust)
+- Building developer tools
 
 ### A few tools I've written
 
