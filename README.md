@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
-2. ❌ Closed PR [#119](undefined) in [dhth/hours](https://github.com/dhth/hours)
-3. 💪 Opened PR [#27](undefined) in [dhth/commits](https://github.com/dhth/commits)
-4. 💪 Opened PR [#35](undefined) in [dhth/mult](https://github.com/dhth/mult)
-5. 💪 Opened PR [#43](undefined) in [dhth/dstll](https://github.com/dhth/dstll)
-6. 💪 Opened PR [#55](undefined) in [dhth/prs](https://github.com/dhth/prs)
-7. 💪 Opened PR [#55](undefined) in [dhth/act3](https://github.com/dhth/act3)
-8. 💪 Opened PR [#37](undefined) in [dhth/schemas](https://github.com/dhth/schemas)
-9. 💪 Opened PR [#118](undefined) in [dhth/hours](https://github.com/dhth/hours)
-10. 💪 Opened PR [#122](undefined) in [dhth/kplay](https://github.com/dhth/kplay)
+1. 🚀 Published release [v0.1.0-alpha.1](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.1) in [dhth/tflens](https://github.com/dhth/tflens)
+2. 💪 Opened PR [#70](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
+3. ❌ Closed PR [#119](undefined) in [dhth/hours](https://github.com/dhth/hours)
+4. 💪 Opened PR [#27](undefined) in [dhth/commits](https://github.com/dhth/commits)
+5. 💪 Opened PR [#35](undefined) in [dhth/mult](https://github.com/dhth/mult)
+6. 💪 Opened PR [#43](undefined) in [dhth/dstll](https://github.com/dhth/dstll)
+7. 💪 Opened PR [#55](undefined) in [dhth/prs](https://github.com/dhth/prs)
+8. 💪 Opened PR [#55](undefined) in [dhth/act3](https://github.com/dhth/act3)
+9. 💪 Opened PR [#37](undefined) in [dhth/schemas](https://github.com/dhth/schemas)
+10. 💪 Opened PR [#118](undefined) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
