@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-2. 💪 Opened PR [#5](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-3. ❌ Labeled PR [#4](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-4. 🚀 Published release [v0.1.0-alpha.2](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.2) in [dhth/tflens](https://github.com/dhth/tflens)
-5. 💪 Opened PR [#3](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-6. 💪 Opened PR [#2](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-7. 💪 Opened PR [#1](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-8. 🚀 Published release [v0.1.0-alpha.1](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.1) in [dhth/tflens](https://github.com/dhth/tflens)
-9. 💪 Opened PR [#70](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
-10. ❌ Closed PR [#119](undefined) in [dhth/hours](https://github.com/dhth/hours)
+1. 🚀 Published release [v0.1.0-alpha.3](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.3) in [dhth/tflens](https://github.com/dhth/tflens)
+2. 💪 Opened PR [#6](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+3. 💪 Opened PR [#5](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+4. ❌ Labeled PR [#4](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+5. 🚀 Published release [v0.1.0-alpha.2](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.2) in [dhth/tflens](https://github.com/dhth/tflens)
+6. 💪 Opened PR [#3](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+7. 💪 Opened PR [#2](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+8. 💪 Opened PR [#1](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+9. 🚀 Published release [v0.1.0-alpha.1](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.1) in [dhth/tflens](https://github.com/dhth/tflens)
+10. 💪 Opened PR [#70](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
 <!--END_SECTION:activity-->
 
