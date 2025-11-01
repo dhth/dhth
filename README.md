@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](undefined) in [dhth/ting](https://github.com/dhth/ting)
-2. 💪 Opened PR [#121](undefined) in [dhth/hours](https://github.com/dhth/hours)
-3. 💪 Opened PR [#120](undefined) in [dhth/hours](https://github.com/dhth/hours)
-4. 💪 Opened PR [#123](undefined) in [dhth/kplay](https://github.com/dhth/kplay)
-5. 🚀 Published release [v0.1.0-alpha.4](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.4) in [dhth/tflens](https://github.com/dhth/tflens)
-6. 💪 Opened PR [#83](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 🚀 Published release [v0.1.0-alpha.3](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.3) in [dhth/tflens](https://github.com/dhth/tflens)
-8. 💪 Opened PR [#6](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-9. 💪 Opened PR [#5](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-10. ❌ Labeled PR [#4](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+1. ❌ Closed PR [#133](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
+2. ❌ Closed PR [#131](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
+3. ❌ Closed PR [#129](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
+4. 💪 Opened PR [#125](undefined) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 💪 Opened PR [#92](undefined) in [dhth/cueitup](https://github.com/dhth/cueitup)
+6. 💪 Opened PR [#139](undefined) in [dhth/ecsv](https://github.com/dhth/ecsv)
+7. 💪 Opened PR [#134](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
+8. 💪 Opened PR [#37](undefined) in [dhth/mult](https://github.com/dhth/mult)
+9. 💪 Opened PR [#39](undefined) in [dhth/schemas](https://github.com/dhth/schemas)
+10. 💪 Opened PR [#29](undefined) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
