@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](undefined) in [dhth/omm](https://github.com/dhth/omm)
-2. ❌ Closed PR [#133](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
-3. ❌ Closed PR [#131](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
-4. ❌ Closed PR [#129](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
-5. 💪 Opened PR [#125](undefined) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 💪 Opened PR [#92](undefined) in [dhth/cueitup](https://github.com/dhth/cueitup)
-7. 💪 Opened PR [#139](undefined) in [dhth/ecsv](https://github.com/dhth/ecsv)
-8. 💪 Opened PR [#134](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
-9. 💪 Opened PR [#37](undefined) in [dhth/mult](https://github.com/dhth/mult)
-10. 💪 Opened PR [#39](undefined) in [dhth/schemas](https://github.com/dhth/schemas)
+1. 💪 Opened PR [#37](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
+2. 💪 Opened PR [#37](undefined) in [dhth/urll](https://github.com/dhth/urll)
+3. 💪 Opened PR [#59](undefined) in [dhth/squish](https://github.com/dhth/squish)
+4. 💪 Opened PR [#16](undefined) in [dhth/agent1](https://github.com/dhth/agent1)
+5. 💪 Opened PR [#79](undefined) in [dhth/tomo](https://github.com/dhth/tomo)
+6. 💪 Opened PR [#64](undefined) in [dhth/squidge](https://github.com/dhth/squidge)
+7. 💪 Opened PR [#61](undefined) in [dhth/tash](https://github.com/dhth/tash)
+8. 💪 Opened PR [#15](undefined) in [dhth/atls](https://github.com/dhth/atls)
+9. 💪 Opened PR [#70](undefined) in [dhth/tbll](https://github.com/dhth/tbll)
+10. 💪 Opened PR [#44](undefined) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
