@@ -50,15 +50,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [dhth/envee](https://github.com/dhth/envee)
-2. 💪 Opened PR [#3](undefined) in [dhth/envee](https://github.com/dhth/envee)
-3. 💪 Opened PR [#2](undefined) in [dhth/envee](https://github.com/dhth/envee)
-4. 💪 Opened PR [#1](undefined) in [dhth/envee](https://github.com/dhth/envee)
-5. 💪 Opened PR [#38](undefined) in [dhth/urll](https://github.com/dhth/urll)
-6. 💪 Opened PR [#37](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
-7. 💪 Opened PR [#37](undefined) in [dhth/urll](https://github.com/dhth/urll)
-8. 💪 Opened PR [#59](undefined) in [dhth/squish](https://github.com/dhth/squish)
-9. 💪 Opened PR [#16](undefined) in [dhth/agent1](https://github.com/dhth/agent1)
-10. 💪 Opened PR [#79](undefined) in [dhth/tomo](https://github.com/dhth/tomo)
+1. 💪 Opened PR [#6](undefined) in [dhth/envee](https://github.com/dhth/envee)
+2. 💪 Opened PR [#5](undefined) in [dhth/envee](https://github.com/dhth/envee)
+3. 💪 Opened PR [#4](undefined) in [dhth/envee](https://github.com/dhth/envee)
+4. 💪 Opened PR [#3](undefined) in [dhth/envee](https://github.com/dhth/envee)
+5. 💪 Opened PR [#2](undefined) in [dhth/envee](https://github.com/dhth/envee)
+6. 💪 Opened PR [#1](undefined) in [dhth/envee](https://github.com/dhth/envee)
+7. 💪 Opened PR [#38](undefined) in [dhth/urll](https://github.com/dhth/urll)
+8. 💪 Opened PR [#37](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
+9. 💪 Opened PR [#37](undefined) in [dhth/urll](https://github.com/dhth/urll)
+10. 💪 Opened PR [#59](undefined) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
