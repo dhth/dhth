@@ -3,6 +3,9 @@ Hi there 👋
 
 ### I'm a Software Engineer, and a life-long Computer Science student.
 
+[![committers.top badge](https://user-badge.committers.top/austria/dhth.svg)](https://user-badge.committers.top/austria/dhth)
+![total github stars](https://img.shields.io/github/stars/dhth?style=flat&logo=github&label=Total%20GitHub%20stars)
+
 What I'm up to these days:
 
 - Building developer tools
