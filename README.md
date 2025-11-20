@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
-2. ❗ Opened issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
-3.  Labeled issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
-4. ❗ Opened issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
-5. 🗣 Commented on [#99](https://github.com/dhth/bmm/issues/99#issuecomment-3554800804) in [dhth/bmm](https://github.com/dhth/bmm)
-6. 💪 Opened PR [#100](undefined) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🗣 Commented on [#126](https://github.com/dhth/hours/pull/126#issuecomment-3554729289) in [dhth/hours](https://github.com/dhth/hours)
-8. 🚀 Published release [v0.1.0-alpha.6](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.6) in [dhth/tflens](https://github.com/dhth/tflens)
-9. 💪 Opened PR [#12](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
-10. 💪 Opened PR [#11](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+1. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3556749300) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
+2.  Labeled issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
+3. ❗ Opened issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
+4.  Labeled issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
+5. ❗ Opened issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 🗣 Commented on [#99](https://github.com/dhth/bmm/issues/99#issuecomment-3554800804) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 💪 Opened PR [#100](undefined) in [dhth/bmm](https://github.com/dhth/bmm)
+8. 🗣 Commented on [#126](https://github.com/dhth/hours/pull/126#issuecomment-3554729289) in [dhth/hours](https://github.com/dhth/hours)
+9. 🚀 Published release [v0.1.0-alpha.6](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.6) in [dhth/tflens](https://github.com/dhth/tflens)
+10. 💪 Opened PR [#12](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
 <!--END_SECTION:activity-->
 
