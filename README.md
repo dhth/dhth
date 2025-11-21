@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-2. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3556749300) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
-3.  Labeled issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
-4. ❗ Opened issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
-5.  Labeled issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
-6. ❗ Opened issue [#101](https://github.com/dhth/bmm/issues/101) in [dhth/bmm](https://github.com/dhth/bmm)
-7. 🗣 Commented on [#99](https://github.com/dhth/bmm/issues/99#issuecomment-3554800804) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 💪 Opened PR [#100](undefined) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🗣 Commented on [#126](https://github.com/dhth/hours/pull/126#issuecomment-3554729289) in [dhth/hours](https://github.com/dhth/hours)
-10. 🚀 Published release [v0.1.0-alpha.6](https://github.com/dhth/tflens/releases/tag/v0.1.0-alpha.6) in [dhth/tflens](https://github.com/dhth/tflens)
+1. 💪 Opened PR [#6](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+2. 💪 Opened PR [#5](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+3. 💪 Opened PR [#4](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+4. 💪 Opened PR [#3](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+5. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3562267356) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
+6. ❌ Labeled PR [#1](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+7. 💪 Opened PR [#2](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+8. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3556749300) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
+9.  Labeled issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
+10. ❗ Opened issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
