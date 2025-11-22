@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-2. 💪 Opened PR [#5](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-3. 💪 Opened PR [#4](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-4. 💪 Opened PR [#3](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-5. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3562267356) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
-6. ❌ Labeled PR [#1](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-7. 💪 Opened PR [#2](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-8. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3556749300) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
-9.  Labeled issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
-10. ❗ Opened issue [#102](https://github.com/dhth/bmm/issues/102) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 💪 Opened PR [#67](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#7](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+3. 💪 Opened PR [#6](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+4. 💪 Opened PR [#5](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+5. 💪 Opened PR [#4](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+6. 💪 Opened PR [#3](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+7. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3562267356) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
+8. ❌ Labeled PR [#1](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+9. 💪 Opened PR [#2](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+10. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3556749300) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
 <!--END_SECTION:activity-->
 
