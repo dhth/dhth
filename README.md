@@ -55,14 +55,14 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-2. 🗣 Commented on [#121](https://github.com/dhth/kplay/pull/121#issuecomment-3581107875) in [dhth/kplay](https://github.com/dhth/kplay)
-3. 🗣 Commented on [#60](https://github.com/dhth/prs/pull/60#issuecomment-3576492826) in [dhth/prs](https://github.com/dhth/prs)
-4. 💪 Opened PR [#61](undefined) in [dhth/act3](https://github.com/dhth/act3)
-5. 💪 Opened PR [#69](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 💪 Opened PR [#68](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 💪 Opened PR [#67](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 💪 Opened PR [#7](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
+1. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3594015990) in [dhth/hours](https://github.com/dhth/hours)
+2. 💪 Opened PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
+3. 💪 Opened PR [#4](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
+4. 🗣 Commented on [#121](https://github.com/dhth/kplay/pull/121#issuecomment-3581107875) in [dhth/kplay](https://github.com/dhth/kplay)
+5. 🗣 Commented on [#60](https://github.com/dhth/prs/pull/60#issuecomment-3576492826) in [dhth/prs](https://github.com/dhth/prs)
+6. 💪 Opened PR [#61](undefined) in [dhth/act3](https://github.com/dhth/act3)
+7. 💪 Opened PR [#69](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 💪 Opened PR [#68](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
 9. 💪 Opened PR [#5](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
 10. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3562267356) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
 <!--END_SECTION:activity-->
