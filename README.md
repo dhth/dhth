@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](undefined) in [dhth/hours](https://github.com/dhth/hours)
-2. 🗣 Commented on [#100](https://github.com/dhth/hours/issues/100#issuecomment-3604299376) in [dhth/hours](https://github.com/dhth/hours)
-3. ❌ Merged PR [#107](undefined) in [dhth/hours](https://github.com/dhth/hours)
-4. 🗣 Commented on [#131](https://github.com/dhth/hours/pull/131#issuecomment-3603841599) in [dhth/hours](https://github.com/dhth/hours)
-5. ❌ Merged PR [#5](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-6. 💪 Opened PR [#5](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-7. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3594015990) in [dhth/hours](https://github.com/dhth/hours)
-8. ❌ Merged PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
-9. 💪 Opened PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
-10. ❌ Merged PR [#4](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
+1. ❌ Merged PR [#109](undefined) in [dhth/omm](https://github.com/dhth/omm)
+2. ❌ Merged PR [#35](undefined) in [dhth/commits](https://github.com/dhth/commits)
+3. ❌ Merged PR [#63](undefined) in [dhth/prs](https://github.com/dhth/prs)
+4. ❌ Merged PR [#43](undefined) in [dhth/schemas](https://github.com/dhth/schemas)
+5. ❌ Merged PR [#151](undefined) in [dhth/ecsv](https://github.com/dhth/ecsv)
+6. ❌ Merged PR [#65](undefined) in [dhth/act3](https://github.com/dhth/act3)
+7. ❌ Merged PR [#141](undefined) in [dhth/outtasync](https://github.com/dhth/outtasync)
+8. ❌ Merged PR [#17](undefined) in [dhth/tflens](https://github.com/dhth/tflens)
+9. ❌ Merged PR [#133](undefined) in [dhth/hours](https://github.com/dhth/hours)
+10. ❌ Merged PR [#92](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
