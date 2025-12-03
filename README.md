@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-2. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3594015990) in [dhth/hours](https://github.com/dhth/hours)
-3. 💪 Opened PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
-4. 💪 Opened PR [#4](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-5. 🗣 Commented on [#121](https://github.com/dhth/kplay/pull/121#issuecomment-3581107875) in [dhth/kplay](https://github.com/dhth/kplay)
-6. 🗣 Commented on [#60](https://github.com/dhth/prs/pull/60#issuecomment-3576492826) in [dhth/prs](https://github.com/dhth/prs)
-7. 💪 Opened PR [#61](undefined) in [dhth/act3](https://github.com/dhth/act3)
-8. 💪 Opened PR [#68](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
-9. 💪 Opened PR [#5](undefined) in [dhth/unreleased](https://github.com/dhth/unreleased)
-10. 🗣 Commented on [#5](https://github.com/superstarryeyes/bit/issues/5#issuecomment-3562267356) in [superstarryeyes/bit](https://github.com/superstarryeyes/bit)
+1. 💪 Opened PR [#132](undefined) in [dhth/hours](https://github.com/dhth/hours)
+2. 🗣 Commented on [#100](https://github.com/dhth/hours/issues/100#issuecomment-3604299376) in [dhth/hours](https://github.com/dhth/hours)
+3. ❌ Merged PR [#107](undefined) in [dhth/hours](https://github.com/dhth/hours)
+4. 🗣 Commented on [#131](https://github.com/dhth/hours/pull/131#issuecomment-3603841599) in [dhth/hours](https://github.com/dhth/hours)
+5. ❌ Merged PR [#5](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
+6. 💪 Opened PR [#5](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
+7. 🗣 Commented on [#106](https://github.com/dhth/hours/issues/106#issuecomment-3594015990) in [dhth/hours](https://github.com/dhth/hours)
+8. ❌ Merged PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
+9. 💪 Opened PR [#127](undefined) in [dhth/hours](https://github.com/dhth/hours)
+10. ❌ Merged PR [#4](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
 <!--END_SECTION:activity-->
 
