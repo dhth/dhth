@@ -55,15 +55,15 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#8](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-2. 💪 Opened PR [#8](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-3. ❌ Merged PR [#7](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-4. 💪 Opened PR [#7](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-5. ❌ Closed PR [#72](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
-6. ❌ Merged PR [#6](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-7. 💪 Opened PR [#6](undefined) in [dhth/gcue](https://github.com/dhth/gcue)
-8. ❌ Merged PR [#109](undefined) in [dhth/omm](https://github.com/dhth/omm)
-9. ❌ Merged PR [#35](undefined) in [dhth/commits](https://github.com/dhth/commits)
-10. ❌ Merged PR [#63](undefined) in [dhth/prs](https://github.com/dhth/prs)
+1. ❌ Merged PR [#9](undefined) in [dhth/grf](https://github.com/dhth/grf)
+2. 💪 Opened PR [#9](undefined) in [dhth/grf](https://github.com/dhth/grf)
+3. ❌ Merged PR [#8](undefined) in [dhth/grf](https://github.com/dhth/grf)
+4. 💪 Opened PR [#8](undefined) in [dhth/grf](https://github.com/dhth/grf)
+5. ❌ Merged PR [#7](undefined) in [dhth/grf](https://github.com/dhth/grf)
+6. 💪 Opened PR [#7](undefined) in [dhth/grf](https://github.com/dhth/grf)
+7. ❌ Closed PR [#72](undefined) in [dhth/mrj](https://github.com/dhth/mrj)
+8. ❌ Merged PR [#6](undefined) in [dhth/grf](https://github.com/dhth/grf)
+9. 💪 Opened PR [#6](undefined) in [dhth/grf](https://github.com/dhth/grf)
+10. ❌ Merged PR [#109](undefined) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
