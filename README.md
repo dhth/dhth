@@ -27,6 +27,7 @@ What I'm up to these days:
 | [outtasync] | lets you identify CloudFormation stacks that have drifted or gone out of sync                 | <img src="./assets/go.svg"/>                                   |
 | [punchout]  | takes the suck out of logging time on JIRA                                                    | <img src="./assets/go.svg"/>                                   |
 | [graphc]    | lets you query graph databases via an interactive console                                     | <img src="./assets/python.svg"/>                               |
+| [grafq]     | lets you query graph databases via an interactive console (a port of [graphc])                | <img src="./assets/rust.svg"/>                                 |
 | [act3]      | lets you glance at the last 3 runs of your Github Actions                                     | <img src="./assets/go.svg"/>                                   |
 | [mult]      | lets you run a command multiple times and glance at the outputs                               | <img src="./assets/go.svg"/>                                   |
 | [ecsv]      | helps you check the versions of your systems running in ECS tasks across various environments | <img src="./assets/go.svg"/>                                   |
@@ -78,6 +79,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 [outtasync]: https://github.com/dhth/outtasync
 [punchout]: https://github.com/dhth/punchout
 [graphc]: https://github.com/dhth/graphc
+[grafq]: https://github.com/dhth/grafq
 [grafq]: https://github.com/dhth/grafq
 [act3]: https://github.com/dhth/act3
 [mult]: https://github.com/dhth/mult
