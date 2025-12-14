@@ -80,7 +80,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 [punchout]: https://github.com/dhth/punchout
 [graphc]: https://github.com/dhth/graphc
 [grafq]: https://github.com/dhth/grafq
-[grafq]: https://github.com/dhth/grafq
 [act3]: https://github.com/dhth/act3
 [mult]: https://github.com/dhth/mult
 [ecsv]: https://github.com/dhth/ecsv
