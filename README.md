@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/dhth/punchout/releases/tag/v1.3.0) in [dhth/punchout](https://github.com/dhth/punchout)
-2. ❌ Merged PR [#95](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-3. 💪 Opened PR [#95](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-4. ❌ Merged PR [#94](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 💪 Opened PR [#94](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-6. ❌ Merged PR [#93](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 💪 Opened PR [#93](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
-8. ❌ Merged PR [#16](undefined) in [dhth/agx](https://github.com/dhth/agx)
-9. 💪 Opened PR [#16](undefined) in [dhth/agx](https://github.com/dhth/agx)
-10. ❌ Merged PR [#15](undefined) in [dhth/agx](https://github.com/dhth/agx)
+1. ❌ Merged PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
+2. 💪 Opened PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
+3. 🚀 Published release [v1.3.0](https://github.com/dhth/punchout/releases/tag/v1.3.0) in [dhth/punchout](https://github.com/dhth/punchout)
+4. ❌ Merged PR [#95](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 💪 Opened PR [#95](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+6. ❌ Merged PR [#94](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+7. 💪 Opened PR [#94](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+8. ❌ Merged PR [#93](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 💪 Opened PR [#93](undefined) in [dhth/punchout](https://github.com/dhth/punchout)
+10. ❌ Merged PR [#16](undefined) in [dhth/agx](https://github.com/dhth/agx)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
