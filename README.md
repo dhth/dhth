@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](undefined) in [dhth/commits](https://github.com/dhth/commits)
-2. ❌ Merged PR [#20](undefined) in [dhth/agx](https://github.com/dhth/agx)
-3. 💪 Opened PR [#20](undefined) in [dhth/agx](https://github.com/dhth/agx)
-4. ❌ Merged PR [#19](undefined) in [dhth/agx](https://github.com/dhth/agx)
-5. 💪 Opened PR [#19](undefined) in [dhth/agx](https://github.com/dhth/agx)
-6. ❌ Merged PR [#18](undefined) in [dhth/agx](https://github.com/dhth/agx)
-7. 💪 Opened PR [#18](undefined) in [dhth/agx](https://github.com/dhth/agx)
-8. ❌ Merged PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
-9. 💪 Opened PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
-10. 🚀 Published release [v1.3.0](https://github.com/dhth/punchout/releases/tag/v1.3.0) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 💪 Opened PR [#21](undefined) in [dhth/agx](https://github.com/dhth/agx)
+2. 💪 Opened PR [#36](undefined) in [dhth/commits](https://github.com/dhth/commits)
+3. ❌ Merged PR [#20](undefined) in [dhth/agx](https://github.com/dhth/agx)
+4. 💪 Opened PR [#20](undefined) in [dhth/agx](https://github.com/dhth/agx)
+5. ❌ Merged PR [#19](undefined) in [dhth/agx](https://github.com/dhth/agx)
+6. 💪 Opened PR [#19](undefined) in [dhth/agx](https://github.com/dhth/agx)
+7. ❌ Merged PR [#18](undefined) in [dhth/agx](https://github.com/dhth/agx)
+8. 💪 Opened PR [#18](undefined) in [dhth/agx](https://github.com/dhth/agx)
+9. ❌ Merged PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
+10. 💪 Opened PR [#17](undefined) in [dhth/agx](https://github.com/dhth/agx)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
