@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#86](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
-2. ❌ Merged PR [#87](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
-3. ❌ Merged PR [#32](undefined) in [dhth/agx](https://github.com/dhth/agx)
-4. 💪 Opened PR [#87](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 💪 Opened PR [#32](undefined) in [dhth/agx](https://github.com/dhth/agx)
-6. 💪 Opened PR [#41](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
-7. ❌ Reopened PR [#24](undefined) in [dhth/atls](https://github.com/dhth/atls)
-8. ❌ Reopened PR [#40](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
-9. ❌ Closed PR [#107](undefined) in [dhth/bmm](https://github.com/dhth/bmm)
-10. ❌ Closed PR [#112](undefined) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 💪 Opened PR [#33](undefined) in [dhth/agx](https://github.com/dhth/agx)
+2. ❌ Reopened PR [#86](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
+3. ❌ Merged PR [#87](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
+4. ❌ Merged PR [#32](undefined) in [dhth/agx](https://github.com/dhth/agx)
+5. 💪 Opened PR [#87](undefined) in [dhth/dfft](https://github.com/dhth/dfft)
+6. 💪 Opened PR [#32](undefined) in [dhth/agx](https://github.com/dhth/agx)
+7. 💪 Opened PR [#41](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
+8. ❌ Reopened PR [#24](undefined) in [dhth/atls](https://github.com/dhth/atls)
+9. ❌ Reopened PR [#40](undefined) in [dhth/shfl](https://github.com/dhth/shfl)
+10. ❌ Closed PR [#107](undefined) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
