@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/dhth/shfl/pull/41) in [dhth/shfl](https://github.com/dhth/shfl)
-2. 🎉 Merged PR [#67](https://github.com/dhth/act3/pull/67) in [dhth/act3](https://github.com/dhth/act3)
-3. 🎉 Merged PR [#110](https://github.com/dhth/bmm/pull/110) in [dhth/bmm](https://github.com/dhth/bmm)
-4. 🎉 Merged PR [#38](https://github.com/dhth/commits/pull/38) in [dhth/commits](https://github.com/dhth/commits)
-5. 🎉 Merged PR [#106](https://github.com/dhth/cueitup/pull/106) in [dhth/cueitup](https://github.com/dhth/cueitup)
-6. 🎉 Merged PR [#88](https://github.com/dhth/dfft/pull/88) in [dhth/dfft](https://github.com/dhth/dfft)
-7. 🎉 Merged PR [#49](https://github.com/dhth/dstll/pull/49) in [dhth/dstll](https://github.com/dhth/dstll)
-8. 🎉 Merged PR [#114](https://github.com/dhth/ecscope/pull/114) in [dhth/ecscope](https://github.com/dhth/ecscope)
-9. 🎉 Merged PR [#155](https://github.com/dhth/ecsv/pull/155) in [dhth/ecsv](https://github.com/dhth/ecsv)
-10. 🎉 Merged PR [#24](https://github.com/dhth/envee/pull/24) in [dhth/envee](https://github.com/dhth/envee)
+1. 💪 Opened PR [#1](https://github.com/arimxyer/models/pull/1) in [arimxyer/models](https://github.com/arimxyer/models)
+2. 🎉 Merged PR [#41](https://github.com/dhth/shfl/pull/41) in [dhth/shfl](https://github.com/dhth/shfl)
+3. 🎉 Merged PR [#67](https://github.com/dhth/act3/pull/67) in [dhth/act3](https://github.com/dhth/act3)
+4. 🎉 Merged PR [#110](https://github.com/dhth/bmm/pull/110) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 🎉 Merged PR [#38](https://github.com/dhth/commits/pull/38) in [dhth/commits](https://github.com/dhth/commits)
+6. 🎉 Merged PR [#106](https://github.com/dhth/cueitup/pull/106) in [dhth/cueitup](https://github.com/dhth/cueitup)
+7. 🎉 Merged PR [#88](https://github.com/dhth/dfft/pull/88) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 🎉 Merged PR [#49](https://github.com/dhth/dstll/pull/49) in [dhth/dstll](https://github.com/dhth/dstll)
+9. 🎉 Merged PR [#114](https://github.com/dhth/ecscope/pull/114) in [dhth/ecscope](https://github.com/dhth/ecscope)
+10. 🎉 Merged PR [#155](https://github.com/dhth/ecsv/pull/155) in [dhth/ecsv](https://github.com/dhth/ecsv)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
