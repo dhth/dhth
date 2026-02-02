@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/dhth/omm/pull/113) in [dhth/omm](https://github.com/dhth/omm)
-2. 🎉 Merged PR [#145](https://github.com/dhth/outtasync/pull/145) in [dhth/outtasync](https://github.com/dhth/outtasync)
-3. 🎉 Merged PR [#66](https://github.com/dhth/prs/pull/66) in [dhth/prs](https://github.com/dhth/prs)
-4. 🎉 Merged PR [#99](https://github.com/dhth/punchout/pull/99) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 🎉 Merged PR [#46](https://github.com/dhth/schemas/pull/46) in [dhth/schemas](https://github.com/dhth/schemas)
-6. 🎉 Merged PR [#21](https://github.com/dhth/tflens/pull/21) in [dhth/tflens](https://github.com/dhth/tflens)
-7. 🎉 Merged PR [#68](https://github.com/dhth/act3/pull/68) in [dhth/act3](https://github.com/dhth/act3)
-8. 💪 Opened PR [#21](https://github.com/dhth/tflens/pull/21) in [dhth/tflens](https://github.com/dhth/tflens)
-9. 💪 Opened PR [#46](https://github.com/dhth/schemas/pull/46) in [dhth/schemas](https://github.com/dhth/schemas)
-10. 💪 Opened PR [#99](https://github.com/dhth/punchout/pull/99) in [dhth/punchout](https://github.com/dhth/punchout)
+1. 🎉 Merged PR [#107](https://github.com/dhth/cueitup/pull/107) in [dhth/cueitup](https://github.com/dhth/cueitup)
+2. 🎉 Merged PR [#137](https://github.com/dhth/hours/pull/137) in [dhth/hours](https://github.com/dhth/hours)
+3. 🎉 Merged PR [#113](https://github.com/dhth/omm/pull/113) in [dhth/omm](https://github.com/dhth/omm)
+4. 🎉 Merged PR [#145](https://github.com/dhth/outtasync/pull/145) in [dhth/outtasync](https://github.com/dhth/outtasync)
+5. 🎉 Merged PR [#66](https://github.com/dhth/prs/pull/66) in [dhth/prs](https://github.com/dhth/prs)
+6. 🎉 Merged PR [#99](https://github.com/dhth/punchout/pull/99) in [dhth/punchout](https://github.com/dhth/punchout)
+7. 🎉 Merged PR [#46](https://github.com/dhth/schemas/pull/46) in [dhth/schemas](https://github.com/dhth/schemas)
+8. 🎉 Merged PR [#21](https://github.com/dhth/tflens/pull/21) in [dhth/tflens](https://github.com/dhth/tflens)
+9. 🎉 Merged PR [#68](https://github.com/dhth/act3/pull/68) in [dhth/act3](https://github.com/dhth/act3)
+10. 💪 Opened PR [#21](https://github.com/dhth/tflens/pull/21) in [dhth/tflens](https://github.com/dhth/tflens)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
