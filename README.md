@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/dhth/commits/pull/49) in [dhth/commits](https://github.com/dhth/commits)
-2. 💪 Opened PR [#49](https://github.com/dhth/commits/pull/49) in [dhth/commits](https://github.com/dhth/commits)
-3. 🎉 Merged PR [#48](https://github.com/dhth/commits/pull/48) in [dhth/commits](https://github.com/dhth/commits)
-4. 💪 Opened PR [#48](https://github.com/dhth/commits/pull/48) in [dhth/commits](https://github.com/dhth/commits)
-5. 🎉 Merged PR [#47](https://github.com/dhth/commits/pull/47) in [dhth/commits](https://github.com/dhth/commits)
-6. 💪 Opened PR [#47](https://github.com/dhth/commits/pull/47) in [dhth/commits](https://github.com/dhth/commits)
-7. 🎉 Merged PR [#46](https://github.com/dhth/commits/pull/46) in [dhth/commits](https://github.com/dhth/commits)
-8. 💪 Opened PR [#46](https://github.com/dhth/commits/pull/46) in [dhth/commits](https://github.com/dhth/commits)
-9. 🎉 Merged PR [#45](https://github.com/dhth/commits/pull/45) in [dhth/commits](https://github.com/dhth/commits)
-10. 💪 Opened PR [#45](https://github.com/dhth/commits/pull/45) in [dhth/commits](https://github.com/dhth/commits)
+1. 🗣 Commented on [#157](https://github.com/dhth/ecsv/pull/157#issuecomment-3892257584) in [dhth/ecsv](https://github.com/dhth/ecsv)
+2. 🎉 Merged PR [#49](https://github.com/dhth/commits/pull/49) in [dhth/commits](https://github.com/dhth/commits)
+3. 💪 Opened PR [#49](https://github.com/dhth/commits/pull/49) in [dhth/commits](https://github.com/dhth/commits)
+4. 🎉 Merged PR [#48](https://github.com/dhth/commits/pull/48) in [dhth/commits](https://github.com/dhth/commits)
+5. 💪 Opened PR [#48](https://github.com/dhth/commits/pull/48) in [dhth/commits](https://github.com/dhth/commits)
+6. 🎉 Merged PR [#47](https://github.com/dhth/commits/pull/47) in [dhth/commits](https://github.com/dhth/commits)
+7. 💪 Opened PR [#47](https://github.com/dhth/commits/pull/47) in [dhth/commits](https://github.com/dhth/commits)
+8. 🎉 Merged PR [#46](https://github.com/dhth/commits/pull/46) in [dhth/commits](https://github.com/dhth/commits)
+9. 💪 Opened PR [#46](https://github.com/dhth/commits/pull/46) in [dhth/commits](https://github.com/dhth/commits)
+10. 🎉 Merged PR [#45](https://github.com/dhth/commits/pull/45) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
