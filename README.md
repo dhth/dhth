@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/dhth/hours/pull/138#issuecomment-3938360607) in [dhth/hours](https://github.com/dhth/hours)
-2. 🗣 Commented on [#139](https://github.com/dhth/hours/pull/139#issuecomment-3938345348) in [dhth/hours](https://github.com/dhth/hours)
-3. 🎉 Merged PR [#132](https://github.com/dhth/hours/pull/132) in [dhth/hours](https://github.com/dhth/hours)
-4. 🗣 Commented on [#114](https://github.com/dhth/omm/pull/114#issuecomment-3903805862) in [dhth/omm](https://github.com/dhth/omm)
-5. 🎉 Merged PR [#49](https://github.com/dhth/urll/pull/49) in [dhth/urll](https://github.com/dhth/urll)
-6. 🎉 Merged PR [#91](https://github.com/dhth/tomo/pull/91) in [dhth/tomo](https://github.com/dhth/tomo)
-7. 🎉 Merged PR [#16](https://github.com/dhth/unreleased/pull/16) in [dhth/unreleased](https://github.com/dhth/unreleased)
-8. 🎉 Merged PR [#57](https://github.com/dhth/ting/pull/57) in [dhth/ting](https://github.com/dhth/ting)
-9. 🎉 Merged PR [#82](https://github.com/dhth/tbll/pull/82) in [dhth/tbll](https://github.com/dhth/tbll)
-10. 🎉 Merged PR [#73](https://github.com/dhth/tash/pull/73) in [dhth/tash](https://github.com/dhth/tash)
+1. 💪 Opened PR [#141](https://github.com/dhth/hours/pull/141) in [dhth/hours](https://github.com/dhth/hours)
+2. 🗣 Commented on [#138](https://github.com/dhth/hours/pull/138#issuecomment-3938360607) in [dhth/hours](https://github.com/dhth/hours)
+3. 🗣 Commented on [#139](https://github.com/dhth/hours/pull/139#issuecomment-3938345348) in [dhth/hours](https://github.com/dhth/hours)
+4. 🎉 Merged PR [#132](https://github.com/dhth/hours/pull/132) in [dhth/hours](https://github.com/dhth/hours)
+5. 🗣 Commented on [#114](https://github.com/dhth/omm/pull/114#issuecomment-3903805862) in [dhth/omm](https://github.com/dhth/omm)
+6. 🎉 Merged PR [#49](https://github.com/dhth/urll/pull/49) in [dhth/urll](https://github.com/dhth/urll)
+7. 🎉 Merged PR [#91](https://github.com/dhth/tomo/pull/91) in [dhth/tomo](https://github.com/dhth/tomo)
+8. 🎉 Merged PR [#16](https://github.com/dhth/unreleased/pull/16) in [dhth/unreleased](https://github.com/dhth/unreleased)
+9. 🎉 Merged PR [#57](https://github.com/dhth/ting/pull/57) in [dhth/ting](https://github.com/dhth/ting)
+10. 🎉 Merged PR [#82](https://github.com/dhth/tbll/pull/82) in [dhth/tbll](https://github.com/dhth/tbll)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
