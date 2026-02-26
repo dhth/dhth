@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/dhth/commits/pull/51) in [dhth/commits](https://github.com/dhth/commits)
-2. 💪 Opened PR [#51](https://github.com/dhth/commits/pull/51) in [dhth/commits](https://github.com/dhth/commits)
-3. 🎉 Merged PR [#46](https://github.com/dhth/mult/pull/46) in [dhth/mult](https://github.com/dhth/mult)
-4. 💪 Opened PR [#46](https://github.com/dhth/mult/pull/46) in [dhth/mult](https://github.com/dhth/mult)
-5. 🎉 Merged PR [#143](https://github.com/dhth/hours/pull/143) in [dhth/hours](https://github.com/dhth/hours)
-6. 💪 Opened PR [#143](https://github.com/dhth/hours/pull/143) in [dhth/hours](https://github.com/dhth/hours)
-7. 🎉 Merged PR [#141](https://github.com/dhth/hours/pull/141) in [dhth/hours](https://github.com/dhth/hours)
-8. 💪 Opened PR [#141](https://github.com/dhth/hours/pull/141) in [dhth/hours](https://github.com/dhth/hours)
-9. 🗣 Commented on [#138](https://github.com/dhth/hours/pull/138#issuecomment-3938360607) in [dhth/hours](https://github.com/dhth/hours)
-10. 🗣 Commented on [#139](https://github.com/dhth/hours/pull/139#issuecomment-3938345348) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#68](https://github.com/dhth/prs/pull/68) in [dhth/prs](https://github.com/dhth/prs)
+2. 💪 Opened PR [#68](https://github.com/dhth/prs/pull/68) in [dhth/prs](https://github.com/dhth/prs)
+3. 🎉 Merged PR [#51](https://github.com/dhth/commits/pull/51) in [dhth/commits](https://github.com/dhth/commits)
+4. 💪 Opened PR [#51](https://github.com/dhth/commits/pull/51) in [dhth/commits](https://github.com/dhth/commits)
+5. 🎉 Merged PR [#46](https://github.com/dhth/mult/pull/46) in [dhth/mult](https://github.com/dhth/mult)
+6. 💪 Opened PR [#46](https://github.com/dhth/mult/pull/46) in [dhth/mult](https://github.com/dhth/mult)
+7. 🎉 Merged PR [#143](https://github.com/dhth/hours/pull/143) in [dhth/hours](https://github.com/dhth/hours)
+8. 💪 Opened PR [#143](https://github.com/dhth/hours/pull/143) in [dhth/hours](https://github.com/dhth/hours)
+9. 🎉 Merged PR [#141](https://github.com/dhth/hours/pull/141) in [dhth/hours](https://github.com/dhth/hours)
+10. 💪 Opened PR [#141](https://github.com/dhth/hours/pull/141) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
