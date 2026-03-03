@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/dhth/omm/pull/121) in [dhth/omm](https://github.com/dhth/omm)
-2. 💪 Opened PR [#121](https://github.com/dhth/omm/pull/121) in [dhth/omm](https://github.com/dhth/omm)
-3. 🎉 Merged PR [#116](https://github.com/dhth/omm/pull/116) in [dhth/omm](https://github.com/dhth/omm)
-4. 🎉 Merged PR [#120](https://github.com/dhth/omm/pull/120) in [dhth/omm](https://github.com/dhth/omm)
-5. 🗣 Commented on [#120](https://github.com/dhth/omm/pull/120#issuecomment-3981461814) in [dhth/omm](https://github.com/dhth/omm)
-6. 💪 Opened PR [#120](https://github.com/dhth/omm/pull/120) in [dhth/omm](https://github.com/dhth/omm)
-7. 🎉 Merged PR [#47](https://github.com/dhth/mult/pull/47) in [dhth/mult](https://github.com/dhth/mult)
-8. 🎉 Merged PR [#17](https://github.com/dhth/unreleased/pull/17) in [dhth/unreleased](https://github.com/dhth/unreleased)
-9. 🎉 Merged PR [#40](https://github.com/dhth/agx/pull/40) in [dhth/agx](https://github.com/dhth/agx)
-10. 🎉 Merged PR [#71](https://github.com/dhth/act3/pull/71) in [dhth/act3](https://github.com/dhth/act3)
+1. 🎉 Merged PR [#148](https://github.com/dhth/hours/pull/148) in [dhth/hours](https://github.com/dhth/hours)
+2. 💪 Opened PR [#148](https://github.com/dhth/hours/pull/148) in [dhth/hours](https://github.com/dhth/hours)
+3. 🎉 Merged PR [#122](https://github.com/dhth/omm/pull/122) in [dhth/omm](https://github.com/dhth/omm)
+4. 🗣 Commented on [#122](https://github.com/dhth/omm/pull/122#issuecomment-3992381703) in [dhth/omm](https://github.com/dhth/omm)
+5. 💪 Opened PR [#122](https://github.com/dhth/omm/pull/122) in [dhth/omm](https://github.com/dhth/omm)
+6. 🎉 Merged PR [#121](https://github.com/dhth/omm/pull/121) in [dhth/omm](https://github.com/dhth/omm)
+7. 💪 Opened PR [#121](https://github.com/dhth/omm/pull/121) in [dhth/omm](https://github.com/dhth/omm)
+8. 🎉 Merged PR [#116](https://github.com/dhth/omm/pull/116) in [dhth/omm](https://github.com/dhth/omm)
+9. 🎉 Merged PR [#120](https://github.com/dhth/omm/pull/120) in [dhth/omm](https://github.com/dhth/omm)
+10. 🗣 Commented on [#120](https://github.com/dhth/omm/pull/120#issuecomment-3981461814) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
