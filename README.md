@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dhth/crumbs/pull/1) in [dhth/crumbs](https://github.com/dhth/crumbs)
-2. 🗣 Commented on [#1](https://github.com/dhth/crumbs/pull/1#issuecomment-4023332017) in [dhth/crumbs](https://github.com/dhth/crumbs)
-3. 🗣 Commented on [#1](https://github.com/dhth/crumbs/pull/1#issuecomment-4023301892) in [dhth/crumbs](https://github.com/dhth/crumbs)
-4. 💪 Opened PR [#1](https://github.com/dhth/crumbs/pull/1) in [dhth/crumbs](https://github.com/dhth/crumbs)
-5. 🎉 Merged PR [#92](https://github.com/dhth/tomo/pull/92) in [dhth/tomo](https://github.com/dhth/tomo)
-6. 🎉 Merged PR [#58](https://github.com/dhth/ting/pull/58) in [dhth/ting](https://github.com/dhth/ting)
-7. 🎉 Merged PR [#69](https://github.com/dhth/prs/pull/69) in [dhth/prs](https://github.com/dhth/prs)
-8. 🎉 Merged PR [#71](https://github.com/dhth/squish/pull/71) in [dhth/squish](https://github.com/dhth/squish)
-9. 🎉 Merged PR [#147](https://github.com/dhth/kplay/pull/147) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🚀 Published release [v0.7.0](https://github.com/dhth/omm/releases/tag/v0.7.0) in [dhth/omm](https://github.com/dhth/omm)
+1. 🎉 Merged PR [#75](https://github.com/dhth/squidge/pull/75) in [dhth/squidge](https://github.com/dhth/squidge)
+2. 🎉 Merged PR [#1](https://github.com/dhth/crumbs/pull/1) in [dhth/crumbs](https://github.com/dhth/crumbs)
+3. 🗣 Commented on [#1](https://github.com/dhth/crumbs/pull/1#issuecomment-4023332017) in [dhth/crumbs](https://github.com/dhth/crumbs)
+4. 🗣 Commented on [#1](https://github.com/dhth/crumbs/pull/1#issuecomment-4023301892) in [dhth/crumbs](https://github.com/dhth/crumbs)
+5. 💪 Opened PR [#1](https://github.com/dhth/crumbs/pull/1) in [dhth/crumbs](https://github.com/dhth/crumbs)
+6. 🎉 Merged PR [#92](https://github.com/dhth/tomo/pull/92) in [dhth/tomo](https://github.com/dhth/tomo)
+7. 🎉 Merged PR [#58](https://github.com/dhth/ting/pull/58) in [dhth/ting](https://github.com/dhth/ting)
+8. 🎉 Merged PR [#69](https://github.com/dhth/prs/pull/69) in [dhth/prs](https://github.com/dhth/prs)
+9. 🎉 Merged PR [#71](https://github.com/dhth/squish/pull/71) in [dhth/squish](https://github.com/dhth/squish)
+10. 🎉 Merged PR [#147](https://github.com/dhth/kplay/pull/147) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
