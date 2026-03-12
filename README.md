@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/dhth/urll/pull/52) in [dhth/urll](https://github.com/dhth/urll)
-2. 💪 Opened PR [#20](https://github.com/dhth/unreleased/pull/20) in [dhth/unreleased](https://github.com/dhth/unreleased)
-3. 💪 Opened PR [#96](https://github.com/dhth/tomo/pull/96) in [dhth/tomo](https://github.com/dhth/tomo)
-4. 💪 Opened PR [#63](https://github.com/dhth/ting/pull/63) in [dhth/ting](https://github.com/dhth/ting)
-5. 💪 Opened PR [#86](https://github.com/dhth/tbll/pull/86) in [dhth/tbll](https://github.com/dhth/tbll)
-6. 💪 Opened PR [#78](https://github.com/dhth/tash/pull/78) in [dhth/tash](https://github.com/dhth/tash)
-7. 💪 Opened PR [#75](https://github.com/dhth/squish/pull/75) in [dhth/squish](https://github.com/dhth/squish)
-8. 💪 Opened PR [#78](https://github.com/dhth/squidge/pull/78) in [dhth/squidge](https://github.com/dhth/squidge)
-9. 💪 Opened PR [#47](https://github.com/dhth/shfl/pull/47) in [dhth/shfl](https://github.com/dhth/shfl)
-10. 💪 Opened PR [#84](https://github.com/dhth/mrj/pull/84) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🎉 Merged PR [#83](https://github.com/dhth/tbll/pull/83) in [dhth/tbll](https://github.com/dhth/tbll)
+2. 🎉 Merged PR [#20](https://github.com/dhth/unreleased/pull/20) in [dhth/unreleased](https://github.com/dhth/unreleased)
+3. 🎉 Merged PR [#52](https://github.com/dhth/urll/pull/52) in [dhth/urll](https://github.com/dhth/urll)
+4. 💪 Opened PR [#52](https://github.com/dhth/urll/pull/52) in [dhth/urll](https://github.com/dhth/urll)
+5. 💪 Opened PR [#20](https://github.com/dhth/unreleased/pull/20) in [dhth/unreleased](https://github.com/dhth/unreleased)
+6. 💪 Opened PR [#96](https://github.com/dhth/tomo/pull/96) in [dhth/tomo](https://github.com/dhth/tomo)
+7. 💪 Opened PR [#63](https://github.com/dhth/ting/pull/63) in [dhth/ting](https://github.com/dhth/ting)
+8. 💪 Opened PR [#86](https://github.com/dhth/tbll/pull/86) in [dhth/tbll](https://github.com/dhth/tbll)
+9. 💪 Opened PR [#78](https://github.com/dhth/tash/pull/78) in [dhth/tash](https://github.com/dhth/tash)
+10. 💪 Opened PR [#75](https://github.com/dhth/squish/pull/75) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
