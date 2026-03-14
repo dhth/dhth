@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dhth/crumbs/pull/3) in [dhth/crumbs](https://github.com/dhth/crumbs)
-2. 💪 Opened PR [#3](https://github.com/dhth/crumbs/pull/3) in [dhth/crumbs](https://github.com/dhth/crumbs)
-3. 🎉 Merged PR [#2](https://github.com/dhth/crumbs/pull/2) in [dhth/crumbs](https://github.com/dhth/crumbs)
-4. 🗣 Commented on [#2](https://github.com/dhth/crumbs/pull/2#issuecomment-4055789378) in [dhth/crumbs](https://github.com/dhth/crumbs)
-5. 💪 Opened PR [#2](https://github.com/dhth/crumbs/pull/2) in [dhth/crumbs](https://github.com/dhth/crumbs)
-6. 🎉 Merged PR [#150](https://github.com/dhth/hours/pull/150) in [dhth/hours](https://github.com/dhth/hours)
-7. 🎉 Merged PR [#55](https://github.com/dhth/dstll/pull/55) in [dhth/dstll](https://github.com/dhth/dstll)
-8. 🎉 Merged PR [#165](https://github.com/dhth/ecsv/pull/165) in [dhth/ecsv](https://github.com/dhth/ecsv)
-9. 🎉 Merged PR [#75](https://github.com/dhth/act3/pull/75) in [dhth/act3](https://github.com/dhth/act3)
-10. 🎉 Merged PR [#115](https://github.com/dhth/cueitup/pull/115) in [dhth/cueitup](https://github.com/dhth/cueitup)
+1. 💪 Opened PR [#4](https://github.com/dhth/crumbs/pull/4) in [dhth/crumbs](https://github.com/dhth/crumbs)
+2. 🎉 Merged PR [#3](https://github.com/dhth/crumbs/pull/3) in [dhth/crumbs](https://github.com/dhth/crumbs)
+3. 💪 Opened PR [#3](https://github.com/dhth/crumbs/pull/3) in [dhth/crumbs](https://github.com/dhth/crumbs)
+4. 🎉 Merged PR [#2](https://github.com/dhth/crumbs/pull/2) in [dhth/crumbs](https://github.com/dhth/crumbs)
+5. 🗣 Commented on [#2](https://github.com/dhth/crumbs/pull/2#issuecomment-4055789378) in [dhth/crumbs](https://github.com/dhth/crumbs)
+6. 💪 Opened PR [#2](https://github.com/dhth/crumbs/pull/2) in [dhth/crumbs](https://github.com/dhth/crumbs)
+7. 🎉 Merged PR [#150](https://github.com/dhth/hours/pull/150) in [dhth/hours](https://github.com/dhth/hours)
+8. 🎉 Merged PR [#55](https://github.com/dhth/dstll/pull/55) in [dhth/dstll](https://github.com/dhth/dstll)
+9. 🎉 Merged PR [#165](https://github.com/dhth/ecsv/pull/165) in [dhth/ecsv](https://github.com/dhth/ecsv)
+10. 🎉 Merged PR [#75](https://github.com/dhth/act3/pull/75) in [dhth/act3](https://github.com/dhth/act3)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
