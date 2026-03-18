@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#151](https://github.com/dhth/hours/pull/151) in [dhth/hours](https://github.com/dhth/hours)
-2. 🔒 Closed issue [#100](https://github.com/dhth/hours/issues/100) in [dhth/hours](https://github.com/dhth/hours)
-3. 🚀 Published release [v1.4.0](https://github.com/dhth/punchout/releases/tag/v1.4.0) in [dhth/punchout](https://github.com/dhth/punchout)
-4. 🗣 Commented on [#97](https://github.com/dhth/punchout/issues/97#issuecomment-4071221974) in [dhth/punchout](https://github.com/dhth/punchout)
-5. 🗣 Commented on [#110](https://github.com/dhth/punchout/pull/110#issuecomment-4071215545) in [dhth/punchout](https://github.com/dhth/punchout)
-6. 🎉 Merged PR [#111](https://github.com/dhth/punchout/pull/111) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 🗣 Commented on [#111](https://github.com/dhth/punchout/pull/111#issuecomment-4071038944) in [dhth/punchout](https://github.com/dhth/punchout)
-8. 💪 Opened PR [#111](https://github.com/dhth/punchout/pull/111) in [dhth/punchout](https://github.com/dhth/punchout)
-9. 🎉 Merged PR [#103](https://github.com/dhth/punchout/pull/103) in [dhth/punchout](https://github.com/dhth/punchout)
-10. 🎉 Merged PR [#148](https://github.com/dhth/outtasync/pull/148) in [dhth/outtasync](https://github.com/dhth/outtasync)
+1. 🎉 Merged PR [#84](https://github.com/dhth/mrj/pull/84) in [dhth/mrj](https://github.com/dhth/mrj)
+2. ❌ Closed PR [#151](https://github.com/dhth/hours/pull/151) in [dhth/hours](https://github.com/dhth/hours)
+3. 🔒 Closed issue [#100](https://github.com/dhth/hours/issues/100) in [dhth/hours](https://github.com/dhth/hours)
+4. 🚀 Published release [v1.4.0](https://github.com/dhth/punchout/releases/tag/v1.4.0) in [dhth/punchout](https://github.com/dhth/punchout)
+5. 🗣 Commented on [#97](https://github.com/dhth/punchout/issues/97#issuecomment-4071221974) in [dhth/punchout](https://github.com/dhth/punchout)
+6. 🗣 Commented on [#110](https://github.com/dhth/punchout/pull/110#issuecomment-4071215545) in [dhth/punchout](https://github.com/dhth/punchout)
+7. 🎉 Merged PR [#111](https://github.com/dhth/punchout/pull/111) in [dhth/punchout](https://github.com/dhth/punchout)
+8. 🗣 Commented on [#111](https://github.com/dhth/punchout/pull/111#issuecomment-4071038944) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 💪 Opened PR [#111](https://github.com/dhth/punchout/pull/111) in [dhth/punchout](https://github.com/dhth/punchout)
+10. 🎉 Merged PR [#103](https://github.com/dhth/punchout/pull/103) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
