@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/dhth/commits/pull/52) in [dhth/commits](https://github.com/dhth/commits)
-2. 🎉 Merged PR [#119](https://github.com/dhth/ecscope/pull/119) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 🎉 Merged PR [#32](https://github.com/dhth/grafq/pull/32) in [dhth/grafq](https://github.com/dhth/grafq)
-4. 🎉 Merged PR [#52](https://github.com/dhth/dstll/pull/52) in [dhth/dstll](https://github.com/dhth/dstll)
-5. 🎉 Merged PR [#29](https://github.com/dhth/envee/pull/29) in [dhth/envee](https://github.com/dhth/envee)
-6. 🗣 Commented on [#97](https://github.com/dhth/punchout/issues/97#issuecomment-4082170636) in [dhth/punchout](https://github.com/dhth/punchout)
-7. 🔒 Closed issue [#97](https://github.com/dhth/punchout/issues/97) in [dhth/punchout](https://github.com/dhth/punchout)
-8. 🎉 Merged PR [#84](https://github.com/dhth/mrj/pull/84) in [dhth/mrj](https://github.com/dhth/mrj)
-9. ❌ Closed PR [#151](https://github.com/dhth/hours/pull/151) in [dhth/hours](https://github.com/dhth/hours)
-10. 🔒 Closed issue [#100](https://github.com/dhth/hours/issues/100) in [dhth/hours](https://github.com/dhth/hours)
+1. 🎉 Merged PR [#94](https://github.com/dhth/dfft/pull/94) in [dhth/dfft](https://github.com/dhth/dfft)
+2. 🎉 Merged PR [#52](https://github.com/dhth/commits/pull/52) in [dhth/commits](https://github.com/dhth/commits)
+3. 🎉 Merged PR [#119](https://github.com/dhth/ecscope/pull/119) in [dhth/ecscope](https://github.com/dhth/ecscope)
+4. 🎉 Merged PR [#32](https://github.com/dhth/grafq/pull/32) in [dhth/grafq](https://github.com/dhth/grafq)
+5. 🎉 Merged PR [#52](https://github.com/dhth/dstll/pull/52) in [dhth/dstll](https://github.com/dhth/dstll)
+6. 🎉 Merged PR [#29](https://github.com/dhth/envee/pull/29) in [dhth/envee](https://github.com/dhth/envee)
+7. 🗣 Commented on [#97](https://github.com/dhth/punchout/issues/97#issuecomment-4082170636) in [dhth/punchout](https://github.com/dhth/punchout)
+8. 🔒 Closed issue [#97](https://github.com/dhth/punchout/issues/97) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 🎉 Merged PR [#84](https://github.com/dhth/mrj/pull/84) in [dhth/mrj](https://github.com/dhth/mrj)
+10. ❌ Closed PR [#151](https://github.com/dhth/hours/pull/151) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
