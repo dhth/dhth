@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/dhth/bmm/pull/115) in [dhth/bmm](https://github.com/dhth/bmm)
-2. 🎉 Merged PR [#78](https://github.com/dhth/squidge/pull/78) in [dhth/squidge](https://github.com/dhth/squidge)
-3. 🎉 Merged PR [#44](https://github.com/dhth/shfl/pull/44) in [dhth/shfl](https://github.com/dhth/shfl)
-4. 🎉 Merged PR [#76](https://github.com/dhth/act3/pull/76) in [dhth/act3](https://github.com/dhth/act3)
-5. 🗣 Commented on [#76](https://github.com/dhth/act3/pull/76#issuecomment-4140967249) in [dhth/act3](https://github.com/dhth/act3)
-6. 🗣 Commented on [#76](https://github.com/dhth/act3/pull/76#issuecomment-4140962423) in [dhth/act3](https://github.com/dhth/act3)
-7. 💪 Opened PR [#76](https://github.com/dhth/act3/pull/76) in [dhth/act3](https://github.com/dhth/act3)
-8. 🎉 Merged PR [#94](https://github.com/dhth/dfft/pull/94) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 🎉 Merged PR [#52](https://github.com/dhth/commits/pull/52) in [dhth/commits](https://github.com/dhth/commits)
-10. 🎉 Merged PR [#119](https://github.com/dhth/ecscope/pull/119) in [dhth/ecscope](https://github.com/dhth/ecscope)
+1. 🎉 Merged PR [#63](https://github.com/dhth/ting/pull/63) in [dhth/ting](https://github.com/dhth/ting)
+2. 🎉 Merged PR [#115](https://github.com/dhth/bmm/pull/115) in [dhth/bmm](https://github.com/dhth/bmm)
+3. 🎉 Merged PR [#78](https://github.com/dhth/squidge/pull/78) in [dhth/squidge](https://github.com/dhth/squidge)
+4. 🎉 Merged PR [#44](https://github.com/dhth/shfl/pull/44) in [dhth/shfl](https://github.com/dhth/shfl)
+5. 🎉 Merged PR [#76](https://github.com/dhth/act3/pull/76) in [dhth/act3](https://github.com/dhth/act3)
+6. 🗣 Commented on [#76](https://github.com/dhth/act3/pull/76#issuecomment-4140967249) in [dhth/act3](https://github.com/dhth/act3)
+7. 🗣 Commented on [#76](https://github.com/dhth/act3/pull/76#issuecomment-4140962423) in [dhth/act3](https://github.com/dhth/act3)
+8. 💪 Opened PR [#76](https://github.com/dhth/act3/pull/76) in [dhth/act3](https://github.com/dhth/act3)
+9. 🎉 Merged PR [#94](https://github.com/dhth/dfft/pull/94) in [dhth/dfft](https://github.com/dhth/dfft)
+10. 🎉 Merged PR [#52](https://github.com/dhth/commits/pull/52) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
