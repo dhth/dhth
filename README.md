@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#124](https://github.com/dhth/ecscope/pull/124) in [dhth/ecscope](https://github.com/dhth/ecscope)
-2. ❌ Closed PR [#123](https://github.com/dhth/ecscope/pull/123) in [dhth/ecscope](https://github.com/dhth/ecscope)
-3. 🎉 Merged PR [#125](https://github.com/dhth/ecscope/pull/125) in [dhth/ecscope](https://github.com/dhth/ecscope)
-4. 🎉 Merged PR [#81](https://github.com/dhth/mrj/pull/81) in [dhth/mrj](https://github.com/dhth/mrj)
-5. 🎉 Merged PR [#25](https://github.com/dhth/agent1/pull/25) in [dhth/agent1](https://github.com/dhth/agent1)
-6. 🎉 Merged PR [#63](https://github.com/dhth/ting/pull/63) in [dhth/ting](https://github.com/dhth/ting)
-7. 🎉 Merged PR [#115](https://github.com/dhth/bmm/pull/115) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 🎉 Merged PR [#78](https://github.com/dhth/squidge/pull/78) in [dhth/squidge](https://github.com/dhth/squidge)
-9. 🎉 Merged PR [#44](https://github.com/dhth/shfl/pull/44) in [dhth/shfl](https://github.com/dhth/shfl)
-10. 🎉 Merged PR [#76](https://github.com/dhth/act3/pull/76) in [dhth/act3](https://github.com/dhth/act3)
+1. 🎉 Merged PR [#35](https://github.com/dhth/grafq/pull/35) in [dhth/grafq](https://github.com/dhth/grafq)
+2. 🎉 Merged PR [#98](https://github.com/dhth/dfft/pull/98) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#119](https://github.com/dhth/bmm/pull/119) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 🗣 Commented on [#26](https://github.com/dhth/agent1/pull/26#issuecomment-4169380434) in [dhth/agent1](https://github.com/dhth/agent1)
+5. 🎉 Merged PR [#28](https://github.com/dhth/agent1/pull/28) in [dhth/agent1](https://github.com/dhth/agent1)
+6. 💪 Opened PR [#28](https://github.com/dhth/agent1/pull/28) in [dhth/agent1](https://github.com/dhth/agent1)
+7. 🎉 Merged PR [#27](https://github.com/dhth/agent1/pull/27) in [dhth/agent1](https://github.com/dhth/agent1)
+8. 🗣 Commented on [#83](https://github.com/dhth/mrj/pull/83#issuecomment-4168438083) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 🗣 Commented on [#82](https://github.com/dhth/mrj/pull/82#issuecomment-4168437426) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 🎉 Merged PR [#85](https://github.com/dhth/mrj/pull/85) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
