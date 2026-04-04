@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/dhth/mrj/pull/89) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 💪 Opened PR [#89](https://github.com/dhth/mrj/pull/89) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 🎉 Merged PR [#75](https://github.com/dhth/squish/pull/75) in [dhth/squish](https://github.com/dhth/squish)
-4. 🎉 Merged PR [#74](https://github.com/dhth/tash/pull/74) in [dhth/tash](https://github.com/dhth/tash)
-5. 🎉 Merged PR [#78](https://github.com/dhth/tash/pull/78) in [dhth/tash](https://github.com/dhth/tash)
-6. 🎉 Merged PR [#86](https://github.com/dhth/tbll/pull/86) in [dhth/tbll](https://github.com/dhth/tbll)
-7. 🎉 Merged PR [#96](https://github.com/dhth/tomo/pull/96) in [dhth/tomo](https://github.com/dhth/tomo)
-8. 🗣 Commented on [#117](https://github.com/dhth/bmm/pull/117#issuecomment-4170398335) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🗣 Commented on [#116](https://github.com/dhth/bmm/pull/116#issuecomment-4170395720) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 🗣 Commented on [#116](https://github.com/dhth/bmm/pull/116#issuecomment-4170394824) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🎉 Merged PR [#34](https://github.com/dhth/envee/pull/34) in [dhth/envee](https://github.com/dhth/envee)
+2. 🎉 Merged PR [#89](https://github.com/dhth/mrj/pull/89) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 💪 Opened PR [#89](https://github.com/dhth/mrj/pull/89) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 🎉 Merged PR [#75](https://github.com/dhth/squish/pull/75) in [dhth/squish](https://github.com/dhth/squish)
+5. 🎉 Merged PR [#74](https://github.com/dhth/tash/pull/74) in [dhth/tash](https://github.com/dhth/tash)
+6. 🎉 Merged PR [#78](https://github.com/dhth/tash/pull/78) in [dhth/tash](https://github.com/dhth/tash)
+7. 🎉 Merged PR [#86](https://github.com/dhth/tbll/pull/86) in [dhth/tbll](https://github.com/dhth/tbll)
+8. 🎉 Merged PR [#96](https://github.com/dhth/tomo/pull/96) in [dhth/tomo](https://github.com/dhth/tomo)
+9. 🗣 Commented on [#117](https://github.com/dhth/bmm/pull/117#issuecomment-4170398335) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🗣 Commented on [#116](https://github.com/dhth/bmm/pull/116#issuecomment-4170395720) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
