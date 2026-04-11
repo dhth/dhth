@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/dhth/dfft/pull/97) in [dhth/dfft](https://github.com/dhth/dfft)
-2. 🎉 Merged PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
-3. 💪 Opened PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
-4. ❌ Closed PR [#61](https://github.com/dhth/ting/pull/61) in [dhth/ting](https://github.com/dhth/ting)
-5. 🎉 Merged PR [#68](https://github.com/dhth/ting/pull/68) in [dhth/ting](https://github.com/dhth/ting)
-6. 💪 Opened PR [#68](https://github.com/dhth/ting/pull/68) in [dhth/ting](https://github.com/dhth/ting)
-7. 🗣 Commented on [#102](https://github.com/dhth/dfft/pull/102#issuecomment-4217191293) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 🎉 Merged PR [#103](https://github.com/dhth/dfft/pull/103) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 💪 Opened PR [#103](https://github.com/dhth/dfft/pull/103) in [dhth/dfft](https://github.com/dhth/dfft)
-10. 🗣 Commented on [#2](https://github.com/dhth/refit/pull/2#issuecomment-4216303295) in [dhth/refit](https://github.com/dhth/refit)
+1. 🗣 Commented on [#62](https://github.com/dhth/ting/pull/62#issuecomment-4228561999) in [dhth/ting](https://github.com/dhth/ting)
+2. ❌ Closed PR [#97](https://github.com/dhth/dfft/pull/97) in [dhth/dfft](https://github.com/dhth/dfft)
+3. 🎉 Merged PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
+4. 💪 Opened PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
+5. ❌ Closed PR [#61](https://github.com/dhth/ting/pull/61) in [dhth/ting](https://github.com/dhth/ting)
+6. 🎉 Merged PR [#68](https://github.com/dhth/ting/pull/68) in [dhth/ting](https://github.com/dhth/ting)
+7. 💪 Opened PR [#68](https://github.com/dhth/ting/pull/68) in [dhth/ting](https://github.com/dhth/ting)
+8. 🗣 Commented on [#102](https://github.com/dhth/dfft/pull/102#issuecomment-4217191293) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#103](https://github.com/dhth/dfft/pull/103) in [dhth/dfft](https://github.com/dhth/dfft)
+10. 💪 Opened PR [#103](https://github.com/dhth/dfft/pull/103) in [dhth/dfft](https://github.com/dhth/dfft)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
