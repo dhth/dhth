@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/dhth/grafq/pull/39) in [dhth/grafq](https://github.com/dhth/grafq)
-2. 🎉 Merged PR [#50](https://github.com/dhth/shfl/pull/50) in [dhth/shfl](https://github.com/dhth/shfl)
-3. 💪 Opened PR [#50](https://github.com/dhth/shfl/pull/50) in [dhth/shfl](https://github.com/dhth/shfl)
-4. 🗣 Commented on [#49](https://github.com/dhth/shfl/pull/49#issuecomment-4231316103) in [dhth/shfl](https://github.com/dhth/shfl)
-5. 🎉 Merged PR [#42](https://github.com/dhth/agx/pull/42) in [dhth/agx](https://github.com/dhth/agx)
-6. 🗣 Commented on [#62](https://github.com/dhth/ting/pull/62#issuecomment-4228561999) in [dhth/ting](https://github.com/dhth/ting)
-7. ❌ Closed PR [#97](https://github.com/dhth/dfft/pull/97) in [dhth/dfft](https://github.com/dhth/dfft)
-8. 🎉 Merged PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
-9. 💪 Opened PR [#104](https://github.com/dhth/dfft/pull/104) in [dhth/dfft](https://github.com/dhth/dfft)
-10. ❌ Closed PR [#61](https://github.com/dhth/ting/pull/61) in [dhth/ting](https://github.com/dhth/ting)
+1. 🎉 Merged PR [#169](https://github.com/dhth/ecsv/pull/169) in [dhth/ecsv](https://github.com/dhth/ecsv)
+2. 🎉 Merged PR [#57](https://github.com/dhth/dstll/pull/57) in [dhth/dstll](https://github.com/dhth/dstll)
+3. 🎉 Merged PR [#118](https://github.com/dhth/cueitup/pull/118) in [dhth/cueitup](https://github.com/dhth/cueitup)
+4. 🎉 Merged PR [#59](https://github.com/dhth/commits/pull/59) in [dhth/commits](https://github.com/dhth/commits)
+5. 🎉 Merged PR [#79](https://github.com/dhth/act3/pull/79) in [dhth/act3](https://github.com/dhth/act3)
+6. 💪 Opened PR [#32](https://github.com/dhth/tflens/pull/32) in [dhth/tflens](https://github.com/dhth/tflens)
+7. 💪 Opened PR [#56](https://github.com/dhth/schemas/pull/56) in [dhth/schemas](https://github.com/dhth/schemas)
+8. 💪 Opened PR [#115](https://github.com/dhth/punchout/pull/115) in [dhth/punchout](https://github.com/dhth/punchout)
+9. 💪 Opened PR [#77](https://github.com/dhth/prs/pull/77) in [dhth/prs](https://github.com/dhth/prs)
+10. 💪 Opened PR [#156](https://github.com/dhth/outtasync/pull/156) in [dhth/outtasync](https://github.com/dhth/outtasync)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
