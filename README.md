@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/dhth/squidge/pull/82) in [dhth/squidge](https://github.com/dhth/squidge)
-2. 🎉 Merged PR [#82](https://github.com/dhth/tash/pull/82) in [dhth/tash](https://github.com/dhth/tash)
-3. 🎉 Merged PR [#42](https://github.com/dhth/grafq/pull/42) in [dhth/grafq](https://github.com/dhth/grafq)
-4. 🎉 Merged PR [#105](https://github.com/dhth/dfft/pull/105) in [dhth/dfft](https://github.com/dhth/dfft)
-5. 🎉 Merged PR [#133](https://github.com/dhth/ecscope/pull/133) in [dhth/ecscope](https://github.com/dhth/ecscope)
-6. 🎉 Merged PR [#38](https://github.com/dhth/envee/pull/38) in [dhth/envee](https://github.com/dhth/envee)
-7. 🎉 Merged PR [#126](https://github.com/dhth/bmm/pull/126) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 🎉 Merged PR [#36](https://github.com/dhth/atls/pull/36) in [dhth/atls](https://github.com/dhth/atls)
-9. 🎉 Merged PR [#46](https://github.com/dhth/agx/pull/46) in [dhth/agx](https://github.com/dhth/agx)
-10. 🎉 Merged PR [#31](https://github.com/dhth/agent1/pull/31) in [dhth/agent1](https://github.com/dhth/agent1)
+1. 🎉 Merged PR [#55](https://github.com/dhth/urll/pull/55) in [dhth/urll](https://github.com/dhth/urll)
+2. 🎉 Merged PR [#23](https://github.com/dhth/unreleased/pull/23) in [dhth/unreleased](https://github.com/dhth/unreleased)
+3. 🎉 Merged PR [#69](https://github.com/dhth/ting/pull/69) in [dhth/ting](https://github.com/dhth/ting)
+4. 🎉 Merged PR [#90](https://github.com/dhth/tbll/pull/90) in [dhth/tbll](https://github.com/dhth/tbll)
+5. 🎉 Merged PR [#79](https://github.com/dhth/squish/pull/79) in [dhth/squish](https://github.com/dhth/squish)
+6. 🎉 Merged PR [#51](https://github.com/dhth/shfl/pull/51) in [dhth/shfl](https://github.com/dhth/shfl)
+7. 🎉 Merged PR [#90](https://github.com/dhth/mrj/pull/90) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 🎉 Merged PR [#100](https://github.com/dhth/tomo/pull/100) in [dhth/tomo](https://github.com/dhth/tomo)
+9. 🎉 Merged PR [#82](https://github.com/dhth/squidge/pull/82) in [dhth/squidge](https://github.com/dhth/squidge)
+10. 🎉 Merged PR [#82](https://github.com/dhth/tash/pull/82) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
