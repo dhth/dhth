@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
-2. 💪 Opened PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
-3. 🎉 Merged PR [#152](https://github.com/dhth/kplay/pull/152) in [dhth/kplay](https://github.com/dhth/kplay)
-4. 🗣 Commented on [#54](https://github.com/dhth/urll/pull/54#issuecomment-4321674469) in [dhth/urll](https://github.com/dhth/urll)
-5. ℹ️ Labeled PR [#54](https://github.com/dhth/urll/pull/54) in [dhth/urll](https://github.com/dhth/urll)
-6. 🎉 Merged PR [#55](https://github.com/dhth/urll/pull/55) in [dhth/urll](https://github.com/dhth/urll)
-7. 🎉 Merged PR [#23](https://github.com/dhth/unreleased/pull/23) in [dhth/unreleased](https://github.com/dhth/unreleased)
-8. 🎉 Merged PR [#69](https://github.com/dhth/ting/pull/69) in [dhth/ting](https://github.com/dhth/ting)
-9. 🎉 Merged PR [#90](https://github.com/dhth/tbll/pull/90) in [dhth/tbll](https://github.com/dhth/tbll)
-10. 🎉 Merged PR [#79](https://github.com/dhth/squish/pull/79) in [dhth/squish](https://github.com/dhth/squish)
+1. ❌ Closed PR [#48](https://github.com/dhth/chronotes/pull/48) in [dhth/chronotes](https://github.com/dhth/chronotes)
+2. ❌ Closed PR [#49](https://github.com/dhth/chronotes/pull/49) in [dhth/chronotes](https://github.com/dhth/chronotes)
+3. ❌ Closed PR [#47](https://github.com/dhth/chronotes/pull/47) in [dhth/chronotes](https://github.com/dhth/chronotes)
+4. ❌ Closed PR [#45](https://github.com/dhth/chronotes/pull/45) in [dhth/chronotes](https://github.com/dhth/chronotes)
+5. 🎉 Merged PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
+6. 💪 Opened PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
+7. 🎉 Merged PR [#152](https://github.com/dhth/kplay/pull/152) in [dhth/kplay](https://github.com/dhth/kplay)
+8. 🗣 Commented on [#54](https://github.com/dhth/urll/pull/54#issuecomment-4321674469) in [dhth/urll](https://github.com/dhth/urll)
+9. ℹ️ Labeled PR [#54](https://github.com/dhth/urll/pull/54) in [dhth/urll](https://github.com/dhth/urll)
+10. 🎉 Merged PR [#55](https://github.com/dhth/urll/pull/55) in [dhth/urll](https://github.com/dhth/urll)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
