@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/dhth/mrj/pull/93) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 💪 Opened PR [#93](https://github.com/dhth/mrj/pull/93) in [dhth/mrj](https://github.com/dhth/mrj)
-3. ❌ Closed PR [#48](https://github.com/dhth/chronotes/pull/48) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. ❌ Closed PR [#49](https://github.com/dhth/chronotes/pull/49) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. ❌ Closed PR [#47](https://github.com/dhth/chronotes/pull/47) in [dhth/chronotes](https://github.com/dhth/chronotes)
-6. ❌ Closed PR [#45](https://github.com/dhth/chronotes/pull/45) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. 🎉 Merged PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
-8. 💪 Opened PR [#57](https://github.com/dhth/urll/pull/57) in [dhth/urll](https://github.com/dhth/urll)
-9. 🎉 Merged PR [#152](https://github.com/dhth/kplay/pull/152) in [dhth/kplay](https://github.com/dhth/kplay)
-10. 🗣 Commented on [#54](https://github.com/dhth/urll/pull/54#issuecomment-4321674469) in [dhth/urll](https://github.com/dhth/urll)
+1. 🎉 Merged PR [#96](https://github.com/dhth/mrj/pull/96) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 🎉 Merged PR [#97](https://github.com/dhth/mrj/pull/97) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#95](https://github.com/dhth/mrj/pull/95) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 💪 Opened PR [#97](https://github.com/dhth/mrj/pull/97) in [dhth/mrj](https://github.com/dhth/mrj)
+5. 💪 Opened PR [#96](https://github.com/dhth/mrj/pull/96) in [dhth/mrj](https://github.com/dhth/mrj)
+6. 💪 Opened PR [#95](https://github.com/dhth/mrj/pull/95) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 🎉 Merged PR [#93](https://github.com/dhth/mrj/pull/93) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 💪 Opened PR [#93](https://github.com/dhth/mrj/pull/93) in [dhth/mrj](https://github.com/dhth/mrj)
+9. ❌ Closed PR [#48](https://github.com/dhth/chronotes/pull/48) in [dhth/chronotes](https://github.com/dhth/chronotes)
+10. ❌ Closed PR [#49](https://github.com/dhth/chronotes/pull/49) in [dhth/chronotes](https://github.com/dhth/chronotes)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
