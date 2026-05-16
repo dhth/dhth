@@ -56,7 +56,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🚀 Published release [v0.4.2](https://github.com/dhth/gobrewtest/releases/tag/v0.4.2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 2. 💪 Opened PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
 3. 🎉 Merged PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
 4. 💪 Opened PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
