@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
-2. 💪 Opened PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
-3. 🎉 Merged PR [#72](https://github.com/dhth/ting/pull/72) in [dhth/ting](https://github.com/dhth/ting)
-4. 💪 Opened PR [#72](https://github.com/dhth/ting/pull/72) in [dhth/ting](https://github.com/dhth/ting)
-5. ❌ Closed PR [#56](https://github.com/dhth/chronotes/pull/56) in [dhth/chronotes](https://github.com/dhth/chronotes)
-6. ❌ Closed PR [#54](https://github.com/dhth/chronotes/pull/54) in [dhth/chronotes](https://github.com/dhth/chronotes)
-7. ❌ Closed PR [#55](https://github.com/dhth/chronotes/pull/55) in [dhth/chronotes](https://github.com/dhth/chronotes)
-8. ❌ Closed PR [#53](https://github.com/dhth/chronotes/pull/53) in [dhth/chronotes](https://github.com/dhth/chronotes)
-9. ❌ Closed PR [#88](https://github.com/dhth/graphc/pull/88) in [dhth/graphc](https://github.com/dhth/graphc)
-10. ❌ Closed PR [#53](https://github.com/dhth/commits/pull/53) in [dhth/commits](https://github.com/dhth/commits)
+1. 🎉 Merged PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+2. 💪 Opened PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 🎉 Merged PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
+4. 💪 Opened PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
+5. 🎉 Merged PR [#129](https://github.com/dhth/bmm/pull/129) in [dhth/bmm](https://github.com/dhth/bmm)
+6. 💪 Opened PR [#129](https://github.com/dhth/bmm/pull/129) in [dhth/bmm](https://github.com/dhth/bmm)
+7. 🎉 Merged PR [#109](https://github.com/dhth/dfft/pull/109) in [dhth/dfft](https://github.com/dhth/dfft)
+8. 💪 Opened PR [#109](https://github.com/dhth/dfft/pull/109) in [dhth/dfft](https://github.com/dhth/dfft)
+9. 🎉 Merged PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
+10. 💪 Opened PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
