@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#56](https://github.com/dhth/chronotes/pull/56) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. ❌ Closed PR [#54](https://github.com/dhth/chronotes/pull/54) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. ❌ Closed PR [#55](https://github.com/dhth/chronotes/pull/55) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. ❌ Closed PR [#53](https://github.com/dhth/chronotes/pull/53) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. ❌ Closed PR [#88](https://github.com/dhth/graphc/pull/88) in [dhth/graphc](https://github.com/dhth/graphc)
-6. ❌ Closed PR [#53](https://github.com/dhth/commits/pull/53) in [dhth/commits](https://github.com/dhth/commits)
-7. 🚀 Published release [v0.4.2](https://github.com/dhth/gobrewtest/releases/tag/v0.4.2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-8. 🗣 Commented on [#101](https://github.com/dhth/tomo/pull/101#issuecomment-4458677301) in [dhth/tomo](https://github.com/dhth/tomo)
-9. 🎉 Merged PR [#58](https://github.com/dhth/dstll/pull/58) in [dhth/dstll](https://github.com/dhth/dstll)
-10. 🎉 Merged PR [#55](https://github.com/dhth/mult/pull/55) in [dhth/mult](https://github.com/dhth/mult)
+1. 🎉 Merged PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
+2. 💪 Opened PR [#26](https://github.com/dhth/unreleased/pull/26) in [dhth/unreleased](https://github.com/dhth/unreleased)
+3. 🎉 Merged PR [#72](https://github.com/dhth/ting/pull/72) in [dhth/ting](https://github.com/dhth/ting)
+4. 💪 Opened PR [#72](https://github.com/dhth/ting/pull/72) in [dhth/ting](https://github.com/dhth/ting)
+5. ❌ Closed PR [#56](https://github.com/dhth/chronotes/pull/56) in [dhth/chronotes](https://github.com/dhth/chronotes)
+6. ❌ Closed PR [#54](https://github.com/dhth/chronotes/pull/54) in [dhth/chronotes](https://github.com/dhth/chronotes)
+7. ❌ Closed PR [#55](https://github.com/dhth/chronotes/pull/55) in [dhth/chronotes](https://github.com/dhth/chronotes)
+8. ❌ Closed PR [#53](https://github.com/dhth/chronotes/pull/53) in [dhth/chronotes](https://github.com/dhth/chronotes)
+9. ❌ Closed PR [#88](https://github.com/dhth/graphc/pull/88) in [dhth/graphc](https://github.com/dhth/graphc)
+10. ❌ Closed PR [#53](https://github.com/dhth/commits/pull/53) in [dhth/commits](https://github.com/dhth/commits)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
