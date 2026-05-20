@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
-2. 💪 Opened PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
-3. 🎉 Merged PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
-4. 💪 Opened PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
-5. 🎉 Merged PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
-6. 💪 Opened PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 🎉 Merged PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
-8. 💪 Opened PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
-9. 🎉 Merged PR [#129](https://github.com/dhth/bmm/pull/129) in [dhth/bmm](https://github.com/dhth/bmm)
-10. 💪 Opened PR [#129](https://github.com/dhth/bmm/pull/129) in [dhth/bmm](https://github.com/dhth/bmm)
+1. 🗣 Commented on [#897](https://github.com/XAMPPRocky/octocrab/issues/897#issuecomment-4495679538) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
+2. 🎉 Merged PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
+3. 💪 Opened PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
+4. 🎉 Merged PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
+5. 💪 Opened PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
+6. 🎉 Merged PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+7. 💪 Opened PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+8. 🎉 Merged PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
+9. 💪 Opened PR [#130](https://github.com/dhth/bmm/pull/130) in [dhth/bmm](https://github.com/dhth/bmm)
+10. 🎉 Merged PR [#129](https://github.com/dhth/bmm/pull/129) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
