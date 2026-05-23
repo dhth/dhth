@@ -56,16 +56,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/dhth/chronotes/pull/59) in [dhth/chronotes](https://github.com/dhth/chronotes)
-2. ❌ Closed PR [#58](https://github.com/dhth/chronotes/pull/58) in [dhth/chronotes](https://github.com/dhth/chronotes)
-3. ❌ Closed PR [#57](https://github.com/dhth/chronotes/pull/57) in [dhth/chronotes](https://github.com/dhth/chronotes)
-4. ❌ Closed PR [#60](https://github.com/dhth/chronotes/pull/60) in [dhth/chronotes](https://github.com/dhth/chronotes)
-5. 🗣 Commented on [#897](https://github.com/XAMPPRocky/octocrab/issues/897#issuecomment-4495679538) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
-6. 🎉 Merged PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
-7. 💪 Opened PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
-8. 🎉 Merged PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
-9. 💪 Opened PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
-10. 🎉 Merged PR [#105](https://github.com/dhth/mrj/pull/105) in [dhth/mrj](https://github.com/dhth/mrj)
+1. 🎉 Merged PR [#1](https://github.com/dhth/ghlog/pull/1) in [dhth/ghlog](https://github.com/dhth/ghlog)
+2. 💪 Opened PR [#1](https://github.com/dhth/ghlog/pull/1) in [dhth/ghlog](https://github.com/dhth/ghlog)
+3. ❌ Closed PR [#59](https://github.com/dhth/chronotes/pull/59) in [dhth/chronotes](https://github.com/dhth/chronotes)
+4. ❌ Closed PR [#58](https://github.com/dhth/chronotes/pull/58) in [dhth/chronotes](https://github.com/dhth/chronotes)
+5. ❌ Closed PR [#57](https://github.com/dhth/chronotes/pull/57) in [dhth/chronotes](https://github.com/dhth/chronotes)
+6. ❌ Closed PR [#60](https://github.com/dhth/chronotes/pull/60) in [dhth/chronotes](https://github.com/dhth/chronotes)
+7. 🗣 Commented on [#897](https://github.com/XAMPPRocky/octocrab/issues/897#issuecomment-4495679538) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
+8. 🎉 Merged PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
+9. 💪 Opened PR [#106](https://github.com/dhth/mrj/pull/106) in [dhth/mrj](https://github.com/dhth/mrj)
+10. 🎉 Merged PR [#85](https://github.com/dhth/tash/pull/85) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
