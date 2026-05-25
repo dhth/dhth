@@ -12,7 +12,7 @@ What I'm up to these days:
 
 ### A few tools I've written
 
-*(WI: "written in")*
+> WI: "written in"
 
 | Tool        | What it does                                                                                  | WI                                                             |
 |:------------|:----------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
@@ -53,7 +53,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 | [tbll]         | outputs data in tabular format                                                     | <img src="./assets/rust.svg"/>                                 |
 | [tomo]         | is a no-frills pomodoro progress indicator for tmux                                | <img src="./assets/rust.svg"/>                                 |
 
-### :zap: Recent Public Activity
+### Recent public activity
+
+> generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
 - ⬆️ pushed [4da6a6a](https://github.com/dhth/activity/commit/4da6a6a55be8411cfa4b9c4352ddc8a7b37323b7) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
