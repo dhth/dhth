@@ -53,7 +53,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 | [tbll]         | outputs data in tabular format                                                     | <img src="./assets/rust.svg"/>                                 |
 | [tomo]         | is a no-frills pomodoro progress indicator for tmux                                | <img src="./assets/rust.svg"/>                                 |
 
-### :zap: Recent Activity
+### :zap: Recent Public Activity
 
 <!--START_SECTION:activity-->
 - 🗑️ deleted branch turbolift-update-license in [dhth/dhth](https://github.com/dhth/dhth)
