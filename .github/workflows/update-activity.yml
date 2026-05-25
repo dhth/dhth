@@ -1,4 +1,4 @@
-name: Update recent activity
+name: update-activity
 
 on:
   schedule:
@@ -6,19 +6,40 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Update recent activity
+  run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v6
-      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 10
-          COMMIT_NAME: github-actions[bot]
-          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          repository: 'dhth/ghlog'
+      - name: Install toolchain
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+      - name: Install ghlog
+        run: cargo install --path . --profile dev
+      - name: Run ghlog
+        env:
+          GHLOG_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ghlog run dhth \
+            --limit 10 \
+            --format markdown \
+            > /tmp/activity.md
+      - uses: actions/checkout@v6
+      - name: Update README
+        run: |
+          python3 .github/scripts/update-activity.py /tmp/activity.md
+      - name: Check if updates should be published
+        id: check-publish
+        run: |
+          echo "publish=$(./.github/scripts/should-publish-results.sh)" >> "$GITHUB_OUTPUT"
+      - name: Commit and push results
+        if: steps.check-publish.outputs.publish == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent activity"
+          git push
