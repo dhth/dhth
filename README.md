@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-support-for-pull-request-review-event in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#5](https://github.com/dhth/ghlog/pull/5) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [12ae75e](https://github.com/dhth/ghlog/commit/12ae75ee08e34da9e899e671b02789bb2c7fde72) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#5](https://github.com/dhth/ghlog/pull/5) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [add-support-for-pull-request-review-event](https://github.com/dhth/ghlog/tree/add-support-for-pull-request-review-event) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🗑️ deleted branch add-support-for-issues-event in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🔀 merged pull request [#4](https://github.com/dhth/ghlog/pull/4) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - ⬆️ pushed [b51ce1f](https://github.com/dhth/ghlog/commit/b51ce1fc09acf4f6d2f425cea2f211273b00baaa) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🔀 opened pull request [#4](https://github.com/dhth/ghlog/pull/4) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🌱 created branch [add-support-for-issues-event](https://github.com/dhth/ghlog/tree/add-support-for-issues-event) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [179e362](https://github.com/dhth/ghlog/commit/179e362f677259efca436d3b36ab60b0dbdfd8e1) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [fcfa5ac](https://github.com/dhth/ghlog/commit/fcfa5ac888fb4ccb8976a94e0f6fb947d2ee871b) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch paginate-over-results-until-limit-is-reached in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [d16a0fe](https://github.com/dhth/ghlog/commit/d16a0fe0a27aef72fa8b248308a0046068339a1a) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#3](https://github.com/dhth/ghlog/pull/3) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
