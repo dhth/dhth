@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#7](https://github.com/dhth/ghlog/pull/7) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [standardise-class-names-across-templates](https://github.com/dhth/ghlog/tree/standardise-class-names-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch standardise-css-names-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#6](https://github.com/dhth/ghlog/pull/6) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [1a59165](https://github.com/dhth/ghlog/commit/1a5916520021f01451209145209b7a78c1cbbe07) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#6](https://github.com/dhth/ghlog/pull/6) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [standardise-css-names-across-templates](https://github.com/dhth/ghlog/tree/standardise-css-names-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🗑️ deleted branch add-support-for-pull-request-review-event in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🔀 merged pull request [#5](https://github.com/dhth/ghlog/pull/5) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - ⬆️ pushed [12ae75e](https://github.com/dhth/ghlog/commit/12ae75ee08e34da9e899e671b02789bb2c7fde72) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#5](https://github.com/dhth/ghlog/pull/5) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [add-support-for-pull-request-review-event](https://github.com/dhth/ghlog/tree/add-support-for-pull-request-review-event) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch add-support-for-issues-event in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#4](https://github.com/dhth/ghlog/pull/4) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [b51ce1f](https://github.com/dhth/ghlog/commit/b51ce1fc09acf4f6d2f425cea2f211273b00baaa) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#4](https://github.com/dhth/ghlog/pull/4) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [add-support-for-issues-event](https://github.com/dhth/ghlog/tree/add-support-for-issues-event) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
