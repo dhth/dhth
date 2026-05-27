@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 opened pull request [#7](https://github.com/dhth/ghlog/pull/7) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [standardise-class-names-across-templates](https://github.com/dhth/ghlog/tree/standardise-class-names-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch standardise-css-names-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#6](https://github.com/dhth/ghlog/pull/6) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [1a59165](https://github.com/dhth/ghlog/commit/1a5916520021f01451209145209b7a78c1cbbe07) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#6](https://github.com/dhth/ghlog/pull/6) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [standardise-css-names-across-templates](https://github.com/dhth/ghlog/tree/standardise-css-names-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch add-support-for-pull-request-review-event in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#5](https://github.com/dhth/ghlog/pull/5) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [12ae75e](https://github.com/dhth/ghlog/commit/12ae75ee08e34da9e899e671b02789bb2c7fde72) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch standardize-theme-setup-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#9](https://github.com/dhth/ghlog/pull/9) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [9659997](https://github.com/dhth/ghlog/commit/96599972648f39fc54c2a2a2a61b19377c9b64e9) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#9](https://github.com/dhth/ghlog/pull/9) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [standardize-theme-setup-across-templates](https://github.com/dhth/ghlog/tree/standardize-theme-setup-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch standarise-css-variables-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [39a6dd7](https://github.com/dhth/ghlog/commit/39a6dd72a753e970f40a1ece26354f7234e86e2b) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#8](https://github.com/dhth/ghlog/pull/8) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#8](https://github.com/dhth/ghlog/pull/8) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [standarise-css-variables-across-templates](https://github.com/dhth/ghlog/tree/standarise-css-variables-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
