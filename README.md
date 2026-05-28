@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch standardize-theme-setup-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#9](https://github.com/dhth/ghlog/pull/9) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [9659997](https://github.com/dhth/ghlog/commit/96599972648f39fc54c2a2a2a61b19377c9b64e9) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#9](https://github.com/dhth/ghlog/pull/9) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [standardize-theme-setup-across-templates](https://github.com/dhth/ghlog/tree/standardize-theme-setup-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch standarise-css-variables-across-templates in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [39a6dd7](https://github.com/dhth/ghlog/commit/39a6dd72a753e970f40a1ece26354f7234e86e2b) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#8](https://github.com/dhth/ghlog/pull/8) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#8](https://github.com/dhth/ghlog/pull/8) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [standarise-css-variables-across-templates](https://github.com/dhth/ghlog/tree/standarise-css-variables-across-templates) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch allow-filtering-by-event-types in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [5a893d2](https://github.com/dhth/ghlog/commit/5a893d27f25789a52251e2bb2361d06ad637c857) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#13](https://github.com/dhth/ghlog/pull/13) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [324d468](https://github.com/dhth/ghlog/commit/324d468465442c3b20e8b322e1e9f10511d12e9f) to [allow-filtering-by-event-types](https://github.com/dhth/ghlog/tree/allow-filtering-by-event-types) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#13](https://github.com/dhth/ghlog/pull/13) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [allow-filtering-by-event-types](https://github.com/dhth/ghlog/tree/allow-filtering-by-event-types) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch dont-encode-spaces-in-event-presentation in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#12](https://github.com/dhth/ghlog/pull/12) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [7019deb](https://github.com/dhth/ghlog/commit/7019deb0dc070095500b1ce58e932e4c72b8e14a) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 💬 commented on issue [#12](https://github.com/dhth/ghlog/pull/12) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
