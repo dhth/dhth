@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch improve-dependabot-config in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 merged pull request [#56](https://github.com/dhth/mult/pull/56) in [dhth/mult](https://github.com/dhth/mult)
-- ⬆️ pushed [0320aa1](https://github.com/dhth/mult/commit/0320aa1e33004963bf9d7a72c9f679a78bf69586) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- 🗑️ deleted branch improve-dependabot-config in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [dbe5b79](https://github.com/dhth/tflens/commit/dbe5b79536cd72e071537058a6ce5012b04a20d4) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 merged pull request [#36](https://github.com/dhth/tflens/pull/36) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🗑️ deleted branch improve-dependabot-config in [dhth/dstll](https://github.com/dhth/dstll)
-- 🔀 merged pull request [#59](https://github.com/dhth/dstll/pull/59) in [dhth/dstll](https://github.com/dhth/dstll)
-- ⬆️ pushed [5620724](https://github.com/dhth/dstll/commit/56207246c599e8043c088600b74bff046b468721) to [main](https://github.com/dhth/dstll/tree/main) in [dhth/dstll](https://github.com/dhth/dstll)
-- 🗑️ deleted branch improve-dependabot-config in [dhth/outtasync](https://github.com/dhth/outtasync)
+- 🔀 merged pull request [#110](https://github.com/dhth/dfft/pull/110) in [dhth/dfft](https://github.com/dhth/dfft)
+- 🗑️ deleted branch improve-dependabot-config in [dhth/dfft](https://github.com/dhth/dfft)
+- ⬆️ pushed [e06923f](https://github.com/dhth/dfft/commit/e06923f552ca242d33d4547bb370b025ee8d6f84) to [main](https://github.com/dhth/dfft/tree/main) in [dhth/dfft](https://github.com/dhth/dfft)
+- 🗑️ deleted branch improve-dependabot-config in [dhth/grafq](https://github.com/dhth/grafq)
+- 🔀 merged pull request [#47](https://github.com/dhth/grafq/pull/47) in [dhth/grafq](https://github.com/dhth/grafq)
+- ⬆️ pushed [7577711](https://github.com/dhth/grafq/commit/7577711f368dba6ee17d6ae6fa8706b7b2fe570b) to [main](https://github.com/dhth/grafq/tree/main) in [dhth/grafq](https://github.com/dhth/grafq)
+- 🗑️ deleted branch improve-dependabot-config in [dhth/shfl](https://github.com/dhth/shfl)
+- ⬆️ pushed [e906365](https://github.com/dhth/shfl/commit/e906365f021bfc7707623e97141c95c6b1025b08) to [main](https://github.com/dhth/shfl/tree/main) in [dhth/shfl](https://github.com/dhth/shfl)
+- 🔀 merged pull request [#53](https://github.com/dhth/shfl/pull/53) in [dhth/shfl](https://github.com/dhth/shfl)
+- 🗑️ deleted branch improve-dependabot-config in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
