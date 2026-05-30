@@ -58,6 +58,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [8a4857c](https://github.com/dhth/dotfiles/commit/8a4857c30db71109d0d650e585b1ec332bf38fa2) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [54e2c32](https://github.com/dhth/mrj/commit/54e2c325cf6a956d68f7c7a32983f1a55a3a867d) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [cdef5f0](https://github.com/dhth/mrj-runner/commit/cdef5f05a539cf22d5f066cb95b6b3726ccce418) to [main](https://github.com/dhth/mrj-runner/tree/main) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
 - ⬆️ pushed [c8974cf](https://github.com/dhth/mrj-runner/commit/c8974cfb144005c761e71c55341c0c0fd52836cb) to [main](https://github.com/dhth/mrj-runner/tree/main) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
@@ -67,7 +68,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [434b4e1](https://github.com/dhth/mrj/commit/434b4e1ed7bc6d29ba476fce2d450d6b527d9e78) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [05524f7](https://github.com/dhth/mrj/commit/05524f7a8011b8e439585f7fad54ae8d6c513bde) to [update-readme-for-v0-5-0](https://github.com/dhth/mrj/tree/update-readme-for-v0-5-0) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [8778a24](https://github.com/dhth/mrj/commit/8778a24169b5e1509aa28bfec6f2763d75c535fb) to [update-readme-for-v0-5-0](https://github.com/dhth/mrj/tree/update-readme-for-v0-5-0) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [1066bda](https://github.com/dhth/mrj/commit/1066bda1f96e92c5dbc81b7f5b587353b0ff99e9) to [update-readme-for-v0-5-0](https://github.com/dhth/mrj/tree/update-readme-for-v0-5-0) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
