@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [36bd382](https://github.com/dhth/dotfiles/commit/36bd38288f9c95fb9e395518581a64b955398e9b) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 💬 commented on issue [#65](https://github.com/dhth/commits/pull/65) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 closed pull request [#65](https://github.com/dhth/commits/pull/65) in [dhth/commits](https://github.com/dhth/commits)
+- 💬 commented on issue [#110](https://github.com/dhth/mrj/pull/110) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 closed pull request [#110](https://github.com/dhth/mrj/pull/110) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🗑️ deleted branch dependabot/cargo/non-major-updates-cd4e75b383 in [dhth/ghlog](https://github.com/dhth/ghlog)
 - ⬆️ pushed [5156d6f](https://github.com/dhth/ghlog/commit/5156d6f6b9e15c4cf634da129260bb8a157d0b52) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - ⬆️ pushed [9a2503f](https://github.com/dhth/ghlog/commit/9a2503f7081f00dcebc696f310a8ba8a85b8be4d) to [dependabot/cargo/non-major-updates-cd4e75b383](https://github.com/dhth/ghlog/tree/dependabot/cargo/non-major-updates-cd4e75b383) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🗑️ deleted branch add-support-for-showing-private-events in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🔀 merged pull request [#15](https://github.com/dhth/ghlog/pull/15) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [19c15f7](https://github.com/dhth/ghlog/commit/19c15f7ab1d9e25516bc312bff8e2101a80132ac) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [e0165a9](https://github.com/dhth/ghlog/commit/e0165a96da920ac488bb1b3042675190309d0d12) to [add-support-for-showing-private-events](https://github.com/dhth/ghlog/tree/add-support-for-showing-private-events) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#15](https://github.com/dhth/ghlog/pull/15) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [add-support-for-showing-private-events](https://github.com/dhth/ghlog/tree/add-support-for-showing-private-events) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [0d9b590](https://github.com/dhth/ghlog/commit/0d9b590ad34458170ef7e499ba5bd37988b4db4f) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
