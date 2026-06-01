@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [8a4857c](https://github.com/dhth/dotfiles/commit/8a4857c30db71109d0d650e585b1ec332bf38fa2) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [54e2c32](https://github.com/dhth/mrj/commit/54e2c325cf6a956d68f7c7a32983f1a55a3a867d) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [cdef5f0](https://github.com/dhth/mrj-runner/commit/cdef5f05a539cf22d5f066cb95b6b3726ccce418) to [main](https://github.com/dhth/mrj-runner/tree/main) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- ⬆️ pushed [c8974cf](https://github.com/dhth/mrj-runner/commit/c8974cfb144005c761e71c55341c0c0fd52836cb) to [main](https://github.com/dhth/mrj-runner/tree/main) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- ⬆️ pushed [408f68a](https://github.com/dhth/homebrew-tap/commit/408f68a275e0aa6321d036942a61a1769c17e626) to [main](https://github.com/dhth/homebrew-tap/tree/main) in [dhth/homebrew-tap](https://github.com/dhth/homebrew-tap)
-- 🗑️ deleted branch update-readme-for-v0-5-0 in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 merged pull request [#109](https://github.com/dhth/mrj/pull/109) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [434b4e1](https://github.com/dhth/mrj/commit/434b4e1ed7bc6d29ba476fce2d450d6b527d9e78) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [05524f7](https://github.com/dhth/mrj/commit/05524f7a8011b8e439585f7fad54ae8d6c513bde) to [update-readme-for-v0-5-0](https://github.com/dhth/mrj/tree/update-readme-for-v0-5-0) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [8778a24](https://github.com/dhth/mrj/commit/8778a24169b5e1509aa28bfec6f2763d75c535fb) to [update-readme-for-v0-5-0](https://github.com/dhth/mrj/tree/update-readme-for-v0-5-0) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch dependabot/cargo/non-major-updates-cd4e75b383 in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [5156d6f](https://github.com/dhth/ghlog/commit/5156d6f6b9e15c4cf634da129260bb8a157d0b52) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [9a2503f](https://github.com/dhth/ghlog/commit/9a2503f7081f00dcebc696f310a8ba8a85b8be4d) to [dependabot/cargo/non-major-updates-cd4e75b383](https://github.com/dhth/ghlog/tree/dependabot/cargo/non-major-updates-cd4e75b383) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch add-support-for-showing-private-events in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#15](https://github.com/dhth/ghlog/pull/15) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [19c15f7](https://github.com/dhth/ghlog/commit/19c15f7ab1d9e25516bc312bff8e2101a80132ac) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [e0165a9](https://github.com/dhth/ghlog/commit/e0165a96da920ac488bb1b3042675190309d0d12) to [add-support-for-showing-private-events](https://github.com/dhth/ghlog/tree/add-support-for-showing-private-events) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#15](https://github.com/dhth/ghlog/pull/15) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [add-support-for-showing-private-events](https://github.com/dhth/ghlog/tree/add-support-for-showing-private-events) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [0d9b590](https://github.com/dhth/ghlog/commit/0d9b590ad34458170ef7e499ba5bd37988b4db4f) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
