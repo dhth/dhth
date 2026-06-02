@@ -62,12 +62,12 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [c0c3add](https://github.com/dhth/ddiff/commit/c0c3addec5dcb8640554d7a662382bfeef7b9dc2) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
 - ⬆️ pushed [c8bc2ca](https://github.com/dhth/ddiff/commit/c8bc2caacbd8327cbdb845abdaef26a1ff1cd6b5) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
 - 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/dfft](https://github.com/dhth/dfft)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tbll](https://github.com/dhth/tbll)
 - 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/grafq](https://github.com/dhth/grafq)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/urll](https://github.com/dhth/urll)
 - 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/envee](https://github.com/dhth/envee)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
