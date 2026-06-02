@@ -58,16 +58,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [36bd382](https://github.com/dhth/dotfiles/commit/36bd38288f9c95fb9e395518581a64b955398e9b) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 💬 commented on issue [#65](https://github.com/dhth/commits/pull/65) in [dhth/commits](https://github.com/dhth/commits)
-- 🔀 closed pull request [#65](https://github.com/dhth/commits/pull/65) in [dhth/commits](https://github.com/dhth/commits)
-- 💬 commented on issue [#110](https://github.com/dhth/mrj/pull/110) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 closed pull request [#110](https://github.com/dhth/mrj/pull/110) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🗑️ deleted branch dependabot/cargo/non-major-updates-cd4e75b383 in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [5156d6f](https://github.com/dhth/ghlog/commit/5156d6f6b9e15c4cf634da129260bb8a157d0b52) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [9a2503f](https://github.com/dhth/ghlog/commit/9a2503f7081f00dcebc696f310a8ba8a85b8be4d) to [dependabot/cargo/non-major-updates-cd4e75b383](https://github.com/dhth/ghlog/tree/dependabot/cargo/non-major-updates-cd4e75b383) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch add-support-for-showing-private-events in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#15](https://github.com/dhth/ghlog/pull/15) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch dependabot/bun/minor-updates-a4c6353c35 in [dhth/ddiff](https://github.com/dhth/ddiff)
+- ⬆️ pushed [c0c3add](https://github.com/dhth/ddiff/commit/c0c3addec5dcb8640554d7a662382bfeef7b9dc2) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
+- ⬆️ pushed [c8bc2ca](https://github.com/dhth/ddiff/commit/c8bc2caacbd8327cbdb845abdaef26a1ff1cd6b5) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/dfft](https://github.com/dhth/dfft)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tbll](https://github.com/dhth/tbll)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/envee](https://github.com/dhth/envee)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/grafq](https://github.com/dhth/grafq)
+- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
 
 [omm]: https://github.com/dhth/omm
