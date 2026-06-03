@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [2e55ec0](https://github.com/dhth/ghlog/commit/2e55ec0f4e720f548d8f39408b0bb3b23dd3d32c) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch dependabot/bun/minor-updates-a4c6353c35 in [dhth/ddiff](https://github.com/dhth/ddiff)
-- ⬆️ pushed [c0c3add](https://github.com/dhth/ddiff/commit/c0c3addec5dcb8640554d7a662382bfeef7b9dc2) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
-- ⬆️ pushed [c8bc2ca](https://github.com/dhth/ddiff/commit/c8bc2caacbd8327cbdb845abdaef26a1ff1cd6b5) to [main](https://github.com/dhth/ddiff/tree/main) in [dhth/ddiff](https://github.com/dhth/ddiff)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/dfft](https://github.com/dhth/dfft)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/shfl](https://github.com/dhth/shfl)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/urll](https://github.com/dhth/urll)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/envee](https://github.com/dhth/envee)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tbll](https://github.com/dhth/tbll)
-- 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tomo](https://github.com/dhth/tomo)
+- 🔀 closed pull request [#1](https://github.com/dhth/activity/pull/1) in [dhth/activity](https://github.com/dhth/activity)
+- ⬆️ pushed [06a527f](https://github.com/dhth/activity/commit/06a527f63fb404d815bda09736dbaab7c27ab605) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
+- ⬆️ pushed [8003ed3](https://github.com/dhth/activity/commit/8003ed329b834cab15d5a8b92926d5708efb6874) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
+- ⬆️ pushed [75da0e6](https://github.com/dhth/dhth/commit/75da0e604caffc8a6810c2323defc99e7f7f57d4) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
+- 💬 commented on issue [#164](https://github.com/dhth/kplay/pull/164) in [dhth/kplay](https://github.com/dhth/kplay)
+- 💬 commented on issue [#123](https://github.com/dhth/cueitup/pull/123) in [dhth/cueitup](https://github.com/dhth/cueitup)
+- 💬 commented on issue [#161](https://github.com/dhth/outtasync/pull/161) in [dhth/outtasync](https://github.com/dhth/outtasync)
+- 💬 commented on issue [#136](https://github.com/dhth/omm/pull/136) in [dhth/omm](https://github.com/dhth/omm)
+- 💬 commented on issue [#175](https://github.com/dhth/ecsv/pull/175) in [dhth/ecsv](https://github.com/dhth/ecsv)
+- 🗑️ deleted branch upgrade-go-toolchain-to-1-26-4 in [dhth/tflens](https://github.com/dhth/tflens)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
