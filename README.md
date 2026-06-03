@@ -41,6 +41,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 |:---------------|:-----------------------------------------------------------------------------------|:---------------------------------------------------------------|
 | [mrj]          | merges your open dependency upgrade PRs                                            | <img src="./assets/rust.svg"/>                                 |
 | [ting]         | provides audio feedback on the command line                                        | <img src="./assets/rust.svg"/>                                 |
+| [unreleased]   | lets you view the commits to your GitHub repos since their last release            | <img src="./assets/rust.svg"/>                                 |
+| [ghlog]        | lets you view a GitHub user's recent activity                                      | <img src="./assets/rust.svg"/>                                 |
 | [tash]         | lets you stash content that you can access later                                   | <img src="./assets/rust.svg"/>                                 |
 | [urll]         | lets you browse URLs in a webpage in a recursive manner                            | <img src="./assets/rust.svg"/>                                 |
 | [tflens]       | lets you compare terraform modules across environments                             | <img src="./assets/go.svg"/>                                   |
@@ -70,6 +72,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch upgrade-toolchain-to-1-96 in [dhth/tomo](https://github.com/dhth/tomo)
 <!--END_SECTION:activity-->
 
+> More [here](https://dhth.github.io/activity/).
+
 [omm]: https://github.com/dhth/omm
 [hours]: https://github.com/dhth/hours
 [prs]: https://github.com/dhth/prs
@@ -90,6 +94,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 [dstll]: https://github.com/dhth/dstll
 [mrj]: https://github.com/dhth/mrj
 [ting]: https://github.com/dhth/ting
+[unreleased]: https://github.com/dhth/unreleased
+[ghlog]: https://github.com/dhth/ghlog
 [tash]: https://github.com/dhth/tash
 [urll]: https://github.com/dhth/urll
 [tflens]: https://github.com/dhth/tflens
