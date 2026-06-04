@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 closed pull request [#1](https://github.com/dhth/activity/pull/1) in [dhth/activity](https://github.com/dhth/activity)
-- ⬆️ pushed [06a527f](https://github.com/dhth/activity/commit/06a527f63fb404d815bda09736dbaab7c27ab605) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
-- ⬆️ pushed [8003ed3](https://github.com/dhth/activity/commit/8003ed329b834cab15d5a8b92926d5708efb6874) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
-- ⬆️ pushed [75da0e6](https://github.com/dhth/dhth/commit/75da0e604caffc8a6810c2323defc99e7f7f57d4) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
-- 💬 commented on issue [#164](https://github.com/dhth/kplay/pull/164) in [dhth/kplay](https://github.com/dhth/kplay)
-- 💬 commented on issue [#123](https://github.com/dhth/cueitup/pull/123) in [dhth/cueitup](https://github.com/dhth/cueitup)
-- 💬 commented on issue [#161](https://github.com/dhth/outtasync/pull/161) in [dhth/outtasync](https://github.com/dhth/outtasync)
-- 💬 commented on issue [#136](https://github.com/dhth/omm/pull/136) in [dhth/omm](https://github.com/dhth/omm)
-- 💬 commented on issue [#175](https://github.com/dhth/ecsv/pull/175) in [dhth/ecsv](https://github.com/dhth/ecsv)
-- 🗑️ deleted branch upgrade-go-toolchain-to-1-26-4 in [dhth/tflens](https://github.com/dhth/tflens)
+- 🗑️ deleted branch show-link-for-issue-comment-event in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#17](https://github.com/dhth/ghlog/pull/17) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [30c4dfe](https://github.com/dhth/ghlog/commit/30c4dfe6ab59125ee1941cc2919d2c3d0af850ba) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#17](https://github.com/dhth/ghlog/pull/17) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [show-link-for-issue-comment-event](https://github.com/dhth/ghlog/tree/show-link-for-issue-comment-event) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#16](https://github.com/dhth/ghlog/pull/16) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch differentiate-between-issue-and-pr-comments in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [c689ea2](https://github.com/dhth/ghlog/commit/c689ea2ef3ce55481bcd265d400ef323fbc7f494) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [459e176](https://github.com/dhth/ghlog/commit/459e176a72e9228f2454305f41b3241a8b5bdeb2) to [differentiate-between-issue-and-pr-comments](https://github.com/dhth/ghlog/tree/differentiate-between-issue-and-pr-comments) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#16](https://github.com/dhth/ghlog/pull/16) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
