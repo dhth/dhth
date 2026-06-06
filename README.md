@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch run-dependabot-once-a-week in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 merged pull request [#124](https://github.com/dhth/punchout/pull/124) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#42](https://github.com/dhth/tflens/pull/42) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [0eb1641](https://github.com/dhth/tflens/commit/0eb1641d6fb27d06ad989e250de36a96951ab00d) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🗑️ deleted branch run-dependabot-once-a-week in [dhth/squish](https://github.com/dhth/squish)
-- 🔀 merged pull request [#86](https://github.com/dhth/squish/pull/86) in [dhth/squish](https://github.com/dhth/squish)
-- ⬆️ pushed [c7cfdea](https://github.com/dhth/squish/commit/c7cfdeadcd05e665cc3520b673b1bcfac9925b92) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
-- 🗑️ deleted branch run-dependabot-once-a-week in [dhth/squidge](https://github.com/dhth/squidge)
-- ⬆️ pushed [9a28727](https://github.com/dhth/squidge/commit/9a28727d3279880280622b0820733e274d7a87d5) to [main](https://github.com/dhth/squidge/tree/main) in [dhth/squidge](https://github.com/dhth/squidge)
-- 🔀 merged pull request [#89](https://github.com/dhth/squidge/pull/89) in [dhth/squidge](https://github.com/dhth/squidge)
+- 🔀 closed pull request [#165](https://github.com/dhth/hours/pull/165) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 closed pull request [#92](https://github.com/dhth/tash/pull/92) in [dhth/tash](https://github.com/dhth/tash)
+- 🔀 closed pull request [#180](https://github.com/dhth/ecsv/pull/180) in [dhth/ecsv](https://github.com/dhth/ecsv)
+- 🔀 closed pull request [#125](https://github.com/dhth/punchout/pull/125) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 closed pull request [#68](https://github.com/dhth/commits/pull/68) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 closed pull request [#140](https://github.com/dhth/bmm/pull/140) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 closed pull request [#78](https://github.com/dhth/ting/pull/78) in [dhth/ting](https://github.com/dhth/ting)
+- 🔀 closed pull request [#53](https://github.com/dhth/grafq/pull/53) in [dhth/grafq](https://github.com/dhth/grafq)
+- 🔀 closed pull request [#83](https://github.com/dhth/prs/pull/83) in [dhth/prs](https://github.com/dhth/prs)
+- 🔀 closed pull request [#169](https://github.com/dhth/kplay/pull/169) in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
