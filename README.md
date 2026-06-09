@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch renovate/go-dependencies in [dhth/ecsv](https://github.com/dhth/ecsv)
-- 🔀 closed pull request [#183](https://github.com/dhth/ecsv/pull/183) in [dhth/ecsv](https://github.com/dhth/ecsv)
-- ⬆️ pushed [8108eec](https://github.com/dhth/mrj-runner/commit/8108eecc77c7fe073b04bed16ee14f3d140b6f2c) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- ⬆️ pushed [32282b9](https://github.com/dhth/mrj-runner/commit/32282b98266fbb0856c1b74b575463914b360423) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- 🗑️ deleted branch renovate/go-dependencies in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 closed pull request [#168](https://github.com/dhth/hours/pull/168) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [5f244df](https://github.com/dhth/grafq/commit/5f244dfee1ac1e8b98090e7b0188d26ddf28b302) to [renovate/cargo-dependencies](https://github.com/dhth/grafq/tree/renovate/cargo-dependencies) in [dhth/grafq](https://github.com/dhth/grafq)
-- ⬆️ pushed [2bee765](https://github.com/dhth/mrj-runner/commit/2bee76510a7040683b837fb540e24007941de243) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- ⬆️ pushed [4b78593](https://github.com/dhth/grafq/commit/4b78593c80f168b1d7437027d086d190299fef10) to [main](https://github.com/dhth/grafq/tree/main) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 closed pull request [#167](https://github.com/dhth/hours/pull/167) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [178d7c1](https://github.com/dhth/deps/commit/178d7c1f0a4eecaf7a455181a334f9f9bf4a37bb) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
+- ❗ closed issue [#101](https://github.com/dhth/tbll/issues/101) in [dhth/tbll](https://github.com/dhth/tbll)
+- ❗ closed issue [#170](https://github.com/dhth/kplay/issues/170) in [dhth/kplay](https://github.com/dhth/kplay)
+- ⬆️ pushed [9c240d8](https://github.com/dhth/deps/commit/9c240d852418cc137864ff01de3159252c57393f) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
+- 🗑️ deleted branch add-renovate-config in [dhth/deps](https://github.com/dhth/deps)
+- 🔀 merged pull request [#20](https://github.com/dhth/deps/pull/20) in [dhth/deps](https://github.com/dhth/deps)
+- ⬆️ pushed [af6c013](https://github.com/dhth/deps/commit/af6c013a97f3be2398f2852aa71f2cd8eaa03c71) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
+- ⬆️ pushed [a7a4eb9](https://github.com/dhth/deps/commit/a7a4eb902c2369e4f44b16220c873df104f0762e) to [add-renovate-config](https://github.com/dhth/deps/tree/add-renovate-config) in [dhth/deps](https://github.com/dhth/deps)
+- ⬆️ pushed [6c7ba07](https://github.com/dhth/deps/commit/6c7ba0749f87f26c3156a0c6b30bfda216860b61) to [add-renovate-config](https://github.com/dhth/deps/tree/add-renovate-config) in [dhth/deps](https://github.com/dhth/deps)
+- ⬆️ pushed [f318456](https://github.com/dhth/deps/commit/f318456dc8ba1a49627c27baa552653bf2491bf2) to [add-renovate-config](https://github.com/dhth/deps/tree/add-renovate-config) in [dhth/deps](https://github.com/dhth/deps)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
