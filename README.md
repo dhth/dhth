@@ -60,6 +60,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch renovate/go-dependencies in [dhth/ecsv](https://github.com/dhth/ecsv)
+- 🔀 closed pull request [#183](https://github.com/dhth/ecsv/pull/183) in [dhth/ecsv](https://github.com/dhth/ecsv)
 - ⬆️ pushed [8108eec](https://github.com/dhth/mrj-runner/commit/8108eecc77c7fe073b04bed16ee14f3d140b6f2c) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
 - ⬆️ pushed [32282b9](https://github.com/dhth/mrj-runner/commit/32282b98266fbb0856c1b74b575463914b360423) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
 - 🗑️ deleted branch renovate/go-dependencies in [dhth/hours](https://github.com/dhth/hours)
@@ -68,8 +70,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [2bee765](https://github.com/dhth/mrj-runner/commit/2bee76510a7040683b837fb540e24007941de243) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
 - ⬆️ pushed [4b78593](https://github.com/dhth/grafq/commit/4b78593c80f168b1d7437027d086d190299fef10) to [main](https://github.com/dhth/grafq/tree/main) in [dhth/grafq](https://github.com/dhth/grafq)
 - 🔀 closed pull request [#167](https://github.com/dhth/hours/pull/167) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [c4e70d4](https://github.com/dhth/mrj-runner/commit/c4e70d4d247bfdc8f37683995c9f41c914252e55) to [add-renovate-config](https://github.com/dhth/mrj-runner/tree/add-renovate-config) in [dhth/mrj-runner](https://github.com/dhth/mrj-runner)
-- 🔀 reopened pull request [#167](https://github.com/dhth/hours/pull/167) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
