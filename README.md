@@ -60,6 +60,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 closed pull request [#102](https://github.com/dhth/tbll/pull/102) in [dhth/tbll](https://github.com/dhth/tbll)
 - ⬆️ pushed [b34e8d0](https://github.com/dhth/deps/commit/b34e8d0752f76d1e9afefdece09bdb10260a473f) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
 - ⬆️ pushed [216e892](https://github.com/dhth/deps/commit/216e892c45a021acd60e305beb72890d08668826) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
 - ⬆️ pushed [178d7c1](https://github.com/dhth/deps/commit/178d7c1f0a4eecaf7a455181a334f9f9bf4a37bb) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
@@ -69,7 +70,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch add-renovate-config in [dhth/deps](https://github.com/dhth/deps)
 - 🔀 merged pull request [#20](https://github.com/dhth/deps/pull/20) in [dhth/deps](https://github.com/dhth/deps)
 - ⬆️ pushed [af6c013](https://github.com/dhth/deps/commit/af6c013a97f3be2398f2852aa71f2cd8eaa03c71) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
-- ⬆️ pushed [a7a4eb9](https://github.com/dhth/deps/commit/a7a4eb902c2369e4f44b16220c873df104f0762e) to [add-renovate-config](https://github.com/dhth/deps/tree/add-renovate-config) in [dhth/deps](https://github.com/dhth/deps)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
