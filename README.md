@@ -60,6 +60,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 💬 [commented on](https://github.com/dhth/homebrew-tap/issues/1#issuecomment-4730719154) issue [#1](https://github.com/dhth/homebrew-tap/issues/1) in [dhth/homebrew-tap](https://github.com/dhth/homebrew-tap)
 - 🌱 created branch [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [84849ad](https://github.com/dhth/dotfiles/commit/84849ad874ad04aff15e53874fec720a329551a1) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 closed pull request [#19](https://github.com/dhth/ghlog/pull/19) in [dhth/ghlog](https://github.com/dhth/ghlog)
@@ -69,7 +70,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [178d7c1](https://github.com/dhth/deps/commit/178d7c1f0a4eecaf7a455181a334f9f9bf4a37bb) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
 - ❗ closed issue [#101](https://github.com/dhth/tbll/issues/101) in [dhth/tbll](https://github.com/dhth/tbll)
 - ❗ closed issue [#170](https://github.com/dhth/kplay/issues/170) in [dhth/kplay](https://github.com/dhth/kplay)
-- ⬆️ pushed [9c240d8](https://github.com/dhth/deps/commit/9c240d852418cc137864ff01de3159252c57393f) to [main](https://github.com/dhth/deps/tree/main) in [dhth/deps](https://github.com/dhth/deps)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
