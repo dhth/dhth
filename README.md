@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch get-token-from-gh in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [c2fd7c8](https://github.com/dhth/ghlog-ts/commit/c2fd7c876bb81fab3d433c196951e5ee03af7bac) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 merged pull request [#1](https://github.com/dhth/ghlog-ts/pull/1) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 opened pull request [#1](https://github.com/dhth/ghlog-ts/pull/1) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🌱 created branch [get-token-from-gh](https://github.com/dhth/ghlog-ts/tree/get-token-from-gh) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 💬 [commented on](https://github.com/dhth/homebrew-tap/issues/1#issuecomment-4730719154) issue [#1](https://github.com/dhth/homebrew-tap/issues/1) in [dhth/homebrew-tap](https://github.com/dhth/homebrew-tap)
-- 🌱 created branch [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [84849ad](https://github.com/dhth/dotfiles/commit/84849ad874ad04aff15e53874fec720a329551a1) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 closed pull request [#19](https://github.com/dhth/ghlog/pull/19) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 closed pull request [#102](https://github.com/dhth/tbll/pull/102) in [dhth/tbll](https://github.com/dhth/tbll)
+- 🗑️ deleted branch allow-showing-private-events in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [b87293c](https://github.com/dhth/ghlog-ts/commit/b87293ca38d43d715c322788fcc6eb7693953dfd) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 merged pull request [#3](https://github.com/dhth/ghlog-ts/pull/3) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 opened pull request [#3](https://github.com/dhth/ghlog-ts/pull/3) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🌱 created branch [allow-showing-private-events](https://github.com/dhth/ghlog-ts/tree/allow-showing-private-events) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 merged pull request [#2](https://github.com/dhth/ghlog-ts/pull/2) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [1543c2e](https://github.com/dhth/ghlog-ts/commit/1543c2e07348768b5c87fc0fae60bceb2db77e27) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🗑️ deleted branch allow-filtering-by-event-type in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 opened pull request [#2](https://github.com/dhth/ghlog-ts/pull/2) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🌱 created branch [allow-filtering-by-event-type](https://github.com/dhth/ghlog-ts/tree/allow-filtering-by-event-type) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
