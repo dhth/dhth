@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch switch-to-relative-imports in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [08feaff](https://github.com/dhth/ghlog-ts/commit/08feafff5d02a2f69e319f655b6f2b2529561b86) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 merged pull request [#5](https://github.com/dhth/ghlog-ts/pull/5) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🌱 created branch [switch-to-relative-imports](https://github.com/dhth/ghlog-ts/tree/switch-to-relative-imports) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🗑️ deleted branch add-plumbing-for-unit-tests in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [d57b4cb](https://github.com/dhth/ghlog-ts/commit/d57b4cbf270036df15c3498941997ce702052e1d) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [91faab7](https://github.com/dhth/ghlog-ts/commit/91faab719b40657f2cfb8a13f77fab5186eaaf82) to [add-plumbing-for-unit-tests](https://github.com/dhth/ghlog-ts/tree/add-plumbing-for-unit-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🌱 created branch [add-plumbing-for-unit-tests](https://github.com/dhth/ghlog-ts/tree/add-plumbing-for-unit-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [8ff4eb1](https://github.com/dhth/urll/commit/8ff4eb1465c403117b1d7a143ff8d8adcaa040ac) to [main](https://github.com/dhth/urll/tree/main) in [dhth/urll](https://github.com/dhth/urll)
 - ⬆️ pushed [8489bee](https://github.com/dhth/unreleased/commit/8489bee8d8e62eb9c0ca661cadad49aab50115d7) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- ⬆️ pushed [429a3ea](https://github.com/dhth/tomo/commit/429a3eae44c9e487ad2453d51c9da7d6ab117879) to [main](https://github.com/dhth/tomo/tree/main) in [dhth/tomo](https://github.com/dhth/tomo)
-- ⬆️ pushed [762eae7](https://github.com/dhth/ting/commit/762eae7684bcd0e3cbd6e65fa3570ea910dc5121) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [4c65b53](https://github.com/dhth/tbll/commit/4c65b538f5d7a69ba1be33ba770717aeb90f57f3) to [main](https://github.com/dhth/tbll/tree/main) in [dhth/tbll](https://github.com/dhth/tbll)
-- ⬆️ pushed [1a36ee6](https://github.com/dhth/tash/commit/1a36ee6bf86c6f684409c58ccd7289cbda22b1df) to [main](https://github.com/dhth/tash/tree/main) in [dhth/tash](https://github.com/dhth/tash)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
