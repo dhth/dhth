@@ -60,6 +60,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-e2e-integration-tests in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [e445fb5](https://github.com/dhth/ghlog-ts/commit/e445fb5c6c01b86f40c4b01978a83d4b917a6503) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🌱 created branch [add-e2e-integration-tests](https://github.com/dhth/ghlog-ts/tree/add-e2e-integration-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🗑️ deleted branch switch-to-relative-imports in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [08feaff](https://github.com/dhth/ghlog-ts/commit/08feafff5d02a2f69e319f655b6f2b2529561b86) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🔀 merged pull request [#5](https://github.com/dhth/ghlog-ts/pull/5) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
@@ -67,9 +70,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch add-plumbing-for-unit-tests in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [d57b4cb](https://github.com/dhth/ghlog-ts/commit/d57b4cbf270036df15c3498941997ce702052e1d) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [91faab7](https://github.com/dhth/ghlog-ts/commit/91faab719b40657f2cfb8a13f77fab5186eaaf82) to [add-plumbing-for-unit-tests](https://github.com/dhth/ghlog-ts/tree/add-plumbing-for-unit-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🌱 created branch [add-plumbing-for-unit-tests](https://github.com/dhth/ghlog-ts/tree/add-plumbing-for-unit-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [8ff4eb1](https://github.com/dhth/urll/commit/8ff4eb1465c403117b1d7a143ff8d8adcaa040ac) to [main](https://github.com/dhth/urll/tree/main) in [dhth/urll](https://github.com/dhth/urll)
-- ⬆️ pushed [8489bee](https://github.com/dhth/unreleased/commit/8489bee8d8e62eb9c0ca661cadad49aab50115d7) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
