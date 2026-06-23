@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 closed pull request [#57](https://github.com/dhth/shfl/pull/57) in [dhth/shfl](https://github.com/dhth/shfl)
+- 🔀 closed pull request [#58](https://github.com/dhth/shfl/pull/58) in [dhth/shfl](https://github.com/dhth/shfl)
+- 🔀 closed pull request [#117](https://github.com/dhth/mrj/pull/117) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 closed pull request [#86](https://github.com/dhth/ghx/pull/86) in [dhth/ghx](https://github.com/dhth/ghx)
+- 🔀 closed pull request [#114](https://github.com/dhth/mrj/pull/114) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 closed pull request [#143](https://github.com/dhth/bmm/pull/143) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 closed pull request [#85](https://github.com/dhth/ghx/pull/85) in [dhth/ghx](https://github.com/dhth/ghx)
+- 🔀 closed pull request [#152](https://github.com/dhth/ecscope/pull/152) in [dhth/ecscope](https://github.com/dhth/ecscope)
+- 🔀 closed pull request [#92](https://github.com/dhth/squidge/pull/92) in [dhth/squidge](https://github.com/dhth/squidge)
 - 🗑️ deleted branch add-alt-assets in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [b547717](https://github.com/dhth/dhth/commit/b547717b262488de90a406f91225823057daa6ea) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
-- 🔀 opened pull request [#3](https://github.com/dhth/dhth/pull/3) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [ba0c4f2](https://github.com/dhth/dhth/commit/ba0c4f291f191bad27107662b21b2a4f835024a6) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [f9153d0](https://github.com/dhth/dhth/commit/f9153d037f02632c959fc5ac0559ccfc14b835bf) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [4eb459e](https://github.com/dhth/dhth/commit/4eb459e230aba3f6106d7fc0f10a362bac2f9412) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [b314b4b](https://github.com/dhth/dhth/commit/b314b4bb4b73ba22c830145e460cec828f943b6d) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [e561b5c](https://github.com/dhth/dhth/commit/e561b5cd987da9a1037a320fc016b9b96655a803) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [4ed1897](https://github.com/dhth/dhth/commit/4ed1897f75402cea05b8e5fcae943ba58aab5e97) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [c1f4ee9](https://github.com/dhth/dhth/commit/c1f4ee920fafde7a1bba62afcfd0ca4857cd2c8a) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
