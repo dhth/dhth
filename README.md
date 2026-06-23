@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [b314b4b](https://github.com/dhth/dhth/commit/b314b4bb4b73ba22c830145e460cec828f943b6d) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [e561b5c](https://github.com/dhth/dhth/commit/e561b5cd987da9a1037a320fc016b9b96655a803) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [4ed1897](https://github.com/dhth/dhth/commit/4ed1897f75402cea05b8e5fcae943ba58aab5e97) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [c1f4ee9](https://github.com/dhth/dhth/commit/c1f4ee920fafde7a1bba62afcfd0ca4857cd2c8a) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [02d0287](https://github.com/dhth/dhth/commit/02d0287ad12cd5c6997056adfd809aaa75418b3a) to [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- 🌱 created branch [add-alt-assets](https://github.com/dhth/dhth/tree/add-alt-assets) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [e7de64e](https://github.com/dhth/dhth/commit/e7de64e636048ba2e77b990a60e2410f2d555c15) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [90b0c0a](https://github.com/dhth/dhth/commit/90b0c0a108c5896c5b11e762e07b2c6c0c621d5f) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
 - 🗑️ deleted branch add-e2e-integration-tests in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [e445fb5](https://github.com/dhth/ghlog-ts/commit/e445fb5c6c01b86f40c4b01978a83d4b917a6503) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🌱 created branch [add-e2e-integration-tests](https://github.com/dhth/ghlog-ts/tree/add-e2e-integration-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🗑️ deleted branch switch-to-relative-imports in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [08feaff](https://github.com/dhth/ghlog-ts/commit/08feafff5d02a2f69e319f655b6f2b2529561b86) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 merged pull request [#5](https://github.com/dhth/ghlog-ts/pull/5) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🌱 created branch [switch-to-relative-imports](https://github.com/dhth/ghlog-ts/tree/switch-to-relative-imports) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🗑️ deleted branch add-plumbing-for-unit-tests in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [d57b4cb](https://github.com/dhth/ghlog-ts/commit/d57b4cbf270036df15c3498941997ce702052e1d) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [91faab7](https://github.com/dhth/ghlog-ts/commit/91faab719b40657f2cfb8a13f77fab5186eaaf82) to [add-plumbing-for-unit-tests](https://github.com/dhth/ghlog-ts/tree/add-plumbing-for-unit-tests) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
