@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 closed pull request [#146](https://github.com/dhth/bmm/pull/146) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 closed pull request [#145](https://github.com/dhth/bmm/pull/145) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 closed pull request [#144](https://github.com/dhth/bmm/pull/144) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 closed pull request [#153](https://github.com/dhth/ecscope/pull/153) in [dhth/ecscope](https://github.com/dhth/ecscope)
 - 🗑️ deleted branch add-plain-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🔀 merged pull request [#7](https://github.com/dhth/ghlog-ts/pull/7) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [8fef7ce](https://github.com/dhth/ghlog-ts/commit/8fef7ce1a637edd54fb984a9846f2ba650439c3d) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🌱 created branch [add-plain-output](https://github.com/dhth/ghlog-ts/tree/add-plain-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🔀 closed pull request [#57](https://github.com/dhth/shfl/pull/57) in [dhth/shfl](https://github.com/dhth/shfl)
 - 🔀 closed pull request [#58](https://github.com/dhth/shfl/pull/58) in [dhth/shfl](https://github.com/dhth/shfl)
-- 🔀 closed pull request [#117](https://github.com/dhth/mrj/pull/117) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 closed pull request [#86](https://github.com/dhth/ghx/pull/86) in [dhth/ghx](https://github.com/dhth/ghx)
-- 🔀 closed pull request [#114](https://github.com/dhth/mrj/pull/114) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 closed pull request [#143](https://github.com/dhth/bmm/pull/143) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
