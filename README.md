@@ -60,16 +60,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [558ac85](https://github.com/dhth/ghlog/commit/558ac85ec4524f21a3a548690549baf7d31ff381) to [claude/ghlog-release-workflow-l5nb44](https://github.com/dhth/ghlog/tree/claude/ghlog-release-workflow-l5nb44) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [claude/ghlog-release-workflow-l5nb44](https://github.com/dhth/ghlog/tree/claude/ghlog-release-workflow-l5nb44) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 closed pull request [#116](https://github.com/dhth/mrj/pull/116) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 closed pull request [#135](https://github.com/dhth/bmm/pull/135) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 closed pull request [#146](https://github.com/dhth/bmm/pull/146) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 closed pull request [#145](https://github.com/dhth/bmm/pull/145) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 closed pull request [#144](https://github.com/dhth/bmm/pull/144) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 closed pull request [#153](https://github.com/dhth/ecscope/pull/153) in [dhth/ecscope](https://github.com/dhth/ecscope)
-- 🗑️ deleted branch add-plain-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 merged pull request [#7](https://github.com/dhth/ghlog-ts/pull/7) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🗑️ deleted branch add-terminal-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [a077dfd](https://github.com/dhth/ghlog-ts/commit/a077dfdf1b49310f0f3b44f56292f028c1829427) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 merged pull request [#10](https://github.com/dhth/ghlog-ts/pull/10) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [ad97cad](https://github.com/dhth/ghlog-ts/commit/ad97cad3e6b4a94d1ead6a0d29654d06575035b0) to [add-terminal-output](https://github.com/dhth/ghlog-ts/tree/add-terminal-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 opened pull request [#10](https://github.com/dhth/ghlog-ts/pull/10) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🌱 created branch [add-terminal-output](https://github.com/dhth/ghlog-ts/tree/add-terminal-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🗑️ deleted branch add-markdown-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- ⬆️ pushed [c10718c](https://github.com/dhth/ghlog-ts/commit/c10718caab75a7b6b3129ac1f17410c2fb17f007) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 merged pull request [#9](https://github.com/dhth/ghlog-ts/pull/9) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
+- 🔀 opened pull request [#9](https://github.com/dhth/ghlog-ts/pull/9) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
