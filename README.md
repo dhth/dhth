@@ -8,6 +8,7 @@ Hi there 👋
 
 What I'm up to these days:
 
+- Picking up TypeScript and [Effect](https://github.com/effect-ts/effect)
 - Building developer tools
 
 ### A few tools I've written
