@@ -60,6 +60,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [90af2b2](https://github.com/dhth/ghlog-ts-effect/commit/90af2b2191e057a4cf50ab27b477464b76ab551d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [a91c861](https://github.com/dhth/ghlog-ts-effect/commit/a91c86183651286db0c850c9cf9044e47cd19a71) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch add-html-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [cb421c6](https://github.com/dhth/ghlog-ts/commit/cb421c682ee10fab52cd5a4beab853fbb6060db2) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🔀 merged pull request [#11](https://github.com/dhth/ghlog-ts/pull/11) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
@@ -67,9 +70,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [add-html-output](https://github.com/dhth/ghlog-ts/tree/add-html-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - 🗑️ deleted branch add-terminal-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 - ⬆️ pushed [a077dfd](https://github.com/dhth/ghlog-ts/commit/a077dfdf1b49310f0f3b44f56292f028c1829427) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 merged pull request [#10](https://github.com/dhth/ghlog-ts/pull/10) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [ad97cad](https://github.com/dhth/ghlog-ts/commit/ad97cad3e6b4a94d1ead6a0d29654d06575035b0) to [add-terminal-output](https://github.com/dhth/ghlog-ts/tree/add-terminal-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 opened pull request [#10](https://github.com/dhth/ghlog-ts/pull/10) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
