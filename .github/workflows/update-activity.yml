@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           repository: 'dhth/ghlog'
       - name: Install toolchain
@@ -26,7 +26,7 @@ jobs:
             --limit 10 \
             --format markdown \
             > /tmp/activity.md
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Update README
         run: |
           python3 .github/scripts/update-activity.py /tmp/activity.md
