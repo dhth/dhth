@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [90fc08c](https://github.com/dhth/ghlog-ts-effect/commit/90fc08c5586648fa204c14a8070e6236f42c0716) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [4d0ed18](https://github.com/dhth/ghlog-ts-effect/commit/4d0ed1833e95aacbd851bd940c9b5ff18f7f5cd8) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🗑️ deleted branch decode-github-responses in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [c4a81c9](https://github.com/dhth/ghlog-ts-effect/commit/c4a81c9d1fd2e630f6463778ec702204393a046d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#1](https://github.com/dhth/ghlog-ts-effect/pull/1) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#1](https://github.com/dhth/ghlog-ts-effect/pull/1) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [decode-github-responses](https://github.com/dhth/ghlog-ts-effect/tree/decode-github-responses) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [69b1c89](https://github.com/dhth/dhth/commit/69b1c891f05a1c335a6bdabe1209c15e015f81c9) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
 - ⬆️ pushed [90af2b2](https://github.com/dhth/ghlog-ts-effect/commit/90af2b2191e057a4cf50ab27b477464b76ab551d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [a91c861](https://github.com/dhth/ghlog-ts-effect/commit/a91c86183651286db0c850c9cf9044e47cd19a71) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch add-html-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [cb421c6](https://github.com/dhth/ghlog-ts/commit/cb421c682ee10fab52cd5a4beab853fbb6060db2) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 merged pull request [#11](https://github.com/dhth/ghlog-ts/pull/11) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🔀 opened pull request [#11](https://github.com/dhth/ghlog-ts/pull/11) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🌱 created branch [add-html-output](https://github.com/dhth/ghlog-ts/tree/add-html-output) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- 🗑️ deleted branch add-terminal-output in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
