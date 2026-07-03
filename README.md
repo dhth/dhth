@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#2](https://github.com/dhth/ghlog-ts-effect/pull/2) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [add-unit-tests-for-event-decoding](https://github.com/dhth/ghlog-ts-effect/tree/add-unit-tests-for-event-decoding) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [90fc08c](https://github.com/dhth/ghlog-ts-effect/commit/90fc08c5586648fa204c14a8070e6236f42c0716) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [4d0ed18](https://github.com/dhth/ghlog-ts-effect/commit/4d0ed1833e95aacbd851bd940c9b5ff18f7f5cd8) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch decode-github-responses in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 opened pull request [#1](https://github.com/dhth/ghlog-ts-effect/pull/1) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🌱 created branch [decode-github-responses](https://github.com/dhth/ghlog-ts-effect/tree/decode-github-responses) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [69b1c89](https://github.com/dhth/dhth/commit/69b1c891f05a1c335a6bdabe1209c15e015f81c9) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [90af2b2](https://github.com/dhth/ghlog-ts-effect/commit/90af2b2191e057a4cf50ab27b477464b76ab551d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [a91c861](https://github.com/dhth/ghlog-ts-effect/commit/a91c86183651286db0c850c9cf9044e47cd19a71) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
