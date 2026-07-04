@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch fetch-events-from-github in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#3](https://github.com/dhth/ghlog-ts-effect/pull/3) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [95fbf40](https://github.com/dhth/ghlog-ts-effect/commit/95fbf4047dc222aa8fd1388c6c50fd258309216d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [b596bb6](https://github.com/dhth/ghlog-ts-effect/commit/b596bb6e73d2e929ea7b37115e381208bceda9bf) to [fetch-events-from-github](https://github.com/dhth/ghlog-ts-effect/tree/fetch-events-from-github) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#3](https://github.com/dhth/ghlog-ts-effect/pull/3) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [fetch-events-from-github](https://github.com/dhth/ghlog-ts-effect/tree/fetch-events-from-github) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch add-unit-tests-for-event-decoding in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 merged pull request [#2](https://github.com/dhth/ghlog-ts-effect/pull/2) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [15ee7c9](https://github.com/dhth/ghlog-ts-effect/commit/15ee7c9e35b08072d09a93217df0df03882e73b1) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [ca0670c](https://github.com/dhth/ghlog-ts-effect/commit/ca0670c9697db746608bfd6bb14f018e0aac2184) to [add-unit-tests-for-event-decoding](https://github.com/dhth/ghlog-ts-effect/tree/add-unit-tests-for-event-decoding) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#2](https://github.com/dhth/ghlog-ts-effect/pull/2) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [add-unit-tests-for-event-decoding](https://github.com/dhth/ghlog-ts-effect/tree/add-unit-tests-for-event-decoding) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [90fc08c](https://github.com/dhth/ghlog-ts-effect/commit/90fc08c5586648fa204c14a8070e6236f42c0716) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [4d0ed18](https://github.com/dhth/ghlog-ts-effect/commit/4d0ed1833e95aacbd851bd940c9b5ff18f7f5cd8) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch decode-github-responses in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [c4a81c9](https://github.com/dhth/ghlog-ts-effect/commit/c4a81c9d1fd2e630f6463778ec702204393a046d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
