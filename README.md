@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#5](https://github.com/dhth/ghlog-ts-effect/pull/5) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [get-github-token](https://github.com/dhth/ghlog-ts-effect/tree/get-github-token) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch add-generator-version-for-fetch-function in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 merged pull request [#4](https://github.com/dhth/ghlog-ts-effect/pull/4) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [8e7ea41](https://github.com/dhth/ghlog-ts-effect/commit/8e7ea41673708840a38c0395b0dc1c68f14a096a) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch fetch-events-from-github in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 merged pull request [#3](https://github.com/dhth/ghlog-ts-effect/pull/3) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [95fbf40](https://github.com/dhth/ghlog-ts-effect/commit/95fbf4047dc222aa8fd1388c6c50fd258309216d) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [b596bb6](https://github.com/dhth/ghlog-ts-effect/commit/b596bb6e73d2e929ea7b37115e381208bceda9bf) to [fetch-events-from-github](https://github.com/dhth/ghlog-ts-effect/tree/fetch-events-from-github) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#3](https://github.com/dhth/ghlog-ts-effect/pull/3) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
