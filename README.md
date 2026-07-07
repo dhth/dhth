@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch provide-gh-cli-capability-as-a-service in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [fb32c97](https://github.com/dhth/ghlog-ts-effect/commit/fb32c972ab03f157c2fee0d9b4beddf50a5d644a) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#6](https://github.com/dhth/ghlog-ts-effect/pull/6) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#6](https://github.com/dhth/ghlog-ts-effect/pull/6) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [provide-gh-cli-capability-as-a-service](https://github.com/dhth/ghlog-ts-effect/tree/provide-gh-cli-capability-as-a-service) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch get-github-token in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [24b1967](https://github.com/dhth/ghlog-ts-effect/commit/24b196768ee5cceac5b638d4b7fac7ed4f9bb0b1) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#5](https://github.com/dhth/ghlog-ts-effect/pull/5) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [c256ec6](https://github.com/dhth/ghlog-ts-effect/commit/c256ec68ec8c7744b53b90ee9b9ed3c87cce76c1) to [get-github-token](https://github.com/dhth/ghlog-ts-effect/tree/get-github-token) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#5](https://github.com/dhth/ghlog-ts-effect/pull/5) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🗑️ deleted branch structure-github-service-better in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [c58d5c3](https://github.com/dhth/ghlog-ts-effect/commit/c58d5c3c6374c18f4f0dbe2e88da9633fddd39be) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#8](https://github.com/dhth/ghlog-ts-effect/pull/8) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#8](https://github.com/dhth/ghlog-ts-effect/pull/8) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [structure-github-service-better](https://github.com/dhth/ghlog-ts-effect/tree/structure-github-service-better) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🗑️ deleted branch move-existing-func-to-github-service in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#7](https://github.com/dhth/ghlog-ts-effect/pull/7) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [533f673](https://github.com/dhth/ghlog-ts-effect/commit/533f67343f2a66935b90b2686f3e56258a11d1fa) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#7](https://github.com/dhth/ghlog-ts-effect/pull/7) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [move-existing-func-to-github-service](https://github.com/dhth/ghlog-ts-effect/tree/move-existing-func-to-github-service) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
