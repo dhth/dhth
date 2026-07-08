@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch structure-github-service-better in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [c58d5c3](https://github.com/dhth/ghlog-ts-effect/commit/c58d5c3c6374c18f4f0dbe2e88da9633fddd39be) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#8](https://github.com/dhth/ghlog-ts-effect/pull/8) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#8](https://github.com/dhth/ghlog-ts-effect/pull/8) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [structure-github-service-better](https://github.com/dhth/ghlog-ts-effect/tree/structure-github-service-better) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch move-existing-func-to-github-service in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#7](https://github.com/dhth/ghlog-ts-effect/pull/7) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [533f673](https://github.com/dhth/ghlog-ts-effect/commit/533f67343f2a66935b90b2686f3e56258a11d1fa) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#7](https://github.com/dhth/ghlog-ts-effect/pull/7) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [move-existing-func-to-github-service](https://github.com/dhth/ghlog-ts-effect/tree/move-existing-func-to-github-service) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [1797c2f](https://github.com/dhth/dhth/commit/1797c2f8bd41b5b537fed52cdb3d6a61db88a47c) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
+- ⬆️ pushed [0b64c34](https://github.com/dhth/activity/commit/0b64c34604b9b47d06c6f05459264936fbfab23a) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
+- 🗑️ deleted branch add-release-workflow in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 merged pull request [#21](https://github.com/dhth/ghlog/pull/21) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [456f891](https://github.com/dhth/ghlog/commit/456f8912988e153afde54a8cc7b2c80df3956169) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [4afda3d](https://github.com/dhth/ghlog/commit/4afda3d880fda6b03fa1d1d1b4fc51fc9fcd498d) to [add-release-workflow](https://github.com/dhth/ghlog/tree/add-release-workflow) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#21](https://github.com/dhth/ghlog/pull/21) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [add-release-workflow](https://github.com/dhth/ghlog/tree/add-release-workflow) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 closed pull request [#20](https://github.com/dhth/ghlog/pull/20) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch claude/ghlog-release-workflow-l5nb44 in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
