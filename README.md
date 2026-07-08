@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [ea9beec](https://github.com/dhth/activity/commit/ea9beec6ec46d2adc599f9f49436a2e50c87afcf) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
+- ⬆️ pushed [6670579](https://github.com/dhth/dhth/commit/6670579e74ebfcbd4eba8e4a5c2bb1fd3fcbb684) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
 - ⬆️ pushed [1797c2f](https://github.com/dhth/dhth/commit/1797c2f8bd41b5b537fed52cdb3d6a61db88a47c) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
 - ⬆️ pushed [0b64c34](https://github.com/dhth/activity/commit/0b64c34604b9b47d06c6f05459264936fbfab23a) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
 - 🗑️ deleted branch add-release-workflow in [dhth/ghlog](https://github.com/dhth/ghlog)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [4afda3d](https://github.com/dhth/ghlog/commit/4afda3d880fda6b03fa1d1d1b4fc51fc9fcd498d) to [add-release-workflow](https://github.com/dhth/ghlog/tree/add-release-workflow) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🔀 opened pull request [#21](https://github.com/dhth/ghlog/pull/21) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - 🌱 created branch [add-release-workflow](https://github.com/dhth/ghlog/tree/add-release-workflow) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 closed pull request [#20](https://github.com/dhth/ghlog/pull/20) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch claude/ghlog-release-workflow-l5nb44 in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
