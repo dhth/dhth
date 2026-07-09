@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch upgrade-to-ts-7 in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [af434ca](https://github.com/dhth/ghlog-ts-effect/commit/af434cab275f8e66680adb9c2fdc92220f6d7bff) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#9](https://github.com/dhth/ghlog-ts-effect/pull/9) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 opened pull request [#9](https://github.com/dhth/ghlog-ts-effect/pull/9) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🌱 created branch [upgrade-to-ts-7](https://github.com/dhth/ghlog-ts-effect/tree/upgrade-to-ts-7) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [b6ae21c](https://github.com/dhth/hours/commit/b6ae21ccc46bd01f83f5fde8236f93a27649f166) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 💬 [commented on](https://github.com/dhth/hours/pull/170#issuecomment-4922281189) pull request [#170](https://github.com/dhth/hours/pull/170) in [dhth/hours](https://github.com/dhth/hours)
 - 🗑️ deleted branch dependabot/github_actions/actions/checkout-7 in [dhth/dhth](https://github.com/dhth/dhth)
 - ⬆️ pushed [4d16c96](https://github.com/dhth/dhth/commit/4d16c96d2d994c09f07a1023b4c453dc93a535b8) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [ea9beec](https://github.com/dhth/activity/commit/ea9beec6ec46d2adc599f9f49436a2e50c87afcf) to [main](https://github.com/dhth/activity/tree/main) in [dhth/activity](https://github.com/dhth/activity)
-- ⬆️ pushed [6670579](https://github.com/dhth/dhth/commit/6670579e74ebfcbd4eba8e4a5c2bb1fd3fcbb684) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
-- ⬆️ pushed [1797c2f](https://github.com/dhth/dhth/commit/1797c2f8bd41b5b537fed52cdb3d6a61db88a47c) to [main](https://github.com/dhth/dhth/tree/main) in [dhth/dhth](https://github.com/dhth/dhth)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
