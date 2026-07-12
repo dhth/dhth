@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch rename-gh-service in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#11](https://github.com/dhth/ghlog-ts-effect/pull/11) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [fc69d16](https://github.com/dhth/ghlog-ts-effect/commit/fc69d16b6dcd13d60a95d1dc1f0a48cce0d3eee3) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [fbb1e33](https://github.com/dhth/ghlog-ts-effect/commit/fbb1e3372d1d231bf5249223a781e80aa28a495d) to [rename-gh-service](https://github.com/dhth/ghlog-ts-effect/tree/rename-gh-service) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#11](https://github.com/dhth/ghlog-ts-effect/pull/11) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [rename-gh-service](https://github.com/dhth/ghlog-ts-effect/tree/rename-gh-service) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch implement-event-limit in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 merged pull request [#10](https://github.com/dhth/ghlog-ts-effect/pull/10) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [1a0077c](https://github.com/dhth/ghlog-ts-effect/commit/1a0077cda662def77725f27c7f1b7767aece6048) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [f5276e1](https://github.com/dhth/ghlog-ts-effect/commit/f5276e1125a274292212b17743f8f0e6fe2f5344) to [implement-event-limit](https://github.com/dhth/ghlog-ts-effect/tree/implement-event-limit) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#10](https://github.com/dhth/ghlog-ts-effect/pull/10) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [implement-event-limit](https://github.com/dhth/ghlog-ts-effect/tree/implement-event-limit) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [06e8e70](https://github.com/dhth/dotfiles/commit/06e8e70fb1b69ceb27adfd5c33a0cd8928578527) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [bb00014](https://github.com/dhth/dotfiles/commit/bb000140efecc5184a549074022b2a0293aea6b2) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch upgrade-to-typescript-7 in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
-- ⬆️ pushed [2f910e4](https://github.com/dhth/ghlog-ts/commit/2f910e462403e5b9bf28608df15dfd9b7a555e2c) to [main](https://github.com/dhth/ghlog-ts/tree/main) in [dhth/ghlog-ts](https://github.com/dhth/ghlog-ts)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
