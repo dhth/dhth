@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch show-time-tracked-in-the-day in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#175](https://github.com/dhth/hours/pull/175) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [76a93d5](https://github.com/dhth/hours/commit/76a93d56a7e98c50e06e3197f892621ed31c3799) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [cc09577](https://github.com/dhth/hours/commit/cc095772691278aa34ff489bc71f44b2d55f046e) to [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [e04fd64](https://github.com/dhth/hours/commit/e04fd64d5d552e91d56e026baef9776cdd3ed9e8) to [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#175](https://github.com/dhth/hours/pull/175) in [dhth/hours](https://github.com/dhth/hours)
+- 🌱 created branch [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
 - 🔀 merged pull request [#2648](https://github.com/atuinsh/atuin/pull/2648) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 - 🔀 merged pull request [#174](https://github.com/dhth/hours/pull/174) in [dhth/hours](https://github.com/dhth/hours)
-- 🗑️ deleted branch upgrade-toolchain-to-1-26-5 in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [f14fe81](https://github.com/dhth/hours/commit/f14fe8176e6055f6dea4b9a5a02fc1e38fbc2b40) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 opened pull request [#174](https://github.com/dhth/hours/pull/174) in [dhth/hours](https://github.com/dhth/hours)
-- 🌱 created branch [upgrade-toolchain-to-1-26-5](https://github.com/dhth/hours/tree/upgrade-toolchain-to-1-26-5) in [dhth/hours](https://github.com/dhth/hours)
-- 🗑️ deleted branch upgrade-golangci-lint-version in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#173](https://github.com/dhth/hours/pull/173) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [b935a51](https://github.com/dhth/hours/commit/b935a510c7ef3f368e25debbe095a4072b8e0750) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 opened pull request [#173](https://github.com/dhth/hours/pull/173) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
