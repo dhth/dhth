@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 merged pull request [#2648](https://github.com/atuinsh/atuin/pull/2648) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 - 🔀 merged pull request [#174](https://github.com/dhth/hours/pull/174) in [dhth/hours](https://github.com/dhth/hours)
 - 🗑️ deleted branch upgrade-toolchain-to-1-26-5 in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [f14fe81](https://github.com/dhth/hours/commit/f14fe8176e6055f6dea4b9a5a02fc1e38fbc2b40) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#173](https://github.com/dhth/hours/pull/173) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [b935a51](https://github.com/dhth/hours/commit/b935a510c7ef3f368e25debbe095a4072b8e0750) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
 - 🔀 opened pull request [#173](https://github.com/dhth/hours/pull/173) in [dhth/hours](https://github.com/dhth/hours)
-- 🌱 created branch [upgrade-golangci-lint-version](https://github.com/dhth/hours/tree/upgrade-golangci-lint-version) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
