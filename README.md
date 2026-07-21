@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch show-time-tracked-in-the-day in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#175](https://github.com/dhth/hours/pull/175) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [76a93d5](https://github.com/dhth/hours/commit/76a93d56a7e98c50e06e3197f892621ed31c3799) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [cc09577](https://github.com/dhth/hours/commit/cc095772691278aa34ff489bc71f44b2d55f046e) to [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [e04fd64](https://github.com/dhth/hours/commit/e04fd64d5d552e91d56e026baef9776cdd3ed9e8) to [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 opened pull request [#175](https://github.com/dhth/hours/pull/175) in [dhth/hours](https://github.com/dhth/hours)
-- 🌱 created branch [show-time-tracked-in-the-day](https://github.com/dhth/hours/tree/show-time-tracked-in-the-day) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#2648](https://github.com/atuinsh/atuin/pull/2648) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-- 🔀 merged pull request [#174](https://github.com/dhth/hours/pull/174) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [f14fe81](https://github.com/dhth/hours/commit/f14fe8176e6055f6dea4b9a5a02fc1e38fbc2b40) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🗑️ deleted branch move-time-shift-types-to-ui in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#180](https://github.com/dhth/hours/pull/180) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [37a48aa](https://github.com/dhth/hours/commit/37a48aac0bf29250eda65d9c53851c6238a07d31) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#180](https://github.com/dhth/hours/pull/180) in [dhth/hours](https://github.com/dhth/hours)
+- 🌱 created branch [move-time-shift-types-to-ui](https://github.com/dhth/hours/tree/move-time-shift-types-to-ui) in [dhth/hours](https://github.com/dhth/hours)
+- 🗑️ deleted branch update-task-time-spent-on-quick-switch in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [8318d3c](https://github.com/dhth/hours/commit/8318d3c02a77b4299102ca9bd05919a44de65c0d) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#179](https://github.com/dhth/hours/pull/179) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#179](https://github.com/dhth/hours/pull/179) in [dhth/hours](https://github.com/dhth/hours)
+- 🌱 created branch [update-task-time-spent-on-quick-switch](https://github.com/dhth/hours/tree/update-task-time-spent-on-quick-switch) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
