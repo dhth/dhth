@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [e6f49de](https://github.com/dhth/dotfiles/commit/e6f49de0196bb6132aee2f7955739cf7eafbf32d) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [ad8cc31](https://github.com/dhth/dotfiles/commit/ad8cc31035b35f9de19770cc29c1e76b79c1017b) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - 🗑️ deleted branch master in [dhth/nvim](https://github.com/dhth/nvim)
 - ⬆️ pushed [f629ef4](https://github.com/dhth/nvim/commit/f629ef41965e1f0e27b7b3eb496f81ccd1545107) to [master](https://github.com/dhth/nvim/tree/master) in [dhth/nvim](https://github.com/dhth/nvim)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [remove-unused-utils](https://github.com/dhth/nvim/tree/remove-unused-utils) in [dhth/nvim](https://github.com/dhth/nvim)
 - ⬆️ pushed [27d8421](https://github.com/dhth/nvim/commit/27d84214f6d247e7bde7cab3ad2c10599e9ca7fb) to [master](https://github.com/dhth/nvim/tree/master) in [dhth/nvim](https://github.com/dhth/nvim)
 - 🔀 merged pull request [#1](https://github.com/dhth/nvim/pull/1) in [dhth/nvim](https://github.com/dhth/nvim)
-- 🔀 opened pull request [#1](https://github.com/dhth/nvim/pull/1) in [dhth/nvim](https://github.com/dhth/nvim)
-- 🌱 created branch [disable-foam-utils](https://github.com/dhth/nvim/tree/disable-foam-utils) in [dhth/nvim](https://github.com/dhth/nvim)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
