@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [3e7d65e](https://github.com/dhth/dotfiles/commit/3e7d65e2d68d313adefc674106f420bd8f25a495) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [e8518f3](https://github.com/dhth/dotfiles/commit/e8518f3fdab716ae2136cd3eb42462a2f245c498) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [ba83889](https://github.com/dhth/dotfiles/commit/ba8388902e1c2fae8a7f73599f292cbc4d6e085e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [1d66247](https://github.com/dhth/nvim/commit/1d66247a2e2bce3ac4dc24b57b6188ff91d88911) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - 🗑️ deleted branch master in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [e6f49de](https://github.com/dhth/dotfiles/commit/e6f49de0196bb6132aee2f7955739cf7eafbf32d) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [ad8cc31](https://github.com/dhth/dotfiles/commit/ad8cc31035b35f9de19770cc29c1e76b79c1017b) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- 🗑️ deleted branch master in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [f629ef4](https://github.com/dhth/nvim/commit/f629ef41965e1f0e27b7b3eb496f81ccd1545107) to [master](https://github.com/dhth/nvim/tree/master) in [dhth/nvim](https://github.com/dhth/nvim)
-- 🔀 merged pull request [#2](https://github.com/dhth/nvim/pull/2) in [dhth/nvim](https://github.com/dhth/nvim)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
