@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [f362b2b](https://github.com/dhth/dotfiles/commit/f362b2b83340381a5c376b175c25c23df6dd3ed8) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [0c2e22b](https://github.com/dhth/dotfiles/commit/0c2e22b0bdc6e4bd8df1ea54cb8b70bf1397716d) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [a6c17ee](https://github.com/dhth/dotfiles/commit/a6c17ee23307af2c583127bc97dc907a99d399ca) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [3e7d65e](https://github.com/dhth/dotfiles/commit/3e7d65e2d68d313adefc674106f420bd8f25a495) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [e8518f3](https://github.com/dhth/dotfiles/commit/e8518f3fdab716ae2136cd3eb42462a2f245c498) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [ba83889](https://github.com/dhth/dotfiles/commit/ba8388902e1c2fae8a7f73599f292cbc4d6e085e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch master in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [325b134](https://github.com/dhth/dotfiles/commit/325b1345ced3f993e8b99447f6026d65423f1eb1) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [e6f49de](https://github.com/dhth/dotfiles/commit/e6f49de0196bb6132aee2f7955739cf7eafbf32d) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [ad8cc31](https://github.com/dhth/dotfiles/commit/ad8cc31035b35f9de19770cc29c1e76b79c1017b) to [master](https://github.com/dhth/dotfiles/tree/master) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🌱 created branch [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
