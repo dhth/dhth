@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch improve-config-handling in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [bd48b3b](https://github.com/dhth/punchout/commit/bd48b3b4f8e545f781e193a4d1925961a07d3635) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [8a8b031](https://github.com/dhth/punchout/commit/8a8b0313ac27316f95ad941dbe1fd9be9b811339) to [improve-config-handling](https://github.com/dhth/punchout/tree/improve-config-handling) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/130#issuecomment-5121485756) pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [improve-config-handling](https://github.com/dhth/punchout/tree/improve-config-handling) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [8f5fb3c](https://github.com/dhth/dotfiles/commit/8f5fb3ca8002f74353a2ff9d1a46ca4aa508637d) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [8debd55](https://github.com/dhth/dotfiles/commit/8debd55629dee9c2e5b4f0950c4df392f98dfb22) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [88481cb](https://github.com/dhth/dotfiles/commit/88481cb53d566631e7be87240267988670e99c6a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [9666b5b](https://github.com/dhth/nvim/commit/9666b5bdf6909b6aa073545624c9e71d15d4e876) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [992c0d9](https://github.com/dhth/dotfiles/commit/992c0d90cd64293e4254c41fa6ad1d5385335508) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [f362b2b](https://github.com/dhth/dotfiles/commit/f362b2b83340381a5c376b175c25c23df6dd3ed8) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [0c2e22b](https://github.com/dhth/dotfiles/commit/0c2e22b0bdc6e4bd8df1ea54cb8b70bf1397716d) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [a6c17ee](https://github.com/dhth/dotfiles/commit/a6c17ee23307af2c583127bc97dc907a99d399ca) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [3e7d65e](https://github.com/dhth/dotfiles/commit/3e7d65e2d68d313adefc674106f420bd8f25a495) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [e8518f3](https://github.com/dhth/dotfiles/commit/e8518f3fdab716ae2136cd3eb42462a2f245c498) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
