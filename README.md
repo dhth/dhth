@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch dont-reveal-jira-token-via-list-config in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#131](https://github.com/dhth/punchout/pull/131) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [0ef370d](https://github.com/dhth/punchout/commit/0ef370dd3ee0dbce8dbf1585d5bf607043f926f8) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [1d77884](https://github.com/dhth/punchout/commit/1d77884ebdee61a44aca78d128cf0dd13a4bc0ac) to [dont-reveal-jira-token-via-list-config](https://github.com/dhth/punchout/tree/dont-reveal-jira-token-via-list-config) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [4f46ef2](https://github.com/dhth/punchout/commit/4f46ef2d0b748b2425bc79a4634a0481e9d8d1c4) to [dont-reveal-jira-token-via-list-config](https://github.com/dhth/punchout/tree/dont-reveal-jira-token-via-list-config) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#131](https://github.com/dhth/punchout/pull/131) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [dont-reveal-jira-token-via-list-config](https://github.com/dhth/punchout/tree/dont-reveal-jira-token-via-list-config) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch improve-config-handling in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [bd48b3b](https://github.com/dhth/punchout/commit/bd48b3b4f8e545f781e193a4d1925961a07d3635) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 merged pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [8a8b031](https://github.com/dhth/punchout/commit/8a8b0313ac27316f95ad941dbe1fd9be9b811339) to [improve-config-handling](https://github.com/dhth/punchout/tree/improve-config-handling) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/130#issuecomment-5121485756) pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#130](https://github.com/dhth/punchout/pull/130) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [improve-config-handling](https://github.com/dhth/punchout/tree/improve-config-handling) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [8f5fb3c](https://github.com/dhth/dotfiles/commit/8f5fb3ca8002f74353a2ff9d1a46ca4aa508637d) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [8debd55](https://github.com/dhth/dotfiles/commit/8debd55629dee9c2e5b4f0950c4df392f98dfb22) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [88481cb](https://github.com/dhth/dotfiles/commit/88481cb53d566631e7be87240267988670e99c6a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
