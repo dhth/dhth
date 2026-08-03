@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch show-user-messages-after-cache-load-failure in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [33bc171](https://github.com/dhth/punchout/commit/33bc171b46cf86aceeeee17827c7887b73729e60) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#141](https://github.com/dhth/punchout/pull/141) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/141#issuecomment-5157833513) pull request [#141](https://github.com/dhth/punchout/pull/141) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#141](https://github.com/dhth/punchout/pull/141) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [show-user-messages-after-cache-load-failure](https://github.com/dhth/punchout/tree/show-user-messages-after-cache-load-failure) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch show-messages-for-cache-load in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#140](https://github.com/dhth/punchout/pull/140) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [3cafa77](https://github.com/dhth/punchout/commit/3cafa770aae6bfbccefc0f250485d4c65a6bf7be) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#140](https://github.com/dhth/punchout/pull/140) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch add-gruvbox-dark-hard-theme in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#144](https://github.com/dhth/omm/pull/144) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [cd2e7eb](https://github.com/dhth/omm/commit/cd2e7eb0a167ec90abfcfbf3b51f571310741793) to [add-gruvbox-dark-hard-theme](https://github.com/dhth/omm/tree/add-gruvbox-dark-hard-theme) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [5edde01](https://github.com/dhth/omm/commit/5edde01a41a3f74c326847a22199ac9d8fe4be24) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#144](https://github.com/dhth/omm/pull/144) in [dhth/omm](https://github.com/dhth/omm)
+- 🌱 created branch [add-gruvbox-dark-hard-theme](https://github.com/dhth/omm/tree/add-gruvbox-dark-hard-theme) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch apply-themes-bg-and-fg-color-to-full-terminal-view in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
+- 💬 [commented on](https://github.com/dhth/omm/pull/143#issuecomment-5169503053) pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
