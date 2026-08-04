@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ❗ opened issue [#145](https://github.com/dhth/omm/issues/145) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [c65f780](https://github.com/dhth/omm/commit/c65f78038b623bdbb1444a3eb8e27aa684810768) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch add-gruvbox-dark-hard-theme in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#144](https://github.com/dhth/omm/pull/144) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [cd2e7eb](https://github.com/dhth/omm/commit/cd2e7eb0a167ec90abfcfbf3b51f571310741793) to [add-gruvbox-dark-hard-theme](https://github.com/dhth/omm/tree/add-gruvbox-dark-hard-theme) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [5edde01](https://github.com/dhth/omm/commit/5edde01a41a3f74c326847a22199ac9d8fe4be24) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 opened pull request [#144](https://github.com/dhth/omm/pull/144) in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [add-gruvbox-dark-hard-theme](https://github.com/dhth/omm/tree/add-gruvbox-dark-hard-theme) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch apply-themes-bg-and-fg-color-to-full-terminal-view in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch add-gruvbox-light-theme in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [09663af](https://github.com/dhth/omm/commit/09663af36a98463cfc13b1f01ad461182eb0f430) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [4c04398](https://github.com/dhth/omm/commit/4c04398db62dec5a9ab625bb37220d03bbb0b401) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#147](https://github.com/dhth/omm/pull/147) in [dhth/omm](https://github.com/dhth/omm)
+- 🌱 created branch [add-gruvbox-light-theme](https://github.com/dhth/omm/tree/add-gruvbox-light-theme) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#147](https://github.com/dhth/omm/pull/147) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch refactor/theme-palette-fields in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [f58227c](https://github.com/dhth/omm/commit/f58227cfac63b5fec77920d30a07ddc19445331c) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#146](https://github.com/dhth/omm/pull/146) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [9e401cc](https://github.com/dhth/omm/commit/9e401cc890312bc9133febc90650df9c061862bf) to [refactor/theme-palette-fields](https://github.com/dhth/omm/tree/refactor/theme-palette-fields) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
