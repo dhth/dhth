@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch add-gruvbox-light-theme in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch add-new-accent-to-themes in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [aa37f79](https://github.com/dhth/omm/commit/aa37f79758f5f22f21452dc1c2e147acc6bc1ee5) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [b20a609](https://github.com/dhth/omm/commit/b20a609d8af3313f313440edb1582ddd232e0b28) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [43e00de](https://github.com/dhth/omm/commit/43e00dea6a7d90c89c56cb11c89ff0e219ca9a56) to [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
+- 🌱 created branch [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [e6ef3c8](https://github.com/dhth/omm/commit/e6ef3c8182f9d06542d2b950492efc0abd7ac1fe) to [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
 - ⬆️ pushed [09663af](https://github.com/dhth/omm/commit/09663af36a98463cfc13b1f01ad461182eb0f430) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [4c04398](https://github.com/dhth/omm/commit/4c04398db62dec5a9ab625bb37220d03bbb0b401) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#147](https://github.com/dhth/omm/pull/147) in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [add-gruvbox-light-theme](https://github.com/dhth/omm/tree/add-gruvbox-light-theme) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 opened pull request [#147](https://github.com/dhth/omm/pull/147) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch refactor/theme-palette-fields in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [f58227c](https://github.com/dhth/omm/commit/f58227cfac63b5fec77920d30a07ddc19445331c) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#146](https://github.com/dhth/omm/pull/146) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [9e401cc](https://github.com/dhth/omm/commit/9e401cc890312bc9133febc90650df9c061862bf) to [refactor/theme-palette-fields](https://github.com/dhth/omm/tree/refactor/theme-palette-fields) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch add-gruvbox-light-theme in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
