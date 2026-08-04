@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ❗ opened issue [#145](https://github.com/dhth/omm/issues/145) in [dhth/omm](https://github.com/dhth/omm)
 - ⬆️ pushed [c65f780](https://github.com/dhth/omm/commit/c65f78038b623bdbb1444a3eb8e27aa684810768) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 - 🗑️ deleted branch add-gruvbox-dark-hard-theme in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 merged pull request [#144](https://github.com/dhth/omm/pull/144) in [dhth/omm](https://github.com/dhth/omm)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [add-gruvbox-dark-hard-theme](https://github.com/dhth/omm/tree/add-gruvbox-dark-hard-theme) in [dhth/omm](https://github.com/dhth/omm)
 - 🗑️ deleted branch apply-themes-bg-and-fg-color-to-full-terminal-view in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 merged pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
-- 💬 [commented on](https://github.com/dhth/omm/pull/143#issuecomment-5169503053) pull request [#143](https://github.com/dhth/omm/pull/143) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
