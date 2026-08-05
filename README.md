@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [481cf4b](https://github.com/dhth/punchout/commit/481cf4b9c22036de52b8cfaafd223e8b57dd7454) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [9581e1e](https://github.com/dhth/punchout/commit/9581e1e3065c2f0d5eb7fbdb79c0546859a05a17) to [add-mise-tasks](https://github.com/dhth/punchout/tree/add-mise-tasks) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [add-mise-tasks](https://github.com/dhth/punchout/tree/add-mise-tasks) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch manage-gh-actions-tools-via-mise in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [774af8e](https://github.com/dhth/punchout/commit/774af8e2c6bce61f2dc39ec230a178835e7309a5) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#143](https://github.com/dhth/punchout/pull/143) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#143](https://github.com/dhth/punchout/pull/143) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [manage-gh-actions-tools-via-mise](https://github.com/dhth/punchout/tree/manage-gh-actions-tools-via-mise) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [c53e251](https://github.com/dhth/punchout/commit/c53e251bee294d6b2a03b327d595748cbce015e5) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#142](https://github.com/dhth/punchout/pull/142) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [bd5d50e](https://github.com/dhth/omm/commit/bd5d50e436a26ac0ded400babf0dbb8808445fe3) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
+- 🌱 created branch [add-three-more-light-themes](https://github.com/dhth/omm/tree/add-three-more-light-themes) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch manage-dev-tools-and-tasks-via-mise in [dhth/omm](https://github.com/dhth/omm)
+- 🌱 created branch [re-enable-back-compat-tests](https://github.com/dhth/omm/tree/re-enable-back-compat-tests) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch re-enable-back-compat-tests in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#152](https://github.com/dhth/omm/pull/152) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [c374a2a](https://github.com/dhth/omm/commit/c374a2af34530171fcf19daa191bcb1342f01a9b) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [a0eb486](https://github.com/dhth/omm/commit/a0eb4861fc8d9f6afe95d5870f67b160650d2889) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
