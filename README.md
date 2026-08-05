@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [95fb725](https://github.com/dhth/omm/commit/95fb725786dd9c6fad0ccb9ed402ddd6f09de028) to [add-more-light-themes](https://github.com/dhth/omm/tree/add-more-light-themes) in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [add-more-light-themes](https://github.com/dhth/omm/tree/add-more-light-themes) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch add-new-accent-to-themes in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [aa37f79](https://github.com/dhth/omm/commit/aa37f79758f5f22f21452dc1c2e147acc6bc1ee5) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [b20a609](https://github.com/dhth/omm/commit/b20a609d8af3313f313440edb1582ddd232e0b28) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [43e00de](https://github.com/dhth/omm/commit/43e00dea6a7d90c89c56cb11c89ff0e219ca9a56) to [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [e6ef3c8](https://github.com/dhth/omm/commit/e6ef3c8182f9d06542d2b950492efc0abd7ac1fe) to [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 opened pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [481cf4b](https://github.com/dhth/punchout/commit/481cf4b9c22036de52b8cfaafd223e8b57dd7454) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [9581e1e](https://github.com/dhth/punchout/commit/9581e1e3065c2f0d5eb7fbdb79c0546859a05a17) to [add-mise-tasks](https://github.com/dhth/punchout/tree/add-mise-tasks) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [add-mise-tasks](https://github.com/dhth/punchout/tree/add-mise-tasks) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch manage-gh-actions-tools-via-mise in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [774af8e](https://github.com/dhth/punchout/commit/774af8e2c6bce61f2dc39ec230a178835e7309a5) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#143](https://github.com/dhth/punchout/pull/143) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#143](https://github.com/dhth/punchout/pull/143) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [manage-gh-actions-tools-via-mise](https://github.com/dhth/punchout/tree/manage-gh-actions-tools-via-mise) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [c53e251](https://github.com/dhth/punchout/commit/c53e251bee294d6b2a03b327d595748cbce015e5) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#142](https://github.com/dhth/punchout/pull/142) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
