@@ -69,8 +69,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [e6ef3c8](https://github.com/dhth/omm/commit/e6ef3c8182f9d06542d2b950492efc0abd7ac1fe) to [add-new-accent-to-themes](https://github.com/dhth/omm/tree/add-new-accent-to-themes) in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 merged pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 opened pull request [#148](https://github.com/dhth/omm/pull/148) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [09663af](https://github.com/dhth/omm/commit/09663af36a98463cfc13b1f01ad461182eb0f430) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 - 🗑️ deleted branch add-gruvbox-light-theme in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [09663af](https://github.com/dhth/omm/commit/09663af36a98463cfc13b1f01ad461182eb0f430) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
