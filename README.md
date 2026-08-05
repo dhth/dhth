@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-more-light-themes in [dhth/omm](https://github.com/dhth/omm)
+- ❗ closed issue [#127](https://github.com/dhth/punchout/issues/127) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [93cde8e](https://github.com/dhth/omm/commit/93cde8e0bd7e13cbb5fb7fbd94e4a280763eb355) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- ⬆️ pushed [f965713](https://github.com/dhth/omm/commit/f965713f3183ad7f1a13b754b52d40799587c752) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
+- 🗑️ deleted branch add-three-more-light-themes in [dhth/omm](https://github.com/dhth/omm)
 - ⬆️ pushed [bd5d50e](https://github.com/dhth/omm/commit/bd5d50e436a26ac0ded400babf0dbb8808445fe3) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 merged pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
 - 🔀 opened pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
 - 🌱 created branch [add-three-more-light-themes](https://github.com/dhth/omm/tree/add-three-more-light-themes) in [dhth/omm](https://github.com/dhth/omm)
 - 🗑️ deleted branch manage-dev-tools-and-tasks-via-mise in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [re-enable-back-compat-tests](https://github.com/dhth/omm/tree/re-enable-back-compat-tests) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch re-enable-back-compat-tests in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#152](https://github.com/dhth/omm/pull/152) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [c374a2a](https://github.com/dhth/omm/commit/c374a2af34530171fcf19daa191bcb1342f01a9b) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [a0eb486](https://github.com/dhth/omm/commit/a0eb4861fc8d9f6afe95d5870f67b160650d2889) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
