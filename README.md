@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-built-in-themes in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch update-go-version in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [25a613d](https://github.com/dhth/punchout/commit/25a613d22a0dd688b1210189e471f98f803fab10) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ opened issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/144#issuecomment-5197938844) pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [add-built-in-themes](https://github.com/dhth/punchout/tree/add-built-in-themes) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [add-nightowl-theme](https://github.com/dhth/omm/tree/add-nightowl-theme) in [dhth/omm](https://github.com/dhth/omm)
 - 🗑️ deleted branch add-more-light-themes in [dhth/omm](https://github.com/dhth/omm)
-- ❗ closed issue [#127](https://github.com/dhth/punchout/issues/127) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [93cde8e](https://github.com/dhth/omm/commit/93cde8e0bd7e13cbb5fb7fbd94e4a280763eb355) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [f965713](https://github.com/dhth/omm/commit/f965713f3183ad7f1a13b754b52d40799587c752) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch add-three-more-light-themes in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [bd5d50e](https://github.com/dhth/omm/commit/bd5d50e436a26ac0ded400babf0dbb8808445fe3) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 opened pull request [#153](https://github.com/dhth/omm/pull/153) in [dhth/omm](https://github.com/dhth/omm)
-- 🌱 created branch [add-three-more-light-themes](https://github.com/dhth/omm/tree/add-three-more-light-themes) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch manage-dev-tools-and-tasks-via-mise in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
