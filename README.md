@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [651a72d](https://github.com/dhth/punchout/commit/651a72d63117f9b7047ad6ef9f292960f0652d08) to [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/146#issuecomment-5201852759) pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [9bb95cf](https://github.com/dhth/dotfiles/commit/9bb95cf4588d768f9e0e036917e1c3b89af75b36) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch add-built-in-themes in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch update-go-version in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 merged pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [25a613d](https://github.com/dhth/punchout/commit/25a613d22a0dd688b1210189e471f98f803fab10) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ opened issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/144#issuecomment-5197938844) pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [add-built-in-themes](https://github.com/dhth/punchout/tree/add-built-in-themes) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [add-nightowl-theme](https://github.com/dhth/omm/tree/add-nightowl-theme) in [dhth/omm](https://github.com/dhth/omm)
-- 🗑️ deleted branch add-more-light-themes in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
