@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#147](https://github.com/dhth/punchout/pull/147) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [show-correct-begin-ts-for-active-worklog](https://github.com/dhth/punchout/tree/show-correct-begin-ts-for-active-worklog) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [77459d3](https://github.com/dhth/punchout/commit/77459d3cd4f3bc7683a652e669e4fbe1d39846e9) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/hours/tree/manage-devtools-and-tasks-via-mise) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#181](https://github.com/dhth/hours/pull/181) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch centralize-mcp-config in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [651a72d](https://github.com/dhth/punchout/commit/651a72d63117f9b7047ad6ef9f292960f0652d08) to [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🌱 created branch [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
 - 💬 [commented on](https://github.com/dhth/punchout/pull/146#issuecomment-5201852759) pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [9bb95cf](https://github.com/dhth/dotfiles/commit/9bb95cf4588d768f9e0e036917e1c3b89af75b36) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch add-built-in-themes in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch update-go-version in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#144](https://github.com/dhth/punchout/pull/144) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [25a613d](https://github.com/dhth/punchout/commit/25a613d22a0dd688b1210189e471f98f803fab10) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ opened issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
