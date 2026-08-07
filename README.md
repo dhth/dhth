@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 opened pull request [#147](https://github.com/dhth/punchout/pull/147) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [show-correct-begin-ts-for-active-worklog](https://github.com/dhth/punchout/tree/show-correct-begin-ts-for-active-worklog) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [77459d3](https://github.com/dhth/punchout/commit/77459d3cd4f3bc7683a652e669e4fbe1d39846e9) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/hours/tree/manage-devtools-and-tasks-via-mise) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 opened pull request [#181](https://github.com/dhth/hours/pull/181) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch centralize-mcp-config in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [651a72d](https://github.com/dhth/punchout/commit/651a72d63117f9b7047ad6ef9f292960f0652d08) to [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [centralize-mcp-config](https://github.com/dhth/punchout/tree/centralize-mcp-config) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/146#issuecomment-5201852759) pull request [#146](https://github.com/dhth/punchout/pull/146) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [0a88f9c](https://github.com/dhth/punchout/commit/0a88f9cff24befca3bfbd668ddc03eeadf9c303f) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [d4bf35f](https://github.com/dhth/hours/commit/d4bf35fc3e47150e9322731cc51cf03157d20d43) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🗑️ deleted branch show-correct-begin-ts-for-active-worklog in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#147](https://github.com/dhth/punchout/pull/147) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch re-enable-back-compat-tests in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#182](https://github.com/dhth/hours/pull/182) in [dhth/hours](https://github.com/dhth/hours)
+- 🌱 created branch [re-enable-back-compat-tests](https://github.com/dhth/hours/tree/re-enable-back-compat-tests) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#182](https://github.com/dhth/hours/pull/182) in [dhth/hours](https://github.com/dhth/hours)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [c67e424](https://github.com/dhth/hours/commit/c67e4242405fcb8675deac577a07d6239ac67a14) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
