@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ❗ labeled issue [#36](https://github.com/dhth/punchout/issues/36) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ labeled issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ labeled issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ assigned issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ opened issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [75290a5](https://github.com/dhth/dotfiles/commit/75290a569ea809f2a0346cd3b246549682c3d0f2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ❗ assigned issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ closed issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ opened issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [0a88f9c](https://github.com/dhth/punchout/commit/0a88f9cff24befca3bfbd668ddc03eeadf9c303f) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [d4bf35f](https://github.com/dhth/hours/commit/d4bf35fc3e47150e9322731cc51cf03157d20d43) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- 🗑️ deleted branch show-correct-begin-ts-for-active-worklog in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#147](https://github.com/dhth/punchout/pull/147) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch re-enable-back-compat-tests in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#182](https://github.com/dhth/hours/pull/182) in [dhth/hours](https://github.com/dhth/hours)
-- 🌱 created branch [re-enable-back-compat-tests](https://github.com/dhth/hours/tree/re-enable-back-compat-tests) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
