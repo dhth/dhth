@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [6edfd43](https://github.com/dhth/nvim/commit/6edfd4324a4c08ac612327011db45b04888e540e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- ⬆️ pushed [8a36dab](https://github.com/dhth/nvim/commit/8a36dabc4673cf29622124e80d9276de35d2ea3e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - ❗ labeled issue [#36](https://github.com/dhth/punchout/issues/36) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ labeled issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ labeled issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [75290a5](https://github.com/dhth/dotfiles/commit/75290a569ea809f2a0346cd3b246549682c3d0f2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ❗ assigned issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ closed issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ opened issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [0a88f9c](https://github.com/dhth/punchout/commit/0a88f9cff24befca3bfbd668ddc03eeadf9c303f) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
