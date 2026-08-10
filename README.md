@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🌱 created branch [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [d2a1fa5](https://github.com/dhth/punchout/commit/d2a1fa592cfca346f3af1d22af112abe3298b21d) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [fa2bfd3](https://github.com/dhth/punchout/commit/fa2bfd3d867d270120e644fe12ec88879885b357) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [6edfd43](https://github.com/dhth/nvim/commit/6edfd4324a4c08ac612327011db45b04888e540e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [8a36dab](https://github.com/dhth/nvim/commit/8a36dabc4673cf29622124e80d9276de35d2ea3e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ❗ labeled issue [#36](https://github.com/dhth/punchout/issues/36) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ labeled issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ labeled issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ assigned issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch allow-configuring-db-path-via-config-file in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/150#issuecomment-5245074566) pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [98e4e47](https://github.com/dhth/punchout/commit/98e4e479c05cadf199434d571ba31c75a7558249) to [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [9ddb525](https://github.com/dhth/punchout/commit/9ddb525be25dc1ef8e2eec1ffb18b3370cdf770d) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [show-days-in-humanized-duration](https://github.com/dhth/punchout/tree/show-days-in-humanized-duration) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [4e6c2ee](https://github.com/dhth/punchout/commit/4e6c2eee896f1e57a8ba6e60b52bf5d8730b089f) to [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch show-days-in-humanized-duration in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#152](https://github.com/dhth/punchout/pull/152) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#152](https://github.com/dhth/punchout/pull/152) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
