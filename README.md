@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [d2a1fa5](https://github.com/dhth/punchout/commit/d2a1fa592cfca346f3af1d22af112abe3298b21d) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [fa2bfd3](https://github.com/dhth/punchout/commit/fa2bfd3d867d270120e644fe12ec88879885b357) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [6edfd43](https://github.com/dhth/nvim/commit/6edfd4324a4c08ac612327011db45b04888e540e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - ⬆️ pushed [8a36dab](https://github.com/dhth/nvim/commit/8a36dabc4673cf29622124e80d9276de35d2ea3e) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - ❗ labeled issue [#36](https://github.com/dhth/punchout/issues/36) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ labeled issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ labeled issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ assigned issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ opened issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [75290a5](https://github.com/dhth/dotfiles/commit/75290a569ea809f2a0346cd3b246549682c3d0f2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ❗ assigned issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ closed issue [#145](https://github.com/dhth/punchout/issues/145) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
