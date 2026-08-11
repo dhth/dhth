@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch allow-configuring-db-path-via-config-file in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/150#issuecomment-5245074566) pull request [#150](https://github.com/dhth/punchout/pull/150) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [98e4e47](https://github.com/dhth/punchout/commit/98e4e479c05cadf199434d571ba31c75a7558249) to [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [9ddb525](https://github.com/dhth/punchout/commit/9ddb525be25dc1ef8e2eec1ffb18b3370cdf770d) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [show-days-in-humanized-duration](https://github.com/dhth/punchout/tree/show-days-in-humanized-duration) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [4e6c2ee](https://github.com/dhth/punchout/commit/4e6c2eee896f1e57a8ba6e60b52bf5d8730b089f) to [allow-configuring-db-path-via-config-file](https://github.com/dhth/punchout/tree/allow-configuring-db-path-via-config-file) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch show-days-in-humanized-duration in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#152](https://github.com/dhth/punchout/pull/152) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#152](https://github.com/dhth/punchout/pull/152) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch use-offline-sqlx-by-default in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 merged pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [3acc0ca](https://github.com/dhth/bmm/commit/3acc0ca0cf540a933d39e721f34d6dc5c95a5343) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [fc4c744](https://github.com/dhth/bmm/commit/fc4c74438da0067c269988828c62631e27311a23) to [use-offline-sqlx-by-default](https://github.com/dhth/bmm/tree/use-offline-sqlx-by-default) in [dhth/bmm](https://github.com/dhth/bmm)
+- 💬 [commented on](https://github.com/dhth/bmm/pull/152#issuecomment-5246814612) pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 opened pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [use-offline-sqlx-by-default](https://github.com/dhth/bmm/tree/use-offline-sqlx-by-default) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [33d54a9](https://github.com/dhth/bmm/commit/33d54a9987acd03006ea5e30617b4a8603fa6f2e) to [use-prebuilt-cargo-deny](https://github.com/dhth/bmm/tree/use-prebuilt-cargo-deny) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [60436a6](https://github.com/dhth/bmm/commit/60436a640f284d2317e1e1816284fe7330313813) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch use-prebuilt-cargo-deny in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
