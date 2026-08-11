@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch use-more-test-snapshots in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 merged pull request [#153](https://github.com/dhth/bmm/pull/153) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [dd0fdd1](https://github.com/dhth/bmm/commit/dd0fdd1d839090b1def6cb241d07f61b369dd24c) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- 💬 [commented on](https://github.com/dhth/bmm/pull/153#issuecomment-5250001406) pull request [#153](https://github.com/dhth/bmm/pull/153) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 opened pull request [#153](https://github.com/dhth/bmm/pull/153) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [use-more-test-snapshots](https://github.com/dhth/bmm/tree/use-more-test-snapshots) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted branch use-offline-sqlx-by-default in [dhth/bmm](https://github.com/dhth/bmm)
 - 🔀 merged pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [3acc0ca](https://github.com/dhth/bmm/commit/3acc0ca0cf540a933d39e721f34d6dc5c95a5343) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [fc4c744](https://github.com/dhth/bmm/commit/fc4c74438da0067c269988828c62631e27311a23) to [use-offline-sqlx-by-default](https://github.com/dhth/bmm/tree/use-offline-sqlx-by-default) in [dhth/bmm](https://github.com/dhth/bmm)
-- 💬 [commented on](https://github.com/dhth/bmm/pull/152#issuecomment-5246814612) pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 opened pull request [#152](https://github.com/dhth/bmm/pull/152) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🌱 created branch [use-offline-sqlx-by-default](https://github.com/dhth/bmm/tree/use-offline-sqlx-by-default) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [33d54a9](https://github.com/dhth/bmm/commit/33d54a9987acd03006ea5e30617b4a8603fa6f2e) to [use-prebuilt-cargo-deny](https://github.com/dhth/bmm/tree/use-prebuilt-cargo-deny) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [60436a6](https://github.com/dhth/bmm/commit/60436a640f284d2317e1e1816284fe7330313813) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch use-prebuilt-cargo-deny in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
