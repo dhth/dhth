@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch allow-merging-on-neutral-check-conclusion in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [63589b5](https://github.com/dhth/mrj/commit/63589b5fd49901091de08bc268a9dec2734b33e4) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [a685491](https://github.com/dhth/mrj/commit/a6854913379e256b1e102f7c24cac030b0230ad3) to [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [cf34473](https://github.com/dhth/mrj/commit/cf344734dc067f23e61e1e44400784420b6eeb6a) to [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#120](https://github.com/dhth/mrj/pull/120) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [542beb6](https://github.com/dhth/punchout/commit/542beb6dc6ae8b506ede57fd017027017c6c9e75) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ❗ opened issue [#119](https://github.com/dhth/mrj/issues/119) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [b65ace2](https://github.com/dhth/punchout/commit/b65ace2017487b0f17c349ad37b146850c856577) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#118](https://github.com/dhth/mrj/pull/118) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [d4d4feb](https://github.com/dhth/punchout/commit/d4d4feba98d3e21e35f7bd17bba8782db59c9b7c) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [7a5b52c](https://github.com/dhth/punchout/commit/7a5b52caa6f17ff076033bb954f27c424a99b614) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ closed issue [#119](https://github.com/dhth/mrj/issues/119) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [eeb83b9](https://github.com/dhth/punchout/commit/eeb83b9699f4d144d372f40c370ed485c2daf751) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#121](https://github.com/dhth/mrj/pull/121) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch bump-deps-to-remove-vulns in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [3750abb](https://github.com/dhth/mrj/commit/3750abb367d21f71e91c191f76976b6c3b768e3f) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#121](https://github.com/dhth/mrj/pull/121) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [bump-deps-to-remove-vulns](https://github.com/dhth/mrj/tree/bump-deps-to-remove-vulns) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [af832c8](https://github.com/dhth/mrj/commit/af832c8249baf18a309b5dcab0219768681809b2) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
