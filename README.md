@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [cfb026a](https://github.com/dhth/punchout/commit/cfb026a7ce3a38e8eb5b3f000556475c524838b6) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [c4427b5](https://github.com/dhth/punchout/commit/c4427b5a0425f6c3cfde12009fc51cb477dbfa0e) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [a56c9a0](https://github.com/dhth/punchout/commit/a56c9a0e8908fdfb3d6ca0e810c29beb568f227e) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [459a323](https://github.com/dhth/punchout/commit/459a323299d0d7db763f8529559fae3e62bbc9bf) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [8602e8d](https://github.com/dhth/punchout/commit/8602e8db9745b5c1c63f8c340e9f09082fc47916) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [011ffe3](https://github.com/dhth/punchout/commit/011ffe3725df07e867c90e430d5596197a440cd3) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [030059e](https://github.com/dhth/punchout/commit/030059e2e73708f991227da9028ae2ffb4816937) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [b4870fe](https://github.com/dhth/punchout/commit/b4870fed6deb0bf1f27b8550630c75dd3efe1aa5) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch use-more-test-snapshots in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch allow-merging-on-neutral-check-conclusion in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [63589b5](https://github.com/dhth/mrj/commit/63589b5fd49901091de08bc268a9dec2734b33e4) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [a685491](https://github.com/dhth/mrj/commit/a6854913379e256b1e102f7c24cac030b0230ad3) to [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [cf34473](https://github.com/dhth/mrj/commit/cf344734dc067f23e61e1e44400784420b6eeb6a) to [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#120](https://github.com/dhth/mrj/pull/120) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [allow-merging-on-neutral-check-conclusion](https://github.com/dhth/mrj/tree/allow-merging-on-neutral-check-conclusion) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [542beb6](https://github.com/dhth/punchout/commit/542beb6dc6ae8b506ede57fd017027017c6c9e75) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ opened issue [#119](https://github.com/dhth/mrj/issues/119) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [b65ace2](https://github.com/dhth/punchout/commit/b65ace2017487b0f17c349ad37b146850c856577) to [set-up-tour-skeleton](https://github.com/dhth/punchout/tree/set-up-tour-skeleton) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#118](https://github.com/dhth/mrj/pull/118) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
