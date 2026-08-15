@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 merged pull request [#158](https://github.com/dhth/punchout/pull/158) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch have-mise-read-go-version-from-go-mod in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [77f2437](https://github.com/dhth/punchout/commit/77f243712da02e862c8bb97cc1aa15bc92afecf2) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#158](https://github.com/dhth/punchout/pull/158) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [have-mise-read-go-version-from-go-mod](https://github.com/dhth/punchout/tree/have-mise-read-go-version-from-go-mod) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [dd2aa77](https://github.com/dhth/mrj/commit/dd2aa7795c2d9100ac3e5f461d2233963c5fbddb) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🔀 merged pull request [#122](https://github.com/dhth/mrj/pull/122) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🔀 opened pull request [#122](https://github.com/dhth/mrj/pull/122) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/mrj/tree/manage-devtools-and-tasks-via-mise) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [999696b](https://github.com/dhth/punchout/commit/999696b5539a650f6afe39fe80d46fcd8d1600e0) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch manage-termctrl-via-mise in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [ea03c63](https://github.com/dhth/punchout/commit/ea03c63a621e52c00ab57075b63f4a9b781eee03) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#156](https://github.com/dhth/punchout/pull/156) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [b769e46](https://github.com/dhth/punchout/commit/b769e468d4769b106a08b7d4723ed40e2daad9d3) to [manage-termctrl-via-mise](https://github.com/dhth/punchout/tree/manage-termctrl-via-mise) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
