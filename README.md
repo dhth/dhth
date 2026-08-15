@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 merged pull request [#158](https://github.com/dhth/punchout/pull/158) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch have-mise-read-go-version-from-go-mod in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [77f2437](https://github.com/dhth/punchout/commit/77f243712da02e862c8bb97cc1aa15bc92afecf2) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#158](https://github.com/dhth/punchout/pull/158) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [have-mise-read-go-version-from-go-mod](https://github.com/dhth/punchout/tree/have-mise-read-go-version-from-go-mod) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [dd2aa77](https://github.com/dhth/mrj/commit/dd2aa7795c2d9100ac3e5f461d2233963c5fbddb) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 merged pull request [#122](https://github.com/dhth/mrj/pull/122) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#122](https://github.com/dhth/mrj/pull/122) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/mrj/tree/manage-devtools-and-tasks-via-mise) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/commits](https://github.com/dhth/commits)
+- ⬆️ pushed [b16eae0](https://github.com/dhth/commits/commit/b16eae08fa6224b8232bb2f6f2ade6a7b53ca551) to [main](https://github.com/dhth/commits/tree/main) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 merged pull request [#71](https://github.com/dhth/commits/pull/71) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 opened pull request [#71](https://github.com/dhth/commits/pull/71) in [dhth/commits](https://github.com/dhth/commits)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/commits/tree/manage-devtools-and-tasks-via-mise) in [dhth/commits](https://github.com/dhth/commits)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 merged pull request [#60](https://github.com/dhth/mult/pull/60) in [dhth/mult](https://github.com/dhth/mult)
+- ⬆️ pushed [cc4902b](https://github.com/dhth/mult/commit/cc4902b9be4464c0bfc8cd2333c1f70169c9e0ac) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 opened pull request [#60](https://github.com/dhth/mult/pull/60) in [dhth/mult](https://github.com/dhth/mult)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/mult/tree/manage-devtools-and-tasks-via-mise) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
