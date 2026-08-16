@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [8a16fed](https://github.com/dhth/mult/commit/8a16fed876b13045bc165335f2258c202b437297) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
+- ❗ closed issue [#61](https://github.com/dhth/mult/issues/61) in [dhth/mult](https://github.com/dhth/mult)
+- 🗑️ deleted branch kill-spawned-processes-on-exit in [dhth/mult](https://github.com/dhth/mult)
+- ⬆️ pushed [84cfab9](https://github.com/dhth/mult/commit/84cfab97f010e1fb3778a16e2365a2c89c786868) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 merged pull request [#62](https://github.com/dhth/mult/pull/62) in [dhth/mult](https://github.com/dhth/mult)
+- 💬 [commented on](https://github.com/dhth/mult/pull/62#issuecomment-5306623683) pull request [#62](https://github.com/dhth/mult/pull/62) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 opened pull request [#62](https://github.com/dhth/mult/pull/62) in [dhth/mult](https://github.com/dhth/mult)
+- 🌱 created branch [kill-spawned-processes-on-exit](https://github.com/dhth/mult/tree/kill-spawned-processes-on-exit) in [dhth/mult](https://github.com/dhth/mult)
+- ❗ opened issue [#61](https://github.com/dhth/mult/issues/61) in [dhth/mult](https://github.com/dhth/mult)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/commits](https://github.com/dhth/commits)
-- ⬆️ pushed [b16eae0](https://github.com/dhth/commits/commit/b16eae08fa6224b8232bb2f6f2ade6a7b53ca551) to [main](https://github.com/dhth/commits/tree/main) in [dhth/commits](https://github.com/dhth/commits)
-- 🔀 merged pull request [#71](https://github.com/dhth/commits/pull/71) in [dhth/commits](https://github.com/dhth/commits)
-- 🔀 opened pull request [#71](https://github.com/dhth/commits/pull/71) in [dhth/commits](https://github.com/dhth/commits)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/commits/tree/manage-devtools-and-tasks-via-mise) in [dhth/commits](https://github.com/dhth/commits)
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 merged pull request [#60](https://github.com/dhth/mult/pull/60) in [dhth/mult](https://github.com/dhth/mult)
-- ⬆️ pushed [cc4902b](https://github.com/dhth/mult/commit/cc4902b9be4464c0bfc8cd2333c1f70169c9e0ac) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 opened pull request [#60](https://github.com/dhth/mult/pull/60) in [dhth/mult](https://github.com/dhth/mult)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/mult/tree/manage-devtools-and-tasks-via-mise) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
