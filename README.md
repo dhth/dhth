@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [ea51f9c](https://github.com/dhth/bmm/commit/ea51f9c07e285e26e6e2002019b3c91797fa2ced) to [show-bookmarks-to-be-deleted](https://github.com/dhth/bmm/tree/show-bookmarks-to-be-deleted) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [3da7a52](https://github.com/dhth/bmm/commit/3da7a521e79d1cc75fa20fd2a5ea9ee2511fee96) to [show-bookmarks-to-be-deleted](https://github.com/dhth/bmm/tree/show-bookmarks-to-be-deleted) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 opened pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🌱 created branch [show-bookmarks-to-be-deleted](https://github.com/dhth/bmm/tree/show-bookmarks-to-be-deleted) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [8a16fed](https://github.com/dhth/mult/commit/8a16fed876b13045bc165335f2258c202b437297) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- ❗ closed issue [#61](https://github.com/dhth/mult/issues/61) in [dhth/mult](https://github.com/dhth/mult)
-- 🗑️ deleted branch kill-spawned-processes-on-exit in [dhth/mult](https://github.com/dhth/mult)
-- ⬆️ pushed [84cfab9](https://github.com/dhth/mult/commit/84cfab97f010e1fb3778a16e2365a2c89c786868) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 merged pull request [#62](https://github.com/dhth/mult/pull/62) in [dhth/mult](https://github.com/dhth/mult)
-- 💬 [commented on](https://github.com/dhth/mult/pull/62#issuecomment-5306623683) pull request [#62](https://github.com/dhth/mult/pull/62) in [dhth/mult](https://github.com/dhth/mult)
+- 💬 [commented on](https://github.com/dhth/bmm/issues/142#issuecomment-5314247148) issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch show-bookmarks-to-be-deleted in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 merged pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ closed issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [71f75b6](https://github.com/dhth/bmm/commit/71f75b64f61146d66eddd5dc849aa1637ef1575d) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ opened issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ assigned issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
+- 📝 [commented on](https://github.com/dhth/bmm/pull/154#pullrequestreview-4950091645) pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
+- 📝 [commented on](https://github.com/dhth/bmm/pull/154#pullrequestreview-4950069981) pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ assigned issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
