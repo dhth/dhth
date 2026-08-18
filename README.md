@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch install-global-tools in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [baeeedf](https://github.com/dhth/mrj/commit/baeeedf4b5ae2f37143ef5d0bce25d93548a4760) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 merged pull request [#123](https://github.com/dhth/mrj/pull/123) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [4a20ceb](https://github.com/dhth/mrj/commit/4a20ceb33ff78b059b472eaabff3dc8c09b4a41c) to [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [d15b21f](https://github.com/dhth/mrj/commit/d15b21f0b740de3c5d003f631ff03c6102984251) to [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#123](https://github.com/dhth/mrj/pull/123) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [fe3493b](https://github.com/dhth/remote-env/commit/fe3493bc22b02670b899a68ed8e341805dd82150) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- 🌱 created branch [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- ❗ closed issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch optional-user-env-setup in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [aa1c266](https://github.com/dhth/mrj/commit/aa1c2667190ab94405e836f942c83267f6ed1eae) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [optional-user-env-setup](https://github.com/dhth/mrj/tree/optional-user-env-setup) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [ec13495](https://github.com/dhth/remote-env/commit/ec13495c78cbc848d6806b70034f17d020126c70) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- 🔀 merged pull request [#125](https://github.com/dhth/mrj/pull/125) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#125](https://github.com/dhth/mrj/pull/125) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [e249ddc](https://github.com/dhth/remote-env/commit/e249ddcdc015e3adce54753c32fb3209e41f6f86) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- ⬆️ pushed [569c0c3](https://github.com/dhth/remote-env/commit/569c0c3d3ea3fcd755f7f6af070a98b273d7ec09) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- ⬆️ pushed [b8c5baf](https://github.com/dhth/mrj/commit/b8c5baff9d7e547c0048e12a1ecbb9ef6f5c5ba3) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch clone-remote-env-config-in-orbs in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
