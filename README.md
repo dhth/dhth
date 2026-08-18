@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🔀 merged pull request [#33](https://github.com/dhth/unreleased/pull/33) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- ⬆️ pushed [9bd9877](https://github.com/dhth/unreleased/commit/9bd98771e9aee630ffddff910fdf39b41bf9e190) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- ⬆️ pushed [f6ef16f](https://github.com/dhth/unreleased/commit/f6ef16faa9dfaf28771bfdea63543cf569405c6a) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/unreleased/tree/manage-devtools-and-tasks-via-mise) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🔀 opened pull request [#33](https://github.com/dhth/unreleased/pull/33) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/unreleased/tree/manage-devtools-and-tasks-via-mise) in [dhth/unreleased](https://github.com/dhth/unreleased)
 - 💬 [commented on](https://github.com/dhth/bmm/issues/142#issuecomment-5314247148) issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted branch show-bookmarks-to-be-deleted in [dhth/bmm](https://github.com/dhth/bmm)
 - 🔀 merged pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ closed issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [71f75b6](https://github.com/dhth/bmm/commit/71f75b64f61146d66eddd5dc849aa1637ef1575d) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- ❗ opened issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
-- ❗ assigned issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
-- 📝 [commented on](https://github.com/dhth/bmm/pull/154#pullrequestreview-4950091645) pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
-- 📝 [commented on](https://github.com/dhth/bmm/pull/154#pullrequestreview-4950069981) pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
-- ❗ assigned issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
