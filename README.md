@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 merged pull request [#33](https://github.com/dhth/unreleased/pull/33) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- ⬆️ pushed [9bd9877](https://github.com/dhth/unreleased/commit/9bd98771e9aee630ffddff910fdf39b41bf9e190) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- ⬆️ pushed [f6ef16f](https://github.com/dhth/unreleased/commit/f6ef16faa9dfaf28771bfdea63543cf569405c6a) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/unreleased/tree/manage-devtools-and-tasks-via-mise) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 opened pull request [#33](https://github.com/dhth/unreleased/pull/33) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/unreleased/tree/manage-devtools-and-tasks-via-mise) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 💬 [commented on](https://github.com/dhth/bmm/issues/142#issuecomment-5314247148) issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch show-bookmarks-to-be-deleted in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 merged pull request [#154](https://github.com/dhth/bmm/pull/154) in [dhth/bmm](https://github.com/dhth/bmm)
-- ❗ closed issue [#142](https://github.com/dhth/bmm/issues/142) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch install-global-tools in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [baeeedf](https://github.com/dhth/mrj/commit/baeeedf4b5ae2f37143ef5d0bce25d93548a4760) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 merged pull request [#123](https://github.com/dhth/mrj/pull/123) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [4a20ceb](https://github.com/dhth/mrj/commit/4a20ceb33ff78b059b472eaabff3dc8c09b4a41c) to [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [d15b21f](https://github.com/dhth/mrj/commit/d15b21f0b740de3c5d003f631ff03c6102984251) to [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#123](https://github.com/dhth/mrj/pull/123) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [install-global-tools](https://github.com/dhth/mrj/tree/install-global-tools) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [fe3493b](https://github.com/dhth/remote-env/commit/fe3493bc22b02670b899a68ed8e341805dd82150) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- 🌱 created branch [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- ❗ closed issue [#155](https://github.com/dhth/bmm/issues/155) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
