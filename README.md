@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [1b17b55](https://github.com/dhth/punchout/commit/1b17b556c95c06bd7d04d9700eb629dff14b0896) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch optional-user-env-setup in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [aa1c266](https://github.com/dhth/mrj/commit/aa1c2667190ab94405e836f942c83267f6ed1eae) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [optional-user-env-setup](https://github.com/dhth/mrj/tree/optional-user-env-setup) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [ec13495](https://github.com/dhth/remote-env/commit/ec13495c78cbc848d6806b70034f17d020126c70) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- 🔀 merged pull request [#125](https://github.com/dhth/mrj/pull/125) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#125](https://github.com/dhth/mrj/pull/125) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [e249ddc](https://github.com/dhth/remote-env/commit/e249ddcdc015e3adce54753c32fb3209e41f6f86) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- ⬆️ pushed [569c0c3](https://github.com/dhth/remote-env/commit/569c0c3d3ea3fcd755f7f6af070a98b273d7ec09) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- ⬆️ pushed [b8c5baf](https://github.com/dhth/mrj/commit/b8c5baff9d7e547c0048e12a1ecbb9ef6f5c5ba3) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch improve-worklog-types-and-ownership-boundaries in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [00e72fd](https://github.com/dhth/punchout/commit/00e72fdcc928262ac0ba9d64de6248eeff071ecc) to [improve-worklog-types-and-ownership-boundaries](https://github.com/dhth/punchout/tree/improve-worklog-types-and-ownership-boundaries) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [84b3ac1](https://github.com/dhth/punchout/commit/84b3ac1863d1ca4bfbe38eb96a98311b096977aa) to [improve-worklog-types-and-ownership-boundaries](https://github.com/dhth/punchout/tree/improve-worklog-types-and-ownership-boundaries) in [dhth/punchout](https://github.com/dhth/punchout)
+- ❗ closed issue [#149](https://github.com/dhth/punchout/issues/149) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#159](https://github.com/dhth/punchout/pull/159) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [7b1a349](https://github.com/dhth/punchout/commit/7b1a3499ad4b29fe0b414727f26004746fcdba9d) to [improve-worklog-types-and-ownership-boundaries](https://github.com/dhth/punchout/tree/improve-worklog-types-and-ownership-boundaries) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/159#issuecomment-5339220278) pull request [#159](https://github.com/dhth/punchout/pull/159) in [dhth/punchout](https://github.com/dhth/punchout)
+- 📝 [commented on](https://github.com/dhth/punchout/pull/159#pullrequestreview-4969686271) pull request [#159](https://github.com/dhth/punchout/pull/159) in [dhth/punchout](https://github.com/dhth/punchout)
+- 💬 [commented on](https://github.com/dhth/punchout/pull/159#issuecomment-5338848129) pull request [#159](https://github.com/dhth/punchout/pull/159) in [dhth/punchout](https://github.com/dhth/punchout)
+- 📝 [commented on](https://github.com/dhth/punchout/pull/159#pullrequestreview-4969390283) pull request [#159](https://github.com/dhth/punchout/pull/159) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
