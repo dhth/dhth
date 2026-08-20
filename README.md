@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 merged pull request [#160](https://github.com/dhth/punchout/pull/160) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#160](https://github.com/dhth/punchout/pull/160) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [4884694](https://github.com/dhth/tpick/commit/488469496223af32a590fe7dcb2b527b21cd0abd) to [main](https://github.com/dhth/tpick/tree/main) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🗑️ deleted branch allow-picking-from-timestamps in [dhth/tpick](https://github.com/dhth/tpick)
-- ⬆️ pushed [7aafcb4](https://github.com/dhth/tpick/commit/7aafcb451499063bff0db16e09b6fa0a03b4330a) to [main](https://github.com/dhth/tpick/tree/main) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🌱 created branch [allow-picking-from-timestamps](https://github.com/dhth/tpick/tree/allow-picking-from-timestamps) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🗑️ deleted branch add-foundations-for-interactive-controls in [dhth/tpick](https://github.com/dhth/tpick)
-- 🌱 created branch [add-foundations-for-interactive-controls](https://github.com/dhth/tpick/tree/add-foundations-for-interactive-controls) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🔀 merged pull request [#2](https://github.com/dhth/tpick/pull/2) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🔀 opened pull request [#2](https://github.com/dhth/tpick/pull/2) in [dhth/tpick](https://github.com/dhth/tpick)
+- 🗑️ deleted branch upgrade-toolchain-to-1-27-0 in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [upgrade-toolchain-to-1-27-0](https://github.com/dhth/punchout/tree/upgrade-toolchain-to-1-27-0) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [upgrade-mcp-go-sdk-to-1-7-0](https://github.com/dhth/punchout/tree/upgrade-mcp-go-sdk-to-1-7-0) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [924c19c](https://github.com/dhth/punchout/commit/924c19cefe96bbf9ba5eb5efd0d9e2b63ffec2b6) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#161](https://github.com/dhth/punchout/pull/161) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#161](https://github.com/dhth/punchout/pull/161) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [48e055a](https://github.com/dhth/punchout/commit/48e055ad98e3a2a511e02d00903ad9b977517885) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [upgrade-toolchain-to-1-26-7](https://github.com/dhth/punchout/tree/upgrade-toolchain-to-1-26-7) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch upgrade-toolchain-to-1-26-7 in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch upgrade-toolchain-to-1-26-7 in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
