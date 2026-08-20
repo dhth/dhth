@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 merged pull request [#160](https://github.com/dhth/punchout/pull/160) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#160](https://github.com/dhth/punchout/pull/160) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [4884694](https://github.com/dhth/tpick/commit/488469496223af32a590fe7dcb2b527b21cd0abd) to [main](https://github.com/dhth/tpick/tree/main) in [dhth/tpick](https://github.com/dhth/tpick)
 - 🗑️ deleted branch allow-picking-from-timestamps in [dhth/tpick](https://github.com/dhth/tpick)
 - ⬆️ pushed [7aafcb4](https://github.com/dhth/tpick/commit/7aafcb451499063bff0db16e09b6fa0a03b4330a) to [main](https://github.com/dhth/tpick/tree/main) in [dhth/tpick](https://github.com/dhth/tpick)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [add-foundations-for-interactive-controls](https://github.com/dhth/tpick/tree/add-foundations-for-interactive-controls) in [dhth/tpick](https://github.com/dhth/tpick)
 - 🔀 merged pull request [#2](https://github.com/dhth/tpick/pull/2) in [dhth/tpick](https://github.com/dhth/tpick)
 - 🔀 opened pull request [#2](https://github.com/dhth/tpick/pull/2) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🔀 merged pull request [#1](https://github.com/dhth/tpick/pull/1) in [dhth/tpick](https://github.com/dhth/tpick)
-- 🔀 opened pull request [#1](https://github.com/dhth/tpick/pull/1) in [dhth/tpick](https://github.com/dhth/tpick)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
