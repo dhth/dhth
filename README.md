@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [add-mcp-persistence-interface](https://github.com/dhth/punchout/tree/add-mcp-persistence-interface) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#166](https://github.com/dhth/punchout/pull/166) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 opened pull request [#165](https://github.com/dhth/punchout/pull/165) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🌱 created branch [add-sqlite-store](https://github.com/dhth/punchout/tree/add-sqlite-store) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch allow-expansion-of-env-vars-in-config in [dhth/punchout](https://github.com/dhth/punchout)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [e276457](https://github.com/dhth/punchout/commit/e27645741a8e0987b4bf9a40f38b1f7205721c76) to [allow-expansion-of-env-vars-in-config](https://github.com/dhth/punchout/tree/allow-expansion-of-env-vars-in-config) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [ba51b2e](https://github.com/dhth/punchout/commit/ba51b2efd0841e01b15dcd13c2168f6a8afef93a) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 merged pull request [#164](https://github.com/dhth/punchout/pull/164) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/164#issuecomment-5375405241) pull request [#164](https://github.com/dhth/punchout/pull/164) in [dhth/punchout](https://github.com/dhth/punchout)
-- 📝 [commented on](https://github.com/dhth/punchout/pull/164#pullrequestreview-4997418622) pull request [#164](https://github.com/dhth/punchout/pull/164) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
