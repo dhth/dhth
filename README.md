@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [048c697](https://github.com/dhth/commits/commit/048c6970586bc14322a52408e3958efd4736fb23) to [specify-explicit-go-version-in-mise-toml](https://github.com/dhth/commits/tree/specify-explicit-go-version-in-mise-toml) in [dhth/commits](https://github.com/dhth/commits)
+- ⬆️ pushed [12c4b1d](https://github.com/dhth/mult/commit/12c4b1de03e0fbeb8bd49e54470991af8d1aac16) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
+- 🌱 created branch [specify-explicit-go-version-in-mise-toml](https://github.com/dhth/hours/tree/specify-explicit-go-version-in-mise-toml) in [dhth/hours](https://github.com/dhth/hours)
 - 🗑️ deleted branch specify-explicit-go-version-in-mise-toml in [dhth/hours](https://github.com/dhth/hours)
 - 🌱 created branch [specify-explicit-go-version-in-mise-toml](https://github.com/dhth/mult/tree/specify-explicit-go-version-in-mise-toml) in [dhth/mult](https://github.com/dhth/mult)
 - 🌱 created branch [specify-explicit-go-version-in-mise-toml](https://github.com/dhth/commits/tree/specify-explicit-go-version-in-mise-toml) in [dhth/commits](https://github.com/dhth/commits)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch specify-explicit-go-version-in-mise-toml in [dhth/commits](https://github.com/dhth/commits)
 - ⬆️ pushed [737a23d](https://github.com/dhth/commits/commit/737a23def5d795ae86db8264277f33a9bfb0c62a) to [main](https://github.com/dhth/commits/tree/main) in [dhth/commits](https://github.com/dhth/commits)
 - 🔀 merged pull request [#72](https://github.com/dhth/commits/pull/72) in [dhth/commits](https://github.com/dhth/commits)
-- 🗑️ deleted branch specify-explicit-go-version-in-mise-toml in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 merged pull request [#63](https://github.com/dhth/mult/pull/63) in [dhth/mult](https://github.com/dhth/mult)
-- 🔀 merged pull request [#184](https://github.com/dhth/hours/pull/184) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
