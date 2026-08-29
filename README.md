@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [832a4c8](https://github.com/dhth/bmm/commit/832a4c8ac9e43c5b8d80eab36d9e46ea91c2ba50) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [move-db-pool-out-of-tui-model](https://github.com/dhth/bmm/tree/move-db-pool-out-of-tui-model) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [use-rust-caching-on-ci](https://github.com/dhth/bmm/tree/use-rust-caching-on-ci) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch upgrade-toolchain-to-1-98-0 in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [upgrade-toolchain-to-1-98-0](https://github.com/dhth/bmm/tree/upgrade-toolchain-to-1-98-0) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [4815cd5](https://github.com/dhth/bmm/commit/4815cd5b9fcb1bd91ce36e9341ec2e32c5e39176) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🔀 merged pull request [#160](https://github.com/dhth/bmm/pull/160) in [dhth/bmm](https://github.com/dhth/bmm)
 - 📝 [commented on](https://github.com/dhth/bmm/pull/160#pullrequestreview-5052074710) pull request [#160](https://github.com/dhth/bmm/pull/160) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [0244f3a](https://github.com/dhth/bmm/commit/0244f3a6a83bea56ed28543a177cfb187eb133e7) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
 - 💬 [commented on](https://github.com/dhth/bmm/pull/160#issuecomment-5453556853) pull request [#160](https://github.com/dhth/bmm/pull/160) in [dhth/bmm](https://github.com/dhth/bmm)
-- 💬 [commented on](https://github.com/dhth/bmm/pull/160#issuecomment-5453555549) pull request [#160](https://github.com/dhth/bmm/pull/160) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [4ba19ef](https://github.com/dhth/bmm/commit/4ba19ef62137b6070cedd809efe5f1e43960e136) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [ab7dd18](https://github.com/dhth/bmm/commit/ab7dd187c7ef8441d98551770c51585fe8f83f31) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [e23ca7d](https://github.com/dhth/bmm/commit/e23ca7de49c697d0072daa8253a8e730a54ba8ef) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch alias-sqlx-to-avoid-conflicts in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 merged pull request [#161](https://github.com/dhth/bmm/pull/161) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
