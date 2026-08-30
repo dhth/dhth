@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ❗ labeled issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ assigned issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ opened issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted tag v0.1.8 in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 - ⬆️ pushed [68d3c30](https://github.com/dhth/cargo-dist-test/commit/68d3c308e083ec15eab021a317e2beaced22a3b4) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 - ⬆️ pushed [ff1b619](https://github.com/dhth/bmm/commit/ff1b619a56f2e8fe5955bfcc4b9731552be72f3a) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [8954d5b](https://github.com/dhth/gobrewtest/commit/8954d5b230ea3386c0e1406fbc67fc53af89adce) to [main](https://github.com/dhth/gobrewtest/tree/main) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 - ⬆️ pushed [1e4e2fa](https://github.com/dhth/cargo-dist-test/commit/1e4e2faa20a87ba643efe98ac12d0989a2f8cfe3) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 - ⬆️ pushed [37d70fa](https://github.com/dhth/bmm/commit/37d70fac45510d28c9df6b9597408d51577a0bb3) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [748e6a1](https://github.com/dhth/cargo-dist-test/commit/748e6a1d3256a55773337f5853f15d93254d12c5) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
-- 🔀 merged pull request [#2](https://github.com/dhth/gobrewtest/pull/2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-- 🔀 opened pull request [#2](https://github.com/dhth/gobrewtest/pull/2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
