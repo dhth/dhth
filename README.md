@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [37d70fa](https://github.com/dhth/bmm/commit/37d70fac45510d28c9df6b9597408d51577a0bb3) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [748e6a1](https://github.com/dhth/cargo-dist-test/commit/748e6a1d3256a55773337f5853f15d93254d12c5) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 - 🔀 merged pull request [#2](https://github.com/dhth/gobrewtest/pull/2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 - 🔀 opened pull request [#2](https://github.com/dhth/gobrewtest/pull/2) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [832a4c8](https://github.com/dhth/bmm/commit/832a4c8ac9e43c5b8d80eab36d9e46ea91c2ba50) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🌱 created branch [move-db-pool-out-of-tui-model](https://github.com/dhth/bmm/tree/move-db-pool-out-of-tui-model) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🌱 created branch [use-rust-caching-on-ci](https://github.com/dhth/bmm/tree/use-rust-caching-on-ci) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch upgrade-toolchain-to-1-98-0 in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
