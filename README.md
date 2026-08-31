@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [ee44025](https://github.com/dhth/nvim/commit/ee44025551c92fe44a5cf96da2f2140205c5bbbd) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- ⬆️ pushed [b73319e](https://github.com/dhth/dotfiles/commit/b73319e7c952d59bd0fc1aecac4bf167bebc6b70) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [9682a16](https://github.com/dhth/nvim/commit/9682a16a971fd0dfb173e043c0ddc7534940ef10) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- ⬆️ pushed [233d057](https://github.com/dhth/dotfiles/commit/233d057560b647e0dc912f964035f1dae44fd241) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [96e9c58](https://github.com/dhth/dotfiles/commit/96e9c587ccc5b05d733b5b8d21c1b18b11d7d9a7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ❗ labeled issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ assigned issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ opened issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted tag v0.1.8 in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 - ⬆️ pushed [68d3c30](https://github.com/dhth/cargo-dist-test/commit/68d3c308e083ec15eab021a317e2beaced22a3b4) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
-- ⬆️ pushed [ff1b619](https://github.com/dhth/bmm/commit/ff1b619a56f2e8fe5955bfcc4b9731552be72f3a) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch add-tests-for-tui in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [8954d5b](https://github.com/dhth/gobrewtest/commit/8954d5b230ea3386c0e1406fbc67fc53af89adce) to [main](https://github.com/dhth/gobrewtest/tree/main) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-- ⬆️ pushed [1e4e2fa](https://github.com/dhth/cargo-dist-test/commit/1e4e2faa20a87ba643efe98ac12d0989a2f8cfe3) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
