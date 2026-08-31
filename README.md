@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [96e9c58](https://github.com/dhth/dotfiles/commit/96e9c587ccc5b05d733b5b8d21c1b18b11d7d9a7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ❗ labeled issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ assigned issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ opened issue [#162](https://github.com/dhth/bmm/issues/162) in [dhth/bmm](https://github.com/dhth/bmm)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch add-tests-for-tui in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [8954d5b](https://github.com/dhth/gobrewtest/commit/8954d5b230ea3386c0e1406fbc67fc53af89adce) to [main](https://github.com/dhth/gobrewtest/tree/main) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
 - ⬆️ pushed [1e4e2fa](https://github.com/dhth/cargo-dist-test/commit/1e4e2faa20a87ba643efe98ac12d0989a2f8cfe3) to [main](https://github.com/dhth/cargo-dist-test/tree/main) in [dhth/cargo-dist-test](https://github.com/dhth/cargo-dist-test)
-- ⬆️ pushed [37d70fa](https://github.com/dhth/bmm/commit/37d70fac45510d28c9df6b9597408d51577a0bb3) to [add-tests-for-tui](https://github.com/dhth/bmm/tree/add-tests-for-tui) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
