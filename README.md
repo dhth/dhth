@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [3380068](https://github.com/dhth/dotfiles/commit/3380068d210fb715cd1b1dbf1aa81aaab95c2ca2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [abfa2aa](https://github.com/dhth/dotfiles/commit/abfa2aa5e24603d240600dd1c2b3811dd86b944a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [1e3d8ab](https://github.com/dhth/dotfiles/commit/1e3d8ab8c9d149a778bd50e9fc348d6bc1a220ba) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [0425df5](https://github.com/dhth/dotfiles/commit/0425df53f58a747a5f5b1b884a51823c4016e6b1) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [b73319e](https://github.com/dhth/dotfiles/commit/b73319e7c952d59bd0fc1aecac4bf167bebc6b70) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [9682a16](https://github.com/dhth/nvim/commit/9682a16a971fd0dfb173e043c0ddc7534940ef10) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - ⬆️ pushed [233d057](https://github.com/dhth/dotfiles/commit/233d057560b647e0dc912f964035f1dae44fd241) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [96e9c58](https://github.com/dhth/dotfiles/commit/96e9c587ccc5b05d733b5b8d21c1b18b11d7d9a7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
