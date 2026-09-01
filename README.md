@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [replace-custom-editor-file-format-with-toml](https://github.com/dhth/bmm/tree/replace-custom-editor-file-format-with-toml) in [dhth/bmm](https://github.com/dhth/bmm)
+- ❗ assigned issue [#164](https://github.com/dhth/bmm/issues/164) in [dhth/bmm](https://github.com/dhth/bmm)
+- 📝 [commented on](https://github.com/dhth/bmm/pull/163#pullrequestreview-5080599480) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
+- 💬 [commented on](https://github.com/dhth/bmm/pull/163#issuecomment-5496866499) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
+- 💬 [commented on](https://github.com/dhth/bmm/pull/163#issuecomment-5496822708) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 opened pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [3380068](https://github.com/dhth/dotfiles/commit/3380068d210fb715cd1b1dbf1aa81aaab95c2ca2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [abfa2aa](https://github.com/dhth/dotfiles/commit/abfa2aa5e24603d240600dd1c2b3811dd86b944a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [1e3d8ab](https://github.com/dhth/dotfiles/commit/1e3d8ab8c9d149a778bd50e9fc348d6bc1a220ba) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [0425df5](https://github.com/dhth/dotfiles/commit/0425df53f58a747a5f5b1b884a51823c4016e6b1) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [b71c66b](https://github.com/dhth/dotfiles/commit/b71c66bdf559b052b2462b14ddf20c86b22743e8) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [3234ff7](https://github.com/dhth/dotfiles/commit/3234ff7e0a2e12f2b0890f5987fdb04e8354dced) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [ee44025](https://github.com/dhth/nvim/commit/ee44025551c92fe44a5cf96da2f2140205c5bbbd) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [b73319e](https://github.com/dhth/dotfiles/commit/b73319e7c952d59bd0fc1aecac4bf167bebc6b70) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [9682a16](https://github.com/dhth/nvim/commit/9682a16a971fd0dfb173e043c0ddc7534940ef10) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [233d057](https://github.com/dhth/dotfiles/commit/233d057560b647e0dc912f964035f1dae44fd241) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
