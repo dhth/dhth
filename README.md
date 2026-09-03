@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ❗ closed issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 opened pull request [#172](https://github.com/dhth/punchout/pull/172) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [57ff3f9](https://github.com/dhth/dotfiles/commit/57ff3f9de147ee40cebc7a1fbdb1edf43f012824) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ❗ opened issue [#164](https://github.com/dhth/bmm/issues/164) in [dhth/bmm](https://github.com/dhth/bmm)
 - 📝 [commented on](https://github.com/dhth/bmm/pull/163#pullrequestreview-5080514387) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 📝 [commented on](https://github.com/dhth/bmm/pull/163#pullrequestreview-5080599480) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
 - 💬 [commented on](https://github.com/dhth/bmm/pull/163#issuecomment-5496866499) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
 - 💬 [commented on](https://github.com/dhth/bmm/pull/163#issuecomment-5496822708) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 opened pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [3380068](https://github.com/dhth/dotfiles/commit/3380068d210fb715cd1b1dbf1aa81aaab95c2ca2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
