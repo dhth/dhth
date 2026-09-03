@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 💬 [commented on](https://github.com/dhth/punchout/pull/172#issuecomment-5529815326) pull request [#172](https://github.com/dhth/punchout/pull/172) in [dhth/punchout](https://github.com/dhth/punchout)
+- 📝 [commented on](https://github.com/dhth/punchout/pull/172#pullrequestreview-5105039016) pull request [#172](https://github.com/dhth/punchout/pull/172) in [dhth/punchout](https://github.com/dhth/punchout)
 - 💬 [commented on](https://github.com/dhth/punchout/pull/172#issuecomment-5523918984) pull request [#172](https://github.com/dhth/punchout/pull/172) in [dhth/punchout](https://github.com/dhth/punchout)
 - ❗ closed issue [#148](https://github.com/dhth/punchout/issues/148) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 opened pull request [#172](https://github.com/dhth/punchout/pull/172) in [dhth/punchout](https://github.com/dhth/punchout)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 📝 [commented on](https://github.com/dhth/bmm/pull/163#pullrequestreview-5080514387) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🌱 created branch [replace-custom-editor-file-format-with-toml](https://github.com/dhth/bmm/tree/replace-custom-editor-file-format-with-toml) in [dhth/bmm](https://github.com/dhth/bmm)
 - ❗ assigned issue [#164](https://github.com/dhth/bmm/issues/164) in [dhth/bmm](https://github.com/dhth/bmm)
-- 📝 [commented on](https://github.com/dhth/bmm/pull/163#pullrequestreview-5080599480) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
-- 💬 [commented on](https://github.com/dhth/bmm/pull/163#issuecomment-5496866499) pull request [#163](https://github.com/dhth/bmm/pull/163) in [dhth/bmm](https://github.com/dhth/bmm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
