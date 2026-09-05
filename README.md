@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [65a0974](https://github.com/dhth/punchout/commit/65a0974408a9cd5f5b8681e852b10e05ff071e31) to [bound-number-of-concurrent-syncs-to-jira](https://github.com/dhth/punchout/tree/bound-number-of-concurrent-syncs-to-jira) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [show-issue-summary-in-worklog-views](https://github.com/dhth/punchout/tree/show-issue-summary-in-worklog-views) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 merged pull request [#176](https://github.com/dhth/punchout/pull/176) in [dhth/punchout](https://github.com/dhth/punchout)
 - 💬 [commented on](https://github.com/dhth/punchout/pull/176#issuecomment-5546678503) pull request [#176](https://github.com/dhth/punchout/pull/176) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 opened pull request [#176](https://github.com/dhth/punchout/pull/176) in [dhth/punchout](https://github.com/dhth/punchout)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#174](https://github.com/dhth/punchout/pull/174) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 opened pull request [#174](https://github.com/dhth/punchout/pull/174) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [1cd89d8](https://github.com/dhth/dotfiles/commit/1cd89d8a5093ffaf33ff90c9df021e822185a981) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 merged pull request [#173](https://github.com/dhth/punchout/pull/173) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/173#issuecomment-5538870731) pull request [#173](https://github.com/dhth/punchout/pull/173) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
