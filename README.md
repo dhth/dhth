@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [12a755a](https://github.com/dhth/dotfiles/commit/12a755a8ad045f112b2cd7089c30f1d42230b028) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [0f752f7](https://github.com/dhth/mult/commit/0f752f7879dc80b167604cbb0e481c1539a4c3cf) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
 - ⬆️ pushed [673be2c](https://github.com/dhth/mult/commit/673be2cea003dd23e900428536f0c4ec4857c43c) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
 - ⬆️ pushed [cb55ce1](https://github.com/dhth/punchout/commit/cb55ce10dbf6b2a0b198bd0a3ba9fedb9946282d) to [prepare-v1-5-0](https://github.com/dhth/punchout/tree/prepare-v1-5-0) in [dhth/punchout](https://github.com/dhth/punchout)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [b167f21](https://github.com/dhth/punchout/commit/b167f217763d09bbbd1553fb93fc66435c782250) to [bump-tool-versions](https://github.com/dhth/punchout/tree/bump-tool-versions) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [9bdf879](https://github.com/dhth/punchout/commit/9bdf87982a78f89e2f0d70a6858fff0950bb7c60) to [bound-number-of-concurrent-syncs-to-jira](https://github.com/dhth/punchout/tree/bound-number-of-concurrent-syncs-to-jira) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch remove-presentation-type-in-messages in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [ca04592](https://github.com/dhth/homebrew-tap/commit/ca04592dafcb35a15004c54013bce82813bf4e78) to [main](https://github.com/dhth/homebrew-tap/tree/main) in [dhth/homebrew-tap](https://github.com/dhth/homebrew-tap)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
