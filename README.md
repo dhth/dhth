@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [12a755a](https://github.com/dhth/dotfiles/commit/12a755a8ad045f112b2cd7089c30f1d42230b028) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [0f752f7](https://github.com/dhth/mult/commit/0f752f7879dc80b167604cbb0e481c1539a4c3cf) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- ⬆️ pushed [673be2c](https://github.com/dhth/mult/commit/673be2cea003dd23e900428536f0c4ec4857c43c) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- ⬆️ pushed [cb55ce1](https://github.com/dhth/punchout/commit/cb55ce10dbf6b2a0b198bd0a3ba9fedb9946282d) to [prepare-v1-5-0](https://github.com/dhth/punchout/tree/prepare-v1-5-0) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [24cc548](https://github.com/dhth/punchout/commit/24cc5482e76eaca8778d70c547399ac8ec014275) to [bound-number-of-concurrent-syncs-to-jira](https://github.com/dhth/punchout/tree/bound-number-of-concurrent-syncs-to-jira) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [0c1f108](https://github.com/dhth/punchout/commit/0c1f108ac6d6053e11c12d73ad9548f996439585) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [b7a6f9a](https://github.com/dhth/punchout/commit/b7a6f9aeebe029ccd0cadcc22aa1398425ba1bac) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [b167f21](https://github.com/dhth/punchout/commit/b167f217763d09bbbd1553fb93fc66435c782250) to [bump-tool-versions](https://github.com/dhth/punchout/tree/bump-tool-versions) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [9bdf879](https://github.com/dhth/punchout/commit/9bdf87982a78f89e2f0d70a6858fff0950bb7c60) to [bound-number-of-concurrent-syncs-to-jira](https://github.com/dhth/punchout/tree/bound-number-of-concurrent-syncs-to-jira) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch remove-presentation-type-in-messages in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch bound-number-of-concurrent-syncs-to-jira in [dhth/punchout](https://github.com/dhth/punchout)
+- 🗑️ deleted branch show-issue-summary-in-worklog-views in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [43040cb](https://github.com/dhth/punchout/commit/43040cbc2161b0909489611f31bc4bd4dcf4ee54) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [5602cc1](https://github.com/dhth/dotfiles/commit/5602cc18437279b531d1202b7776a825c3cef8eb) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [16462d5](https://github.com/dhth/punchout/commit/16462d566437a82ee64a550c92959bcac5669d40) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [994dad5](https://github.com/dhth/dotfiles/commit/994dad5474875b2dd505d35102da040f9ddec7c8) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [8ddc5b8](https://github.com/dhth/dotfiles/commit/8ddc5b860ca956d185f5aabdb53881ec2ffb6b38) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [4ac6371](https://github.com/dhth/dotfiles/commit/4ac637184ae190208ee62080ccab1630dd80860b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [9f50ac2](https://github.com/dhth/punchout/commit/9f50ac2cf7ed93d67640aef9461bbda1965338ed) to [bound-number-of-concurrent-syncs-to-jira](https://github.com/dhth/punchout/tree/bound-number-of-concurrent-syncs-to-jira) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [db3f41d](https://github.com/dhth/dotfiles/commit/db3f41ded8cc6e22ec0e7e795597e0f7ae7ec631) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
