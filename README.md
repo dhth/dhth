@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch use-responsive-list-columns in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [make-lists-responsive](https://github.com/dhth/punchout/tree/make-lists-responsive) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [8d00b1b](https://github.com/dhth/punchout/commit/8d00b1be212300fde683f5c498d7d9888baabae9) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🗑️ deleted branch streamline-going-back-and-exit-behaviour in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [45e3ada](https://github.com/dhth/punchout/commit/45e3ada33fef0142ecf036705c83c0f332900209) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [c03fd6d](https://github.com/dhth/punchout/commit/c03fd6d85d55d2cd888a31dd6772b76d6898d81a) to [streamline-going-back-and-exit-behaviour](https://github.com/dhth/punchout/tree/streamline-going-back-and-exit-behaviour) in [dhth/punchout](https://github.com/dhth/punchout)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 📝 [commented on](https://github.com/dhth/punchout/pull/182#pullrequestreview-5157218211) pull request [#182](https://github.com/dhth/punchout/pull/182) in [dhth/punchout](https://github.com/dhth/punchout)
 - 💬 [commented on](https://github.com/dhth/punchout/pull/182#issuecomment-5605141271) pull request [#182](https://github.com/dhth/punchout/pull/182) in [dhth/punchout](https://github.com/dhth/punchout)
 - 🔀 opened pull request [#182](https://github.com/dhth/punchout/pull/182) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [streamline-going-back-and-exit-behaviour](https://github.com/dhth/punchout/tree/streamline-going-back-and-exit-behaviour) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [0a62db4](https://github.com/dhth/punchout/commit/0a62db4427a24c847a8edd02c7db4f529719ea17) to [use-responsive-list-columns](https://github.com/dhth/punchout/tree/use-responsive-list-columns) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [use-responsive-list-columns](https://github.com/dhth/punchout/tree/use-responsive-list-columns) in [dhth/punchout](https://github.com/dhth/punchout)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
