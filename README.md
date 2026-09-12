@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [3b9ff39](https://github.com/dhth/dotfiles/commit/3b9ff39ffab560df98cedf28e582dd14df3afc65) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [76eb21e](https://github.com/dhth/dotfiles/commit/76eb21e246f3e59721103992117647c5886f4649) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [28ad85e](https://github.com/dhth/punchout/commit/28ad85e5ce32fb1751bc698acb348c9629ba39ca) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch copilot/fix-f148927b-aa44-4a23-b5fe-0556fcbc590c in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [9cb8b9a](https://github.com/dhth/punchout/commit/9cb8b9af1a77bc8d094e92da966bd1c08ebf0eb5) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#183](https://github.com/dhth/punchout/pull/183) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/punchout/pull/183#issuecomment-5620877707) pull request [#183](https://github.com/dhth/punchout/pull/183) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#183](https://github.com/dhth/punchout/pull/183) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [make-date-format-consistent-in-both-wl-views](https://github.com/dhth/punchout/tree/make-date-format-consistent-in-both-wl-views) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🗑️ deleted branch use-responsive-list-columns in [dhth/punchout](https://github.com/dhth/punchout)
+- 🔀 merged pull request [#165](https://github.com/dhth/bmm/pull/165) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [e11ab90](https://github.com/dhth/hours/commit/e11ab90f55d8b89396117a51b8fc1513ba63015b) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#185](https://github.com/dhth/hours/pull/185) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#127](https://github.com/dhth/mrj/pull/127) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [3037280](https://github.com/dhth/mult/commit/3037280712f3611a15b170c486466f89cc3166ef) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 merged pull request [#69](https://github.com/dhth/mult/pull/69) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 opened pull request [#3](https://github.com/dhth/tpick/pull/3) in [dhth/tpick](https://github.com/dhth/tpick)
+- 🔀 opened pull request [#69](https://github.com/dhth/mult/pull/69) in [dhth/mult](https://github.com/dhth/mult)
+- 🔀 opened pull request [#127](https://github.com/dhth/mrj/pull/127) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#185](https://github.com/dhth/hours/pull/185) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
