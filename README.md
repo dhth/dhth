@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-domain-types in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#4](https://github.com/dhth/jiracc/pull/4) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [c6b73e6](https://github.com/dhth/jiracc/commit/c6b73e6dc48bb4a60a33ba1d55ac1dd1822bedd5) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#4](https://github.com/dhth/jiracc/pull/4) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-domain-types](https://github.com/dhth/jiracc/tree/add-domain-types) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-config-loading in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#3](https://github.com/dhth/jiracc/pull/3) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [46190f8](https://github.com/dhth/jiracc/commit/46190f8a7803e84dd335db2ce690fa93c8cc29fe) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#3](https://github.com/dhth/jiracc/pull/3) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [add-config-loading](https://github.com/dhth/jiracc/tree/add-config-loading) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/mult/tree/set-up-user-env-using-mise-bootstrap) in [dhth/mult](https://github.com/dhth/mult)
-- 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/mult](https://github.com/dhth/mult)
-- 🌱 created branch [main](https://github.com/dhth/orb-bootstrap-test/tree/main) in [dhth/orb-bootstrap-test](https://github.com/dhth/orb-bootstrap-test)
-- ⬆️ pushed [5e25954](https://github.com/dhth/orb-setup-test/commit/5e259547454e14e30bfb9838110864d77f918eb2) to [main](https://github.com/dhth/orb-setup-test/tree/main) in [dhth/orb-setup-test](https://github.com/dhth/orb-setup-test)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
