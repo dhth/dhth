@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [d3a3ba5](https://github.com/dhth/nvim/commit/d3a3ba575bd40022e1f1b2d5ea157d11d6644d37) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- ⬆️ pushed [ff47478](https://github.com/dhth/dotfiles/commit/ff474789080d06dbc0c9e3ec5ec9719b88a5946f) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [34f4d9d](https://github.com/dhth/mrj/commit/34f4d9d900fbb937b1abe161ccfbd1e82bafb5c0) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/bmm/tree/set-up-user-env-using-mise-bootstrap) in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [fdf49ff](https://github.com/dhth/orb-bootstrap-test/commit/fdf49ff8f1ba75c25fb38db97b0e08fbb24732d8) to [main](https://github.com/dhth/orb-bootstrap-test/tree/main) in [dhth/orb-bootstrap-test](https://github.com/dhth/orb-bootstrap-test)
 - 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/hours](https://github.com/dhth/hours)
 - 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/mrj/tree/set-up-user-env-using-mise-bootstrap) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [0d8fafe](https://github.com/dhth/remote-env/commit/0d8fafe21c4ae13ce001d996cd7c115ef6d17fd1) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
 - ⬆️ pushed [50718fc](https://github.com/dhth/orb-setup-test/commit/50718fcf7de703b840a8c667a7c640746b15352b) to [main](https://github.com/dhth/orb-setup-test/tree/main) in [dhth/orb-setup-test](https://github.com/dhth/orb-setup-test)
-- ⬆️ pushed [18566dd](https://github.com/dhth/orb-setup-test/commit/18566ddd5fe4fcb82bd904346e6cf02673b3fe0f) to [main](https://github.com/dhth/orb-setup-test/tree/main) in [dhth/orb-setup-test](https://github.com/dhth/orb-setup-test)
-- 🗑️ deleted branch add-domain-types in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#4](https://github.com/dhth/jiracc/pull/4) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [c6b73e6](https://github.com/dhth/jiracc/commit/c6b73e6dc48bb4a60a33ba1d55ac1dd1822bedd5) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
