@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/bmm/tree/set-up-user-env-using-mise-bootstrap) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [fdf49ff](https://github.com/dhth/orb-bootstrap-test/commit/fdf49ff8f1ba75c25fb38db97b0e08fbb24732d8) to [main](https://github.com/dhth/orb-bootstrap-test/tree/main) in [dhth/orb-bootstrap-test](https://github.com/dhth/orb-bootstrap-test)
 - 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/hours](https://github.com/dhth/hours)
 - 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/mrj/tree/set-up-user-env-using-mise-bootstrap) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [0d8fafe](https://github.com/dhth/remote-env/commit/0d8fafe21c4ae13ce001d996cd7c115ef6d17fd1) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch add-domain-types in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#4](https://github.com/dhth/jiracc/pull/4) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [c6b73e6](https://github.com/dhth/jiracc/commit/c6b73e6dc48bb4a60a33ba1d55ac1dd1822bedd5) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#4](https://github.com/dhth/jiracc/pull/4) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-domain-types](https://github.com/dhth/jiracc/tree/add-domain-types) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
