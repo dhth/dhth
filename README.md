@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [add-jira-client](https://github.com/dhth/jiracc/tree/add-jira-client) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-jira-client-tests](https://github.com/dhth/jiracc/tree/add-jira-client-tests) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch add-jira-client-tests in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#6](https://github.com/dhth/jiracc/pull/6) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#5](https://github.com/dhth/jiracc/pull/5) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#6](https://github.com/dhth/jiracc/pull/6) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#5](https://github.com/dhth/jiracc/pull/5) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [6ce34d8](https://github.com/dhth/jiracc/commit/6ce34d83770620d5467d2c67ace5c7e62914c5fe) to [add-config-loading](https://github.com/dhth/jiracc/tree/add-config-loading) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [d3a3ba5](https://github.com/dhth/nvim/commit/d3a3ba575bd40022e1f1b2d5ea157d11d6644d37) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - ⬆️ pushed [ff47478](https://github.com/dhth/dotfiles/commit/ff474789080d06dbc0c9e3ec5ec9719b88a5946f) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [34f4d9d](https://github.com/dhth/mrj/commit/34f4d9d900fbb937b1abe161ccfbd1e82bafb5c0) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/bmm/tree/set-up-user-env-using-mise-bootstrap) in [dhth/bmm](https://github.com/dhth/bmm)
-- ⬆️ pushed [fdf49ff](https://github.com/dhth/orb-bootstrap-test/commit/fdf49ff8f1ba75c25fb38db97b0e08fbb24732d8) to [main](https://github.com/dhth/orb-bootstrap-test/tree/main) in [dhth/orb-bootstrap-test](https://github.com/dhth/orb-bootstrap-test)
-- 🗑️ deleted branch set-up-user-env-using-mise-bootstrap in [dhth/hours](https://github.com/dhth/hours)
-- 🌱 created branch [set-up-user-env-using-mise-bootstrap](https://github.com/dhth/mrj/tree/set-up-user-env-using-mise-bootstrap) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [0d8fafe](https://github.com/dhth/remote-env/commit/0d8fafe21c4ae13ce001d996cd7c115ef6d17fd1) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
