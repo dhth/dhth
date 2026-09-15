@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-sample-config-command in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [add-jira-client](https://github.com/dhth/jiracc/tree/add-jira-client) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [add-jira-client-tests](https://github.com/dhth/jiracc/tree/add-jira-client-tests) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-jira-client-tests in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#6](https://github.com/dhth/jiracc/pull/6) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#5](https://github.com/dhth/jiracc/pull/5) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#6](https://github.com/dhth/jiracc/pull/6) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#5](https://github.com/dhth/jiracc/pull/5) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [6ce34d8](https://github.com/dhth/jiracc/commit/6ce34d83770620d5467d2c67ace5c7e62914c5fe) to [add-config-loading](https://github.com/dhth/jiracc/tree/add-config-loading) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [d3a3ba5](https://github.com/dhth/nvim/commit/d3a3ba575bd40022e1f1b2d5ea157d11d6644d37) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [ff47478](https://github.com/dhth/dotfiles/commit/ff474789080d06dbc0c9e3ec5ec9719b88a5946f) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
