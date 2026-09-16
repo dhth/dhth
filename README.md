@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#13](https://github.com/dhth/jiracc/pull/13) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-sync-command](https://github.com/dhth/jiracc/tree/add-sync-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#12](https://github.com/dhth/jiracc/pull/12) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [14babd8](https://github.com/dhth/jiracc/commit/14babd860b57d2d646586073c80e4f0f35c1dd89) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#12](https://github.com/dhth/jiracc/pull/12) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-config-init-subcommand in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-jira-client in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#11](https://github.com/dhth/jiracc/pull/11) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#11](https://github.com/dhth/jiracc/pull/11) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [b170c2d](https://github.com/dhth/jiracc/commit/b170c2d9177569b837948aebff78b2e82df6310f) to [add-config-init-subcommand](https://github.com/dhth/jiracc/tree/add-config-init-subcommand) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-sample-config-command in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
