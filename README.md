@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch add-config-init-subcommand in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch add-jira-client in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#11](https://github.com/dhth/jiracc/pull/11) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#11](https://github.com/dhth/jiracc/pull/11) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [b170c2d](https://github.com/dhth/jiracc/commit/b170c2d9177569b837948aebff78b2e82df6310f) to [add-config-init-subcommand](https://github.com/dhth/jiracc/tree/add-config-init-subcommand) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-sample-config-command in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#9](https://github.com/dhth/jiracc/pull/9) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#8](https://github.com/dhth/jiracc/pull/8) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-jira-client](https://github.com/dhth/jiracc/tree/add-jira-client) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-jira-client-tests](https://github.com/dhth/jiracc/tree/add-jira-client-tests) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-jira-client-tests in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#6](https://github.com/dhth/jiracc/pull/6) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#5](https://github.com/dhth/jiracc/pull/5) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
