@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 opened pull request [#18](https://github.com/dhth/jiracc/pull/18) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [prepare-for-search-command](https://github.com/dhth/jiracc/tree/prepare-for-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [d6e73e0](https://github.com/dhth/jiracc/commit/d6e73e06d28d2722402565254aca0e3b4bdb7a5e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch prepare-for-search-command in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#17](https://github.com/dhth/jiracc/pull/17) in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [c38e063](https://github.com/dhth/jiracc/commit/c38e0631c91965d6d8ac9d98900b7fcf04e0538d) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [bc3e623](https://github.com/dhth/jiracc/commit/bc3e623fa53f02985743bc2c8c43def7b851e709) to [add-config-validate-command](https://github.com/dhth/jiracc/tree/add-config-validate-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [f6d4a9b](https://github.com/dhth/jiracc/commit/f6d4a9b2983c2a5a23d35860ae6f60fb64e29050) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-filtering-capability in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#16](https://github.com/dhth/jiracc/pull/16) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#16](https://github.com/dhth/jiracc/pull/16) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
