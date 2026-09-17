@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [2dc8647](https://github.com/dhth/jiracc/commit/2dc8647f6cb6c6bc25c57d8e50bfa0e971032029) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [799690f](https://github.com/dhth/jiracc/commit/799690f4b5926b879792c43f282706570a0ac08c) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch add-config-validate-command in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [use-full-anyhow-result-path](https://github.com/dhth/jiracc/tree/use-full-anyhow-result-path) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-config-validate-command](https://github.com/dhth/jiracc/tree/add-config-validate-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-show-command in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-short-flag-for-config-path in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch add-sync-command in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [01a2d41](https://github.com/dhth/jiracc/commit/01a2d4173c342d390a2e18e44776ddcbc4b21b48) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#15](https://github.com/dhth/jiracc/pull/15) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#15](https://github.com/dhth/jiracc/pull/15) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#14](https://github.com/dhth/jiracc/pull/14) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#14](https://github.com/dhth/jiracc/pull/14) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#13](https://github.com/dhth/jiracc/pull/13) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#13](https://github.com/dhth/jiracc/pull/13) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
