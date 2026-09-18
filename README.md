@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [8d4d612](https://github.com/dhth/jiracc/commit/8d4d612c363c19c08c572ef2b7eab91afebfaae8) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-search-command in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#18](https://github.com/dhth/jiracc/pull/18) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch improve-search-output in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [0f87510](https://github.com/dhth/jiracc/commit/0f875107fc31fee556cc959f5eef9fdcb96023af) to [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [b345344](https://github.com/dhth/jiracc/commit/b345344b3cdbc603782413511f6f266d3f49c9b3) to [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#19](https://github.com/dhth/jiracc/pull/19) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#19](https://github.com/dhth/jiracc/pull/19) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [d1e4d5d](https://github.com/dhth/jiracc/commit/d1e4d5d8c0af9770798ec8fdef13c723c9765be2) to [improve-search-output](https://github.com/dhth/jiracc/tree/improve-search-output) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [d5206f5](https://github.com/dhth/jiracc/commit/d5206f5e2c2053d51b28f5ae577123bc110352f5) to [improve-search-output](https://github.com/dhth/jiracc/tree/improve-search-output) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [4db3df7](https://github.com/dhth/jiracc/commit/4db3df7546cc17cf554be67f7a903fca0bd15efe) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [3ca593c](https://github.com/dhth/jiracc/commit/3ca593c88ff9ffbd0d7ff38bf9b782b221cfdeff) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [ba1c8a6](https://github.com/dhth/jiracc/commit/ba1c8a6e30710a0126297af0a51f1bc3b75d439f) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch update-readme in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#22](https://github.com/dhth/jiracc/pull/22) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#22](https://github.com/dhth/jiracc/pull/22) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [update-readme](https://github.com/dhth/jiracc/tree/update-readme) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch dependabot/github_actions/github-actions-640176b5ab in [dhth/activity](https://github.com/dhth/activity)
+- 💬 [commented on](https://github.com/dhth/activity/pull/5#issuecomment-5733241824) pull request [#5](https://github.com/dhth/activity/pull/5) in [dhth/activity](https://github.com/dhth/activity)
+- ⬆️ pushed [dd2590d](https://github.com/dhth/jiracc/commit/dd2590d71d27f6ea5adbe27adbb5469ad901a6aa) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
