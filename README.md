@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [5bebed8](https://github.com/dhth/jiracc/commit/5bebed86122793f732a82ff9dbc9cd393a5cd8ae) to [add-show-command](https://github.com/dhth/jiracc/tree/add-show-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [6d8779e](https://github.com/dhth/remote-env/commit/6d8779e4b9e9cd08d62f09cc7beadcbd46cb0698) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- ⬆️ pushed [ca0859d](https://github.com/dhth/remote-env/commit/ca0859debd374b121078064d0cf76261a0956f5e) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- 🌱 created branch [add-show-command](https://github.com/dhth/jiracc/tree/add-show-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [770d750](https://github.com/dhth/jiracc/commit/770d750d860c753b776beb7ac9c5174b45af8c7e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-short-flag-for-config-path](https://github.com/dhth/jiracc/tree/add-short-flag-for-config-path) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch use-full-anyhow-result-path in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [9f47ed5](https://github.com/dhth/jiracc/commit/9f47ed599243e7e942934423e8e7488865ebd3ee) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-config-init-subcommand](https://github.com/dhth/jiracc/tree/add-config-init-subcommand) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [7a1c15f](https://github.com/dhth/jiracc/commit/7a1c15ff1d7d80677992117c86a42c670390d078) to [add-sync-command](https://github.com/dhth/jiracc/tree/add-sync-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [8d4d612](https://github.com/dhth/jiracc/commit/8d4d612c363c19c08c572ef2b7eab91afebfaae8) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch add-search-command in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#18](https://github.com/dhth/jiracc/pull/18) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch improve-search-output in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [0f87510](https://github.com/dhth/jiracc/commit/0f875107fc31fee556cc959f5eef9fdcb96023af) to [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [b345344](https://github.com/dhth/jiracc/commit/b345344b3cdbc603782413511f6f266d3f49c9b3) to [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#19](https://github.com/dhth/jiracc/pull/19) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#19](https://github.com/dhth/jiracc/pull/19) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [d1e4d5d](https://github.com/dhth/jiracc/commit/d1e4d5d8c0af9770798ec8fdef13c723c9765be2) to [improve-search-output](https://github.com/dhth/jiracc/tree/improve-search-output) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [d5206f5](https://github.com/dhth/jiracc/commit/d5206f5e2c2053d51b28f5ae577123bc110352f5) to [improve-search-output](https://github.com/dhth/jiracc/tree/improve-search-output) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
