@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [770d750](https://github.com/dhth/jiracc/commit/770d750d860c753b776beb7ac9c5174b45af8c7e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-short-flag-for-config-path](https://github.com/dhth/jiracc/tree/add-short-flag-for-config-path) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch use-full-anyhow-result-path in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [9f47ed5](https://github.com/dhth/jiracc/commit/9f47ed599243e7e942934423e8e7488865ebd3ee) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-config-init-subcommand](https://github.com/dhth/jiracc/tree/add-config-init-subcommand) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [7a1c15f](https://github.com/dhth/jiracc/commit/7a1c15ff1d7d80677992117c86a42c670390d078) to [add-sync-command](https://github.com/dhth/jiracc/tree/add-sync-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#18](https://github.com/dhth/jiracc/pull/18) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [prepare-for-search-command](https://github.com/dhth/jiracc/tree/prepare-for-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [d6e73e0](https://github.com/dhth/jiracc/commit/d6e73e06d28d2722402565254aca0e3b4bdb7a5e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch prepare-for-search-command in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#17](https://github.com/dhth/jiracc/pull/17) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#17](https://github.com/dhth/jiracc/pull/17) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [c38e063](https://github.com/dhth/jiracc/commit/c38e0631c91965d6d8ac9d98900b7fcf04e0538d) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [bc3e623](https://github.com/dhth/jiracc/commit/bc3e623fa53f02985743bc2c8c43def7b851e709) to [add-config-validate-command](https://github.com/dhth/jiracc/tree/add-config-validate-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [f6d4a9b](https://github.com/dhth/jiracc/commit/f6d4a9b2983c2a5a23d35860ae6f60fb64e29050) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
