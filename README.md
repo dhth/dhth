@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 merged pull request [#26](https://github.com/dhth/jiracc/pull/26) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [e4358ef](https://github.com/dhth/jiracc/commit/e4358ef90501835605ba7e6e217f4767118769e6) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#26](https://github.com/dhth/jiracc/pull/26) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [e0a81b6](https://github.com/dhth/jiracc/commit/e0a81b60f5cd70afec9b193d85bc7cd2b9285c2e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#25](https://github.com/dhth/jiracc/pull/25) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [0315037](https://github.com/dhth/jiracc/commit/031503751eda6b5dd9673aa798a677c8ee1407fe) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-auth-check-command](https://github.com/dhth/jiracc/tree/add-auth-check-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#25](https://github.com/dhth/jiracc/pull/25) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [make-search-matching-consistent](https://github.com/dhth/jiracc/tree/make-search-matching-consistent) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [2b68980](https://github.com/dhth/jiracc/commit/2b68980cbb744fd1de4c81cb890de548b133c369) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [e50a0f3](https://github.com/dhth/jiracc/commit/e50a0f383f094858556ae5523fee841165de6c71) to [add-search-command](https://github.com/dhth/jiracc/tree/add-search-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-version-flag in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [0e95d34](https://github.com/dhth/jiracc/commit/0e95d34c83147302668b4294c8e674af9a640509) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#24](https://github.com/dhth/jiracc/pull/24) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#24](https://github.com/dhth/jiracc/pull/24) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [add-version-flag](https://github.com/dhth/jiracc/tree/add-version-flag) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch add-status-command in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#23](https://github.com/dhth/jiracc/pull/23) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [4b759a1](https://github.com/dhth/jiracc/commit/4b759a14fe7bdbe20444a3beb2a699568c99328e) to [add-status-command](https://github.com/dhth/jiracc/tree/add-status-command) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
