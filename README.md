@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [7c43db8](https://github.com/dhth/mrj/commit/7c43db8f085a812cd958fc257af584d8c64e8242) to [upgrade-tools](https://github.com/dhth/mrj/tree/upgrade-tools) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 closed pull request [#126](https://github.com/dhth/mrj/pull/126) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#128](https://github.com/dhth/mrj/pull/128) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [upgrade-tools](https://github.com/dhth/mrj/tree/upgrade-tools) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [4d94ea4](https://github.com/dhth/mrj/commit/4d94ea4f7daf67b36fa1693a2e9f4a7068e170ab) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [0108d40](https://github.com/dhth/omm/commit/0108d40206aa3ff258b2603cea1cc207f94240a4) to [main](https://github.com/dhth/omm/tree/main) in [dhth/omm](https://github.com/dhth/omm)
-- ⬆️ pushed [9d9e641](https://github.com/dhth/mrj/commit/9d9e641b36d3d0608f271aca136e8b83cba5c029) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [087c93e](https://github.com/dhth/commits/commit/087c93e178a66e86dd6ec0a3bf479614efe02f5e) to [main](https://github.com/dhth/commits/tree/main) in [dhth/commits](https://github.com/dhth/commits)
-- ⬆️ pushed [55fcc15](https://github.com/dhth/jiracc/commit/55fcc15be98fb6662aac0bc0dcddafd369ff6ce1) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch make-search-matching-consistent in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch include-url-and-jql-in-status-output in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [include-url-and-jql-in-status-output](https://github.com/dhth/jiracc/tree/include-url-and-jql-in-status-output) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [3b873a6](https://github.com/dhth/prs/commit/3b873a6cd3175fc97a1324a92dc817964c8ba81e) to [main](https://github.com/dhth/prs/tree/main) in [dhth/prs](https://github.com/dhth/prs)
+- 🗑️ deleted branch upgrade-deps in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 merged pull request [#129](https://github.com/dhth/mrj/pull/129) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [b701a00](https://github.com/dhth/mrj/commit/b701a004062c9c99c1aa59485d40d97da21164e2) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#129](https://github.com/dhth/mrj/pull/129) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [upgrade-deps](https://github.com/dhth/mrj/tree/upgrade-deps) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch dependabot/github_actions/actions/checkout-7 in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
+- 🗑️ deleted branch dependabot/github_actions/actions/checkout-7 in [dhth/act3-runner](https://github.com/dhth/act3-runner)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
