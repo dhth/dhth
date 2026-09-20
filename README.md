@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch make-search-matching-consistent in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch show-relative-time-in-show-output in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [96cca5a](https://github.com/dhth/jiracc/commit/96cca5a9adeb6ff27dee40e300823ca462d8f144) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#27](https://github.com/dhth/jiracc/pull/27) in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#26](https://github.com/dhth/jiracc/pull/26) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [e4358ef](https://github.com/dhth/jiracc/commit/e4358ef90501835605ba7e6e217f4767118769e6) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#26](https://github.com/dhth/jiracc/pull/26) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [e0a81b6](https://github.com/dhth/jiracc/commit/e0a81b60f5cd70afec9b193d85bc7cd2b9285c2e) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
