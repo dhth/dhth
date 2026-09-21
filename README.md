@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [04a9b25](https://github.com/dhth/dotfiles/commit/04a9b256c5609397099f8dd4d6fb9932ac64170f) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🌱 created branch [have-tmux-own-mappings](https://github.com/dhth/dotfiles/tree/have-tmux-own-mappings) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 merged pull request [#1](https://github.com/dhth/dotfiles/pull/1) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 opened pull request [#1](https://github.com/dhth/dotfiles/pull/1) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [194b527](https://github.com/dhth/dotfiles/commit/194b5271bfcb3fb3784aaa40d28b981eec6f2edf) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [41e3918](https://github.com/dhth/act3-runner/commit/41e3918b78392076140f0384198098f7c58c3eab) to [main](https://github.com/dhth/act3-runner/tree/main) in [dhth/act3-runner](https://github.com/dhth/act3-runner)
-- ⬆️ pushed [c18785c](https://github.com/dhth/mult/commit/c18785c56c9b97370194092fcc64135c754ba402) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
-- 🗑️ deleted branch upgrade-tools in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [0d8b9b9](https://github.com/dhth/hours/commit/0d8b9b9112821648b170218be4d24d32a69bd689) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- 🗑️ deleted branch include-url-and-jql-in-status-output in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [55b159e](https://github.com/dhth/mrj/commit/55b159e70c6362774078b2a6f0a2b2e04b0380d1) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch remove-custom-html-template in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [37b28ca](https://github.com/dhth/remote-env/commit/37b28cafb255595c2923dc3c0343bce67d2622ed) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
+- 🌱 created branch [remove-custom-html-template](https://github.com/dhth/mrj/tree/remove-custom-html-template) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [1345924](https://github.com/dhth/mrj/commit/13459241f08f67321923ddaa2fad7641a8db4234) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch have-tmux-own-mappings in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 merged pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
+- 💬 [commented on](https://github.com/dhth/mrj/pull/130#issuecomment-5766237827) pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
+- 💬 [commented on](https://github.com/dhth/mrj/pull/130#issuecomment-5766209273) pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🔀 opened pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
