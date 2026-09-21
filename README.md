@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [41e3918](https://github.com/dhth/act3-runner/commit/41e3918b78392076140f0384198098f7c58c3eab) to [main](https://github.com/dhth/act3-runner/tree/main) in [dhth/act3-runner](https://github.com/dhth/act3-runner)
+- ⬆️ pushed [c18785c](https://github.com/dhth/mult/commit/c18785c56c9b97370194092fcc64135c754ba402) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
 - 🗑️ deleted branch upgrade-tools in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [0d8b9b9](https://github.com/dhth/hours/commit/0d8b9b9112821648b170218be4d24d32a69bd689) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
 - 🗑️ deleted branch include-url-and-jql-in-status-output in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch upgrade-deps in [dhth/mrj](https://github.com/dhth/mrj)
 - 🔀 merged pull request [#129](https://github.com/dhth/mrj/pull/129) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [b701a00](https://github.com/dhth/mrj/commit/b701a004062c9c99c1aa59485d40d97da21164e2) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#129](https://github.com/dhth/mrj/pull/129) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🌱 created branch [upgrade-deps](https://github.com/dhth/mrj/tree/upgrade-deps) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
