@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [16c9ca4](https://github.com/dhth/mrj/commit/16c9ca4f12a03adfefcae37eef4e1a8ff2090b1c) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [1d9ae9a](https://github.com/dhth/nvim/commit/1d9ae9a80a40a5a47b019a5e2871b7e3398d7f7b) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
 - 🌱 created branch [add-github-client](https://github.com/dhth/mrj/tree/add-github-client) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [55b159e](https://github.com/dhth/mrj/commit/55b159e70c6362774078b2a6f0a2b2e04b0380d1) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [1345924](https://github.com/dhth/mrj/commit/13459241f08f67321923ddaa2fad7641a8db4234) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🗑️ deleted branch have-tmux-own-mappings in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 merged pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
-- 💬 [commented on](https://github.com/dhth/mrj/pull/130#issuecomment-5766237827) pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
