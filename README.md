@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [1d9ae9a](https://github.com/dhth/nvim/commit/1d9ae9a80a40a5a47b019a5e2871b7e3398d7f7b) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- 🌱 created branch [add-github-client](https://github.com/dhth/mrj/tree/add-github-client) in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [55b159e](https://github.com/dhth/mrj/commit/55b159e70c6362774078b2a6f0a2b2e04b0380d1) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 - 🗑️ deleted branch remove-custom-html-template in [dhth/mrj](https://github.com/dhth/mrj)
 - ⬆️ pushed [37b28ca](https://github.com/dhth/remote-env/commit/37b28cafb255595c2923dc3c0343bce67d2622ed) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch have-tmux-own-mappings in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 merged pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
 - 💬 [commented on](https://github.com/dhth/mrj/pull/130#issuecomment-5766237827) pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
-- 💬 [commented on](https://github.com/dhth/mrj/pull/130#issuecomment-5766209273) pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 opened pull request [#130](https://github.com/dhth/mrj/pull/130) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
