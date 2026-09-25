@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🔀 merged pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [2b2b4ad](https://github.com/dhth/dotfiles/commit/2b2b4ad75d718afc2567ea8a445b19dfdb791b9b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [9aa4c85](https://github.com/dhth/jiracc/commit/9aa4c85c3e63a59e3aa540403ca2c294e9b43719) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [0148dd8](https://github.com/dhth/dotfiles/commit/0148dd8bda90afdbcfde38afb7979e9f880993aa) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [2c9e78b](https://github.com/dhth/waiig/commit/2c9e78ba07d6633f4655891be8f29f10b671f1d8) to [bump-toolchain-to-1-27-1](https://github.com/dhth/waiig/tree/bump-toolchain-to-1-27-1) in [dhth/waiig](https://github.com/dhth/waiig)
 - ⬆️ pushed [4e7e53b](https://github.com/dhth/dotfiles/commit/4e7e53b5eca9e187b10905ef21d76e80b4bd0c57) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch bump-toolchain-to-1-27-1 in [dhth/waiig](https://github.com/dhth/waiig)
-- ⬆️ pushed [be6de68](https://github.com/dhth/waiig/commit/be6de68fce45862eb6264b0222afabee540c3684) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
