@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [handle-broken-pipe-for-all-commands](https://github.com/dhth/jiracc/tree/handle-broken-pipe-for-all-commands) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [12fdf9f](https://github.com/dhth/jiracc/commit/12fdf9f37aca0e7beb7fd00679c04c8d675d9062) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 merged pull request [#30](https://github.com/dhth/jiracc/pull/30) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch handle-broken-pipe-for-all-commands in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#30](https://github.com/dhth/jiracc/pull/30) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch handle-broken-pipe-errors in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [516c7dc](https://github.com/dhth/jiracc/commit/516c7dc36da4472a99cbb7107d7eff14a05bdbaf) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [handle-broken-pipe-errors](https://github.com/dhth/jiracc/tree/handle-broken-pipe-errors) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 opened pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [2b2b4ad](https://github.com/dhth/dotfiles/commit/2b2b4ad75d718afc2567ea8a445b19dfdb791b9b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [9aa4c85](https://github.com/dhth/jiracc/commit/9aa4c85c3e63a59e3aa540403ca2c294e9b43719) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [3c31bfb](https://github.com/dhth/dotfiles/commit/3c31bfbefae826126d725c6f2071e9414046dc22) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 opened pull request [#28](https://github.com/dhth/jiracc/pull/28) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
