@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 💬 [commented on](https://github.com/dhth/jiracc/pull/31#issuecomment-5856217035) pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [d57fdb2](https://github.com/dhth/jiracc/commit/d57fdb29f315d8ea83bc169c474a2359e790b84d) to [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [06bbc30](https://github.com/dhth/jiracc/commit/06bbc30a1dfc78e5db4ef3f83216161b6113f0eb) to [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 opened pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [c24dcb9](https://github.com/dhth/remote-env/commit/c24dcb93cda0fcf13341559a0c3d36559caa2dae) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
 - 🌱 created branch [handle-broken-pipe-for-all-commands](https://github.com/dhth/jiracc/tree/handle-broken-pipe-for-all-commands) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [12fdf9f](https://github.com/dhth/jiracc/commit/12fdf9f37aca0e7beb7fd00679c04c8d675d9062) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#30](https://github.com/dhth/jiracc/pull/30) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch handle-broken-pipe-for-all-commands in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#30](https://github.com/dhth/jiracc/pull/30) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch handle-broken-pipe-errors in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [516c7dc](https://github.com/dhth/jiracc/commit/516c7dc36da4472a99cbb7107d7eff14a05bdbaf) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🌱 created branch [handle-broken-pipe-errors](https://github.com/dhth/jiracc/tree/handle-broken-pipe-errors) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#29](https://github.com/dhth/jiracc/pull/29) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
