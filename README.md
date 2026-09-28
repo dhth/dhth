@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [98c284d](https://github.com/dhth/dotfiles/commit/98c284dc1e59dc9064569e8516715f11a7d26dc7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch add-additional-error-context in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🔀 merged pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [36f8fa7](https://github.com/dhth/jiracc/commit/36f8fa7e57701e5b7ed36ca6018938c9fa5b8096) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 opened pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🌱 created branch [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - ⬆️ pushed [c24dcb9](https://github.com/dhth/remote-env/commit/c24dcb93cda0fcf13341559a0c3d36559caa2dae) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- 🌱 created branch [handle-broken-pipe-for-all-commands](https://github.com/dhth/jiracc/tree/handle-broken-pipe-for-all-commands) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
