@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [7699c32](https://github.com/dhth/envee/commit/7699c322dbbade52f621809e30d62ace5f4bba6f) to [main](https://github.com/dhth/envee/tree/main) in [dhth/envee](https://github.com/dhth/envee)
-- 🔀 closed pull request [#52](https://github.com/dhth/envee/pull/52) in [dhth/envee](https://github.com/dhth/envee)
-- 🔀 closed pull request [#51](https://github.com/dhth/envee/pull/51) in [dhth/envee](https://github.com/dhth/envee)
-- 🔀 merged pull request [#53](https://github.com/dhth/envee/pull/53) in [dhth/envee](https://github.com/dhth/envee)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/envee/tree/manage-devtools-and-tasks-via-mise) in [dhth/envee](https://github.com/dhth/envee)
-- 🔀 opened pull request [#53](https://github.com/dhth/envee/pull/53) in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [9902fea](https://github.com/dhth/dotfiles/commit/9902feaa676ecc5060ff14d038117fdd13e1349e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [01aae82](https://github.com/dhth/dotfiles/commit/01aae82c48c34b352649bc14fdd6f7434186f89c) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [98c284d](https://github.com/dhth/dotfiles/commit/98c284dc1e59dc9064569e8516715f11a7d26dc7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch add-additional-error-context in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🔀 closed pull request [#33](https://github.com/dhth/envee/pull/33) in [dhth/envee](https://github.com/dhth/envee)
+- 💬 [commented on](https://github.com/dhth/envee/pull/33#issuecomment-5900446585) pull request [#33](https://github.com/dhth/envee/pull/33) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 merged pull request [#56](https://github.com/dhth/envee/pull/56) in [dhth/envee](https://github.com/dhth/envee)
+- 📝 [commented on](https://github.com/dhth/envee/pull/56#pullrequestreview-5359355639) pull request [#56](https://github.com/dhth/envee/pull/56) in [dhth/envee](https://github.com/dhth/envee)
+- 💬 [commented on](https://github.com/dhth/envee/pull/56#issuecomment-5900342230) pull request [#56](https://github.com/dhth/envee/pull/56) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 opened pull request [#56](https://github.com/dhth/envee/pull/56) in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [ab1b52f](https://github.com/dhth/envee/commit/ab1b52fa8b9d8b6faa490ebfdbe299110f8770ac) to [main](https://github.com/dhth/envee/tree/main) in [dhth/envee](https://github.com/dhth/envee)
+- 🗑️ deleted branch allow-setting-heading-link in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 merged pull request [#55](https://github.com/dhth/envee/pull/55) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 opened pull request [#55](https://github.com/dhth/envee/pull/55) in [dhth/envee](https://github.com/dhth/envee)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
