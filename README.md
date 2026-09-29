@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [7699c32](https://github.com/dhth/envee/commit/7699c322dbbade52f621809e30d62ace5f4bba6f) to [main](https://github.com/dhth/envee/tree/main) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 closed pull request [#52](https://github.com/dhth/envee/pull/52) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 closed pull request [#51](https://github.com/dhth/envee/pull/51) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 merged pull request [#53](https://github.com/dhth/envee/pull/53) in [dhth/envee](https://github.com/dhth/envee)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/envee/tree/manage-devtools-and-tasks-via-mise) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 opened pull request [#53](https://github.com/dhth/envee/pull/53) in [dhth/envee](https://github.com/dhth/envee)
 - ⬆️ pushed [9902fea](https://github.com/dhth/dotfiles/commit/9902feaa676ecc5060ff14d038117fdd13e1349e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [01aae82](https://github.com/dhth/dotfiles/commit/01aae82c48c34b352649bc14fdd6f7434186f89c) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [98c284d](https://github.com/dhth/dotfiles/commit/98c284dc1e59dc9064569e8516715f11a7d26dc7) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch add-additional-error-context in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 merged pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [36f8fa7](https://github.com/dhth/jiracc/commit/36f8fa7e57701e5b7ed36ca6018938c9fa5b8096) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 💬 [commented on](https://github.com/dhth/jiracc/pull/31#issuecomment-5856217035) pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [d57fdb2](https://github.com/dhth/jiracc/commit/d57fdb29f315d8ea83bc169c474a2359e790b84d) to [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [06bbc30](https://github.com/dhth/jiracc/commit/06bbc30a1dfc78e5db4ef3f83216161b6113f0eb) to [add-additional-error-context](https://github.com/dhth/jiracc/tree/add-additional-error-context) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🔀 opened pull request [#31](https://github.com/dhth/jiracc/pull/31) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
