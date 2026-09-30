@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [b87cb97](https://github.com/dhth/tflens/commit/b87cb971e9e2cef75e69d8f782a14feda94f0d42) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [d190317](https://github.com/dhth/tflens/commit/d1903178cbbc290f7b3531fab8219528b62d6197) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 opened pull request [#81](https://github.com/dhth/ting/pull/81) in [dhth/ting](https://github.com/dhth/ting)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [55c2d90](https://github.com/dhth/tflens/commit/55c2d9020dc408c64fef7cbdafea23a71b216d43) to [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🌱 created branch [use-gh-attestations](https://github.com/dhth/tflens/tree/use-gh-attestations) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [1bb0a97](https://github.com/dhth/dotfiles/commit/1bb0a976371321074cbc3537a6579ea4e6a267b1) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [4c74151](https://github.com/dhth/tflens/commit/4c74151d5ef58e0b41b57df786ad27d10534b964) to [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/tflens/tree/manage-devtools-and-tasks-via-mise) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 merged pull request [#46](https://github.com/dhth/tflens/pull/46) in [dhth/tflens](https://github.com/dhth/tflens)
+- 🗑️ deleted branch allow-setting-heading-link in [dhth/envee](https://github.com/dhth/envee)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch upgrade-deps in [dhth/ting](https://github.com/dhth/ting)
+- ⬆️ pushed [19770d1](https://github.com/dhth/ting/commit/19770d1f49fdd371498da594e0d2cb1712b89b11) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [6a0766d](https://github.com/dhth/ting/commit/6a0766db835633f635d873d679214bbad9afd137) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch use-gh-attestations in [dhth/tflens](https://github.com/dhth/tflens)
+- 🔀 merged pull request [#82](https://github.com/dhth/ting/pull/82) in [dhth/ting](https://github.com/dhth/ting)
+- 🔀 opened pull request [#82](https://github.com/dhth/ting/pull/82) in [dhth/ting](https://github.com/dhth/ting)
+- 🔀 merged pull request [#81](https://github.com/dhth/ting/pull/81) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
