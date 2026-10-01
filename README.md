@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [c3197f7](https://github.com/dhth/tflens/commit/c3197f7d81b86acbfcdffc4f1b35c9fc86292525) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
+- ⬆️ pushed [2fffe8b](https://github.com/dhth/dotfiles/commit/2fffe8b28324ec740d6c3ffcfa7441134adad571) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [472a7d1](https://github.com/dhth/dotfiles/commit/472a7d158f6475f1e35fca920f1ebcb1bac2f0ef) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [75c1a25](https://github.com/dhth/ghlog-ts-effect/commit/75c1a25c00e5fbd9d3058fc28c762eb65e188e82) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [96df083](https://github.com/dhth/dotfiles/commit/96df0836ff27d439cf9ff894ba9d574746bd3261) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [c115161](https://github.com/dhth/dotfiles/commit/c115161eb02153e2c63c9af9083312e24811e75b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 merged pull request [#15](https://github.com/dhth/ghlog-ts-effect/pull/15) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [fb0e3ba](https://github.com/dhth/ghlog-ts-effect/commit/fb0e3ba958b35937171616a7580eeaf8b4c7cfd1) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🔀 opened pull request [#15](https://github.com/dhth/ghlog-ts-effect/pull/15) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [upgrade-deps](https://github.com/dhth/ghlog-ts-effect/tree/upgrade-deps) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#14](https://github.com/dhth/ghlog-ts-effect/pull/14) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#14](https://github.com/dhth/ghlog-ts-effect/pull/14) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ghlog-ts-effect/tree/manage-devtools-and-tasks-via-mise) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch allow-overriding-api-url in [dhth/envee](https://github.com/dhth/envee)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
