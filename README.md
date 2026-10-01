@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🌱 created branch [allow-setting-heading-link](https://github.com/dhth/envee/tree/allow-setting-heading-link) in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [9ca14aa](https://github.com/dhth/envee/commit/9ca14aabef5c6e5fcdfd669889fda0d0ed52beff) to [add-copy-to-cb-button-to-template](https://github.com/dhth/envee/tree/add-copy-to-cb-button-to-template) in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [0141e86](https://github.com/dhth/envee/commit/0141e86f664d5d003dabd7814d844477bd8c0bbb) to [add-copy-to-cb-button-to-template](https://github.com/dhth/envee/tree/add-copy-to-cb-button-to-template) in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [cb86b4d](https://github.com/dhth/ting/commit/cb86b4d37228ecdfc6196a8ac51095c5ddd64912) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [8806f9d](https://github.com/dhth/ting/commit/8806f9d5efd7a780c8d7d1b7a9889dc6cc9db8ad) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- 🗑️ deleted branch allow-setting-heading-link in [dhth/envee](https://github.com/dhth/envee)
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/ting](https://github.com/dhth/ting)
-- 🗑️ deleted branch upgrade-deps in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [19770d1](https://github.com/dhth/ting/commit/19770d1f49fdd371498da594e0d2cb1712b89b11) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [96df083](https://github.com/dhth/dotfiles/commit/96df0836ff27d439cf9ff894ba9d574746bd3261) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [c115161](https://github.com/dhth/dotfiles/commit/c115161eb02153e2c63c9af9083312e24811e75b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 merged pull request [#15](https://github.com/dhth/ghlog-ts-effect/pull/15) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- ⬆️ pushed [fb0e3ba](https://github.com/dhth/ghlog-ts-effect/commit/fb0e3ba958b35937171616a7580eeaf8b4c7cfd1) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#15](https://github.com/dhth/ghlog-ts-effect/pull/15) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [upgrade-deps](https://github.com/dhth/ghlog-ts-effect/tree/upgrade-deps) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 merged pull request [#14](https://github.com/dhth/ghlog-ts-effect/pull/14) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🔀 opened pull request [#14](https://github.com/dhth/ghlog-ts-effect/pull/14) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ghlog-ts-effect/tree/manage-devtools-and-tasks-via-mise) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
+- 🗑️ deleted branch allow-overriding-api-url in [dhth/envee](https://github.com/dhth/envee)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
