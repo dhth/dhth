@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [allow-setting-heading-link](https://github.com/dhth/envee/tree/allow-setting-heading-link) in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [9ca14aa](https://github.com/dhth/envee/commit/9ca14aabef5c6e5fcdfd669889fda0d0ed52beff) to [add-copy-to-cb-button-to-template](https://github.com/dhth/envee/tree/add-copy-to-cb-button-to-template) in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [0141e86](https://github.com/dhth/envee/commit/0141e86f664d5d003dabd7814d844477bd8c0bbb) to [add-copy-to-cb-button-to-template](https://github.com/dhth/envee/tree/add-copy-to-cb-button-to-template) in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [cb86b4d](https://github.com/dhth/ting/commit/cb86b4d37228ecdfc6196a8ac51095c5ddd64912) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
+- ⬆️ pushed [8806f9d](https://github.com/dhth/ting/commit/8806f9d5efd7a780c8d7d1b7a9889dc6cc9db8ad) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch allow-setting-heading-link in [dhth/envee](https://github.com/dhth/envee)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch upgrade-deps in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [19770d1](https://github.com/dhth/ting/commit/19770d1f49fdd371498da594e0d2cb1712b89b11) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [6a0766d](https://github.com/dhth/ting/commit/6a0766db835633f635d873d679214bbad9afd137) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- 🗑️ deleted branch use-gh-attestations in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 merged pull request [#82](https://github.com/dhth/ting/pull/82) in [dhth/ting](https://github.com/dhth/ting)
-- 🔀 opened pull request [#82](https://github.com/dhth/ting/pull/82) in [dhth/ting](https://github.com/dhth/ting)
-- 🔀 merged pull request [#81](https://github.com/dhth/ting/pull/81) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
