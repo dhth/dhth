@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [98e0f86](https://github.com/dhth/release-checks/commit/98e0f86c9758f5373ac7aff06260660be9c0dbfa) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
+- ⬆️ pushed [276890d](https://github.com/dhth/release-checks/commit/276890d84fab6348c8ba9a648aca1e98e4af2ba2) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
+- 🌱 created branch [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - ⬆️ pushed [0fed957](https://github.com/dhth/ting/commit/0fed957aa5d12c728872c93a18b69128b060fbb6) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
 - 🌱 created branch [upgrade-deps](https://github.com/dhth/ting/tree/upgrade-deps) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [f0ca1d6](https://github.com/dhth/ting/commit/f0ca1d62ae7742afc331451dd0f404391202df0d) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [6034833](https://github.com/dhth/tflens/commit/60348336e4f16638fbf69f84d3f212650a52be00) to [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
 - 🗑️ deleted branch improve-readme in [dhth/tflens](https://github.com/dhth/tflens)
 - ⬆️ pushed [0286912](https://github.com/dhth/tflens/commit/028691264370acb669f0f2a87b7adb27d76cb41c) to [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🌱 created branch [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
-- 🔀 opened pull request [#83](https://github.com/dhth/ting/pull/83) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [c3197f7](https://github.com/dhth/tflens/commit/c3197f7d81b86acbfcdffc4f1b35c9fc86292525) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
