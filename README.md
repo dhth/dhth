@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [0fed957](https://github.com/dhth/ting/commit/0fed957aa5d12c728872c93a18b69128b060fbb6) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/ting/tree/manage-devtools-and-tasks-via-mise) in [dhth/ting](https://github.com/dhth/ting)
 - 🌱 created branch [upgrade-deps](https://github.com/dhth/ting/tree/upgrade-deps) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [f0ca1d6](https://github.com/dhth/ting/commit/f0ca1d62ae7742afc331451dd0f404391202df0d) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [5f7b479](https://github.com/dhth/tflens/commit/5f7b47903cdb8411668d10cdbe743fbfd4c1b275) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [improve-readme](https://github.com/dhth/tflens/tree/improve-readme) in [dhth/tflens](https://github.com/dhth/tflens)
 - 🔀 opened pull request [#83](https://github.com/dhth/ting/pull/83) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [c3197f7](https://github.com/dhth/tflens/commit/c3197f7d81b86acbfcdffc4f1b35c9fc86292525) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [2fffe8b](https://github.com/dhth/dotfiles/commit/2fffe8b28324ec740d6c3ffcfa7441134adad571) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
