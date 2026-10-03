@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [10dfbae](https://github.com/dhth/release-checks/commit/10dfbaea97fc25c8a8d29c9687e177f24f0e0bdb) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - 🔀 merged pull request [#16](https://github.com/dhth/ghlog-ts-effect/pull/16) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch upgrade-to-effect-v4 in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [1f35963](https://github.com/dhth/ghlog-ts-effect/commit/1f35963f2127cd32e12abaa882eed610c4c76425) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#83](https://github.com/dhth/ting/pull/83) in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch publish-linux-arm-binary in [dhth/ting](https://github.com/dhth/ting)
 - 🔀 merged pull request [#84](https://github.com/dhth/ting/pull/84) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [881d6fd](https://github.com/dhth/ting/commit/881d6fdb474911493ebb4614ef591c901e819830) to [publish-linux-arm-binary](https://github.com/dhth/ting/tree/publish-linux-arm-binary) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
