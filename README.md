@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [effd56b](https://github.com/dhth/refit/commit/effd56bccdc7836ea65481fdd2d8da729fb2ea95) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/refit/tree/manage-devtools-and-tasks-via-mise) in [dhth/refit](https://github.com/dhth/refit)
+- 🔀 opened pull request [#12](https://github.com/dhth/refit/pull/12) in [dhth/refit](https://github.com/dhth/refit)
+- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/refit/tree/manage-devtools-and-tasks-via-mise) in [dhth/refit](https://github.com/dhth/refit)
+- ⬆️ pushed [73135e4](https://github.com/dhth/dotfiles/commit/73135e4a9802f371e4e55971feb1acd96e238eae) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [52d1b46](https://github.com/dhth/waiig/commit/52d1b461cb6f01cf823d9821cbd3b50b0522e5fb) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - ⬆️ pushed [e6457df](https://github.com/dhth/waiig/commit/e6457df8a275d8918facacf432a699610365b964) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - ⬆️ pushed [cf6a974](https://github.com/dhth/waiig/commit/cf6a974ca482132c092c3f9bfd9f3b8c27b95287) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - 🗑️ deleted branch bump-toolchain-to-1-99-0 in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch run-go-fix-on-ci in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [5163a6a](https://github.com/dhth/ting/commit/5163a6a5014fbe2b525185379b988b8b7245fe50) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- 🌱 created branch [run-go-fix-on-ci](https://github.com/dhth/punchout/tree/run-go-fix-on-ci) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🌱 created branch [bump-toolchain-to-1-99-0](https://github.com/dhth/ting/tree/bump-toolchain-to-1-99-0) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [99c2a1b](https://github.com/dhth/ting/commit/99c2a1bcfd8bf5fc5d91fc5c1580d29f0adbfcd8) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
-- ⬆️ pushed [10dfbae](https://github.com/dhth/release-checks/commit/10dfbaea97fc25c8a8d29c9687e177f24f0e0bdb) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
