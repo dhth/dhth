@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch bump-toolchain-to-1-99-0 in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch run-go-fix-on-ci in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [5163a6a](https://github.com/dhth/ting/commit/5163a6a5014fbe2b525185379b988b8b7245fe50) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
+- 🌱 created branch [run-go-fix-on-ci](https://github.com/dhth/punchout/tree/run-go-fix-on-ci) in [dhth/punchout](https://github.com/dhth/punchout)
+- 🌱 created branch [bump-toolchain-to-1-99-0](https://github.com/dhth/ting/tree/bump-toolchain-to-1-99-0) in [dhth/ting](https://github.com/dhth/ting)
+- ⬆️ pushed [99c2a1b](https://github.com/dhth/ting/commit/99c2a1bcfd8bf5fc5d91fc5c1580d29f0adbfcd8) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [10dfbae](https://github.com/dhth/release-checks/commit/10dfbaea97fc25c8a8d29c9687e177f24f0e0bdb) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - 🔀 merged pull request [#16](https://github.com/dhth/ghlog-ts-effect/pull/16) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - 🗑️ deleted branch upgrade-to-effect-v4 in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 - ⬆️ pushed [1f35963](https://github.com/dhth/ghlog-ts-effect/commit/1f35963f2127cd32e12abaa882eed610c4c76425) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 opened pull request [#16](https://github.com/dhth/ghlog-ts-effect/pull/16) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🌱 created branch [upgrade-to-effect-v4](https://github.com/dhth/ghlog-ts-effect/tree/upgrade-to-effect-v4) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch upgrade-deps in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🔀 merged pull request [#83](https://github.com/dhth/ting/pull/83) in [dhth/ting](https://github.com/dhth/ting)
-- 🗑️ deleted branch publish-linux-arm-binary in [dhth/ting](https://github.com/dhth/ting)
-- 🔀 merged pull request [#84](https://github.com/dhth/ting/pull/84) in [dhth/ting](https://github.com/dhth/ting)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
