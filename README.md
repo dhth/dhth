@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [52d1b46](https://github.com/dhth/waiig/commit/52d1b461cb6f01cf823d9821cbd3b50b0522e5fb) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
+- ⬆️ pushed [e6457df](https://github.com/dhth/waiig/commit/e6457df8a275d8918facacf432a699610365b964) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
+- ⬆️ pushed [cf6a974](https://github.com/dhth/waiig/commit/cf6a974ca482132c092c3f9bfd9f3b8c27b95287) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - 🗑️ deleted branch bump-toolchain-to-1-99-0 in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch run-go-fix-on-ci in [dhth/punchout](https://github.com/dhth/punchout)
 - ⬆️ pushed [5163a6a](https://github.com/dhth/ting/commit/5163a6a5014fbe2b525185379b988b8b7245fe50) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [bump-toolchain-to-1-99-0](https://github.com/dhth/ting/tree/bump-toolchain-to-1-99-0) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [99c2a1b](https://github.com/dhth/ting/commit/99c2a1bcfd8bf5fc5d91fc5c1580d29f0adbfcd8) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
 - ⬆️ pushed [10dfbae](https://github.com/dhth/release-checks/commit/10dfbaea97fc25c8a8d29c9687e177f24f0e0bdb) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
-- 🔀 merged pull request [#16](https://github.com/dhth/ghlog-ts-effect/pull/16) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- 🗑️ deleted branch upgrade-to-effect-v4 in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
-- ⬆️ pushed [1f35963](https://github.com/dhth/ghlog-ts-effect/commit/1f35963f2127cd32e12abaa882eed610c4c76425) to [main](https://github.com/dhth/ghlog-ts-effect/tree/main) in [dhth/ghlog-ts-effect](https://github.com/dhth/ghlog-ts-effect)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
