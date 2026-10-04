@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [699704c](https://github.com/dhth/release-checks/commit/699704c3bfe77267a6e756795f9f6a574b23149a) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - ⬆️ pushed [da1b950](https://github.com/dhth/release-checks/commit/da1b9502ccd1bedd76516bf8ea458e98db07db36) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - ⬆️ pushed [abcd310](https://github.com/dhth/waiig/commit/abcd310e339b8301b7c64bad20c6500c3691ae87) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - ⬆️ pushed [f85130e](https://github.com/dhth/refit/commit/f85130e210ac5ca93d97664243aeea774a2b6abb) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#12](https://github.com/dhth/refit/pull/12) in [dhth/refit](https://github.com/dhth/refit)
 - ⬆️ pushed [effd56b](https://github.com/dhth/refit/commit/effd56bccdc7836ea65481fdd2d8da729fb2ea95) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/refit/tree/manage-devtools-and-tasks-via-mise) in [dhth/refit](https://github.com/dhth/refit)
 - 🔀 opened pull request [#12](https://github.com/dhth/refit/pull/12) in [dhth/refit](https://github.com/dhth/refit)
-- 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/refit/tree/manage-devtools-and-tasks-via-mise) in [dhth/refit](https://github.com/dhth/refit)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
