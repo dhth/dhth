@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [38eb059](https://github.com/dhth/dotfiles/commit/38eb0595345547db93ed9c6302be8a93392ac911) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [7fc7244](https://github.com/dhth/release-checks/commit/7fc7244dc3b59fc13f559840da6fa025fdc06aa7) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
-- ⬆️ pushed [7a98db2](https://github.com/dhth/punchout/commit/7a98db28bc4096e5c830d6b2c1ffc7da4060f087) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- ⬆️ pushed [44d20a8](https://github.com/dhth/nvim/commit/44d20a8758be861d84cc3df5279819866f2195f9) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [f207a8c](https://github.com/dhth/dotfiles/commit/f207a8c41932c950c0180e3a537d371f9f11facd) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [465a6cc](https://github.com/dhth/refit/commit/465a6ccdbdbba9fd132d196893df699c4d9ebc60) to [add-release-workflow](https://github.com/dhth/refit/tree/add-release-workflow) in [dhth/refit](https://github.com/dhth/refit)
-- 🌱 created branch [add-release-workflow](https://github.com/dhth/refit/tree/add-release-workflow) in [dhth/refit](https://github.com/dhth/refit)
-- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/refit](https://github.com/dhth/refit)
-- ⬆️ pushed [699704c](https://github.com/dhth/release-checks/commit/699704c3bfe77267a6e756795f9f6a574b23149a) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
-- ⬆️ pushed [da1b950](https://github.com/dhth/release-checks/commit/da1b9502ccd1bedd76516bf8ea458e98db07db36) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
+- 🗑️ deleted branch fix-telescope-startup in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 merged pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 opened pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [0936df6](https://github.com/dhth/dotfiles/commit/0936df6e6dc6884983dcb7104a159fca7fc14572) to [fix-telescope-startup](https://github.com/dhth/dotfiles/tree/fix-telescope-startup) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [986a512](https://github.com/dhth/dotfiles/commit/986a512e4b23ef5fb8daf448573be4537080ae45) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🌱 created branch [fix-telescope-startup](https://github.com/dhth/dotfiles/tree/fix-telescope-startup) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [9bf56af](https://github.com/dhth/waiig/commit/9bf56af2984ae599da51e770ecb976317beb1b83) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
+- 🔀 merged pull request [#2](https://github.com/dhth/dotfiles/pull/2) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [931d277](https://github.com/dhth/dotfiles/commit/931d277d0059b0595fbda1efa6f778b993b2bc47) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 opened pull request [#2](https://github.com/dhth/dotfiles/pull/2) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
