@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [7a98db2](https://github.com/dhth/punchout/commit/7a98db28bc4096e5c830d6b2c1ffc7da4060f087) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
+- ⬆️ pushed [44d20a8](https://github.com/dhth/nvim/commit/44d20a8758be861d84cc3df5279819866f2195f9) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
+- ⬆️ pushed [f207a8c](https://github.com/dhth/dotfiles/commit/f207a8c41932c950c0180e3a537d371f9f11facd) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [465a6cc](https://github.com/dhth/refit/commit/465a6ccdbdbba9fd132d196893df699c4d9ebc60) to [add-release-workflow](https://github.com/dhth/refit/tree/add-release-workflow) in [dhth/refit](https://github.com/dhth/refit)
+- 🌱 created branch [add-release-workflow](https://github.com/dhth/refit/tree/add-release-workflow) in [dhth/refit](https://github.com/dhth/refit)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/refit](https://github.com/dhth/refit)
 - ⬆️ pushed [699704c](https://github.com/dhth/release-checks/commit/699704c3bfe77267a6e756795f9f6a574b23149a) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - ⬆️ pushed [da1b950](https://github.com/dhth/release-checks/commit/da1b9502ccd1bedd76516bf8ea458e98db07db36) to [main](https://github.com/dhth/release-checks/tree/main) in [dhth/release-checks](https://github.com/dhth/release-checks)
 - ⬆️ pushed [abcd310](https://github.com/dhth/waiig/commit/abcd310e339b8301b7c64bad20c6500c3691ae87) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - ⬆️ pushed [f85130e](https://github.com/dhth/refit/commit/f85130e210ac5ca93d97664243aeea774a2b6abb) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
-- 🗑️ deleted branch add-release-workflow in [dhth/refit](https://github.com/dhth/refit)
-- 🔀 merged pull request [#13](https://github.com/dhth/refit/pull/13) in [dhth/refit](https://github.com/dhth/refit)
-- 🔀 opened pull request [#13](https://github.com/dhth/refit/pull/13) in [dhth/refit](https://github.com/dhth/refit)
-- 🔀 merged pull request [#12](https://github.com/dhth/refit/pull/12) in [dhth/refit](https://github.com/dhth/refit)
-- ⬆️ pushed [effd56b](https://github.com/dhth/refit/commit/effd56bccdc7836ea65481fdd2d8da729fb2ea95) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/refit/tree/manage-devtools-and-tasks-via-mise) in [dhth/refit](https://github.com/dhth/refit)
-- 🔀 opened pull request [#12](https://github.com/dhth/refit/pull/12) in [dhth/refit](https://github.com/dhth/refit)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
