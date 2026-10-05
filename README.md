@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [3345009](https://github.com/dhth/dotfiles/commit/33450092507cdf180df3d6daa4ca189ccf3ed158) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [ef5f53d](https://github.com/dhth/waiig/commit/ef5f53d0d33ad96733224214b754d64004dfd99c) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - 🗑️ deleted branch fix-telescope-startup in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 merged pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 opened pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [fix-telescope-startup](https://github.com/dhth/dotfiles/tree/fix-telescope-startup) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [9bf56af](https://github.com/dhth/waiig/commit/9bf56af2984ae599da51e770ecb976317beb1b83) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
 - 🔀 merged pull request [#2](https://github.com/dhth/dotfiles/pull/2) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [931d277](https://github.com/dhth/dotfiles/commit/931d277d0059b0595fbda1efa6f778b993b2bc47) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 opened pull request [#2](https://github.com/dhth/dotfiles/pull/2) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
