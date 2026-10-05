@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [3345009](https://github.com/dhth/dotfiles/commit/33450092507cdf180df3d6daa4ca189ccf3ed158) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [ef5f53d](https://github.com/dhth/waiig/commit/ef5f53d0d33ad96733224214b754d64004dfd99c) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
-- 🗑️ deleted branch fix-telescope-startup in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 merged pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 opened pull request [#3](https://github.com/dhth/dotfiles/pull/3) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [0936df6](https://github.com/dhth/dotfiles/commit/0936df6e6dc6884983dcb7104a159fca7fc14572) to [fix-telescope-startup](https://github.com/dhth/dotfiles/tree/fix-telescope-startup) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [986a512](https://github.com/dhth/dotfiles/commit/986a512e4b23ef5fb8daf448573be4537080ae45) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🌱 created branch [fix-telescope-startup](https://github.com/dhth/dotfiles/tree/fix-telescope-startup) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [9bf56af](https://github.com/dhth/waiig/commit/9bf56af2984ae599da51e770ecb976317beb1b83) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
-- 🔀 merged pull request [#2](https://github.com/dhth/dotfiles/pull/2) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [6ed238a](https://github.com/dhth/refit/commit/6ed238ab4a15a973aef485a7de6b8a950d9f23e1) to [add-release-workflow](https://github.com/dhth/refit/tree/add-release-workflow) in [dhth/refit](https://github.com/dhth/refit)
+- ⬆️ pushed [0a98d23](https://github.com/dhth/refit/commit/0a98d23e352a5584840daf2f6f6a56ef2574c588) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
+- 🗑️ deleted branch clean-up-unused-vimscript in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [de7ded8](https://github.com/dhth/dotfiles/commit/de7ded854b33dec0fda75a304b18f46095f60c22) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 merged pull request [#4](https://github.com/dhth/dotfiles/pull/4) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [f5f4ae0](https://github.com/dhth/dotfiles/commit/f5f4ae05cb3399970b3107ae829f04a937be5cf7) to [clean-up-unused-vimscript](https://github.com/dhth/dotfiles/tree/clean-up-unused-vimscript) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🔀 opened pull request [#4](https://github.com/dhth/dotfiles/pull/4) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🌱 created branch [clean-up-unused-vimscript](https://github.com/dhth/dotfiles/tree/clean-up-unused-vimscript) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [32f5884](https://github.com/dhth/refit/commit/32f588433f9bbef872cccdb90a16ddbd77105067) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
+- ⬆️ pushed [dae50d7](https://github.com/dhth/refit/commit/dae50d7178bef0eb8b7aa02a7b993b1bce9e191d) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
