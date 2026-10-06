@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [2bb07f5](https://github.com/dhth/dotfiles/commit/2bb07f53928bca56170d962537111a1f65a528e2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [d88f325](https://github.com/dhth/dotfiles/commit/d88f325741ef288f883002511be7183cf8621e74) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [51f00a0](https://github.com/dhth/dotfiles/commit/51f00a03df4ccb27370d18ebad1e9b389e83476f) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [c1d4f95](https://github.com/dhth/terminal-control/commit/c1d4f95e4f1b7638f6229e9bfc9599a955f95ce2) to [main](https://github.com/dhth/terminal-control/tree/main) in [dhth/terminal-control](https://github.com/dhth/terminal-control)
+- ⬆️ pushed [90b8936](https://github.com/dhth/dotfiles/commit/90b8936dcac233fb6d74d1ade51ca7ad2ab75416) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [ff57d21](https://github.com/dhth/dotfiles/commit/ff57d21c7b20b313160a7b83937b4c931871a79b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [remove-unused-nvim-helpers](https://github.com/dhth/dotfiles/tree/remove-unused-nvim-helpers) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [e92bdd0](https://github.com/dhth/dotfiles/commit/e92bdd04152de6e0e72e2a954f9c476ee71e94fb) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [560734c](https://github.com/dhth/dotfiles/commit/560734c483fdba3a7e3a8a807f1031638d64b322) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [0eee739](https://github.com/dhth/nvim/commit/0eee739e6ec8d322a34867fe86737b45c72d83bd) to [main](https://github.com/dhth/nvim/tree/main) in [dhth/nvim](https://github.com/dhth/nvim)
-- ⬆️ pushed [d992723](https://github.com/dhth/dotfiles/commit/d99272328bc4fe06e86ee7e56a1027efb4478336) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 closed pull request [#1](https://github.com/dhth/terminal-control/pull/1) in [dhth/terminal-control](https://github.com/dhth/terminal-control)
-- 🔀 opened pull request [#2](https://github.com/dhth/terminal-control/pull/2) in [dhth/terminal-control](https://github.com/dhth/terminal-control)
-- 🌱 created branch [release-linux-musl-binary-2](https://github.com/dhth/terminal-control/tree/release-linux-musl-binary-2) in [dhth/terminal-control](https://github.com/dhth/terminal-control)
-- 🔀 merged pull request [#10](https://github.com/dhth/dotfiles/pull/10) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
