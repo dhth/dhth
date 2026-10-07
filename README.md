@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [c93833b](https://github.com/dhth/dotfiles/commit/c93833be71dd089e83b92ad76e4f1bdeed3fa86b) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [acc7f34](https://github.com/dhth/dotfiles/commit/acc7f34b142c2bb27abb9a2a280fcdda5bac95b6) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [67ed286](https://github.com/dhth/dotfiles/commit/67ed28696fefeff75d0be23be5330acaf0a35f07) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/squish](https://github.com/dhth/squish)
+- ⬆️ pushed [8feee19](https://github.com/dhth/squish/commit/8feee19ee32008de49f972b984a9e994211545e4) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
 - ⬆️ pushed [71707db](https://github.com/dhth/dotfiles/commit/71707dbac14a8f9ac989dc7993486417a26a8c71) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🔀 merged pull request [#91](https://github.com/dhth/squish/pull/91) in [dhth/squish](https://github.com/dhth/squish)
 - ⬆️ pushed [17555d8](https://github.com/dhth/dotfiles/commit/17555d8887cec0fec4445988bed12cc35686a5f0) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [8e3a68d](https://github.com/dhth/dotfiles/commit/8e3a68d014c66a46b255efdd631f0838cdaaa122) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [f1706cf](https://github.com/dhth/dotfiles/commit/f1706cf660978651335dc969658619f7e85c353e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch remove-unused-nvim-helpers in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🌱 created branch [symlink-utils-in-orbs](https://github.com/dhth/dotfiles/tree/symlink-utils-in-orbs) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [192b59f](https://github.com/dhth/remote-env/commit/192b59f78739d1cdd259c32f64f5a727d3ed3ca5) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
-- ⬆️ pushed [9ce6349](https://github.com/dhth/dotfiles/commit/9ce63491ca6e7bc0064725d8fb45fea47d150e77) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [c902200](https://github.com/dhth/squish/commit/c902200ad3932789fa518404b2485035de0d0adc) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/squish/tree/manage-devtools-and-tasks-via-mise) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
