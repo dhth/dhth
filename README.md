@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [17555d8](https://github.com/dhth/dotfiles/commit/17555d8887cec0fec4445988bed12cc35686a5f0) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [8e3a68d](https://github.com/dhth/dotfiles/commit/8e3a68d014c66a46b255efdd631f0838cdaaa122) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [f1706cf](https://github.com/dhth/dotfiles/commit/f1706cf660978651335dc969658619f7e85c353e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch remove-unused-nvim-helpers in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🌱 created branch [symlink-utils-in-orbs](https://github.com/dhth/dotfiles/tree/symlink-utils-in-orbs) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [192b59f](https://github.com/dhth/remote-env/commit/192b59f78739d1cdd259c32f64f5a727d3ed3ca5) to [main](https://github.com/dhth/remote-env/tree/main) in [dhth/remote-env](https://github.com/dhth/remote-env)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [c902200](https://github.com/dhth/squish/commit/c902200ad3932789fa518404b2485035de0d0adc) to [manage-devtools-and-tasks-via-mise](https://github.com/dhth/squish/tree/manage-devtools-and-tasks-via-mise) in [dhth/squish](https://github.com/dhth/squish)
 - 🌱 created branch [manage-devtools-and-tasks-via-mise](https://github.com/dhth/squish/tree/manage-devtools-and-tasks-via-mise) in [dhth/squish](https://github.com/dhth/squish)
 - 🔀 opened pull request [#91](https://github.com/dhth/squish/pull/91) in [dhth/squish](https://github.com/dhth/squish)
-- ⬆️ pushed [f009e28](https://github.com/dhth/dotfiles/commit/f009e28311d0031b64be6d5d8ba2412026559b5c) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [cdd4f18](https://github.com/dhth/dotfiles/commit/cdd4f18e38c30f710069a1a32feb81c12e56f859) to [set-up-orb-env](https://github.com/dhth/dotfiles/tree/set-up-orb-env) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [ac70b83](https://github.com/dhth/dotfiles/commit/ac70b83ed0f0e7d6b8685564c503e259bcbe5ec8) to [migrate-vimscript-logic-to-lua](https://github.com/dhth/dotfiles/tree/migrate-vimscript-logic-to-lua) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
