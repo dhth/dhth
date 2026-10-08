@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [c6fe7ea](https://github.com/dhth/dotfiles/commit/c6fe7ea083d3debb7e27ef228282387a52a4c35a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [816499a](https://github.com/dhth/dotfiles/commit/816499af9d4dfa18994c32eb1bd1b1dee37e9591) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [9e56989](https://github.com/dhth/dotfiles/commit/9e569893dc9cf8c0bdbc43e90c091091054c2987) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [4175d29](https://github.com/dhth/dotfiles/commit/4175d29bc3f6996aed24d94770cfa2b3487fc9ae) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [8b9c6d9](https://github.com/dhth/dotfiles/commit/8b9c6d9fe49d844d33458b213cc1decae2c5bd75) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [67ed286](https://github.com/dhth/dotfiles/commit/67ed28696fefeff75d0be23be5330acaf0a35f07) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/squish](https://github.com/dhth/squish)
 - ⬆️ pushed [8feee19](https://github.com/dhth/squish/commit/8feee19ee32008de49f972b984a9e994211545e4) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
-- ⬆️ pushed [71707db](https://github.com/dhth/dotfiles/commit/71707dbac14a8f9ac989dc7993486417a26a8c71) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 merged pull request [#91](https://github.com/dhth/squish/pull/91) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
