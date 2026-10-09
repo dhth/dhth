@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [15a89bb](https://github.com/dhth/dotfiles/commit/15a89bbad284895a2b524799fc835d526cd5cef2) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [c6fe7ea](https://github.com/dhth/dotfiles/commit/c6fe7ea083d3debb7e27ef228282387a52a4c35a) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [816499a](https://github.com/dhth/dotfiles/commit/816499af9d4dfa18994c32eb1bd1b1dee37e9591) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [9e56989](https://github.com/dhth/dotfiles/commit/9e569893dc9cf8c0bdbc43e90c091091054c2987) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [acc7f34](https://github.com/dhth/dotfiles/commit/acc7f34b142c2bb27abb9a2a280fcdda5bac95b6) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [67ed286](https://github.com/dhth/dotfiles/commit/67ed28696fefeff75d0be23be5330acaf0a35f07) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch manage-devtools-and-tasks-via-mise in [dhth/squish](https://github.com/dhth/squish)
-- ⬆️ pushed [8feee19](https://github.com/dhth/squish/commit/8feee19ee32008de49f972b984a9e994211545e4) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
