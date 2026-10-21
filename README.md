@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [375ca42](https://github.com/dhth/dotfiles/commit/375ca429caf5c3657b59d0d0bb7f33184a8106d1) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [8447e6e](https://github.com/dhth/dotfiles/commit/8447e6e2463d6e2956a4d9f61cb10a65a6e30739) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [6ce33ea](https://github.com/dhth/dotfiles/commit/6ce33ead33f27bfbe9cd8856fb13353906d0600e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [4d9f726](https://github.com/dhth/dotfiles/commit/4d9f7266d73c5e05322390c53f05c03d9e9b59cc) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [e4f54cf](https://github.com/dhth/dotfiles/commit/e4f54cf4e1666989fb79a91fdcf0b6127147a5a1) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - 🗑️ deleted branch upgrade-tools in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [d7c5daf](https://github.com/dhth/dotfiles/commit/d7c5daffdee3ec3a41573901f6b4738d901b5fba) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🔀 merged pull request [#11](https://github.com/dhth/dotfiles/pull/11) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
