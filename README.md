@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [4d814c9](https://github.com/dhth/jiracc/commit/4d814c98500bc057a618ba9a89f178e2d3458f00) to [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [fa73d5b](https://github.com/dhth/jiracc/commit/fa73d5bff8301d0211a9e66602a5e63a6a1ab56e) to [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [fc829b3](https://github.com/dhth/jiracc/commit/fc829b3624dd3ebdfcf4169c9a802b36b1d07a80) to [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [120efad](https://github.com/dhth/punchout/commit/120efada069aa6139507daed04cc4b92011cf2e7) to [main](https://github.com/dhth/punchout/tree/main) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#185](https://github.com/dhth/punchout/pull/185) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 merged pull request [#186](https://github.com/dhth/punchout/pull/186) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#186](https://github.com/dhth/punchout/pull/186) in [dhth/punchout](https://github.com/dhth/punchout)
-- 🔀 opened pull request [#185](https://github.com/dhth/punchout/pull/185) in [dhth/punchout](https://github.com/dhth/punchout)
-- 💬 [commented on](https://github.com/dhth/jiracc/pull/28#issuecomment-6324209631) pull request [#28](https://github.com/dhth/jiracc/pull/28) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- ⬆️ pushed [87fbed7](https://github.com/dhth/jiracc/commit/87fbed74bf687d5e25fb34d0197da283cdb61d1e) to [explore-mbx](https://github.com/dhth/jiracc/tree/explore-mbx) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [8524fcd](https://github.com/dhth/unreleased/commit/8524fcd1276b0653e0aa862d750303a9d2223186) to [bump-rustls-webpki](https://github.com/dhth/unreleased/tree/bump-rustls-webpki) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🔀 merged pull request [#57](https://github.com/dhth/envee/pull/57) in [dhth/envee](https://github.com/dhth/envee)
+- 🔀 merged pull request [#55](https://github.com/dhth/grafq/pull/55) in [dhth/grafq](https://github.com/dhth/grafq)
+- 🔀 merged pull request [#130](https://github.com/dhth/cueitup/pull/130) in [dhth/cueitup](https://github.com/dhth/cueitup)
+- 🔀 merged pull request [#49](https://github.com/dhth/agx/pull/49) in [dhth/agx](https://github.com/dhth/agx)
+- 🔀 merged pull request [#66](https://github.com/dhth/urll/pull/66) in [dhth/urll](https://github.com/dhth/urll)
+- 🔀 merged pull request [#184](https://github.com/dhth/ecsv/pull/184) in [dhth/ecsv](https://github.com/dhth/ecsv)
+- 🔀 merged pull request [#167](https://github.com/dhth/outtasync/pull/167) in [dhth/outtasync](https://github.com/dhth/outtasync)
+- ⬆️ pushed [de6efa9](https://github.com/dhth/grafq/commit/de6efa93eca93fbec6be0346dc3ffd08ca488f44) to [bump-rustls-webpki](https://github.com/dhth/grafq/tree/bump-rustls-webpki) in [dhth/grafq](https://github.com/dhth/grafq)
+- ⬆️ pushed [fb2efb3](https://github.com/dhth/outtasync/commit/fb2efb3503eb60864faaa5ed34bdcec9c0163731) to [bump-go-1.27.3](https://github.com/dhth/outtasync/tree/bump-go-1.27.3) in [dhth/outtasync](https://github.com/dhth/outtasync)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
