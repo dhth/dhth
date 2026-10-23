@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [8524fcd](https://github.com/dhth/unreleased/commit/8524fcd1276b0653e0aa862d750303a9d2223186) to [bump-rustls-webpki](https://github.com/dhth/unreleased/tree/bump-rustls-webpki) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 merged pull request [#57](https://github.com/dhth/envee/pull/57) in [dhth/envee](https://github.com/dhth/envee)
-- 🔀 merged pull request [#55](https://github.com/dhth/grafq/pull/55) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 merged pull request [#130](https://github.com/dhth/cueitup/pull/130) in [dhth/cueitup](https://github.com/dhth/cueitup)
-- 🔀 merged pull request [#49](https://github.com/dhth/agx/pull/49) in [dhth/agx](https://github.com/dhth/agx)
-- 🔀 merged pull request [#66](https://github.com/dhth/urll/pull/66) in [dhth/urll](https://github.com/dhth/urll)
-- 🔀 merged pull request [#184](https://github.com/dhth/ecsv/pull/184) in [dhth/ecsv](https://github.com/dhth/ecsv)
-- 🔀 merged pull request [#167](https://github.com/dhth/outtasync/pull/167) in [dhth/outtasync](https://github.com/dhth/outtasync)
-- ⬆️ pushed [de6efa9](https://github.com/dhth/grafq/commit/de6efa93eca93fbec6be0346dc3ffd08ca488f44) to [bump-rustls-webpki](https://github.com/dhth/grafq/tree/bump-rustls-webpki) in [dhth/grafq](https://github.com/dhth/grafq)
-- ⬆️ pushed [fb2efb3](https://github.com/dhth/outtasync/commit/fb2efb3503eb60864faaa5ed34bdcec9c0163731) to [bump-go-1.27.3](https://github.com/dhth/outtasync/tree/bump-go-1.27.3) in [dhth/outtasync](https://github.com/dhth/outtasync)
+- ⬆️ pushed [345f3f5](https://github.com/dhth/envee/commit/345f3f5aca82f7e1bc7076dcdea02f8c41b07a7c) to [bump-rustls-webpki](https://github.com/dhth/envee/tree/bump-rustls-webpki) in [dhth/envee](https://github.com/dhth/envee)
+- ⬆️ pushed [ce88ff2](https://github.com/dhth/dotfiles/commit/ce88ff2c37df0f4369b2a961023c9950cb662d1e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/ecscope](https://github.com/dhth/ecscope)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [1c16f62](https://github.com/dhth/jiracc/commit/1c16f62d685c87776f0105cbad892ca5bc3eccf1) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch bump-go-1.27.3 in [dhth/cueitup](https://github.com/dhth/cueitup)
+- ⬆️ pushed [9d77d5e](https://github.com/dhth/act3/commit/9d77d5e19be4448894ddf867ea76801dbb138835) to [main](https://github.com/dhth/act3/tree/main) in [dhth/act3](https://github.com/dhth/act3)
+- ⬆️ pushed [8a5b79f](https://github.com/dhth/agx/commit/8a5b79f6415445c5ab20d131c0af81d45c2e66ac) to [bump-rustls-webpki](https://github.com/dhth/agx/tree/bump-rustls-webpki) in [dhth/agx](https://github.com/dhth/agx)
+- ⬆️ pushed [e482521](https://github.com/dhth/ghlog/commit/e482521f5d76aa1e1e93d01db0e0b90600691860) to [bump-rustls-webpki](https://github.com/dhth/ghlog/tree/bump-rustls-webpki) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [a655efb](https://github.com/dhth/ecscope/commit/a655efbe67b0876baf86217cef20298918cc8705) to [bump-rustls-webpki](https://github.com/dhth/ecscope/tree/bump-rustls-webpki) in [dhth/ecscope](https://github.com/dhth/ecscope)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
