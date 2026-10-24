@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [345f3f5](https://github.com/dhth/envee/commit/345f3f5aca82f7e1bc7076dcdea02f8c41b07a7c) to [bump-rustls-webpki](https://github.com/dhth/envee/tree/bump-rustls-webpki) in [dhth/envee](https://github.com/dhth/envee)
-- ⬆️ pushed [ce88ff2](https://github.com/dhth/dotfiles/commit/ce88ff2c37df0f4369b2a961023c9950cb662d1e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- 🗑️ deleted branch bump-rustls-webpki in [dhth/ecscope](https://github.com/dhth/ecscope)
-- 🗑️ deleted branch bump-rustls-webpki in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [1c16f62](https://github.com/dhth/jiracc/commit/1c16f62d685c87776f0105cbad892ca5bc3eccf1) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch bump-go-1.27.3 in [dhth/cueitup](https://github.com/dhth/cueitup)
-- ⬆️ pushed [9d77d5e](https://github.com/dhth/act3/commit/9d77d5e19be4448894ddf867ea76801dbb138835) to [main](https://github.com/dhth/act3/tree/main) in [dhth/act3](https://github.com/dhth/act3)
-- ⬆️ pushed [8a5b79f](https://github.com/dhth/agx/commit/8a5b79f6415445c5ab20d131c0af81d45c2e66ac) to [bump-rustls-webpki](https://github.com/dhth/agx/tree/bump-rustls-webpki) in [dhth/agx](https://github.com/dhth/agx)
-- ⬆️ pushed [e482521](https://github.com/dhth/ghlog/commit/e482521f5d76aa1e1e93d01db0e0b90600691860) to [bump-rustls-webpki](https://github.com/dhth/ghlog/tree/bump-rustls-webpki) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [a655efb](https://github.com/dhth/ecscope/commit/a655efbe67b0876baf86217cef20298918cc8705) to [bump-rustls-webpki](https://github.com/dhth/ecscope/tree/bump-rustls-webpki) in [dhth/ecscope](https://github.com/dhth/ecscope)
+- ⬆️ pushed [a805189](https://github.com/dhth/tflens/commit/a8051892bd9f05fefe49267adcdc98f954acc6fa) to [bump-go-1.27.3](https://github.com/dhth/tflens/tree/bump-go-1.27.3) in [dhth/tflens](https://github.com/dhth/tflens)
+- ⬆️ pushed [24a7f19](https://github.com/dhth/unreleased/commit/24a7f191e2c820b3831b5279d6e655ead56782b5) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🗑️ deleted branch bump-go-1.27.3 in [dhth/act3](https://github.com/dhth/act3)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/hours/tree/bump-go-1.27.3) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [6956f0f](https://github.com/dhth/ecscope/commit/6956f0fb583c5f479d7ff8afa2c974fa712b0edc) to [main](https://github.com/dhth/ecscope/tree/main) in [dhth/ecscope](https://github.com/dhth/ecscope)
+- ⬆️ pushed [df97e74](https://github.com/dhth/ghlog/commit/df97e746fdc6fc2c41f65b0d03227bb397716e9c) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/schemas/tree/bump-go-1.27.3) in [dhth/schemas](https://github.com/dhth/schemas)
+- ⬆️ pushed [488c230](https://github.com/dhth/mrj/commit/488c230d284b9b81d41ef6bc4c75e38eaf65513f) to [bump-rustls-webpki](https://github.com/dhth/mrj/tree/bump-rustls-webpki) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/envee](https://github.com/dhth/envee)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/unreleased](https://github.com/dhth/unreleased)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
