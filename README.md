@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- ⬆️ pushed [a805189](https://github.com/dhth/tflens/commit/a8051892bd9f05fefe49267adcdc98f954acc6fa) to [bump-go-1.27.3](https://github.com/dhth/tflens/tree/bump-go-1.27.3) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [24a7f19](https://github.com/dhth/unreleased/commit/24a7f191e2c820b3831b5279d6e655ead56782b5) to [main](https://github.com/dhth/unreleased/tree/main) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🗑️ deleted branch bump-go-1.27.3 in [dhth/act3](https://github.com/dhth/act3)
-- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/hours/tree/bump-go-1.27.3) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [6956f0f](https://github.com/dhth/ecscope/commit/6956f0fb583c5f479d7ff8afa2c974fa712b0edc) to [main](https://github.com/dhth/ecscope/tree/main) in [dhth/ecscope](https://github.com/dhth/ecscope)
-- ⬆️ pushed [df97e74](https://github.com/dhth/ghlog/commit/df97e746fdc6fc2c41f65b0d03227bb397716e9c) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/schemas/tree/bump-go-1.27.3) in [dhth/schemas](https://github.com/dhth/schemas)
-- ⬆️ pushed [488c230](https://github.com/dhth/mrj/commit/488c230d284b9b81d41ef6bc4c75e38eaf65513f) to [bump-rustls-webpki](https://github.com/dhth/mrj/tree/bump-rustls-webpki) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🗑️ deleted branch bump-rustls-webpki in [dhth/envee](https://github.com/dhth/envee)
-- 🗑️ deleted branch bump-rustls-webpki in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🗑️ deleted branch bump-go-1.27.3 in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
+- ⬆️ pushed [d2bb0b2](https://github.com/dhth/tflens/commit/d2bb0b200ed5d8fc6d7869b5c9da33678159dd47) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
+- ⬆️ pushed [2b1f6b2](https://github.com/dhth/commits/commit/2b1f6b248d8d46e4df5ba8b5c1f8e48a420f1982) to [support-worktrees](https://github.com/dhth/commits/tree/support-worktrees) in [dhth/commits](https://github.com/dhth/commits)
+- ⬆️ pushed [4ca2b48](https://github.com/dhth/hours/commit/4ca2b483156a29e0402ca75c4554cb11d3548431) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [86b34eb](https://github.com/dhth/gobrewtest/commit/86b34ebd15c810bec5fe69cb231c3e7549eb1cd1) to [main](https://github.com/dhth/gobrewtest/tree/main) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
+- 🔀 merged pull request [#65](https://github.com/dhth/dstll/pull/65) in [dhth/dstll](https://github.com/dhth/dstll)
+- 🔀 merged pull request [#74](https://github.com/dhth/commits/pull/74) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 merged pull request [#3](https://github.com/dhth/gobrewtest/pull/3) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
+- 🔀 merged pull request [#188](https://github.com/dhth/hours/pull/188) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#70](https://github.com/dhth/mult/pull/70) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
