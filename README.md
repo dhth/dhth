@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/grafq](https://github.com/dhth/grafq)
+- ⬆️ pushed [55ea581](https://github.com/dhth/schemas/commit/55ea581c08bc6df1e6e2a64791b207acfe0d892a) to [main](https://github.com/dhth/schemas/tree/main) in [dhth/schemas](https://github.com/dhth/schemas)
+- ⬆️ pushed [3deeb44](https://github.com/dhth/prs/commit/3deeb447f634dac94ea2c166e1518902b53113c6) to [bump-go-1.27.3](https://github.com/dhth/prs/tree/bump-go-1.27.3) in [dhth/prs](https://github.com/dhth/prs)
+- ⬆️ pushed [948d866](https://github.com/dhth/agent1/commit/948d8667f8272169db234002d5421178ce74df2c) to [main](https://github.com/dhth/agent1/tree/main) in [dhth/agent1](https://github.com/dhth/agent1)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/agx](https://github.com/dhth/agx)
+- 🗑️ deleted branch bump-rustls-webpki in [dhth/jiracc](https://github.com/dhth/jiracc)
+- ⬆️ pushed [5f43895](https://github.com/dhth/schemas/commit/5f43895017d58dd01283eddb4d38eb01dffa9a9b) to [bump-go-1.27.3](https://github.com/dhth/schemas/tree/bump-go-1.27.3) in [dhth/schemas](https://github.com/dhth/schemas)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/prs/tree/bump-go-1.27.3) in [dhth/prs](https://github.com/dhth/prs)
 - 🗑️ deleted branch bump-go-1.27.3 in [dhth/mult](https://github.com/dhth/mult)
 - 🗑️ deleted branch bump-go-1.27.3 in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [48f4b97](https://github.com/dhth/dotfiles/commit/48f4b9762b95380de70efe20c4f6364643b2b85c) to [emudhra-ca-bumps](https://github.com/dhth/dotfiles/tree/emudhra-ca-bumps) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [4c9b967](https://github.com/dhth/ecsv/commit/4c9b967c3f006b8b44ed6cc715e0b5bf30a54d7a) to [bump-go-1.27.3](https://github.com/dhth/ecsv/tree/bump-go-1.27.3) in [dhth/ecsv](https://github.com/dhth/ecsv)
-- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/outtasync/tree/bump-go-1.27.3) in [dhth/outtasync](https://github.com/dhth/outtasync)
-- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/kplay/tree/bump-go-1.27.3) in [dhth/kplay](https://github.com/dhth/kplay)
-- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/cueitup/tree/bump-go-1.27.3) in [dhth/cueitup](https://github.com/dhth/cueitup)
-- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/urll/tree/bump-rustls-webpki) in [dhth/urll](https://github.com/dhth/urll)
-- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/unreleased/tree/bump-rustls-webpki) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/jiracc/tree/bump-rustls-webpki) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
