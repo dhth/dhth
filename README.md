@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch bump-go-1.27.3 in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-- ⬆️ pushed [d2bb0b2](https://github.com/dhth/tflens/commit/d2bb0b200ed5d8fc6d7869b5c9da33678159dd47) to [main](https://github.com/dhth/tflens/tree/main) in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [2b1f6b2](https://github.com/dhth/commits/commit/2b1f6b248d8d46e4df5ba8b5c1f8e48a420f1982) to [support-worktrees](https://github.com/dhth/commits/tree/support-worktrees) in [dhth/commits](https://github.com/dhth/commits)
-- ⬆️ pushed [4ca2b48](https://github.com/dhth/hours/commit/4ca2b483156a29e0402ca75c4554cb11d3548431) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [86b34eb](https://github.com/dhth/gobrewtest/commit/86b34ebd15c810bec5fe69cb231c3e7549eb1cd1) to [main](https://github.com/dhth/gobrewtest/tree/main) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-- 🔀 merged pull request [#65](https://github.com/dhth/dstll/pull/65) in [dhth/dstll](https://github.com/dhth/dstll)
-- 🔀 merged pull request [#74](https://github.com/dhth/commits/pull/74) in [dhth/commits](https://github.com/dhth/commits)
-- 🔀 merged pull request [#3](https://github.com/dhth/gobrewtest/pull/3) in [dhth/gobrewtest](https://github.com/dhth/gobrewtest)
-- 🔀 merged pull request [#188](https://github.com/dhth/hours/pull/188) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#70](https://github.com/dhth/mult/pull/70) in [dhth/mult](https://github.com/dhth/mult)
+- 🗑️ deleted branch bump-go-1.27.3 in [dhth/mult](https://github.com/dhth/mult)
+- 🗑️ deleted branch bump-go-1.27.3 in [dhth/tflens](https://github.com/dhth/tflens)
+- ⬆️ pushed [48f4b97](https://github.com/dhth/dotfiles/commit/48f4b9762b95380de70efe20c4f6364643b2b85c) to [emudhra-ca-bumps](https://github.com/dhth/dotfiles/tree/emudhra-ca-bumps) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
+- ⬆️ pushed [4c9b967](https://github.com/dhth/ecsv/commit/4c9b967c3f006b8b44ed6cc715e0b5bf30a54d7a) to [bump-go-1.27.3](https://github.com/dhth/ecsv/tree/bump-go-1.27.3) in [dhth/ecsv](https://github.com/dhth/ecsv)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/outtasync/tree/bump-go-1.27.3) in [dhth/outtasync](https://github.com/dhth/outtasync)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/kplay/tree/bump-go-1.27.3) in [dhth/kplay](https://github.com/dhth/kplay)
+- 🌱 created branch [bump-go-1.27.3](https://github.com/dhth/cueitup/tree/bump-go-1.27.3) in [dhth/cueitup](https://github.com/dhth/cueitup)
+- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/urll/tree/bump-rustls-webpki) in [dhth/urll](https://github.com/dhth/urll)
+- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/unreleased/tree/bump-rustls-webpki) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🌱 created branch [bump-rustls-webpki](https://github.com/dhth/jiracc/tree/bump-rustls-webpki) in [dhth/jiracc](https://github.com/dhth/jiracc)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
