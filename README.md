@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [2065a03](https://github.com/dhth/dotfiles/commit/2065a03b478a88ba3586eafbdf770db7f1ac8c47) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [909063e](https://github.com/dhth/dotfiles/commit/909063e4d33a44336bdcaad53e5fbe88666d23f9) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [0a920e6](https://github.com/dhth/mult/commit/0a920e65ce65e101287ab5d27ac64d2555175f5f) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
 - 🗑️ deleted branch bump-go-1.27.3 in [dhth/waiig](https://github.com/dhth/waiig)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [55ea581](https://github.com/dhth/schemas/commit/55ea581c08bc6df1e6e2a64791b207acfe0d892a) to [main](https://github.com/dhth/schemas/tree/main) in [dhth/schemas](https://github.com/dhth/schemas)
 - ⬆️ pushed [3deeb44](https://github.com/dhth/prs/commit/3deeb447f634dac94ea2c166e1518902b53113c6) to [bump-go-1.27.3](https://github.com/dhth/prs/tree/bump-go-1.27.3) in [dhth/prs](https://github.com/dhth/prs)
 - ⬆️ pushed [948d866](https://github.com/dhth/agent1/commit/948d8667f8272169db234002d5421178ce74df2c) to [main](https://github.com/dhth/agent1/tree/main) in [dhth/agent1](https://github.com/dhth/agent1)
-- 🗑️ deleted branch bump-rustls-webpki in [dhth/agx](https://github.com/dhth/agx)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
