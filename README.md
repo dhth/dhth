@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [f9c5a96](https://github.com/dhth/hours/commit/f9c5a96dc00ac27bc45a975d8b13adfdd7f3b8c4) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [d79a3f5](https://github.com/dhth/hours/commit/d79a3f53a0479c01ad95d0329cd8df9efb382f74) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [8d24646](https://github.com/dhth/hours/commit/8d246467965b6240fdd536a763040557d54832ae) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - 💬 [commented on](https://github.com/dhth/hours/pull/190#issuecomment-6636807425) pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
 - 💬 [commented on](https://github.com/dhth/hours/pull/190#issuecomment-6637028679) pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🌱 created branch [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [e2caba3](https://github.com/dhth/dotfiles/commit/e2caba3d34500e163c239073d10ee5d87145265e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 - ⬆️ pushed [2065a03](https://github.com/dhth/dotfiles/commit/2065a03b478a88ba3586eafbdf770db7f1ac8c47) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [909063e](https://github.com/dhth/dotfiles/commit/909063e4d33a44336bdcaad53e5fbe88666d23f9) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [0a920e6](https://github.com/dhth/mult/commit/0a920e65ce65e101287ab5d27ac64d2555175f5f) to [main](https://github.com/dhth/mult/tree/main) in [dhth/mult](https://github.com/dhth/mult)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
