@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [9fa7f82](https://github.com/dhth/hours/commit/9fa7f824abdb82892cdc864b12de4cf99791e726) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [f9c5a96](https://github.com/dhth/hours/commit/f9c5a96dc00ac27bc45a975d8b13adfdd7f3b8c4) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [d79a3f5](https://github.com/dhth/hours/commit/d79a3f53a0479c01ad95d0329cd8df9efb382f74) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [8d24646](https://github.com/dhth/hours/commit/8d246467965b6240fdd536a763040557d54832ae) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 opened pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
 - 🌱 created branch [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [e2caba3](https://github.com/dhth/dotfiles/commit/e2caba3d34500e163c239073d10ee5d87145265e) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
-- ⬆️ pushed [2065a03](https://github.com/dhth/dotfiles/commit/2065a03b478a88ba3586eafbdf770db7f1ac8c47) to [main](https://github.com/dhth/dotfiles/tree/main) in [dhth/dotfiles](https://github.com/dhth/dotfiles)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
