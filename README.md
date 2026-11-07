@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch show-active-session-time-in-task-row in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [1b5c844](https://github.com/dhth/hours/commit/1b5c84445c0f3ee2978424b9074c9bef1158035b) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - 🔀 opened pull request [#191](https://github.com/dhth/hours/pull/191) in [dhth/hours](https://github.com/dhth/hours)
 - 💬 [commented on](https://github.com/dhth/hours/issues/189#issuecomment-6705809141) issue [#189](https://github.com/dhth/hours/issues/189) in [dhth/hours](https://github.com/dhth/hours)
 - ❗ closed issue [#189](https://github.com/dhth/hours/issues/189) in [dhth/hours](https://github.com/dhth/hours)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [9fa7f82](https://github.com/dhth/hours/commit/9fa7f824abdb82892cdc864b12de4cf99791e726) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [f9c5a96](https://github.com/dhth/hours/commit/f9c5a96dc00ac27bc45a975d8b13adfdd7f3b8c4) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [d79a3f5](https://github.com/dhth/hours/commit/d79a3f53a0479c01ad95d0329cd8df9efb382f74) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [8d24646](https://github.com/dhth/hours/commit/8d246467965b6240fdd536a763040557d54832ae) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
-- 💬 [commented on](https://github.com/dhth/hours/pull/190#issuecomment-6636807425) pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
