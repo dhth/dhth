@@ -61,6 +61,8 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [b96d98d](https://github.com/dhth/hours/commit/b96d98d4378d3922f0b869b3cb5e0a496ae4a4a5) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [9c0d389](https://github.com/dhth/hours/commit/9c0d38900a4bc679cb222759160225bddb13442a) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - 🗑️ deleted branch show-active-session-time-in-task-row in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [1b5c844](https://github.com/dhth/hours/commit/1b5c84445c0f3ee2978424b9074c9bef1158035b) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 - 🔀 opened pull request [#191](https://github.com/dhth/hours/pull/191) in [dhth/hours](https://github.com/dhth/hours)
@@ -69,8 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🔀 merged pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
 - 💬 [commented on](https://github.com/dhth/hours/pull/190#issuecomment-6705706476) pull request [#190](https://github.com/dhth/hours/pull/190) in [dhth/hours](https://github.com/dhth/hours)
 - ⬆️ pushed [9fa7f82](https://github.com/dhth/hours/commit/9fa7f824abdb82892cdc864b12de4cf99791e726) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [f9c5a96](https://github.com/dhth/hours/commit/f9c5a96dc00ac27bc45a975d8b13adfdd7f3b8c4) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
-- ⬆️ pushed [d79a3f5](https://github.com/dhth/hours/commit/d79a3f53a0479c01ad95d0329cd8df9efb382f74) to [show-active-session-time-in-task-row](https://github.com/dhth/hours/tree/show-active-session-time-in-task-row) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
