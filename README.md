@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🔀 merged pull request [#56](https://github.com/dhth/grafq/pull/56) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 merged pull request [#67](https://github.com/dhth/urll/pull/67) in [dhth/urll](https://github.com/dhth/urll)
-- 🔀 merged pull request [#35](https://github.com/dhth/unreleased/pull/35) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 merged pull request [#23](https://github.com/dhth/ghlog/pull/23) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 merged pull request [#166](https://github.com/dhth/bmm/pull/166) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🔀 opened pull request [#67](https://github.com/dhth/urll/pull/67) in [dhth/urll](https://github.com/dhth/urll)
-- 🔀 opened pull request [#35](https://github.com/dhth/unreleased/pull/35) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 opened pull request [#56](https://github.com/dhth/grafq/pull/56) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 opened pull request [#23](https://github.com/dhth/ghlog/pull/23) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🔀 opened pull request [#166](https://github.com/dhth/bmm/pull/166) in [dhth/bmm](https://github.com/dhth/bmm)
+- ⬆️ pushed [943b4a5](https://github.com/dhth/unreleased-report/commit/943b4a5d99d5112cbb56bd468fc7bad189fe4932) to [main](https://github.com/dhth/unreleased-report/tree/main) in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
+- 🔀 merged pull request [#159](https://github.com/dhth/omm/pull/159) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 merged pull request [#78](https://github.com/dhth/commits/pull/78) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 merged pull request [#39](https://github.com/dhth/unreleased/pull/39) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🔀 merged pull request [#195](https://github.com/dhth/hours/pull/195) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 merged pull request [#171](https://github.com/dhth/bmm/pull/171) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 opened pull request [#159](https://github.com/dhth/omm/pull/159) in [dhth/omm](https://github.com/dhth/omm)
+- 🔀 opened pull request [#195](https://github.com/dhth/hours/pull/195) in [dhth/hours](https://github.com/dhth/hours)
+- 🔀 opened pull request [#78](https://github.com/dhth/commits/pull/78) in [dhth/commits](https://github.com/dhth/commits)
+- 🔀 opened pull request [#39](https://github.com/dhth/unreleased/pull/39) in [dhth/unreleased](https://github.com/dhth/unreleased)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
