@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🗑️ deleted branch set-up-user-env in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
-- ⬆️ pushed [4b516f0](https://github.com/dhth/act3-runner/commit/4b516f04c2774133d916ea092f75c51cc31ee8cb) to [main](https://github.com/dhth/act3-runner/tree/main) in [dhth/act3-runner](https://github.com/dhth/act3-runner)
-- 🗑️ deleted branch dependabot/github_actions/jdx/mise-action-5.2.6 in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
-- 🌱 created branch [ci/harden-workflows](https://github.com/dhth/unreleased-report/tree/ci/harden-workflows) in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
-- ⬆️ pushed [943b4a5](https://github.com/dhth/unreleased-report/commit/943b4a5d99d5112cbb56bd468fc7bad189fe4932) to [main](https://github.com/dhth/unreleased-report/tree/main) in [dhth/unreleased-report](https://github.com/dhth/unreleased-report)
-- 🔀 merged pull request [#159](https://github.com/dhth/omm/pull/159) in [dhth/omm](https://github.com/dhth/omm)
-- 🔀 merged pull request [#78](https://github.com/dhth/commits/pull/78) in [dhth/commits](https://github.com/dhth/commits)
-- 🔀 merged pull request [#39](https://github.com/dhth/unreleased/pull/39) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🔀 merged pull request [#195](https://github.com/dhth/hours/pull/195) in [dhth/hours](https://github.com/dhth/hours)
-- 🔀 merged pull request [#171](https://github.com/dhth/bmm/pull/171) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🌱 created branch [use-mise-harden-workflows](https://github.com/dhth/act3-runner/tree/use-mise-harden-workflows) in [dhth/act3-runner](https://github.com/dhth/act3-runner)
+- 🌱 created branch [turbolift-bump-go-1.27.4](https://github.com/dhth/prs/tree/turbolift-bump-go-1.27.4) in [dhth/prs](https://github.com/dhth/prs)
+- 🗑️ deleted branch turbolift-remove-ci-audit in [dhth/grafq](https://github.com/dhth/grafq)
+- ⬆️ pushed [202aceb](https://github.com/dhth/ghlog/commit/202aceb726b16d4b429d66af004e501cf7c6bb12) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🌱 created branch [turbolift-remove-ci-audit](https://github.com/dhth/unreleased/tree/turbolift-remove-ci-audit) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🌱 created branch [turbolift-remove-ci-audit](https://github.com/dhth/ghlog/tree/turbolift-remove-ci-audit) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch turbolift-bump-go-1.27.4 in [dhth/waiig](https://github.com/dhth/waiig)
+- 🗑️ deleted branch turbolift-bump-go-1.27.4 in [dhth/tflens](https://github.com/dhth/tflens)
+- ⬆️ pushed [ad70da9](https://github.com/dhth/kplay/commit/ad70da98a1eca6b8c09ac14ba2b205e67bde7ac8) to [main](https://github.com/dhth/kplay/tree/main) in [dhth/kplay](https://github.com/dhth/kplay)
+- ⬆️ pushed [8d730ad](https://github.com/dhth/hours/commit/8d730adc6daea55a0a556403c6ceca15fa21cb56) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
