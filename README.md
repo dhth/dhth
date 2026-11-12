@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🌱 created branch [use-mise-harden-workflows](https://github.com/dhth/act3-runner/tree/use-mise-harden-workflows) in [dhth/act3-runner](https://github.com/dhth/act3-runner)
-- 🌱 created branch [turbolift-bump-go-1.27.4](https://github.com/dhth/prs/tree/turbolift-bump-go-1.27.4) in [dhth/prs](https://github.com/dhth/prs)
-- 🗑️ deleted branch turbolift-remove-ci-audit in [dhth/grafq](https://github.com/dhth/grafq)
-- ⬆️ pushed [202aceb](https://github.com/dhth/ghlog/commit/202aceb726b16d4b429d66af004e501cf7c6bb12) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [turbolift-remove-ci-audit](https://github.com/dhth/unreleased/tree/turbolift-remove-ci-audit) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🌱 created branch [turbolift-remove-ci-audit](https://github.com/dhth/ghlog/tree/turbolift-remove-ci-audit) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch turbolift-bump-go-1.27.4 in [dhth/waiig](https://github.com/dhth/waiig)
-- 🗑️ deleted branch turbolift-bump-go-1.27.4 in [dhth/tflens](https://github.com/dhth/tflens)
-- ⬆️ pushed [ad70da9](https://github.com/dhth/kplay/commit/ad70da98a1eca6b8c09ac14ba2b205e67bde7ac8) to [main](https://github.com/dhth/kplay/tree/main) in [dhth/kplay](https://github.com/dhth/kplay)
-- ⬆️ pushed [8d730ad](https://github.com/dhth/hours/commit/8d730adc6daea55a0a556403c6ceca15fa21cb56) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- ⬆️ pushed [783bbb2](https://github.com/dhth/hours/commit/783bbb2aeb29279ff1705d950f6501af9b1ca702) to [main](https://github.com/dhth/hours/tree/main) in [dhth/hours](https://github.com/dhth/hours)
+- 🗑️ deleted branch turbolift-unpin-general-tools in [dhth/bmm](https://github.com/dhth/bmm)
+- 🗑️ deleted branch turbolift-upgrade-rust-1.99.1 in [dhth/refit](https://github.com/dhth/refit)
+- ⬆️ pushed [1e9c9d9](https://github.com/dhth/refit/commit/1e9c9d950a8e66d0830ce362efcd1d903d8d9b7e) to [main](https://github.com/dhth/refit/tree/main) in [dhth/refit](https://github.com/dhth/refit)
+- ⬆️ pushed [f61872d](https://github.com/dhth/mrj/commit/f61872da6e07de7ad60ce325c38177b0dacd7330) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [turbolift-upgrade-rust-1.99.1](https://github.com/dhth/jiracc/tree/turbolift-upgrade-rust-1.99.1) in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🌱 created branch [turbolift-upgrade-rust-1.99.1](https://github.com/dhth/grafq/tree/turbolift-upgrade-rust-1.99.1) in [dhth/grafq](https://github.com/dhth/grafq)
+- ⬆️ pushed [2dc7ceb](https://github.com/dhth/waiig/commit/2dc7cebf7705e07b742e869603e80d070db6a6cc) to [main](https://github.com/dhth/waiig/tree/main) in [dhth/waiig](https://github.com/dhth/waiig)
+- 🌱 created branch [turbolift-bump-go-1.27.4](https://github.com/dhth/commits/tree/turbolift-bump-go-1.27.4) in [dhth/commits](https://github.com/dhth/commits)
+- 🌱 created branch [turbolift-unpin-general-tools](https://github.com/dhth/omm/tree/turbolift-unpin-general-tools) in [dhth/omm](https://github.com/dhth/omm)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
