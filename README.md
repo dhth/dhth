@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🌱 created branch [remove-docker-compose](https://github.com/dhth/bmm/tree/remove-docker-compose) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch turbolift-upgrade-rust-1.99.1 in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🗑️ deleted branch turbolift-alias-long-tool-names in [dhth/commits](https://github.com/dhth/commits)
-- 🗑️ deleted branch turbolift-upgrade-mise-lockfile in [dhth/waiig](https://github.com/dhth/waiig)
-- ⬆️ pushed [061ae9a](https://github.com/dhth/squish/commit/061ae9a2e1332b623f7a1b33d590236327fba607) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
-- ⬆️ pushed [0fde4f3](https://github.com/dhth/commits/commit/0fde4f3edc2f691a9e06cdedbb788e797f22f39b) to [main](https://github.com/dhth/commits/tree/main) in [dhth/commits](https://github.com/dhth/commits)
-- ⬆️ pushed [923fbe5](https://github.com/dhth/kplay/commit/923fbe5542cf5c3fd22d1970396799b3dd4e68fd) to [turbolift-bump-go-1.27.4](https://github.com/dhth/kplay/tree/turbolift-bump-go-1.27.4) in [dhth/kplay](https://github.com/dhth/kplay)
-- ⬆️ pushed [138fcce](https://github.com/dhth/commits/commit/138fccead9bbc68c27f019c41396bc758a5eed2a) to [turbolift-upgrade-mise-lockfile](https://github.com/dhth/commits/tree/turbolift-upgrade-mise-lockfile) in [dhth/commits](https://github.com/dhth/commits)
-- 🌱 created branch [turbolift-upgrade-mise-lockfile](https://github.com/dhth/refit/tree/turbolift-upgrade-mise-lockfile) in [dhth/refit](https://github.com/dhth/refit)
-- 🗑️ deleted branch turbolift-bump-go-1.27.4 in [dhth/outtasync](https://github.com/dhth/outtasync)
+- 🔀 merged pull request [#26](https://github.com/dhth/ghlog/pull/26) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🔀 opened pull request [#26](https://github.com/dhth/ghlog/pull/26) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch turbolift-unpin-general-tools in [dhth/commits](https://github.com/dhth/commits)
+- ⬆️ pushed [ac9b0d0](https://github.com/dhth/bmm/commit/ac9b0d0f35b6bff2ee8b4925a67c87f44b8692b2) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 merged pull request [#69](https://github.com/dhth/urll/pull/69) in [dhth/urll](https://github.com/dhth/urll)
+- 🔀 merged pull request [#40](https://github.com/dhth/unreleased/pull/40) in [dhth/unreleased](https://github.com/dhth/unreleased)
+- 🔀 merged pull request [#87](https://github.com/dhth/ting/pull/87) in [dhth/ting](https://github.com/dhth/ting)
+- 🔀 merged pull request [#94](https://github.com/dhth/squish/pull/94) in [dhth/squish](https://github.com/dhth/squish)
+- 🔀 merged pull request [#16](https://github.com/dhth/refit/pull/16) in [dhth/refit](https://github.com/dhth/refit)
+- 🔀 merged pull request [#134](https://github.com/dhth/mrj/pull/134) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
