@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [8fb9866](https://github.com/dhth/bmm/commit/8fb9866f386d9b9a487649e758938675f846f378) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 merged pull request [#95](https://github.com/dhth/squish/pull/95) in [dhth/squish](https://github.com/dhth/squish)
+- 🔀 merged pull request [#173](https://github.com/dhth/bmm/pull/173) in [dhth/bmm](https://github.com/dhth/bmm)
+- 🔀 opened pull request [#95](https://github.com/dhth/squish/pull/95) in [dhth/squish](https://github.com/dhth/squish)
+- 🔀 opened pull request [#173](https://github.com/dhth/bmm/pull/173) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/unreleased](https://github.com/dhth/unreleased)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/squish](https://github.com/dhth/squish)
 - ⬆️ pushed [5a364dc](https://github.com/dhth/envee/commit/5a364dc6640c0c617c7438a3adbcf35befa13fef) to [main](https://github.com/dhth/envee/tree/main) in [dhth/envee](https://github.com/dhth/envee)
 - 🌱 created branch [turbolift-rust-1.100.0](https://github.com/dhth/urll/tree/turbolift-rust-1.100.0) in [dhth/urll](https://github.com/dhth/urll)
 - 🌱 created branch [turbolift-rust-1.100.0](https://github.com/dhth/mrj/tree/turbolift-rust-1.100.0) in [dhth/mrj](https://github.com/dhth/mrj)
-- 🔀 merged pull request [#70](https://github.com/dhth/urll/pull/70) in [dhth/urll](https://github.com/dhth/urll)
-- 🔀 merged pull request [#59](https://github.com/dhth/grafq/pull/59) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 opened pull request [#70](https://github.com/dhth/urll/pull/70) in [dhth/urll](https://github.com/dhth/urll)
-- 🔀 opened pull request [#59](https://github.com/dhth/grafq/pull/59) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🔀 merged pull request [#26](https://github.com/dhth/ghlog/pull/26) in [dhth/ghlog](https://github.com/dhth/ghlog)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
