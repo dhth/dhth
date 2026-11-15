@@ -61,16 +61,16 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
-- 🌱 created branch [mise](https://github.com/dhth/grafq/tree/mise) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/grafq](https://github.com/dhth/grafq)
-- ⬆️ pushed [a0e53d3](https://github.com/dhth/grafq/commit/a0e53d374f3ad9eac1ea1b4ad78672cbf7ef70bd) to [main](https://github.com/dhth/grafq/tree/main) in [dhth/grafq](https://github.com/dhth/grafq)
-- 🌱 created branch [turbolift-rust-1.100.0](https://github.com/dhth/unreleased/tree/turbolift-rust-1.100.0) in [dhth/unreleased](https://github.com/dhth/unreleased)
-- 🌱 created branch [turbolift-unused-deps-check](https://github.com/dhth/squish/tree/turbolift-unused-deps-check) in [dhth/squish](https://github.com/dhth/squish)
-- 🌱 created branch [remove-claude-workflow](https://github.com/dhth/kplay/tree/remove-claude-workflow) in [dhth/kplay](https://github.com/dhth/kplay)
-- 🌱 created branch [turbolift-unused-deps-check](https://github.com/dhth/bmm/tree/turbolift-unused-deps-check) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🗑️ deleted branch mise in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [6723708](https://github.com/dhth/ghlog/commit/6723708ad22da4f98265e6d3635a87c4bb3fa4c9) to [mise](https://github.com/dhth/ghlog/tree/mise) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🌱 created branch [mise](https://github.com/dhth/urll/tree/mise) in [dhth/urll](https://github.com/dhth/urll)
+- 🗑️ deleted branch mise in [dhth/grafq](https://github.com/dhth/grafq)
+- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/urll](https://github.com/dhth/urll)
+- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [b43f18d](https://github.com/dhth/ting/commit/b43f18df8a908c7dc8f36cb1cbe8498aa585dd40) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
+- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/mrj](https://github.com/dhth/mrj)
+- 🌱 created branch [mise](https://github.com/dhth/ghlog/tree/mise) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- ⬆️ pushed [a11e58e](https://github.com/dhth/mrj/commit/a11e58ee3c33bd53c50836299d08fec2dad590d8) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
+- ⬆️ pushed [cf9916a](https://github.com/dhth/ghlog/commit/cf9916a33faabd03d0fdd341b2f1bf1decd93dc7) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
+- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/jiracc](https://github.com/dhth/jiracc)
+- 🗑️ deleted branch remove-claude-workflow in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
