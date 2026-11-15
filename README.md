@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🌱 created branch [turbolift-unused-deps-check](https://github.com/dhth/squish/tree/turbolift-unused-deps-check) in [dhth/squish](https://github.com/dhth/squish)
 - 🌱 created branch [remove-claude-workflow](https://github.com/dhth/kplay/tree/remove-claude-workflow) in [dhth/kplay](https://github.com/dhth/kplay)
 - 🌱 created branch [turbolift-unused-deps-check](https://github.com/dhth/bmm/tree/turbolift-unused-deps-check) in [dhth/bmm](https://github.com/dhth/bmm)
 - 🗑️ deleted branch mise in [dhth/ghlog](https://github.com/dhth/ghlog)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [fad628a](https://github.com/dhth/squish/commit/fad628a97e90c00b4d614a05bdb630fc2a8f5c3e) to [main](https://github.com/dhth/squish/tree/main) in [dhth/squish](https://github.com/dhth/squish)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/refit](https://github.com/dhth/refit)
 - ⬆️ pushed [cfd1326](https://github.com/dhth/bmm/commit/cfd132610fbfb4fe22cb8876726e59ece54eb8f4) to [main](https://github.com/dhth/bmm/tree/main) in [dhth/bmm](https://github.com/dhth/bmm)
-- 🌱 created branch [turbolift-rust-1.100.0](https://github.com/dhth/grafq/tree/turbolift-rust-1.100.0) in [dhth/grafq](https://github.com/dhth/grafq)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
