@@ -61,6 +61,9 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- ⬆️ pushed [27974b9](https://github.com/dhth/urll/commit/27974b9db332bf6e966255865b6fb39d1e34b64e) to [main](https://github.com/dhth/urll/tree/main) in [dhth/urll](https://github.com/dhth/urll)
+- 🗑️ deleted branch mise in [dhth/urll](https://github.com/dhth/urll)
+- ⬆️ pushed [d00284b](https://github.com/dhth/jiracc/commit/d00284b6ec3ff7afbd11127c6b1c3fa1906a3f39) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
 - 🗑️ deleted branch mise in [dhth/grafq](https://github.com/dhth/grafq)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/urll](https://github.com/dhth/urll)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/ghlog](https://github.com/dhth/ghlog)
@@ -68,9 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/mrj](https://github.com/dhth/mrj)
 - 🌱 created branch [mise](https://github.com/dhth/ghlog/tree/mise) in [dhth/ghlog](https://github.com/dhth/ghlog)
 - ⬆️ pushed [a11e58e](https://github.com/dhth/mrj/commit/a11e58ee3c33bd53c50836299d08fec2dad590d8) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
-- ⬆️ pushed [cf9916a](https://github.com/dhth/ghlog/commit/cf9916a33faabd03d0fdd341b2f1bf1decd93dc7) to [main](https://github.com/dhth/ghlog/tree/main) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/jiracc](https://github.com/dhth/jiracc)
-- 🗑️ deleted branch remove-claude-workflow in [dhth/kplay](https://github.com/dhth/kplay)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
