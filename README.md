@@ -61,6 +61,7 @@ I also maintain smaller utilities, each designed for a narrow use case.
 > generated via [ghlog](https://github.com/dhth/ghlog)
 
 <!--START_SECTION:activity-->
+- 🗑️ deleted branch turbolift-unused-deps-check in [dhth/bmm](https://github.com/dhth/bmm)
 - ⬆️ pushed [27974b9](https://github.com/dhth/urll/commit/27974b9db332bf6e966255865b6fb39d1e34b64e) to [main](https://github.com/dhth/urll/tree/main) in [dhth/urll](https://github.com/dhth/urll)
 - 🗑️ deleted branch mise in [dhth/urll](https://github.com/dhth/urll)
 - ⬆️ pushed [d00284b](https://github.com/dhth/jiracc/commit/d00284b6ec3ff7afbd11127c6b1c3fa1906a3f39) to [main](https://github.com/dhth/jiracc/tree/main) in [dhth/jiracc](https://github.com/dhth/jiracc)
@@ -70,7 +71,6 @@ I also maintain smaller utilities, each designed for a narrow use case.
 - ⬆️ pushed [b43f18d](https://github.com/dhth/ting/commit/b43f18df8a908c7dc8f36cb1cbe8498aa585dd40) to [main](https://github.com/dhth/ting/tree/main) in [dhth/ting](https://github.com/dhth/ting)
 - 🗑️ deleted branch turbolift-rust-1.100.0 in [dhth/mrj](https://github.com/dhth/mrj)
 - 🌱 created branch [mise](https://github.com/dhth/ghlog/tree/mise) in [dhth/ghlog](https://github.com/dhth/ghlog)
-- ⬆️ pushed [a11e58e](https://github.com/dhth/mrj/commit/a11e58ee3c33bd53c50836299d08fec2dad590d8) to [main](https://github.com/dhth/mrj/tree/main) in [dhth/mrj](https://github.com/dhth/mrj)
 <!--END_SECTION:activity-->
 
 > More [here](https://dhth.github.io/activity/).
